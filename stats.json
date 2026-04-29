@@ -2,9 +2,9 @@
   "repo": "zKauaFerreira/The-Gaming-Rumble",
   "branch": "games",
   "raw_base_url": "https://raw.githubusercontent.com/zKauaFerreira/The-Gaming-Rumble/games/torrents/",
-  "total_games": 1707,
-  "online_fix_total": 1707,
-  "steam_with_metadata": 1596,
+  "total_games": 1708,
+  "online_fix_total": 1708,
+  "steam_with_metadata": 1597,
   "steam_without_metadata": 111,
   "match_rate": 93.5,
   "success_rate": 93.5,
@@ -12,17 +12,16 @@
   "pages_scraped_target": 89,
   "pages_present_in_json": 89,
   "last_page_in_json": 89,
-  "new_games_found_this_run": 138,
+  "new_games_found_this_run": 137,
   "latest_run_new_game_names": [
-    "Dangerous Mountain Together",
-    "Far Far West"
+    "Rest Area Simulator"
   ],
-  "processed_games_this_run": 2,
-  "torrent_files_total": 1707,
-  "json_entries_with_torrent": 1707,
-  "last_scrape_at": "2026-04-28 19:27:11",
-  "last_scrape_at_display": "28/04/2026",
-  "last_game_update": "2026-04-28T17:05:23+03:00",
-  "generated_at": "2026-04-28 19:29:01",
-  "generated_at_display": "28/04/2026"
+  "processed_games_this_run": 1,
+  "torrent_files_total": 1708,
+  "json_entries_with_torrent": 1708,
+  "last_scrape_at": "2026-04-29 19:17:44",
+  "last_scrape_at_display": "29/04/2026",
+  "last_game_update": "2026-04-29T14:10:32+03:00",
+  "generated_at": "2026-04-29 19:19:25",
+  "generated_at_display": "29/04/2026"
 }

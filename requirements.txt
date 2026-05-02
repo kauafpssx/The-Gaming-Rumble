@@ -5,3 +5,4 @@ bencode.py
 rapidfuzz
 python-dotenv
 psutil
+tzdata

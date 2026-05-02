@@ -29,7 +29,11 @@ from urllib.parse import quote, urljoin
 import re
 import os
 import time
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
+try:
+    from zoneinfo import ZoneInfo
+except ImportError:
+    ZoneInfo = None
 from rapidfuzz import fuzz  # Para matching de strings
 try:
     import psutil
@@ -72,6 +76,14 @@ WEBDAV_OPTIONAL_TRAILING_WORDS = {
     "arcade",
     "overdrive",
 }
+
+if ZoneInfo:
+    try:
+        APP_TIMEZONE = ZoneInfo("America/Sao_Paulo")
+    except Exception:
+        APP_TIMEZONE = timezone(timedelta(hours=-3))
+else:
+    APP_TIMEZONE = timezone(timedelta(hours=-3))
 
 
 class OnlineFixScraper:
@@ -603,7 +615,7 @@ class OnlineFixScraper:
             for tr in trackers: magnet += f"&tr={quote(tr)}"
 
             ts = g(decoded, 'creation date')
-            created_at = datetime.fromtimestamp(ts).strftime("%Y-%m-%d %H:%M:%S") if ts else "Unknown"
+            created_at = self._format_timestamp(ts)
 
             files_list, total_size = [], 0
             raw_files = g(info, 'files')
@@ -752,6 +764,17 @@ class OnlineFixScraper:
                 }
                 return candidate
         return None
+
+    def _now(self):
+        return datetime.now(APP_TIMEZONE)
+
+    def _format_now(self, fmt="%Y-%m-%d %H:%M:%S"):
+        return self._now().strftime(fmt)
+
+    def _format_timestamp(self, ts, fmt="%Y-%m-%d %H:%M:%S"):
+        if not ts:
+            return "Unknown"
+        return datetime.fromtimestamp(ts, APP_TIMEZONE).strftime(fmt)
 
     def _guard_normalize(self, text):
         text = (text or "").lower()
@@ -1017,7 +1040,7 @@ class OnlineFixScraper:
             "reason": reason,
             "probability": round(probability, 4) if probability is not None else None,
             "score": round(score, 1) if score is not None else None,
-            "logged_at": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+            "logged_at": self._format_now(),
         }
         try:
             payload = []
@@ -1060,7 +1083,7 @@ class OnlineFixScraper:
             f"| {self._proxy_log_icon()} "
             f"| M:{self._memory_usage_mb():>4}MB "
             f"| {safe_reason:<18} "
-            f"| {datetime.now().strftime('%H:%M:%S')}"
+            f"| {self._format_now('%H:%M:%S')}"
         )
 
     def _get_importance_weight(self, word):
@@ -1239,7 +1262,7 @@ class OnlineFixScraper:
                 except ValueError:
                     pass
             try:
-                return datetime.fromisoformat(text.replace("Z", "+00:00")).strftime("%d/%m/%Y")
+                return datetime.fromisoformat(text.replace("Z", "+00:00")).astimezone(APP_TIMEZONE).strftime("%d/%m/%Y")
             except ValueError:
                 return text
 
@@ -1264,7 +1287,7 @@ class OnlineFixScraper:
         match_rate = round((steam_with_metadata / total_games) * 100, 2) if total_games else 0.0
         success_rate = match_rate
 
-        generated_at = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        generated_at = self._format_now()
 
         stats = {
             "repo": GITHUB_REPO,
@@ -1835,7 +1858,7 @@ class OnlineFixScraper:
                 "webdav_updated_at": webdav_date,
                 "files": metadata["files"],
                 "comment": metadata["comment"],
-                "scraped_at": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+                "scraped_at": self._format_now(),
                 "steam": steam,
             }
 
@@ -1916,7 +1939,7 @@ class OnlineFixScraper:
                             "update_info": current_scraped_game.get('update_info', existing_game_in_all_data.get('update_info')),
                             "update_date": current_scraped_game.get('update_date', existing_game_in_all_data.get('update_date')),
                             "formatted_update_date": current_scraped_game.get('formatted_update_date', existing_game_in_all_data.get('formatted_update_date')),
-                            "scraped_at": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+                            "scraped_at": self._format_now()
                         })
                         # Substituir o item antigo com as informações atualizadas
                         for idx, item in enumerate(all_data):

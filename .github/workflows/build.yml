@@ -42,7 +42,7 @@ jobs:
         run: |
           $keyPath = Join-Path $env:RUNNER_TEMP "tauri-signing.key"
           [System.IO.File]::WriteAllText($keyPath, $env:TAURI_PRIVATE_KEY_FILE.Trim())
-          "TAURI_SIGNING_PRIVATE_KEY_PATH=$keyPath" >> $env:GITHUB_ENV
+          "TAURI_SIGNING_PRIVATE_KEY=$keyPath" >> $env:GITHUB_ENV
 
       - name: Build Tauri app
         env:

@@ -11,6 +11,7 @@ permissions:
 jobs:
   build:
     runs-on: windows-latest
+
     steps:
       - uses: actions/checkout@v4
         with:
@@ -25,6 +26,7 @@ jobs:
         uses: dtolnay/rust-toolchain@stable
 
       - name: Install WebView2
+        shell: pwsh
         run: |
           $installer = "$env:TEMP\MicrosoftEdgeWebview2Setup.exe"
           Invoke-WebRequest "https://go.microsoft.com/fwlink/p/?LinkId=2124703" -OutFile $installer
@@ -33,17 +35,9 @@ jobs:
       - name: Install frontend deps
         run: npm ci
 
-      - name: Restore updater private key
-        env:
-          TAURI_PRIVATE_KEY_FILE: ${{ secrets.TAURI_PRIVATE_KEY_FILE }}
-        shell: pwsh
-        run: |
-          $keyPath = Join-Path $env:RUNNER_TEMP "tauri-updater.key"
-          [System.IO.File]::WriteAllText($keyPath, $env:TAURI_PRIVATE_KEY_FILE)
-          "TAURI_SIGNING_PRIVATE_KEY_PATH=$keyPath" >> $env:GITHUB_ENV
-
       - name: Build Tauri app
         env:
+          TAURI_SIGNING_PRIVATE_KEY: ${{ secrets.TAURI_SIGNING_PRIVATE_KEY }}
           TAURI_SIGNING_PRIVATE_KEY_PASSWORD: ${{ secrets.TAURI_SIGNING_PRIVATE_KEY_PASSWORD }}
         run: npm run tauri build
 
@@ -54,6 +48,7 @@ jobs:
           $json = Get-Content "src-tauri/tauri.conf.json" | ConvertFrom-Json
           $ver = $json.version
           $tag = "v$ver"
+
           Write-Output "version=$ver" >> $env:GITHUB_OUTPUT
           Write-Output "tag=$tag" >> $env:GITHUB_OUTPUT
 
@@ -154,6 +149,7 @@ jobs:
 
       - name: Create tag
         if: steps.version.outputs.exists == 'false'
+        shell: pwsh
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"

@@ -33,12 +33,12 @@ jobs:
         run: npm ci
 
       - name: Restore updater private key
+        env:
+          TAURI_PRIVATE_KEY_FILE: ${{ secrets.TAURI_PRIVATE_KEY_FILE }}
         shell: pwsh
         run: |
           $keyPath = Join-Path $env:RUNNER_TEMP "tauri-updater.key"
-          Set-Content -Path $keyPath -Value @'
-${{ secrets.TAURI_PRIVATE_KEY_FILE }}
-'@ -NoNewline
+          [System.IO.File]::WriteAllText($keyPath, $env:TAURI_PRIVATE_KEY_FILE)
           "TAURI_SIGNING_PRIVATE_KEY_PATH=$keyPath" >> $env:GITHUB_ENV
 
       - name: Build Tauri app

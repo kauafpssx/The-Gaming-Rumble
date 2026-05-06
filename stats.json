@@ -13,12 +13,15 @@
   "pages_present_in_json": 89,
   "last_page_in_json": 89,
   "new_games_found_this_run": 138,
+  "new_games_added_to_json_this_run": 4,
   "latest_run_new_game_names": [
     "RoadCraft",
     "SnowRunner",
     "Bus Bound",
     "Expeditions A MudRunner Game"
   ],
+  "updated_games_this_run": 0,
+  "latest_run_updated_game_names": [],
   "processed_games_this_run": 4,
   "torrent_files_total": 1717,
   "json_entries_with_torrent": 1717,

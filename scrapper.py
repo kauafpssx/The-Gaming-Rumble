@@ -1234,7 +1234,16 @@ class OnlineFixScraper:
             total += sum(1 for name in files if name.lower().endswith('.torrent'))
         return total
 
-    def _write_stats(self, downloads, requested_pages, discovered_max_page, scraped_new_games, processed_results, latest_run_new_game_names=None):
+    def _write_stats(
+        self,
+        downloads,
+        requested_pages,
+        discovered_max_page,
+        scraped_new_games,
+        processed_results,
+        latest_run_new_game_names=None,
+        latest_run_updated_game_names=None
+    ):
         def is_valid_stat_value(value):
             if value is None:
                 return False
@@ -1304,7 +1313,10 @@ class OnlineFixScraper:
             "pages_present_in_json": len(pages_in_json),
             "last_page_in_json": pages_in_json[-1] if pages_in_json else 0,
             "new_games_found_this_run": scraped_new_games,
+            "new_games_added_to_json_this_run": len(latest_run_new_game_names or []),
             "latest_run_new_game_names": latest_run_new_game_names or [],
+            "updated_games_this_run": len(latest_run_updated_game_names or []),
+            "latest_run_updated_game_names": latest_run_updated_game_names or [],
             "processed_games_this_run": processed_results,
             "torrent_files_total": self._count_local_torrent_files(),
             "json_entries_with_torrent": sum(1 for item in downloads if item.get('torrent_file')),
@@ -1878,6 +1890,7 @@ class OnlineFixScraper:
         # Merge: substitui ou adiciona jogos, detectando atualizações pelo last_update
         data_lock = __import__('threading').Lock()
         added_new_game_names = []
+        updated_game_names = []
         with data_lock:
             # Criar mapa de título -> item existente
             existing_map = {item['title']: item for item in all_data}
@@ -1929,6 +1942,7 @@ class OnlineFixScraper:
                         all_data = [item for item in all_data if item['title'] != title]
                         all_data.append(current_scraped_game)
                         existing_map[title] = current_scraped_game
+                        updated_game_names.append(title)
                     else:
                         # Manter o existente (já está mais atualizado ou sem mudança)
                         # Atualizar apenas os campos que podem ter mudado
@@ -1961,6 +1975,7 @@ class OnlineFixScraper:
             discovered_max_page=max_page,
             scraped_new_games=total_found,
             latest_run_new_game_names=added_new_game_names,
+            latest_run_updated_game_names=updated_game_names,
             processed_results=len(results_data),
         )
         print(

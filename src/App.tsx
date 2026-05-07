@@ -90,6 +90,10 @@ export default function App() {
 
   const isUpdateBlocking = appUpdate.visible && appUpdate.configured;
   const isDriveSelectionLocked = Boolean(downloadState && downloadState.phase !== "done" && downloadState.phase !== "error");
+  const isProtocolLocked = Boolean(
+    downloadState &&
+    (downloadState.phase === "downloading" || downloadState.phase === "extracting" || downloadState.phase === "applying_fix")
+  );
 
   const addLog = useCallback((tag: LogEntry["tag"], msg: string) => {
     setDownloadState(prev => prev ? ({
@@ -191,6 +195,11 @@ export default function App() {
   }, [downloadState?.phase]);
 
   const processUrl = useCallback((rawUrl: string) => {
+    if (isProtocolLocked) {
+      addLog("WARNING", "Novo magnet ignorado porque ja existe uma instalacao em andamento.");
+      return;
+    }
+
     const payload = decodeGamePayload(rawUrl);
     if (payload) {
       localStorage.setItem(LAST_PROTOCOL_PAYLOAD_KEY, JSON.stringify(payload));
@@ -198,7 +207,7 @@ export default function App() {
       setActivePayload(payload);
       setView("setup");
     }
-  }, []);
+  }, [addLog, isProtocolLocked]);
 
   useEffect(() => {
     invoke<UpdateCheckResponse>("check_for_app_update")

@@ -91,9 +91,7 @@ pub async fn extract_game(app: AppHandle, install_path: String) -> Result<(), St
     log_tag(LogLevel::INFO, "EXTRACT", format!("{} arquivo(s) de jogo e {} fix", game_archives.len(), fix_archives.len()));
 
     // 3. Extract game archives
-    let game_extract_dir = game_archives.first()
-        .and_then(|a| a.parent())
-        .unwrap_or(root);
+    let game_extract_dir = root;
 
     for (i, archive) in game_archives.iter().enumerate() {
         let pct_start = (i as f64 / total_jobs as f64) * 100.0;
@@ -135,6 +133,7 @@ pub async fn extract_game(app: AppHandle, install_path: String) -> Result<(), St
     // 5. Flatten duplicate nested dirs
     log_tag(LogLevel::INFO, "EXTRACT", "Aplicando flattening...");
     while flatten_one_pass(root) > 0 {}
+    while promote_matching_nested_dir_to_root(root) > 0 {}
 
     // 6. Find where the game ended up
     let game_dir = find_deepest_same_name_dir(root);
@@ -157,6 +156,7 @@ pub async fn extract_game(app: AppHandle, install_path: String) -> Result<(), St
         log_tag(LogLevel::INFO, "EXTRACT", format!("Movendo conteudo de {:?} para raiz", deepest));
         move_all_to(&deepest, root);
         while flatten_one_pass(root) > 0 {}
+        while promote_matching_nested_dir_to_root(root) > 0 {}
     }
 
     // 9. Remove temp dir
@@ -169,6 +169,8 @@ pub async fn extract_game(app: AppHandle, install_path: String) -> Result<(), St
     let _ = app.emit("extract-progress", serde_json::json!({"type": "cleaning"}));
     clean_archives(root);
     remove_empty_dirs(root);
+    while flatten_one_pass(root) > 0 {}
+    while promote_matching_nested_dir_to_root(root) > 0 {}
 
     log_tag(LogLevel::SUCCESS, "EXTRACT", "Extracao completa!");
     let _ = app.emit("extract-progress", serde_json::json!({"type": "done"}));
@@ -294,7 +296,7 @@ async fn run_extract_with_progress(
         "file": file_name,
         "current": current,
         "total": total,
-        "global_pct": format!("{:.1}", pct_start)
+        "global_pct": pct_start
     }));
 
     std::fs::create_dir_all(out_dir).map_err(|e| e.to_string())?;
@@ -324,7 +326,7 @@ async fn run_extract_with_progress(
         "current": current,
         "total": total,
         "archive_pct": 100.0,
-        "global_pct": format!("{:.1}", pct_end)
+        "global_pct": pct_end
     }));
 
     Ok(())
@@ -428,8 +430,37 @@ fn emit_extract_progress(
         "current": current,
         "total": total,
         "archive_pct": clamped_pct,
-        "global_pct": format!("{:.1}", global_pct)
+        "global_pct": global_pct
     }));
+}
+
+fn promote_matching_nested_dir_to_root(root: &Path) -> usize {
+    let root_name = match root.file_name().map(|name| name.to_string_lossy().to_lowercase()) {
+        Some(name) => name,
+        None => return 0,
+    };
+
+    let mut promoted = 0;
+    let entries = match std::fs::read_dir(root) {
+        Ok(entries) => entries,
+        Err(_) => return 0,
+    };
+
+    for entry in entries.flatten() {
+        let path = entry.path();
+        if !path.is_dir() {
+            continue;
+        }
+
+        let child_name = entry.file_name().to_string_lossy().to_lowercase();
+        if child_name == root_name {
+            log_tag(LogLevel::INFO, "FLATTEN", format!("Promovendo {:?} para {:?}", path, root));
+            move_all_to(&path, root);
+            promoted += 1;
+        }
+    }
+
+    promoted
 }
 
 fn parse_7z_percent(line: &str) -> Option<f64> {

@@ -9,7 +9,7 @@ use std::env::current_exe;
 use std::sync::Mutex;
 use tauri::{Manager, Emitter};
 use commands::{
-    system::{check_is_admin, add_defender_exclusion, create_gaming_rumble_folder, play_game, open_path, update_executable, show_exe_picker, create_shortcut, remove_shortcut, shortcut_exists},
+    system::{check_is_admin, add_defender_exclusion, create_gaming_rumble_folder, play_game, open_path, update_executable, show_exe_picker, create_shortcut, remove_shortcut, shortcut_exists, get_system_status},
     disk::{list_drives, get_disk_space},
     torrent::{start_torrent, stop_torrent, start_fix_download},
     archive::{extract_game, delete_folder, finalize_installation},
@@ -112,6 +112,7 @@ pub fn run() {
             create_shortcut,
             remove_shortcut,
             shortcut_exists,
+            get_system_status,
             consume_pending_deeplink,
             check_for_app_update,
             install_app_update

@@ -1,13 +1,14 @@
 import { useState, useEffect, useCallback, useRef } from "react";
 import { AnimatePresence, motion } from "framer-motion";
 import { invoke } from "@tauri-apps/api/core";
-
+import { getVersion } from "@tauri-apps/api/app";
 import { listen } from "@tauri-apps/api/event";
 
 // Components
 import { Header } from "./components/Layout/Header";
 import { Footer } from "./components/Layout/Footer";
 import { AppUpdateModal, type AppUpdateModalState } from "./components/AppUpdateModal";
+import { ReleaseNotesModal } from "./components/ReleaseNotesModal";
 import { LibraryView } from "./components/Views/LibraryView";
 import { SetupView } from "./components/Views/SetupView";
 import { ActivityView } from "./components/Views/ActivityView";
@@ -16,16 +17,19 @@ import { SettingsView } from "./components/Views/SettingsView";
 // Types & Utils
 import type { GamePayload, DownloadState, LogEntry } from "./types";
 import { decodeGamePayload } from "./payload";
+import { getReleaseNotes } from "./releaseNotes";
 
 type View = "setup" | "library" | "activity" | "settings";
 const STORAGE_KEY_DRIVE = "gr_default_drive";
-
 const DOWNLOAD_STATE_KEY = "gr_download_state";
+const LAST_PROTOCOL_PAYLOAD_KEY = "gr_last_protocol_payload";
+const POST_UPDATE_CHANGELOG_KEY = "gr_post_update_changelog_version";
 
 type DownloadFinishedEvent = {
   success: boolean;
   fix_only: boolean;
   exit_code?: number | null;
+  selected_path?: string | null;
 };
 
 type UpdateCheckResponse = {
@@ -46,6 +50,14 @@ type AppUpdateEvent =
   | { event: "Failed"; data: { message: string } };
 
 export default function App() {
+  const [lastProtocolPayload, setLastProtocolPayload] = useState<GamePayload | null>(() => {
+    try {
+      const saved = localStorage.getItem(LAST_PROTOCOL_PAYLOAD_KEY);
+      return saved ? JSON.parse(saved) as GamePayload : null;
+    } catch {
+      return null;
+    }
+  });
   const [view, setView] = useState<View>("library");
   const [downloadState, setDownloadState] = useState<DownloadState | null>(
     () => {
@@ -70,8 +82,14 @@ export default function App() {
     totalBytes: null,
     errorMessage: ""
   });
+  const [releaseNotesState, setReleaseNotesState] = useState({
+    open: false,
+    version: "",
+    markdown: "",
+  });
 
   const isUpdateBlocking = appUpdate.visible && appUpdate.configured;
+  const isDriveSelectionLocked = Boolean(downloadState && downloadState.phase !== "done" && downloadState.phase !== "error");
 
   const addLog = useCallback((tag: LogEntry["tag"], msg: string) => {
     setDownloadState(prev => prev ? ({
@@ -120,7 +138,7 @@ export default function App() {
           addLog("INFO", "Iniciando varredura e extração dinâmica (Gatling Extract)...");
           await invoke("extract_game", { installPath: downloadState.installPath });
           
-          addLog("INFO", "Processando Lixo e Finalizando Instalação...");
+          addLog("INFO", "Processando lixo e finalizando instalação...");
           const meta: any = await invoke("finalize_installation", {
             installPath: downloadState.installPath,
             title: activePayload?.title
@@ -143,9 +161,9 @@ export default function App() {
           }
 
           setDownloadState(prev => prev ? ({ ...prev, phase: "done", progressPercent: 100, extractionPartPercent: 100 }) : null);
-          addLog("SUCCESS", "Protocolo Finalizado e Adicionado à Biblioteca.");
+          addLog("SUCCESS", "Protocolo finalizado e adicionado à biblioteca.");
         } catch (e) {
-          addLog("ERROR", `Falha na Extração: ${e}`);
+          addLog("ERROR", `Falha na extração: ${e}`);
           setDownloadState(prev => prev ? ({ ...prev, phase: "error", errorMessage: `Falha na extração: ${e}` }) : null);
         }
       };
@@ -175,6 +193,8 @@ export default function App() {
   const processUrl = useCallback((rawUrl: string) => {
     const payload = decodeGamePayload(rawUrl);
     if (payload) {
+      localStorage.setItem(LAST_PROTOCOL_PAYLOAD_KEY, JSON.stringify(payload));
+      setLastProtocolPayload(payload);
       setActivePayload(payload);
       setView("setup");
     }
@@ -200,6 +220,41 @@ export default function App() {
       .catch((error) => {
         console.warn("[UPDATER] Failed to check for updates:", error);
       });
+  }, []);
+
+  useEffect(() => {
+    let cancelled = false;
+
+    const maybeOpenPostUpdateChangeLog = async () => {
+      const pendingVersion = localStorage.getItem(POST_UPDATE_CHANGELOG_KEY);
+      if (!pendingVersion) return;
+
+      try {
+        const currentVersion = await getVersion();
+        if (cancelled || currentVersion !== pendingVersion) return;
+
+        const markdown = getReleaseNotes(currentVersion);
+        if (!markdown) {
+          localStorage.removeItem(POST_UPDATE_CHANGELOG_KEY);
+          return;
+        }
+
+        setReleaseNotesState({
+          open: true,
+          version: currentVersion,
+          markdown,
+        });
+        localStorage.removeItem(POST_UPDATE_CHANGELOG_KEY);
+      } catch (error) {
+        console.warn("[CHANGELOG] Failed to open post-update changelog:", error);
+      }
+    };
+
+    void maybeOpenPostUpdateChangeLog();
+
+    return () => {
+      cancelled = true;
+    };
   }, []);
 
   // Persist download state to localStorage (survives HMR/reload)
@@ -326,7 +381,7 @@ export default function App() {
 
           if (isFatalAriaError) {
             newState.phase = "error";
-            newState.errorMessage = "Torrent indisponível — nenhum seed/peer encontrado.";
+            newState.errorMessage = "Torrent indisponível - nenhum seed/peer encontrado.";
             if (log.includes("bt-stop-timeout") || log.includes("not complete") ||
                 log.includes("Stop downloading")) {
               addLog("ERROR", "Nenhum seed/peer encontrado. Torrent indisponível no momento.");
@@ -354,14 +409,14 @@ export default function App() {
         }
 
         if (data.fix_only || prev.fixOnly) {
-          invoke("open_path", { path: prev.installPath, selectFile: prev.installPath }).catch(() => {});
           return {
             ...prev,
             phase: "done" as const,
             progressPercent: 100,
             extractionPartPercent: 100,
             speedMBs: 0,
-            eta: "--"
+            eta: "--",
+            fixFilePath: data.selected_path ?? prev.fixFilePath
           };
         }
 
@@ -444,6 +499,17 @@ export default function App() {
               ? data.global_pct
               : (((data.current - 1) / data.total) * 100);
           const globalPct = Number.isFinite(rawGlobalPct) ? rawGlobalPct : prev.progressPercent;
+          const nextLog = {
+            time: new Date().toLocaleTimeString(),
+            tag: "EXTRACTING" as const,
+            msg: `${data.type === "extracting_fix" ? "[FIX] " : ""}${data.file} • ${archivePct.toFixed(0)}%`
+          };
+          const nextLogs = [...prev.logs];
+          if (nextLogs[nextLogs.length - 1]?.tag === "EXTRACTING") {
+            nextLogs[nextLogs.length - 1] = nextLog;
+          } else {
+            nextLogs.push(nextLog);
+          }
 
           return {
             ...prev,
@@ -454,11 +520,7 @@ export default function App() {
             extractionPartPercent: archivePct,
             speedMBs: 0,
             eta: "--",
-            logs: [...prev.logs, {
-              time: new Date().toLocaleTimeString(),
-              tag: "EXTRACTING" as const,
-              msg: `${data.type === "extracting_fix" ? "[FIX] " : ""}${data.file} (${data.current}/${data.total})`
-            }]
+            logs: nextLogs
           };
         }
 
@@ -496,14 +558,35 @@ export default function App() {
     }));
 
     try {
+      if (appUpdate.nextVersion) {
+        localStorage.setItem(POST_UPDATE_CHANGELOG_KEY, appUpdate.nextVersion);
+      }
       await invoke("install_app_update");
     } catch (error: any) {
+      localStorage.removeItem(POST_UPDATE_CHANGELOG_KEY);
       setAppUpdate(prev => ({
         ...prev,
         stage: "error",
         errorMessage: String(error)
       }));
     }
+  }
+
+  function handleOpenReleaseNotes(version: string) {
+    const markdown = getReleaseNotes(version);
+    if (!markdown) return;
+
+    setReleaseNotesState({
+      open: true,
+      version,
+      markdown,
+    });
+  }
+
+  function handleOpenLastProtocol() {
+    if (!lastProtocolPayload) return;
+    setActivePayload(lastProtocolPayload);
+    setView("setup");
   }
 
   async function handleStartInstall(path: string) {
@@ -527,7 +610,8 @@ export default function App() {
       isPaused: false,
       peers: 0,
       seeds: 0,
-      fixOnly: false
+      fixOnly: false,
+      fixFilePath: undefined
     });
     extractionRunKeyRef.current = null;
 
@@ -558,7 +642,8 @@ export default function App() {
       isPaused: false,
       peers: 0,
       seeds: 0,
-      fixOnly: true
+      fixOnly: true,
+      fixFilePath: undefined
     });
     extractionRunKeyRef.current = null;
 
@@ -574,7 +659,7 @@ export default function App() {
   }
 
   return (
-    <div className="flex flex-col h-screen bg-[#0e0e10] text-[#e5e1e4] font-['Inter'] overflow-hidden tracking-tighter shadow-2xl border border-white/5">
+    <div className="relative flex flex-col h-screen bg-[#0e0e10] text-[#e5e1e4] font-['Inter'] overflow-hidden tracking-tighter shadow-2xl border border-white/5">
       <Header 
         currentView={view} 
         onViewChange={setView} 
@@ -614,7 +699,13 @@ export default function App() {
                  setView("library");
                }}
                onStartGame={async () => {
-                 // Just close the activity view, DON'T delete the folder
+                 if (downloadState?.fixOnly) {
+                   await invoke("open_path", {
+                     path: downloadState.installPath,
+                     selectFile: downloadState.fixFilePath || downloadState.installPath,
+                     preferSelect: true
+                   }).catch(() => {});
+                 }
                  setDownloadState(null);
                  setView("library");
                }}
@@ -624,13 +715,26 @@ export default function App() {
         {view === "settings" && (
           <SettingsView 
             defaultDrive={defaultDrive} 
-            onDriveChange={(d) => setDefaultDrive(d)} 
+            onDriveChange={(d) => setDefaultDrive(d)}
+            driveSelectionLocked={isDriveSelectionLocked}
           />
         )}
         {view === "library" && <LibraryView defaultDrive={defaultDrive} />}
       </AnimatePresence>
 
-      <Footer installPath={downloadState?.installPath} defaultDrive={defaultDrive} />
+      <Footer
+        installPath={downloadState?.installPath}
+        defaultDrive={defaultDrive}
+        onVersionClick={handleOpenReleaseNotes}
+        hasLastProtocol={Boolean(lastProtocolPayload)}
+        onLastProtocolClick={handleOpenLastProtocol}
+      />
+      <ReleaseNotesModal
+        open={releaseNotesState.open}
+        version={releaseNotesState.version}
+        markdown={releaseNotesState.markdown}
+        onClose={() => setReleaseNotesState(prev => ({ ...prev, open: false }))}
+      />
       <AppUpdateModal state={appUpdate} onInstall={handleInstallAppUpdate} />
     </div>
   );

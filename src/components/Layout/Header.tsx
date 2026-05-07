@@ -24,13 +24,19 @@ export function Header({ currentView, onViewChange, onLogoClick, interactionLock
   };
 
   return (
-    <header className="h-20 flex items-center px-8 bg-[#131315]/90 backdrop-blur-3xl border-b border-white/5 flex-shrink-0 uppercase font-black z-30" onMouseDown={handleDrag}>
+    <header
+      className={cn(
+        "h-20 flex items-center px-8 bg-[#131315]/90 backdrop-blur-3xl border-b border-white/5 flex-shrink-0 uppercase font-black z-30",
+        interactionLocked && "pointer-events-none select-none"
+      )}
+      onMouseDown={handleDrag}
+    >
       {/* Logo - esquerda */}
       <img src="/logo.svg" alt="GR" className="w-10 h-10 cursor-pointer" onClick={onLogoClick} />
 
       {/* Tabs - centro */}
       <nav className="flex-1 flex items-center justify-center gap-2">
-        {[
+        {!interactionLocked && [
           { id: "library", label: "Biblioteca", icon: "sports_esports" },
           { id: "activity", label: "Atividade", icon: "downloading" }
         ].map(t => (
@@ -51,34 +57,36 @@ export function Header({ currentView, onViewChange, onLogoClick, interactionLock
 
       {/* Settings + Minimize + Close - direita */}
       <div className="flex items-center gap-1">
-        <button
-          onClick={() => !interactionLocked && onViewChange(currentView === 'settings' ? 'library' : 'settings')}
-          disabled={interactionLocked}
-          className={cn(
-            "p-3 rounded-2xl transition-all border border-transparent cursor-pointer disabled:cursor-not-allowed disabled:opacity-40",
-            currentView === 'settings' ? "text-[#a4e6ff] bg-white/10 border-white/10 shadow-glow-sm" : "text-slate-500 hover:text-[#a4e6ff]"
-          )}
-        >
-          <Icon name="settings" size={20} fill={currentView === 'settings' ? 1 : 0} />
-        </button>
+        {!interactionLocked && (
+          <>
+            <button
+              onClick={() => !interactionLocked && onViewChange(currentView === 'settings' ? 'library' : 'settings')}
+              disabled={interactionLocked}
+              className={cn(
+                "p-3 rounded-2xl transition-all border border-transparent cursor-pointer disabled:cursor-not-allowed disabled:opacity-40",
+                currentView === 'settings' ? "text-[#a4e6ff] bg-white/10 border-white/10 shadow-glow-sm" : "text-slate-500 hover:text-[#a4e6ff]"
+              )}
+            >
+              <Icon name="settings" size={20} fill={currentView === 'settings' ? 1 : 0} />
+            </button>
 
-        {/* Minimize button */}
-        <button
-          onClick={() => !interactionLocked && win.minimize()}
-          disabled={interactionLocked}
-          className="p-3 rounded-2xl text-slate-500 hover:text-[#a4e6ff] hover:bg-white/10 transition-all cursor-pointer flex items-center justify-center disabled:cursor-not-allowed disabled:opacity-40"
-        >
-          <Icon name="remove" size={20} />
-        </button>
+            <button
+              onClick={() => !interactionLocked && win.minimize()}
+              disabled={interactionLocked}
+              className="p-3 rounded-2xl text-slate-500 hover:text-[#a4e6ff] hover:bg-white/10 transition-all cursor-pointer flex items-center justify-center disabled:cursor-not-allowed disabled:opacity-40"
+            >
+              <Icon name="remove" size={20} />
+            </button>
 
-        {/* Close button */}
-        <button
-          onClick={() => !interactionLocked && win.close()}
-          disabled={interactionLocked}
-          className="p-3 rounded-2xl text-slate-500 hover:text-red-400 hover:bg-red-400/10 transition-all cursor-pointer disabled:cursor-not-allowed disabled:opacity-40"
-        >
-          <Icon name="close" size={20} />
-        </button>
+            <button
+              onClick={() => !interactionLocked && win.close()}
+              disabled={interactionLocked}
+              className="p-3 rounded-2xl text-slate-500 hover:text-red-400 hover:bg-red-400/10 transition-all cursor-pointer disabled:cursor-not-allowed disabled:opacity-40"
+            >
+              <Icon name="close" size={20} />
+            </button>
+          </>
+        )}
       </div>
     </header>
   );

@@ -1,15 +1,22 @@
-use std::path::PathBuf;
+use std::path::{Path, PathBuf};
 use std::process::{Command, Stdio};
 use std::io::{BufRead, BufReader};
 use tauri::{AppHandle, Emitter, Manager};
 
 use super::logger::{LogLevel, log, log_tag};
 
-#[derive(serde::Serialize, Clone, Copy)]
+#[derive(serde::Serialize, Clone)]
 struct DownloadFinishedPayload {
     success: bool,
     fix_only: bool,
     exit_code: Option<i32>,
+    selected_path: Option<String>,
+}
+
+#[derive(Debug, Clone)]
+struct FixSelection {
+    index: usize,
+    relative_path: PathBuf,
 }
 
 fn get_trackers() -> String {
@@ -188,6 +195,7 @@ fn parse_bencode_string(bytes: &[u8], pos: usize) -> Result<(usize, Vec<u8>), St
     Ok((start + len, content))
 }
 
+#[allow(dead_code)]
 /// Parse a .torrent file and find the file index of a file matching 'fix' in its name.
 fn find_fix_index(torrent_path: &std::path::Path) -> Result<usize, String> {
     let bytes = std::fs::read(torrent_path).map_err(|e| e.to_string())?;
@@ -226,6 +234,136 @@ fn find_fix_index(torrent_path: &std::path::Path) -> Result<usize, String> {
         }
     }
     Err("Fix.rar não encontrado nos metadados do torrent.".into())
+}
+
+fn find_fix_selection(torrent_path: &std::path::Path) -> Result<FixSelection, String> {
+    let bytes = std::fs::read(torrent_path).map_err(|e| e.to_string())?;
+    let (_, outer) = parse_bencode(&bytes, 0).map_err(|e| format!("Erro ao parsear torrent: {}", e))?;
+
+    let BValue::Dict(ref outer_d) = outer else {
+        return Err("Torrent root is not a dict".into());
+    };
+    let Some(BValue::Dict(ref info)) = dict_get(outer_d, "info") else {
+        return Err("'info' dict not found in torrent".into());
+    };
+
+    if let Some(BValue::List(ref files)) = dict_get(info, "files") {
+        for (idx, file) in files.iter().enumerate() {
+            if let BValue::Dict(ref fd) = file {
+                if let Some(BValue::List(ref path_parts)) = dict_get(fd, "path") {
+                    let path_segments = path_parts.iter()
+                        .filter_map(|p| match p {
+                            BValue::Str(s) => Some(String::from_utf8_lossy(s).to_string()),
+                            _ => None,
+                        })
+                        .collect::<Vec<_>>();
+                    let filename = path_segments.join("/").to_lowercase();
+                    if filename.contains("fix") {
+                        let mut relative_path = PathBuf::new();
+                        for segment in path_segments {
+                            relative_path.push(segment);
+                        }
+                        return Ok(FixSelection { index: idx + 1, relative_path });
+                    }
+                }
+            }
+        }
+    } else if let Some(BValue::Str(name)) = dict_get(info, "name") {
+        let name_string = String::from_utf8_lossy(name).to_string();
+        if name_string.to_lowercase().contains("fix") {
+            return Ok(FixSelection {
+                index: 1,
+                relative_path: PathBuf::from(name_string),
+            });
+        }
+    }
+
+    Err("Fix.rar não encontrado nos metadados do torrent.".into())
+}
+
+fn find_file_by_name_recursive(root: &Path, target_name: &str) -> Option<PathBuf> {
+    let entries = std::fs::read_dir(root).ok()?;
+    for entry in entries.flatten() {
+        let path = entry.path();
+        if path.is_dir() {
+            if let Some(found) = find_file_by_name_recursive(&path, target_name) {
+                return Some(found);
+            }
+        } else if path.file_name().and_then(|name| name.to_str()).map(|name| name.eq_ignore_ascii_case(target_name)).unwrap_or(false) {
+            return Some(path);
+        }
+    }
+    None
+}
+
+fn remove_unwanted_fix_artifacts(root: &Path, keep_name: &str) {
+    if let Ok(entries) = std::fs::read_dir(root) {
+        for entry in entries.flatten() {
+            let path = entry.path();
+            if path.is_dir() {
+                remove_unwanted_fix_artifacts(&path, keep_name);
+                let _ = std::fs::remove_dir(&path);
+                continue;
+            }
+
+            let file_name = match path.file_name().and_then(|name| name.to_str()) {
+                Some(name) => name,
+                None => continue,
+            };
+            let lower = file_name.to_lowercase();
+            let is_archive = lower.ends_with(".rar") || lower.ends_with(".zip") || lower.ends_with(".7z");
+            let is_control = lower.ends_with(".aria2") || lower.ends_with(".torrent");
+
+            if is_control || (is_archive && !file_name.eq_ignore_ascii_case(keep_name)) {
+                let _ = std::fs::remove_file(path);
+            }
+        }
+    }
+}
+
+fn remove_empty_dirs_recursive(root: &Path) {
+    if let Ok(entries) = std::fs::read_dir(root) {
+        for entry in entries.flatten() {
+            let path = entry.path();
+            if path.is_dir() {
+                remove_empty_dirs_recursive(&path);
+                let _ = std::fs::remove_dir(&path);
+            }
+        }
+    }
+}
+
+fn normalize_fix_download(install_path: &Path, selection: &FixSelection) -> Result<PathBuf, String> {
+    let desired_name = selection.relative_path.file_name()
+        .and_then(|name| name.to_str())
+        .ok_or("Nome do fix inválido")?
+        .to_string();
+
+    let expected_path = install_path.join(&selection.relative_path);
+    let downloaded_fix = if expected_path.exists() {
+        expected_path
+    } else {
+        find_file_by_name_recursive(install_path, &desired_name)
+            .ok_or_else(|| "Fix baixado não encontrado no disco".to_string())?
+    };
+
+    let final_path = install_path.join(&desired_name);
+    if downloaded_fix != final_path {
+        if final_path.exists() {
+            let _ = std::fs::remove_file(&final_path);
+        }
+
+        std::fs::rename(&downloaded_fix, &final_path)
+            .or_else(|_| std::fs::copy(&downloaded_fix, &final_path).map(|_| ()))
+            .map_err(|e| format!("Falha ao mover fix para a raiz: {}", e))?;
+
+        let _ = std::fs::remove_file(&downloaded_fix);
+    }
+
+    remove_unwanted_fix_artifacts(install_path, &desired_name);
+    remove_empty_dirs_recursive(install_path);
+
+    Ok(final_path)
 }
 
 #[tauri::command]
@@ -328,6 +466,7 @@ pub async fn start_torrent(app: AppHandle, magnet: String, install_path: String)
                     success,
                     fix_only: false,
                     exit_code,
+                    selected_path: None,
                 });
             }
             Err(err) => {
@@ -336,6 +475,7 @@ pub async fn start_torrent(app: AppHandle, magnet: String, install_path: String)
                     success: false,
                     fix_only: false,
                     exit_code: None,
+                    selected_path: None,
                 });
             }
         }
@@ -359,7 +499,8 @@ pub async fn start_fix_download(app: AppHandle, magnet: String, install_path: St
     std::fs::create_dir_all(&install_path).map_err(|e| e.to_string())?;
     let meta_path = fetch_metadata_only(&aria2_exe, &magnet, &install_path).await?;
 
-    let fix_idx = find_fix_index(&meta_path)?;
+    let fix_selection = find_fix_selection(&meta_path)?;
+    let fix_idx = fix_selection.index;
     log_tag(LogLevel::INFO, "DOWNLOAD", format!("Fix.rar encontrado no índice {}.", fix_idx));
 
     #[cfg(target_os = "windows")]
@@ -451,11 +592,24 @@ pub async fn start_fix_download(app: AppHandle, magnet: String, install_path: St
     });
 
     let app3 = app.clone();
+    let install_path_for_finish = install_path.clone();
+    let fix_selection_for_finish = fix_selection.clone();
     tokio::spawn(async move {
         match child.wait() {
             Ok(status) => {
                 let success = status.success();
                 let exit_code = status.code();
+                let selected_path = if success {
+                    match normalize_fix_download(Path::new(&install_path_for_finish), &fix_selection_for_finish) {
+                        Ok(path) => Some(path.to_string_lossy().to_string()),
+                        Err(err) => {
+                            log_tag(LogLevel::ERROR, "DOWNLOAD", format!("Falha ao normalizar fix: {}", err));
+                            None
+                        }
+                    }
+                } else {
+                    None
+                };
                 if success {
                     log_tag(LogLevel::SUCCESS, "DOWNLOAD", "aria2c finalizou o download do fix.");
                 } else {
@@ -465,6 +619,7 @@ pub async fn start_fix_download(app: AppHandle, magnet: String, install_path: St
                     success,
                     fix_only: true,
                     exit_code,
+                    selected_path,
                 });
             }
             Err(err) => {
@@ -473,6 +628,7 @@ pub async fn start_fix_download(app: AppHandle, magnet: String, install_path: St
                     success: false,
                     fix_only: true,
                     exit_code: None,
+                    selected_path: None,
                 });
             }
         }

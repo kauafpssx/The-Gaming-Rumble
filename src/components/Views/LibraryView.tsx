@@ -111,7 +111,7 @@ export function LibraryView({ defaultDrive }: { defaultDrive: string }) {
     <div className="flex-1 overflow-y-auto w-full p-12 pr-6 custom-scrollbar flex flex-col gap-8 pb-32">
       <div className="flex items-center justify-between">
         <h2 className="text-3xl font-black text-white/90 tracking-tighter uppercase tabular-nums">
-          Sua Colecao <span className="text-[#a4e6ff] text-xl ml-2">({games.length})</span>
+          Sua Coleção <span className="text-[#a4e6ff] text-xl ml-2">({games.length})</span>
         </h2>
       </div>
 

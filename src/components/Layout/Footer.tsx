@@ -1,13 +1,17 @@
 import { useState, useEffect } from "react";
 import { invoke } from "@tauri-apps/api/core";
 import { getVersion } from "@tauri-apps/api/app";
+import { Icon } from "../Icon";
 
 interface FooterProps {
   installPath?: string;
   defaultDrive?: string;
+  onVersionClick?: (version: string) => void;
+  hasLastProtocol?: boolean;
+  onLastProtocolClick?: () => void;
 }
 
-export function Footer({ installPath, defaultDrive }: FooterProps) {
+export function Footer({ installPath, defaultDrive, onVersionClick, hasLastProtocol = false, onLastProtocolClick }: FooterProps) {
   const [diskFree, setDiskFree] = useState("");
   const [drive, setDrive] = useState("");
   const [version, setVersion] = useState("");
@@ -33,8 +37,26 @@ export function Footer({ installPath, defaultDrive }: FooterProps) {
 
   return (
     <footer className="h-10 px-8 border-t border-white/5 bg-[#131315]/70 flex items-center justify-between text-[9px] uppercase font-black opacity-50 tracking-[0.6em] z-30">
-      <span>{drive}{diskFree ? ` ${diskFree} livre` : ""}</span>
-      <span>{version ? `v${version}` : ""}</span>
+      <div className="flex items-center gap-3">
+        <button
+          type="button"
+          title="Reabrir último jogo recebido pelo protocolo"
+          onClick={() => onLastProtocolClick?.()}
+          disabled={!hasLastProtocol}
+          className="cursor-pointer text-slate-500 transition-colors hover:text-[#a4e6ff] disabled:cursor-default disabled:opacity-30"
+        >
+          <Icon name="history" size={14} />
+        </button>
+        <span>{drive}{diskFree ? ` ${diskFree} livre` : ""}</span>
+      </div>
+      <button
+        type="button"
+        onClick={() => version && onVersionClick?.(version)}
+        disabled={!version}
+        className="cursor-pointer transition-colors hover:text-[#a4e6ff] disabled:cursor-default"
+      >
+        {version ? `v${version}` : ""}
+      </button>
     </footer>
   );
 }

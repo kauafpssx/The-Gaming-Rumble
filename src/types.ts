@@ -37,6 +37,7 @@ export interface InstalledGame {
 export interface DownloadState {
   payload: GamePayload;
   installPath: string;
+  fixFilePath?: string;
   phase: "downloading" | "extracting" | "applying_fix" | "done" | "error";
   currentPart: number;
   totalParts: number;

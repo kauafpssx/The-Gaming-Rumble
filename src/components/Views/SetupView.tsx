@@ -13,6 +13,7 @@ interface SetupViewProps {
   payload: GamePayload;
   defaultDrive: string;
   onStart: (installPath: string) => void;
+  onDownloadFixOnly?: (installPath: string) => void;
 }
 
 function parseSizeToGB(sizeStr: string): number {
@@ -31,7 +32,7 @@ function parseSizeGB(str: string): number {
   return match ? parseFloat(match[1]) : 0;
 }
 
-export function SetupView({ payload, defaultDrive, onStart, onDownloadFixOnly }: SetupViewProps & { onDownloadFixOnly?: (path: string) => void }) {
+export function SetupView({ payload, defaultDrive, onStart, onDownloadFixOnly }: SetupViewProps) {
   const [path, setPath] = useState(`${defaultDrive}Gaming Rumble\\${payload.title}`);
   const [diskFree, setDiskFree] = useState("...");
 
@@ -47,12 +48,10 @@ export function SetupView({ payload, defaultDrive, onStart, onDownloadFixOnly }:
     fetchDisk();
   }, [fetchDisk]);
 
-  // Calculate required space: download size ~1.5x for extraction overhead,
-  // but since the script cleans rars during extraction, use ~1.3x as buffer
   const { hasSpace, shortfall } = useMemo(() => {
     const fileGB = parseSizeToGB(payload.fileSize);
     const freeGB = parseSizeGB(diskFree);
-    const required = fileGB * 1.35; // 35% buffer for extraction + overhead
+    const required = fileGB * 1.35;
     return {
       diskFreeGB: freeGB,
       requiredGB: required,
@@ -93,59 +92,90 @@ export function SetupView({ payload, defaultDrive, onStart, onDownloadFixOnly }:
         </div>
 
         <div className="flex flex-col gap-3">
-          <label className={cn("text-[9px] tracking-widest ml-1 transition-colors",
-            !hasSpace && diskFree !== "..." && diskFree !== "N/A"
-              ? "text-[#ffb4ab]"
-              : "text-slate-500")}>
-            {!hasSpace && diskFree !== "..." && diskFree !== "N/A"
-              ? "Escolha outro destino"
-              : "Destino da Operação"}
+          <label
+            className={cn(
+              "text-[9px] tracking-widest ml-1 transition-colors",
+              !hasSpace && diskFree !== "..." && diskFree !== "N/A" ? "text-[#ffb4ab]" : "text-slate-500"
+            )}
+          >
+            {!hasSpace && diskFree !== "..." && diskFree !== "N/A" ? "Escolha outro destino" : "Destino da Operação"}
           </label>
+
           {!hasSpace && diskFree !== "..." && diskFree !== "N/A" ? (
             <div className="bg-[#ffb4ab]/10 border border-[#ffb4ab]/20 rounded-2xl flex items-center px-5 h-16 gap-3">
               <Icon name="warning" size={20} className="text-[#ffb4ab]" />
               <span className="text-[10px] text-[#ffb4ab] font-mono tracking-tight">
-                Espaço insuficiente — precisa de mais {shortfall < 1 ? (shortfall * 1024).toFixed(0) + " MB" : shortfall.toFixed(1) + " GB"}
+                Espaço insuficiente - precisa de mais {shortfall < 1 ? `${(shortfall * 1024).toFixed(0)} MB` : `${shortfall.toFixed(1)} GB`}
               </span>
             </div>
           ) : (
             <div className="flex gap-2">
               <div className="flex-1 bg-[#1b1b1d] rounded-2xl flex items-center px-5 h-16 border border-white/10 focus-within:border-[#a4e6ff]/40 shadow-inner group transition-all">
                 <Icon name="folder_open" size={24} className="text-slate-500 mr-4 group-hover:text-[#a4e6ff] transition-colors" />
-                <input className="bg-transparent border-none focus:outline-none text-[13px] text-[#e5e1e4] w-full font-mono tracking-tight cursor-not-allowed"
-                  spellCheck={false} value={path} onChange={() => {}} readOnly />
+                <input
+                  className="bg-transparent border-none focus:outline-none text-[13px] text-[#e5e1e4] w-full font-mono tracking-tight cursor-not-allowed"
+                  spellCheck={false}
+                  value={path}
+                  onChange={() => {}}
+                  readOnly
+                />
               </div>
             </div>
           )}
-          {hasSpace && <p className="text-[8px] text-slate-600 font-medium normal-case tracking-wide px-1 italic">Dica: O instalador será extraído e destruído após a conclusão automática.</p>}
+
+          {hasSpace && (
+            <p className="text-[8px] text-slate-600 font-medium normal-case tracking-wide px-1 italic">
+              Dica: O instalador será extraído e destruído após a conclusão automática.
+            </p>
+          )}
         </div>
 
-        <button
-          onClick={() => hasSpace && onStart(path)}
-          onContextMenu={(e) => {
-            e.preventDefault();
-            if (hasSpace && onDownloadFixOnly) onDownloadFixOnly(path);
-          }}
-          title={onDownloadFixOnly ? "Esquerdo: Baixar + Extrair | Direito: Baixar Fix e abrir pasta" : ""}
-          disabled={!hasSpace}
-          className={cn(
-            "w-full h-20 font-black rounded-3xl flex items-center justify-center gap-4 group mt-auto mb-6 transition-all tracking-[0.2em] text-xl italic",
-            hasSpace
-              ? "bg-gradient-to-br from-[#a4e6ff] to-[#0188ca] text-[#002d38] hover:shadow-[0_20px_50px_rgba(164,230,255,0.3)] active:scale-[0.97] cursor-pointer shadow-[0_15px_40px_rgba(164,230,255,0.15)]"
-              : "bg-[#ffb4ab]/20 text-[#ffb4ab] shadow-[0_15px_40px_rgba(255,180,171,0.2)] cursor-not-allowed border border-[#ffb4ab]/20"
-          )}
-        >
-          {!hasSpace ? (
-            <>
-              <Icon name="warning" size={32} /> SEM ESPAÇO
-            </>
-          ) : (
-            <>
-              <span>BAIXAR</span>
-              <Icon name="bolt" size={32} fill={1} className="group-hover:scale-125 transition-transform" />
-            </>
-          )}
-        </button>
+        <div className="mt-auto mb-6 flex gap-2">
+          <button
+            onClick={() => hasSpace && onStart(path)}
+            disabled={!hasSpace}
+            className={cn(
+              "flex-[9] h-20 font-black rounded-3xl flex items-center justify-center gap-4 group transition-all tracking-[0.2em] text-xl italic",
+              hasSpace
+                ? "bg-gradient-to-br from-[#a4e6ff] to-[#0188ca] text-[#002d38] hover:shadow-[0_20px_50px_rgba(164,230,255,0.3)] active:scale-[0.97] cursor-pointer shadow-[0_15px_40px_rgba(164,230,255,0.15)]"
+                : "bg-[#ffb4ab]/20 text-[#ffb4ab] shadow-[0_15px_40px_rgba(255,180,171,0.2)] cursor-not-allowed border border-[#ffb4ab]/20"
+            )}
+          >
+            {!hasSpace ? (
+              <>
+                <Icon name="warning" size={32} /> SEM ESPAÇO
+              </>
+            ) : (
+              <>
+                <span>BAIXAR</span>
+                <Icon name="bolt" size={32} fill={1} className="group-hover:scale-125 transition-transform" />
+              </>
+            )}
+          </button>
+
+          <button
+            onClick={() => hasSpace && onDownloadFixOnly?.(path)}
+            disabled={!hasSpace || !onDownloadFixOnly}
+            title="Baixar somente o fix"
+            className={cn(
+              "flex-[1] h-20 rounded-3xl flex items-center justify-center border transition-all group",
+              hasSpace && onDownloadFixOnly
+                ? "cursor-pointer border-[#a4e6ff]/15 bg-white/[0.03] text-[#a4e6ff] hover:bg-[#a4e6ff]/10 hover:border-[#a4e6ff]/35 hover:shadow-[0_20px_40px_rgba(164,230,255,0.12)]"
+                : "cursor-not-allowed border-[#ffb4ab]/15 bg-[#ffb4ab]/10 text-[#ffb4ab]/60"
+            )}
+          >
+            <div className="flex flex-col items-center justify-center gap-1">
+              <Icon name="build" size={24} fill={1} className="group-hover:scale-110 transition-transform" />
+              <span className="text-[8px] tracking-[0.2em] font-black">FIX</span>
+            </div>
+          </button>
+        </div>
+
+        {hasSpace && onDownloadFixOnly && (
+          <p className="mt-[-0.75rem] mb-2 text-[8px] text-slate-600 font-medium normal-case tracking-wide px-1 italic">
+            O botão menor baixa somente o fix, sem puxar o jogo completo.
+          </p>
+        )}
       </div>
     </main>
   );

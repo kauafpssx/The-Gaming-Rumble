@@ -20,7 +20,7 @@ export function ActivityView({ state, onPause, onCancel, onStartGame, isPaused }
   if (!state) return (
     <div className="flex flex-col items-center gap-4">
       <Icon name="hourglass_empty" size={64} className="text-slate-600" />
-      <span className="text-sm text-slate-500 tracking-widest font-medium uppercase">Nenhum Download em Andamento</span>
+      <span className="text-sm text-slate-500 tracking-widest font-medium uppercase">Nenhum download em andamento</span>
     </div>
   );
 
@@ -39,11 +39,13 @@ export function ActivityView({ state, onPause, onCancel, onStartGame, isPaused }
     currentPart,
     totalParts
   } = state;
+
   const isDone = phase === "done";
   const isExtracting = phase === "extracting";
   const isError = phase === "error";
+  const primaryPercent = isExtracting ? (extractionPartPercent ?? 0) : progressPercent;
   const extractionStatus = isExtracting
-    ? `${fixOnly ? "FIX" : "PARTE"} ${Math.max(currentPart || 0, 1)}/${Math.max(totalParts || 0, 1)} • ${(extractionPartPercent ?? 0).toFixed(0)}%`
+    ? `${fixOnly ? "FIX" : "PARTE"} ${Math.max(currentPart || 0, 1)}/${Math.max(totalParts || 0, 1)} • ETAPA ${(extractionPartPercent ?? 0).toFixed(0)}% • GERAL ${progressPercent.toFixed(2)}%`
     : null;
 
   const errorType: "torrent" | "extraction" = errorMessage?.includes("extração") || errorMessage?.includes("extrair")
@@ -59,7 +61,7 @@ export function ActivityView({ state, onPause, onCancel, onStartGame, isPaused }
           <div className="flex items-center gap-2 mb-2">
             <div className={cn("w-1.5 h-1.5 rounded-full", isDone ? "bg-[#4ade80]" : "bg-[#a4e6ff] animate-pulse")} />
             <span className="text-[9px] tracking-[0.4em] text-[#a4e6ff] font-mono">
-              {isDone ? "PROTOCOLO FINALIZADO" : isExtracting ? "REESTRUTURANDO NUCLEO" : fixOnly ? "TRANSMISSAO ATIVA (FIX)" : "TRANSMISSAO ATIVA"}
+              {isDone ? "PROTOCOLO FINALIZADO" : isExtracting ? "REESTRUTURANDO NÚCLEO" : fixOnly ? "TRANSMISSÃO ATIVA (FIX)" : "TRANSMISSÃO ATIVA"}
             </span>
           </div>
           <h1 className="text-4xl font-black tracking-tighter text-[#e5e1e4] leading-none truncate">{payload.title}</h1>
@@ -69,12 +71,12 @@ export function ActivityView({ state, onPause, onCancel, onStartGame, isPaused }
       <div className="flex-1 px-8 py-6 flex flex-col gap-6 z-10">
         <div className="flex items-end justify-between mb-1">
           <div>
-            <span className={cn("text-[3.5rem] font-black font-mono leading-none text-glow",
-              isError ? "text-[#ffb4ab]" : "text-[#a4e6ff]")}>
-              {isError ? "ERRO" : typeof progressPercent === "number" && progressPercent > 0 ? progressPercent.toFixed(2) : "0.00"}{isError ? "" : "%"}
+            <span className={cn("text-[3.5rem] font-black font-mono leading-none text-glow", isError ? "text-[#ffb4ab]" : "text-[#a4e6ff]")}>
+              {isError ? "ERRO" : typeof primaryPercent === "number" && primaryPercent > 0 ? primaryPercent.toFixed(isExtracting ? 0 : 2) : isExtracting ? "0" : "0.00"}
+              {isError ? "" : "%"}
             </span>
             <span className="text-[10px] text-slate-500 tracking-widest ml-4">
-              {isError ? "FALHA NO TORRENT" : isExtracting ? "EXTRAINDO..." : isDone ? "CONCLUIDO" : isPaused ? "PAUSADO" : typeof progressPercent === "number" && progressPercent <= 0 ? "PROCESSANDO..." : "BAIXANDO..."}
+              {isError ? "FALHA NO TORRENT" : isExtracting ? "EXTRAÇÃO EM TEMPO REAL" : isDone ? "CONCLUÍDO" : isPaused ? "PAUSADO" : typeof progressPercent === "number" && progressPercent <= 0 ? "PROCESSANDO..." : "BAIXANDO..."}
             </span>
             {extractionStatus && (
               <div className="mt-2 text-[10px] text-[#a4e6ff] tracking-[0.2em] font-mono">
@@ -109,12 +111,12 @@ export function ActivityView({ state, onPause, onCancel, onStartGame, isPaused }
             <>
               <div className="col-span-2 bg-[#ffb4ab]/10 border border-[#ffb4ab]/20 rounded-2xl p-4 flex flex-col gap-1 items-center">
                 <span className="text-[10px] text-[#ffb4ab] tracking-widest uppercase">
-                  {errorType === "extraction" ? "Falha na Extracao" : "Torrent Indisponivel"}
+                  {errorType === "extraction" ? "Falha na extração" : "Torrent indisponível"}
                 </span>
                 <span className="text-[8px] text-slate-400">
                   {errorType === "extraction"
-                    ? "Arquivo corrompido ou invalido. Verifique a fonte do magnet link."
-                    : "Nenhum peer/seed disponivel. Tente mais tarde."}
+                    ? "Arquivo corrompido ou inválido. Verifique a fonte do magnet link."
+                    : "Nenhum peer/seed disponível. Tente mais tarde."}
                 </span>
               </div>
               {onCancel && (
@@ -128,7 +130,7 @@ export function ActivityView({ state, onPause, onCancel, onStartGame, isPaused }
           ) : (
             <>
               <div className="bg-[#1b1b1d] p-5 rounded-2xl border border-white/5 flex flex-col gap-1">
-                <span className="text-[9px] tracking-widest text-slate-500 uppercase">Tempo Decorrido</span>
+                <span className="text-[9px] tracking-widest text-slate-500 uppercase">Tempo decorrido</span>
                 <span className="text-xl text-[#e5e1e4] font-mono leading-none">{elapsedTime}</span>
               </div>
               <div className="bg-[#1b1b1d] p-5 rounded-2xl border border-white/5 flex flex-col gap-1">
@@ -151,7 +153,7 @@ export function ActivityView({ state, onPause, onCancel, onStartGame, isPaused }
         )}
 
         {isDone && onStartGame && (
-          <button onClick={onStartGame} className={cn("mt-auto mb-4 h-20 font-black rounded-3xl shadow-[0_15px_40px_rgba(74,222,128,0.15)] flex items-center justify-center gap-4 group italic",
+          <button onClick={onStartGame} className={cn("mt-auto mb-4 h-20 cursor-pointer font-black rounded-3xl shadow-[0_15px_40px_rgba(74,222,128,0.15)] flex items-center justify-center gap-4 group italic",
             fixOnly
               ? "bg-gradient-to-br from-[#a4e6ff] to-[#0188ca] text-[#002d38]"
               : "bg-gradient-to-br from-[#4ade80] to-[#22c55e] text-[#002d13]"

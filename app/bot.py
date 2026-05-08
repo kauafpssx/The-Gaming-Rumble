@@ -310,53 +310,71 @@ class RumbleBot(commands.Bot):
         return f"</{qualified_name}:{command_id}>"
 
     async def _sync_commands(self) -> None:
-        started_at = time.perf_counter()
         try:
-            if self.settings.guild_id:
-                guild = discord.Object(id=self.settings.guild_id)
-                self.tree.copy_global_to(guild=guild)
-                synced_commands = await self.tree.sync(guild=guild)
-                self._synced_root_command_ids = {
-                    command.name: command.id
-                    for command in synced_commands
-                }
-                if not self.settings.sync_global_commands:
-                    # In development we sync commands to a single guild for speed.
-                    # If old global commands still exist remotely, Discord shows both
-                    # the legacy global versions and the new guild-scoped ones.
-                    # Clearing and syncing the global scope removes those duplicates.
-                    self.tree.clear_commands(guild=None)
-                    await self.tree.sync()
+            retry_delay_seconds = 15
+            while not self.is_closed() and not self._commands_synced:
+                started_at = time.perf_counter()
+                try:
+                    if self.settings.guild_id:
+                        guild = discord.Object(id=self.settings.guild_id)
+                        self.tree.copy_global_to(guild=guild)
+                        synced_commands = await self.tree.sync(guild=guild)
+                        self._synced_root_command_ids = {
+                            command.name: command.id
+                            for command in synced_commands
+                        }
+                        if not self.settings.sync_global_commands:
+                            # In development we sync commands to a single guild for speed.
+                            # If old global commands still exist remotely, Discord shows both
+                            # the legacy global versions and the new guild-scoped ones.
+                            # Clearing and syncing the global scope removes those duplicates.
+                            self.tree.clear_commands(guild=None)
+                            await self.tree.sync()
+                            LOGGER.info(
+                                "Legacy global commands cleared after guild sync in %.2fs",
+                                time.perf_counter() - started_at,
+                            )
+                        self._commands_synced = True
+                        LOGGER.info(
+                            "Commands synced for guild %s in %.2fs",
+                            self.settings.guild_id,
+                            time.perf_counter() - started_at,
+                        )
+                        return
+
+                    if not self.settings.sync_global_commands:
+                        LOGGER.info(
+                            "Skipping global command sync. Set DISCORD_GUILD_ID for fast dev sync "
+                            "or SYNC_GLOBAL_COMMANDS=true to force global sync."
+                        )
+                        self._commands_synced = True
+                        return
+
+                    synced_commands = await self.tree.sync()
+                    self._synced_root_command_ids = {
+                        command.name: command.id
+                        for command in synced_commands
+                    }
+                    self._commands_synced = True
                     LOGGER.info(
-                        "Legacy global commands cleared after guild sync in %.2fs",
+                        "Global commands synced in %.2fs",
                         time.perf_counter() - started_at,
                     )
-                self._commands_synced = True
-                LOGGER.info(
-                    "Commands synced for guild %s in %.2fs",
-                    self.settings.guild_id,
-                    time.perf_counter() - started_at,
-                )
-                return
-
-            if not self.settings.sync_global_commands:
-                LOGGER.info(
-                    "Skipping global command sync. Set DISCORD_GUILD_ID for fast dev sync "
-                    "or SYNC_GLOBAL_COMMANDS=true to force global sync."
-                )
-                self._commands_synced = True
-                return
-
-            synced_commands = await self.tree.sync()
-            self._synced_root_command_ids = {
-                command.name: command.id
-                for command in synced_commands
-            }
-            self._commands_synced = True
-            LOGGER.info(
-                "Global commands synced in %.2fs",
-                time.perf_counter() - started_at,
-            )
+                    return
+                except discord.DiscordServerError as exc:
+                    LOGGER.warning(
+                        "Discord indisponível durante sync de comandos (%s). Tentando novamente em %ss.",
+                        exc.status,
+                        retry_delay_seconds,
+                    )
+                    await asyncio.sleep(retry_delay_seconds)
+                except discord.HTTPException as exc:
+                    LOGGER.warning(
+                        "Falha HTTP ao sincronizar comandos (%s). Tentando novamente em %ss.",
+                        exc.status,
+                        retry_delay_seconds,
+                    )
+                    await asyncio.sleep(retry_delay_seconds)
         finally:
             self._sync_task = None
 

@@ -1,107 +1,91 @@
-# <p align="center">🎮 Gaming Rumble</p>
+# 🎮 Gaming Rumble (Desktop Client)
 
 <p align="center">
-  <img src="public/logo.svg" alt="Gaming Rumble" width="128" height="128">
+  <img src="https://raw.githubusercontent.com/zKauaFerreira/The-Gaming-Rumble/refs/heads/main/public/banner.png" alt="Gaming Rumble Banner" width="100%" />
 </p>
 
-<p align="center">
-  Cliente desktop construído com Tauri para consumir payloads compatíveis, baixar jogos via magnet link, extrair automaticamente e organizar a biblioteca local no Windows.
-</p>
+<br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Platform-Windows%2010%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Badge">
-  <img src="https://img.shields.io/badge/Tauri-2.x-24C8DB?style=for-the-badge&logo=tauri&logoColor=white" alt="Tauri Badge">
-  <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=0B0F13" alt="React Badge">
-  <img src="https://img.shields.io/badge/Tailwind-4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind Badge">
-  <img src="https://img.shields.io/badge/Rust-Stable-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust Badge">
-</p>
+> Cliente desktop construído com Tauri para consumir payloads compatíveis, baixar jogos via magnet link, extrair automaticamente e organizar a biblioteca local no Windows.
+
+## ✨ Snapshot Do Projeto
+
+| Plataforma | Engine | Frontend | Runtime | Status |
+|:---:|:---:|:---:|:---:|:---:|
+| ![](https://img.shields.io/badge/Windows-10%2F11-0078D6?style=flat-square&logo=windows&logoColor=white) | ![](https://img.shields.io/badge/Tauri-2.x-24C8DB?style=flat-square&logo=tauri&logoColor=white) | ![](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=0B0F13) | ![](https://img.shields.io/badge/Rust-Stable-000000?style=flat-square&logo=rust&logoColor=white) | ![](https://img.shields.io/badge/Build-Stable-2ea44f?style=flat-square) |
 
 ---
 
-## 📌 Sobre
+## 📌 O Que Este Repositório Faz
 
-O Gaming Rumble é o client desktop do ecossistema. Ele recebe um payload via protocolo `gaming-rumble://`, prepara o ambiente, executa o download do torrent, extrai os arquivos e registra o jogo na biblioteca local.
+O Gaming Rumble é o client desktop principal do ecossistema.
 
-O foco do app é reduzir atrito: menos passos manuais, menos setup repetitivo e uma experiência mais direta para instalação e gerenciamento.
+Ele automatiza todo o fluxo de instalação dos jogos:
+
+- Recebe payloads via protocolo `gaming-rumble://`
+- Decodifica informações do jogo em Base64
+- Executa downloads via BitTorrent usando `aria2c`
+- Extrai automaticamente os arquivos do jogo
+- Detecta executáveis principais
+- Organiza a biblioteca local
+- Cria atalhos automaticamente
+- Mantém gerenciamento persistente da biblioteca
+
+O foco do projeto é reduzir atrito e automatizar processos repetitivos.
+
+---
 
 ## ⚠️ Compatibilidade
 
 > [!WARNING]
-> Este client foi pensado para trabalhar com payloads e magnet links compatíveis com o fluxo do ecossistema Gaming Rumble.
+> Este client foi desenvolvido especificamente para o ecossistema Gaming Rumble.
 >
-> Na prática, a origem suportada hoje é o conteúdo vindo do index baseado em `online-fix.me`.
+> Atualmente o fluxo suportado é baseado no indexador vindo de `online-fix.me`.
 >
-> Magnet links aleatórios de outras fontes podem falhar, não seguir o layout esperado ou gerar comportamento imprevisível. Não há garantia de compatibilidade fora desse fluxo.
+> Magnet links aleatórios ou payloads externos podem não funcionar corretamente.
+>
+> Não existe garantia de compatibilidade fora do fluxo oficial do projeto.
 
-## 🧭 Fluxo Do Produto
+---
+
+## 🧭 Fluxo Completo Do Produto
 
 ```mermaid
 flowchart LR
-  A["Deep Link"] --> B["Setup"]
-  B --> C["Download via aria2c"]
-  C --> D["Extração com 7-Zip"]
-  D --> E["Biblioteca Local"]
-  E --> F["Atalho e Execução"]
+  A["🌐 GR-Link / Browser"] --> B["gaming-rumble://"]
+  B --> C["📦 Decode Payload"]
+  C --> D["⚙ Setup"]
+  D --> E["⬇ Download via aria2c"]
+  E --> F["📂 Extração 7-Zip"]
+  F --> G["🧠 Detecta Executável"]
+  G --> H["🎮 Biblioteca Local"]
+  H --> I["🚀 Jogar / Abrir"]
 ```
+
+---
 
 ## ✨ Recursos Principais
 
-- Download via BitTorrent com acompanhamento em tempo real
-- Suporte a protocolo `gaming-rumble://`
-- Extração automática com fluxo pós-instalação
-- Modo `Fix Only` para baixar apenas o fix quando necessário
-- Detecção do executável principal do jogo
-- Criação automática de atalho no Menu Iniciar
-- Biblioteca persistente com ações de abrir, jogar e remover
-- Pausa e retomada de download
-- Verificação de espaço em disco antes da instalação
-- Tratamento separado para erros de download e erros de extração
-
-## 🧱 Stack Atual
-
-### Base do projeto
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="50" alt="React Icon"><br>
-      <strong>React 19</strong>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=ts" width="50" alt="TypeScript Icon"><br>
-      <strong>TypeScript</strong>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=tauri" width="50" alt="Tauri Icon"><br>
-      <strong>Tauri 2</strong>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="50" alt="Tailwind Icon"><br>
-      <strong>Tailwind 4</strong>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=rust" width="50" alt="Rust Icon"><br>
-      <strong>Rust</strong>
-    </td>
-  </tr>
-</table>
-
-## 🖥️ Plataforma Suportada
-
-| Sistema | Status |
+| Feature | Descrição |
 |---|---|
-| Windows 10 | Suportado |
-| Windows 11 | Suportado |
-| Linux | Não suportado oficialmente |
-| macOS | Não suportado oficialmente |
+| `gaming-rumble://` | Protocolo customizado para instalação automática |
+| Download BitTorrent | Download com progresso em tempo real |
+| Biblioteca Persistente | Jogos instalados ficam registrados localmente |
+| Auto Extract | Extração automática pós-download |
+| Fix Only | Baixa apenas o fix quando necessário |
+| Auto Shortcut | Cria atalhos automaticamente |
+| Resume Support | Pausa e retomada de download |
+| Disk Validation | Verifica espaço disponível antes da instalação |
+| Error Handling | Tratamento separado para download e extração |
+| Executable Detection | Detecta automaticamente o executável principal |
 
-O projeto atual foi estruturado e empacotado com foco em Windows.
+---
 
-## 🔗 Protocolo `gaming-rumble://`
+## 🧠 Como O Fluxo Funciona
 
-O app registra o protocolo `gaming-rumble://` no sistema operacional. Quando esse link é aberto, o payload em Base64 é decodificado pelo client.
+### Payload
 
-Exemplo de payload:
+O navegador ou app intermediário envia um payload Base64:
 
 ```json
 {
@@ -113,48 +97,75 @@ Exemplo de payload:
 }
 ```
 
-### Resumo do comportamento
+### Fluxo interno
 
-- O navegador, Discord ou outro app dispara o protocolo
-- O Tauri recebe a URI
-- O payload é decodificado
-- O usuário confirma a instalação
-- O download e a extração seguem dentro do app
+```txt
+1. Browser abre gaming-rumble://
+2. Tauri recebe a URI
+3. Payload é decodificado
+4. Usuário confirma instalação
+5. aria2c inicia o torrent
+6. 7-Zip extrai os arquivos
+7. O executável principal é detectado
+8. O jogo entra na biblioteca
+9. Atalhos são criados automaticamente
+```
+
+---
+
+## 🧱 Stack Atual
+
+### Base do projeto
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" width="50"><br>
+      <strong>React 19</strong>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=ts" width="50"><br>
+      <strong>TypeScript</strong>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=tauri" width="50"><br>
+      <strong>Tauri 2</strong>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="50"><br>
+      <strong>Tailwind 4</strong>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=rust" width="50"><br>
+      <strong>Rust</strong>
+    </td>
+  </tr>
+</table>
+
+---
 
 ## 📦 Binários Externos
 
 | Binário | Status | Finalidade |
 |---|---|---|
 | `aria2c.exe` | Bundled | Download BitTorrent |
-| `7-ZIP/` | Bundled | Extração de arquivos e suporte RAR/RAR5 |
+| `7-ZIP/` | Bundled | Extração de arquivos |
+| `WebView2` | Runtime | Renderização da UI |
 
-## 🛠️ Pré-requisitos
+---
 
-| Ferramenta | Necessária | Observação |
-|---|---|---|
-| Node.js LTS | Sim | Para frontend e comandos do Tauri |
-| Rust / rustup | Sim | Toolchain nativa do app |
-| Windows 10/11 | Sim | Plataforma suportada hoje |
+## 🖥️ Plataforma Suportada
 
-## 🚀 Desenvolvimento
+| Sistema | Status |
+|---|---|
+| Windows 10 | ✅ Suportado |
+| Windows 11 | ✅ Suportado |
+| Linux | ❌ Não suportado oficialmente |
+| macOS | ❌ Não suportado oficialmente |
 
-### Instalar dependências
+> O projeto atual foi desenvolvido e empacotado exclusivamente com foco em Windows.
 
-```bash
-npm install
-```
-
-### Rodar em desenvolvimento
-
-```bash
-npm run tauri dev
-```
-
-### Gerar build local
-
-```bash
-npm run tauri build
-```
+---
 
 ## 🗂️ Estrutura Do Projeto
 
@@ -176,62 +187,120 @@ Gaming Rumble/
 └── README.md
 ```
 
-### Visão rápida por pasta
+### Visão rápida das pastas
 
 | Caminho | Conteúdo |
 |---|---|
-| `src/` | App React, views, tipos e utilitários do payload |
-| `src/components/Views/` | Telas de setup, atividade, biblioteca e configurações |
+| `src/` | Frontend React |
+| `src/components/Views/` | Telas do aplicativo |
 | `src-tauri/src/commands/` | Comandos nativos em Rust |
-| `src-tauri/tauri.conf.json` | Configuração principal do Tauri |
-| `.github/workflows/build.yml` | Build e release da `main` |
+| `payload.ts` | Decode e parsing do protocolo |
+| `tauri.conf.json` | Configuração principal |
+| `.github/workflows/` | Build e release CI/CD |
 
-## 🧪 Build E Release
+---
 
-### Build local
+## ⚙️ Configuração Local
+
+### Pré-requisitos
+
+| Ferramenta | Necessária |
+|---|---|
+| Node.js LTS | Sim |
+| Rust / rustup | Sim |
+| Windows 10/11 | Sim |
+
+---
+
+## 🚀 Desenvolvimento
+
+### Instalar dependências
+
+```bash
+npm install
+```
+
+### Rodar ambiente local
+
+```bash
+npm run tauri dev
+```
+
+### Gerar build local
 
 ```bash
 npm run tauri build
 ```
 
-Os binários são gerados em:
+---
 
-- `src-tauri/target/release/bundle/msi/`
-- `src-tauri/target/release/bundle/nsis/`
+## 📦 Build E Release
 
-### CI na `main`
+### Saídas locais
 
-O workflow de build da branch `main`:
+Os builds são gerados em:
+
+```txt
+src-tauri/target/release/bundle/msi/
+src-tauri/target/release/bundle/nsis/
+```
+
+### Pipeline CI/CD
+
+O workflow da branch `main`:
 
 - instala Node.js
 - instala Rust stable
 - instala WebView2
-- gera o build Tauri
+- gera build Tauri
 - publica artefatos
-- cria tag quando necessário
-- cria release no GitHub
+- cria releases automaticamente
 
-Esse workflow dispara apenas em alterações na `main`.
+---
 
-## 📝 Observações Técnicas
+## 🧠 Comportamentos Técnicos
 
-- O app usa janela desktop fixa e sem decorações nativas
-- O estado do download é persistido localmente para sobreviver a reload em desenvolvimento
-- O fluxo usa eventos do Tauri para acompanhar logs e progresso
+| Sistema | Função |
+|---|---|
+| Download State | Persistência local de progresso |
+| Event System | Eventos Tauri para logs e progresso |
+| Library Manager | Gerenciamento local da biblioteca |
+| Extract Pipeline | Pipeline separada de extração |
+| Launcher Detection | Busca automática do executável |
+
+---
+
+## 🛠️ Notas Operacionais
+
+- O app utiliza janela customizada sem decoração nativa
+- O estado dos downloads sobrevive a reload durante desenvolvimento
 - A biblioteca é mantida localmente pelo client
-- O app foi desenhado para consumo do ecossistema Gaming Rumble, não como cliente torrent genérico
+- O fluxo foi desenhado para integração com o ecossistema Gaming Rumble
+- O projeto não pretende ser um client torrent genérico
 
-## ⚖️ Aviso Legal
+---
+
+## ⚠️ Aviso Legal
 
 > [!WARNING]
 > Este software é fornecido **"AS IS"**, sem garantias de qualquer tipo.
 >
-> - Este client não possui, não hospeda, não distribui e não facilita acesso direto a conteúdo protegido por direitos autorais.
-> - O app apenas automatiza o processo técnico de consumo de payload, download e extração.
-> - Não há suporte para problemas relacionados ao conteúdo acessado pelo usuário.
-> - O uso é por conta e risco de quem estiver executando o software.
-> - Ao usar este client, você assume total responsabilidade pelo conteúdo que acessar e instalar.
+> - O projeto não hospeda conteúdo protegido
+> - O app apenas automatiza download, extração e gerenciamento
+> - Não existe suporte para conteúdo acessado pelo usuário
+> - O uso é por conta e risco do usuário final
+> - Toda responsabilidade sobre conteúdo acessado pertence ao usuário
 
 ---
 
-<p align="center"><strong>Gaming Rumble Engine © 2026 — Todos os direitos reservados.</strong></p>
+## 📜 Licença
+
+Este repositório é disponibilizado apenas para fins educacionais e de pesquisa.
+
+Veja a licença completa e o aviso legal em `LICENSE`.
+
+---
+
+<p align="center">
+  <strong>Gaming Rumble Engine © 2026 — Todos os direitos reservados.</strong>
+</p>

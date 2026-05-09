@@ -3,6 +3,7 @@ import { getVersion } from "@tauri-apps/api/app";
 import { invoke } from "@tauri-apps/api/core";
 import { openUrl } from "@tauri-apps/plugin-opener";
 import { Icon } from "../Icon";
+import { Tooltip } from "../Tooltip";
 import { clsx, type ClassValue } from "clsx";
 import { twMerge } from "tailwind-merge";
 
@@ -33,6 +34,7 @@ interface SettingsViewProps {
   defaultDrive: string;
   onDriveChange: (drive: string) => void;
   driveSelectionLocked?: boolean;
+  isAdmin: boolean;
 }
 
 const INITIAL_SYSTEM_STATUS: SystemStatus = {
@@ -44,6 +46,8 @@ const INITIAL_SYSTEM_STATUS: SystemStatus = {
 };
 
 const DISABLE_DEFENDER_ON_START_KEY = "gr_disable_defender_on_start";
+const SYSTEM_STATUS_CACHE_KEY = "gr_system_status_cache";
+const DRIVES_CACHE_KEY = "gr_drives_cache";
 const GITHUB_REPO_URL = "https://github.com/zKauaFerreira/The-Gaming-Rumble/tree/main";
 
 function GitHubIcon({ className = "" }: { className?: string }) {
@@ -54,10 +58,23 @@ function GitHubIcon({ className = "" }: { className?: string }) {
   );
 }
 
-export function SettingsView({ defaultDrive, onDriveChange, driveSelectionLocked = false }: SettingsViewProps) {
-  const [drives, setDrives] = useState<DriveInfo[]>([]);
-  const [loading, setLoading] = useState(true);
-  const [isAdmin, setIsAdmin] = useState(false);
+export function SettingsView({ defaultDrive, onDriveChange, driveSelectionLocked = false, isAdmin }: SettingsViewProps) {
+  const [drives, setDrives] = useState<DriveInfo[]>(() => {
+    try {
+      const cached = localStorage.getItem(DRIVES_CACHE_KEY);
+      return cached ? JSON.parse(cached) as DriveInfo[] : [];
+    } catch {
+      localStorage.removeItem(DRIVES_CACHE_KEY);
+      return [];
+    }
+  });
+  const [loading, setLoading] = useState(() => {
+    try {
+      return !localStorage.getItem(DRIVES_CACHE_KEY);
+    } catch {
+      return true;
+    }
+  });
   const [systemStatus, setSystemStatus] = useState<SystemStatus>(INITIAL_SYSTEM_STATUS);
   const [disableDefenderOnStart, setDisableDefenderOnStart] = useState(
     () => localStorage.getItem(DISABLE_DEFENDER_ON_START_KEY) !== "false"
@@ -68,8 +85,12 @@ export function SettingsView({ defaultDrive, onDriveChange, driveSelectionLocked
   const [deleteAllBusy, setDeleteAllBusy] = useState(false);
 
   useEffect(() => {
-    invoke<DriveInfo[]>("list_drives").then(setDrives).finally(() => setLoading(false));
-    invoke<boolean>("check_is_admin").then(setIsAdmin);
+    invoke<DriveInfo[]>("list_drives")
+      .then((nextDrives) => {
+        setDrives(nextDrives);
+        localStorage.setItem(DRIVES_CACHE_KEY, JSON.stringify(nextDrives));
+      })
+      .finally(() => setLoading(false));
     invoke<DefenderStatus>("get_defender_status")
       .then((status) => {
         setDefenderAvailable(status.available);
@@ -84,15 +105,27 @@ export function SettingsView({ defaultDrive, onDriveChange, driveSelectionLocked
         localStorage.setItem(DISABLE_DEFENDER_ON_START_KEY, "false");
       });
 
+    try {
+      const cached = localStorage.getItem(SYSTEM_STATUS_CACHE_KEY);
+      if (cached) {
+        const parsed = JSON.parse(cached) as SystemStatus;
+        setSystemStatus(parsed);
+      }
+    } catch {
+      localStorage.removeItem(SYSTEM_STATUS_CACHE_KEY);
+    }
+
     Promise.all([
       invoke<Omit<SystemStatus, "launcherVersion">>("get_system_status"),
       getVersion().catch(() => "Desconhecida")
     ])
       .then(([status, launcherVersion]) => {
-        setSystemStatus({
+        const nextStatus = {
           ...status,
           launcherVersion: `v${launcherVersion}`
-        });
+        };
+        setSystemStatus(nextStatus);
+        localStorage.setItem(SYSTEM_STATUS_CACHE_KEY, JSON.stringify(nextStatus));
       })
       .catch(() => {
         setSystemStatus((prev) => ({
@@ -262,30 +295,31 @@ export function SettingsView({ defaultDrive, onDriveChange, driveSelectionLocked
                 )}
               </div>
 
-              <button
-                type="button"
-                onClick={handleToggleDefender}
-                disabled={defenderBusy || !defenderAvailable}
-                className={cn(
-                  "relative mt-1 h-9 w-16 shrink-0 rounded-full border transition-all",
-                  defenderAvailable && "cursor-pointer",
-                  !defenderAvailable && "cursor-not-allowed opacity-45",
-                  disableDefenderOnStart && defenderAvailable
-                    ? "border-[#a4e6ff]/40 bg-[#a4e6ff]/15"
-                    : "border-white/10 bg-white/[0.04]",
-                  defenderBusy && "opacity-70 cursor-wait"
-                )}
-                title="Desabilitar Windows Defender ao iniciar"
-              >
-                <span
+              <Tooltip content="Alternar desativacao automatica do Defender" disabled={!defenderAvailable}>
+                <button
+                  type="button"
+                  onClick={handleToggleDefender}
+                  disabled={defenderBusy || !defenderAvailable}
                   className={cn(
-                    "absolute top-1 h-7 w-7 rounded-full transition-all",
+                    "relative mt-1 h-9 w-16 shrink-0 rounded-full border transition-all",
+                    defenderAvailable && "cursor-pointer",
+                    !defenderAvailable && "cursor-not-allowed opacity-45",
                     disableDefenderOnStart && defenderAvailable
-                      ? "left-8 bg-[#a4e6ff] shadow-[0_0_20px_rgba(164,230,255,0.35)]"
-                      : "left-1 bg-slate-500"
+                      ? "border-[#a4e6ff]/40 bg-[#a4e6ff]/15"
+                      : "border-white/10 bg-white/[0.04]",
+                    defenderBusy && "opacity-70 cursor-wait"
                   )}
-                />
-              </button>
+                >
+                  <span
+                    className={cn(
+                      "absolute top-1 h-7 w-7 rounded-full transition-all",
+                      disableDefenderOnStart && defenderAvailable
+                        ? "left-8 bg-[#a4e6ff] shadow-[0_0_20px_rgba(164,230,255,0.35)]"
+                        : "left-1 bg-slate-500"
+                    )}
+                  />
+                </button>
+              </Tooltip>
             </div>
           </section>
 
@@ -306,13 +340,14 @@ export function SettingsView({ defaultDrive, onDriveChange, driveSelectionLocked
               DELETAR TODOS OS JOGOS
             </button>
             <div className="flex justify-center pt-2">
-              <button
-                onClick={() => openUrl(GITHUB_REPO_URL).catch(() => {})}
-                className="flex h-10 w-10 items-center justify-center rounded-full text-slate-600 transition-all hover:text-[#a4e6ff] hover:bg-white/[0.03] cursor-pointer"
-                title="Abrir repositório no GitHub"
-              >
-                <GitHubIcon className="h-5 w-5" />
-              </button>
+              <Tooltip content="Abrir repositorio no GitHub">
+                <button
+                  onClick={() => openUrl(GITHUB_REPO_URL).catch(() => {})}
+                  className="flex h-10 w-10 items-center justify-center rounded-full text-slate-600 transition-all hover:text-[#a4e6ff] hover:bg-white/[0.03] cursor-pointer"
+                >
+                  <GitHubIcon className="h-5 w-5" />
+                </button>
+              </Tooltip>
             </div>
           </section>
         </div>

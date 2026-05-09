@@ -9,11 +9,12 @@ use std::env::current_exe;
 use std::sync::Mutex;
 use tauri::{Manager, Emitter};
 use commands::{
-    system::{check_is_admin, add_defender_exclusion, create_gaming_rumble_folder, set_defender_realtime_monitoring, get_defender_status, play_game, open_path, update_executable, show_exe_picker, create_shortcut, remove_shortcut, shortcut_exists, get_system_status},
+    runtime::{init_runtime, launch_and_track_game, show_main_window, GameMonitorState, TrayState},
+    system::{check_is_admin, add_defender_exclusion, create_gaming_rumble_folder, set_defender_realtime_monitoring, get_defender_status, play_game, open_path, update_executable, show_exe_picker, create_shortcut, remove_shortcut, shortcut_exists, get_shortcut_states, get_system_status},
     disk::{list_drives, get_disk_space},
     torrent::{start_torrent, stop_torrent, start_fix_download},
     archive::{extract_game, delete_folder, finalize_installation},
-    library::{get_library, add_to_library, remove_from_library, delete_all_games},
+    library::{get_library, add_to_library, remove_from_library, delete_all_games, run_one_time_legacy_import},
     update::{check_for_app_update, install_app_update, PendingUpdate}
 };
 
@@ -77,18 +78,15 @@ pub fn run() {
     tauri::Builder::default()
         .manage(DeepLinkState::default())
         .manage(PendingUpdate(Mutex::new(None)))
+        .manage(TrayState::default())
+        .manage(GameMonitorState::default())
         .plugin(tauri_plugin_single_instance::init(|app, argv, _cwd| {
             eprintln!("[SINGLE-INSTANCE] args: {:?}", argv);
             if let Some(uri) = argv.iter().find_map(|arg| parse_deep_link_arg(arg)) {
                 eprintln!("[DEEP-LINK] URI received: {}", uri);
                 queue_deep_link(app, uri);
             }
-            if let Some(window) = app.get_webview_window("main") {
-                let _ = window.show();
-                let _ = window.set_focus();
-                let _ = window.set_always_on_top(true);
-                let _ = window.set_always_on_top(false);
-            }
+            show_main_window(app);
         }))
         .invoke_handler(tauri::generate_handler![
             list_drives,
@@ -109,12 +107,14 @@ pub fn run() {
             remove_from_library,
             delete_all_games,
             play_game,
+            launch_and_track_game,
             open_path,
             show_exe_picker,
             update_executable,
             create_shortcut,
             remove_shortcut,
             shortcut_exists,
+            get_shortcut_states,
             get_system_status,
             consume_pending_deeplink,
             check_for_app_update,
@@ -124,12 +124,12 @@ pub fn run() {
             #[cfg(desktop)]
             app.handle().plugin(tauri_plugin_updater::Builder::new().build())?;
 
+            run_one_time_legacy_import()?;
+            init_runtime(app.handle())?;
+
             // Keep the deep link queued so the frontend can consume it after mounting.
             if let Some(uri) = std::env::args().find_map(|arg| parse_deep_link_arg(&arg)) {
-                if let Some(window) = app.get_webview_window("main") {
-                    let _ = window.show();
-                    let _ = window.set_focus();
-                }
+                show_main_window(app.handle());
                 queue_deep_link(app.handle(), uri);
             }
             Ok(())

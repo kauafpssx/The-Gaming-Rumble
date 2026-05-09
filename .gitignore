@@ -16,6 +16,10 @@ bun.lockb
 .bun/
 .turbo/
 coverage/
+prisma/dev.db
+prisma/dev.db-journal
+prisma/dev.db-shm
+prisma/dev.db-wal
 
 # Editor directories and files
 .vscode/*

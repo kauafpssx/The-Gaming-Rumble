@@ -53,9 +53,11 @@ Ele automatiza todo o fluxo de instalação dos jogos:
 - Executa downloads via BitTorrent usando `aria2c`
 - Extrai automaticamente os arquivos do jogo
 - Detecta executáveis principais
-- Organiza a biblioteca local
+- Organiza a biblioteca local com persistência em `SQLite`
 - Cria atalhos automaticamente
+- Monitora sessões iniciadas pelo launcher
 - Mantém gerenciamento persistente da biblioteca
+- Importa automaticamente bibliotecas legadas em `JSON` no primeiro boot compatível
 
 O foco do projeto é reduzir atrito e automatizar processos repetitivos.
 
@@ -96,10 +98,12 @@ flowchart LR
 |---|---|
 | `gaming-rumble://` | Protocolo customizado para instalação automática |
 | Download BitTorrent | Download com progresso em tempo real |
-| Biblioteca Persistente | Jogos instalados ficam registrados localmente |
+| Biblioteca Persistente | Jogos instalados ficam registrados localmente em `SQLite` |
 | Auto Extract | Extração automática pós-download |
 | Fix Only | Baixa apenas o fix quando necessário |
 | Auto Shortcut | Cria atalhos automaticamente |
+| System Tray | Fecha para tray e restaura o launcher rapidamente |
+| Playtime Tracking | Monitora tempo jogado das sessões iniciadas pelo app |
 | Resume Support | Pausa e retomada de download |
 | Disk Validation | Verifica espaço disponível antes da instalação |
 | Error Handling | Tratamento separado para download e extração |
@@ -165,6 +169,14 @@ O navegador ou app intermediário envia um payload Base64:
       <img src="https://skillicons.dev/icons?i=rust" width="50"><br>
       <strong>Rust</strong>
     </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=sqlite" width="50"><br>
+      <strong>SQLite</strong>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=prisma" width="50"><br>
+      <strong>Prisma</strong>
+    </td>
   </tr>
 </table>
 
@@ -197,6 +209,9 @@ O navegador ou app intermediário envia um payload Base64:
 
 ```txt
 Gaming Rumble/
+├── prisma/
+│   ├── migrations/
+│   └── schema.prisma
 ├── src/
 │   ├── App.tsx
 │   ├── payload.ts
@@ -220,6 +235,7 @@ Gaming Rumble/
 | `src/` | Frontend React |
 | `src/components/Views/` | Telas do aplicativo |
 | `src-tauri/src/commands/` | Comandos nativos em Rust |
+| `prisma/` | Schema e migrações da biblioteca local |
 | `payload.ts` | Decode e parsing do protocolo |
 | `tauri.conf.json` | Configuração principal |
 | `.github/workflows/` | Build e release CI/CD |
@@ -244,6 +260,7 @@ Gaming Rumble/
 
 ```bash
 npm install
+npm run prisma:generate
 ```
 
 ### Rodar ambiente local
@@ -299,17 +316,21 @@ O workflow automatiza:
 |---|---|
 | Download State | Persistência local de progresso |
 | Event System | Eventos Tauri para logs e progresso |
-| Library Manager | Gerenciamento local da biblioteca |
+| Library Manager | Gerenciamento local da biblioteca em `SQLite` |
 | Extract Pipeline | Pipeline separada de extração |
 | Launcher Detection | Busca automática do executável |
+| Tray Runtime | Minimização para tray e restauração do launcher |
+| Session Tracking | Monitoramento de processo e tempo jogado |
 
 ---
 
 ## 🛠️ Notas Operacionais
 
 - O app utiliza janela customizada sem decoração nativa
+- O botão de fechar envia o launcher para o tray em vez de encerrar imediatamente
 - O estado dos downloads sobrevive a reload durante desenvolvimento
-- A biblioteca é mantida localmente pelo client
+- A biblioteca é mantida localmente pelo client com banco `SQLite`
+- Bibliotecas antigas em `library.json` são migradas automaticamente uma única vez quando encontradas
 - O fluxo foi desenhado para integração com o ecossistema Gaming Rumble
 - O projeto não pretende ser um client torrent genérico
 

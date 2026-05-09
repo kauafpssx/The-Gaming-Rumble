@@ -1,12 +1,15 @@
 use std::path::{Path, PathBuf};
 use std::process::{Command, Stdio};
 use std::io::{BufReader, Read};
+use std::collections::{HashMap, HashSet};
+use std::time::SystemTime;
 #[cfg(target_os = "windows")]
 use std::os::windows::process::CommandExt;
 use std::cmp::Ordering;
 use sevenz_rust::{decompress_file_with_password, Password};
 use std::sync::Mutex;
 use tauri::{AppHandle, Emitter, Manager};
+use tokio::time::{sleep, Duration};
 
 use super::logger::{LogLevel, log_tag};
 
@@ -86,6 +89,11 @@ pub async fn extract_game(app: AppHandle, install_path: String) -> Result<(), St
     }
     game_archives.sort_by(compare_archives);
     fix_archives.sort_by(compare_archives);
+    game_archives = dedupe_extract_roots(game_archives);
+    fix_archives = dedupe_extract_roots(fix_archives);
+
+    wait_for_archives_to_settle(&game_archives, &app, "jogo").await?;
+    wait_for_archives_to_settle(&fix_archives, &app, "fix").await?;
 
     let total_jobs = game_archives.len() + fix_archives.len();
     log_tag(LogLevel::INFO, "EXTRACT", format!("{} arquivo(s) de jogo e {} fix", game_archives.len(), fix_archives.len()));
@@ -231,6 +239,95 @@ fn parse_multi_part_info(file_name: &str) -> Option<(String, u32)> {
     );
 
     Some((group_name, part_number))
+}
+
+fn dedupe_extract_roots(archives: Vec<PathBuf>) -> Vec<PathBuf> {
+    let mut result = Vec::new();
+    let mut seen_groups = HashSet::new();
+
+    for archive in archives {
+        let file_name = archive.file_name()
+            .map(|name| name.to_string_lossy().to_lowercase())
+            .unwrap_or_default();
+
+        if let Some((group_name, _)) = parse_multi_part_info(&file_name) {
+            if seen_groups.insert(group_name) {
+                result.push(archive);
+            } else {
+                log_tag(LogLevel::DEBUG, "EXTRACT", format!("Ignorando volume adicional multipart: {}", file_name));
+            }
+        } else {
+            result.push(archive);
+        }
+    }
+
+    result
+}
+
+async fn wait_for_archives_to_settle(archives: &[PathBuf], app: &AppHandle, label: &str) -> Result<(), String> {
+    if archives.is_empty() {
+        return Ok(());
+    }
+
+    let mut previous_snapshot: Option<HashMap<String, (u64, Option<SystemTime>)>> = None;
+    let mut stable_passes = 0usize;
+
+    for attempt in 1..=12usize {
+        let snapshot = archive_snapshot(archives)?;
+        let has_partial = snapshot.keys().any(|path| path.to_lowercase().ends_with(".aria2"));
+
+        let same_as_before = previous_snapshot
+            .as_ref()
+            .map(|prev| prev == &snapshot)
+            .unwrap_or(false);
+
+        if !has_partial && same_as_before {
+            stable_passes += 1;
+            if stable_passes >= 2 {
+                log_tag(LogLevel::DEBUG, "EXTRACT", format!("Arquivos de {} estabilizados no disco.", label));
+                return Ok(());
+            }
+        } else {
+            stable_passes = 0;
+        }
+
+        previous_snapshot = Some(snapshot);
+
+        let _ = app.emit("extract-progress", serde_json::json!({
+            "type": "preparing",
+            "label": label,
+            "attempt": attempt,
+        }));
+        sleep(Duration::from_millis(750)).await;
+    }
+
+    Err(format!("Os arquivos de {} nao estabilizaram a tempo para iniciar a extracao.", label))
+}
+
+fn archive_snapshot(archives: &[PathBuf]) -> Result<HashMap<String, (u64, Option<SystemTime>)>, String> {
+    let mut snapshot = HashMap::new();
+
+    for archive in archives {
+        let meta = std::fs::metadata(archive)
+            .map_err(|e| format!("Nao foi possivel ler metadata de {:?}: {}", archive, e))?;
+        let modified = meta.modified().ok();
+        snapshot.insert(
+            archive.to_string_lossy().to_string(),
+            (meta.len(), modified),
+        );
+
+        let partial = PathBuf::from(format!("{}.aria2", archive.to_string_lossy()));
+        if partial.exists() {
+            let partial_meta = std::fs::metadata(&partial)
+                .map_err(|e| format!("Nao foi possivel ler metadata de {:?}: {}", partial, e))?;
+            snapshot.insert(
+                partial.to_string_lossy().to_string(),
+                (partial_meta.len(), partial_meta.modified().ok()),
+            );
+        }
+    }
+
+    Ok(snapshot)
 }
 
 /// Try system 7z first, fallback to sevenz-rust
@@ -454,6 +551,10 @@ fn promote_matching_nested_dir_to_root(root: &Path) -> usize {
 
         let child_name = entry.file_name().to_string_lossy().to_lowercase();
         if child_name == root_name {
+            if should_preserve_same_name_child(root, &path) {
+                log_tag(LogLevel::DEBUG, "FLATTEN", format!("Preservando pasta legitima {:?} dentro de {:?}", path, root));
+                continue;
+            }
             log_tag(LogLevel::INFO, "FLATTEN", format!("Promovendo {:?} para {:?}", path, root));
             move_all_to(&path, root);
             promoted += 1;
@@ -461,6 +562,49 @@ fn promote_matching_nested_dir_to_root(root: &Path) -> usize {
     }
 
     promoted
+}
+
+fn should_preserve_same_name_child(parent: &Path, child: &Path) -> bool {
+    let mut has_game_dir_markers = false;
+    let mut has_legit_exe = false;
+
+    let entries = match std::fs::read_dir(parent) {
+        Ok(entries) => entries,
+        Err(_) => return false,
+    };
+
+    for entry in entries.flatten() {
+        let path = entry.path();
+        if path == child {
+            continue;
+        }
+
+        let name = entry.file_name().to_string_lossy().to_lowercase();
+        if path.is_dir() {
+            if matches!(name.as_str(), "engine" | "_commonredist" | "content" | "binaries" | "plugins") {
+                has_game_dir_markers = true;
+            }
+            continue;
+        }
+
+        if path.extension().and_then(|ext| ext.to_str()).map(|ext| ext.eq_ignore_ascii_case("exe")).unwrap_or(false)
+            && !is_fix_artifact_name(&name)
+        {
+            has_legit_exe = true;
+        }
+    }
+
+    has_game_dir_markers || has_legit_exe
+}
+
+fn is_fix_artifact_name(name: &str) -> bool {
+    let lower = name.to_lowercase();
+    lower.contains("onlinefix")
+        || lower == "steam_api64.dll"
+        || lower == "steam_api.dll"
+        || lower == "winmm.dll"
+        || lower == "dlllist.txt"
+        || lower == "launcher.exe"
 }
 
 fn parse_7z_percent(line: &str) -> Option<f64> {
@@ -496,6 +640,9 @@ fn find_deepest_same_name_dir(start: &Path) -> PathBuf {
         };
         let same_name = dirs.iter().find(|e| e.file_name() == current_name);
         if let Some(entry) = same_name {
+            if should_preserve_same_name_child(&current, &entry.path()) {
+                break;
+            }
             current = entry.path();
         } else if dirs.len() == 1 && !entries.iter().any(|e| e.path().is_file()) {
             current = dirs[0].path();
@@ -594,10 +741,26 @@ fn merge_dirs(src: &Path, dst: &Path) {
 /// Then removes src.
 fn move_all_to(src: &Path, dest: &Path) {
     if !src.is_dir() || !dest.is_dir() { return; }
+    let mut deferred_moves: Vec<(PathBuf, PathBuf)> = Vec::new();
+
     if let Ok(entries) = std::fs::read_dir(src) {
         for entry in entries.flatten() {
             let src_path = entry.path();
             let dst_path = dest.join(entry.file_name());
+
+            if dst_path == src {
+                let temp_path = dest.join(format!(
+                    ".__gr_promote_tmp__{}",
+                    entry.file_name().to_string_lossy()
+                ));
+                let _ = std::fs::remove_dir_all(&temp_path);
+                let _ = std::fs::remove_file(&temp_path);
+                if std::fs::rename(&src_path, &temp_path).is_ok() {
+                    deferred_moves.push((temp_path, dst_path));
+                }
+                continue;
+            }
+
             if dst_path.exists() {
                 if src_path.is_dir() && dst_path.is_dir() {
                     merge_dirs(&src_path, &dst_path);
@@ -611,6 +774,19 @@ fn move_all_to(src: &Path, dest: &Path) {
         }
     }
     let _ = std::fs::remove_dir_all(src);
+
+    for (temp_path, final_path) in deferred_moves {
+        if final_path.exists() {
+            if temp_path.is_dir() && final_path.is_dir() {
+                merge_dirs(&temp_path, &final_path);
+            } else {
+                let _ = std::fs::remove_file(&final_path);
+                let _ = std::fs::rename(&temp_path, &final_path);
+            }
+        } else {
+            let _ = std::fs::rename(&temp_path, &final_path);
+        }
+    }
 }
 
 fn find_files_recursive(dir: &Path, ext: &str) -> Vec<PathBuf> {

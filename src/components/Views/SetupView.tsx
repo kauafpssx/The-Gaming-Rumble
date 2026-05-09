@@ -1,6 +1,7 @@
 import { useState, useEffect, useCallback, useMemo } from "react";
 import { invoke } from "@tauri-apps/api/core";
 import { Icon } from "../Icon";
+import { Tooltip } from "../Tooltip";
 import { clsx, type ClassValue } from "clsx";
 import { twMerge } from "tailwind-merge";
 import type { GamePayload } from "../../types";
@@ -153,22 +154,23 @@ export function SetupView({ payload, defaultDrive, onStart, onDownloadFixOnly }:
             )}
           </button>
 
-          <button
-            onClick={() => hasSpace && onDownloadFixOnly?.(path)}
-            disabled={!hasSpace || !onDownloadFixOnly}
-            title="Baixar somente o fix"
-            className={cn(
-              "flex-[1] h-20 rounded-3xl flex items-center justify-center border transition-all group",
-              hasSpace && onDownloadFixOnly
-                ? "cursor-pointer border-[#a4e6ff]/15 bg-white/[0.03] text-[#a4e6ff] hover:bg-[#a4e6ff]/10 hover:border-[#a4e6ff]/35 hover:shadow-[0_20px_40px_rgba(164,230,255,0.12)]"
-                : "cursor-not-allowed border-[#ffb4ab]/15 bg-[#ffb4ab]/10 text-[#ffb4ab]/60"
-            )}
-          >
-            <div className="flex flex-col items-center justify-center gap-1">
-              <Icon name="build" size={24} fill={1} className="group-hover:scale-110 transition-transform" />
-              <span className="text-[8px] tracking-[0.2em] font-black">FIX</span>
-            </div>
-          </button>
+          <Tooltip content="Baixar somente o fix" disabled={!hasSpace || !onDownloadFixOnly}>
+            <button
+              onClick={() => hasSpace && onDownloadFixOnly?.(path)}
+              disabled={!hasSpace || !onDownloadFixOnly}
+              className={cn(
+                "flex-[1] h-20 rounded-3xl flex items-center justify-center border transition-all group",
+                hasSpace && onDownloadFixOnly
+                  ? "cursor-pointer border-[#a4e6ff]/15 bg-white/[0.03] text-[#a4e6ff] hover:bg-[#a4e6ff]/10 hover:border-[#a4e6ff]/35 hover:shadow-[0_20px_40px_rgba(164,230,255,0.12)]"
+                  : "cursor-not-allowed border-[#ffb4ab]/15 bg-[#ffb4ab]/10 text-[#ffb4ab]/60"
+              )}
+            >
+              <div className="flex flex-col items-center justify-center gap-1">
+                <Icon name="build" size={24} fill={1} className="group-hover:scale-110 transition-transform" />
+                <span className="text-[8px] tracking-[0.2em] font-black">FIX</span>
+              </div>
+            </button>
+          </Tooltip>
         </div>
 
         {hasSpace && onDownloadFixOnly && (

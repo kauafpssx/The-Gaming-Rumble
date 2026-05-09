@@ -63,7 +63,7 @@ export function Header({ currentView, onViewChange, onLogoClick, interactionLock
               onClick={() => !interactionLocked && onViewChange(currentView === 'settings' ? 'library' : 'settings')}
               disabled={interactionLocked}
               className={cn(
-                "p-3 rounded-2xl transition-all border border-transparent cursor-pointer disabled:cursor-not-allowed disabled:opacity-40",
+                "h-12 w-12 rounded-2xl transition-all border border-transparent cursor-pointer disabled:cursor-not-allowed disabled:opacity-40 flex items-center justify-center shrink-0",
                 currentView === 'settings' ? "text-[#a4e6ff] bg-white/10 border-white/10 shadow-glow-sm" : "text-slate-500 hover:text-[#a4e6ff]"
               )}
             >
@@ -73,7 +73,7 @@ export function Header({ currentView, onViewChange, onLogoClick, interactionLock
             <button
               onClick={() => !interactionLocked && win.minimize()}
               disabled={interactionLocked}
-              className="p-3 rounded-2xl text-slate-500 hover:text-[#a4e6ff] hover:bg-white/10 transition-all cursor-pointer flex items-center justify-center disabled:cursor-not-allowed disabled:opacity-40"
+              className="h-12 w-12 rounded-2xl text-slate-500 hover:text-[#a4e6ff] hover:bg-white/10 transition-all cursor-pointer flex items-center justify-center disabled:cursor-not-allowed disabled:opacity-40 shrink-0"
             >
               <Icon name="remove" size={20} />
             </button>
@@ -81,7 +81,7 @@ export function Header({ currentView, onViewChange, onLogoClick, interactionLock
             <button
               onClick={() => !interactionLocked && win.close()}
               disabled={interactionLocked}
-              className="p-3 rounded-2xl text-slate-500 hover:text-red-400 hover:bg-red-400/10 transition-all cursor-pointer disabled:cursor-not-allowed disabled:opacity-40"
+              className="h-12 w-12 rounded-2xl text-slate-500 hover:text-red-400 hover:bg-red-400/10 transition-all cursor-pointer disabled:cursor-not-allowed disabled:opacity-40 flex items-center justify-center shrink-0"
             >
               <Icon name="close" size={20} />
             </button>

@@ -25,8 +25,24 @@ const DOWNLOAD_STATE_KEY = "gr_download_state";
 const LAST_PROTOCOL_PAYLOAD_KEY = "gr_last_protocol_payload";
 const POST_UPDATE_CHANGELOG_KEY = "gr_post_update_changelog_version";
 const DISABLE_DEFENDER_ON_START_KEY = "gr_disable_defender_on_start";
+const ADMIN_STATUS_CACHE_KEY = "gr_admin_status";
+const LIBRARY_CACHE_PREFIX = "gr_library_cache::";
 type DefenderStatus = {
   available: boolean;
+};
+
+type LibraryEntryCache = {
+  title: string;
+  install_path: string;
+  executable: string;
+  banner: string;
+  size_gb: number;
+  play_time_ms: number;
+};
+
+type LibraryEntryUpdatedEvent = {
+  drive: string;
+  entry: LibraryEntryCache;
 };
 
 type DownloadFinishedEvent = {
@@ -63,6 +79,8 @@ export default function App() {
     }
   });
   const [view, setView] = useState<View>("library");
+  const [isWindowVisible, setIsWindowVisible] = useState(true);
+  const [isAdmin, setIsAdmin] = useState(() => localStorage.getItem(ADMIN_STATUS_CACHE_KEY) === "true");
   const [downloadState, setDownloadState] = useState<DownloadState | null>(
     () => {
       try {
@@ -212,6 +230,18 @@ export default function App() {
       setView("setup");
     }
   }, [addLog, isProtocolLocked]);
+
+  useEffect(() => {
+    invoke<boolean>("check_is_admin")
+      .then((value) => {
+        setIsAdmin(value);
+        localStorage.setItem(ADMIN_STATUS_CACHE_KEY, String(value));
+      })
+      .catch(() => {
+        setIsAdmin(false);
+        localStorage.setItem(ADMIN_STATUS_CACHE_KEY, "false");
+      });
+  }, []);
 
   useEffect(() => {
     invoke<UpdateCheckResponse>("check_for_app_update")
@@ -567,6 +597,27 @@ export default function App() {
       });
     });
 
+    const unVisibility = listen<boolean>("app-visibility-changed", (event) => {
+      setIsWindowVisible(Boolean(event.payload));
+    });
+
+    const unLibraryEntryUpdated = listen<LibraryEntryUpdatedEvent>("library-entry-updated", (event) => {
+      const cacheKey = `${LIBRARY_CACHE_PREFIX}${event.payload.drive}`;
+
+      try {
+        const cached = localStorage.getItem(cacheKey);
+        if (!cached) return;
+
+        const parsed = JSON.parse(cached) as LibraryEntryCache[];
+        const next = parsed.map((game) =>
+          game.title === event.payload.entry.title ? { ...game, ...event.payload.entry } : game
+        );
+        localStorage.setItem(cacheKey, JSON.stringify(next));
+      } catch {
+        localStorage.removeItem(cacheKey);
+      }
+    });
+
     return () => {
       disposed = true;
       unDeep.then(f => f());
@@ -574,6 +625,8 @@ export default function App() {
       unFinished.then(f => f());
       unAppUpdate.then(f => f());
       unExtract.then(f => f());
+      unVisibility.then(f => f());
+      unLibraryEntryUpdated.then(f => f());
     };
   }, [processUrl, addLog]);
 
@@ -615,7 +668,7 @@ export default function App() {
   }
 
   function handleOpenLastProtocol() {
-    if (!lastProtocolPayload) return;
+    if (!lastProtocolPayload || isProtocolLocked) return;
     setActivePayload(lastProtocolPayload);
     setView("setup");
   }
@@ -691,75 +744,83 @@ export default function App() {
 
   return (
     <div className="relative flex flex-col h-screen bg-[#0e0e10] text-[#e5e1e4] font-['Inter'] overflow-hidden tracking-tighter shadow-2xl border border-white/5">
-      <Header 
-        currentView={view} 
-        onViewChange={setView} 
-        onLogoClick={() => setView('library')}
-        interactionLocked={isUpdateBlocking}
-      />
-
-      <AnimatePresence mode="wait">
-        {view === "setup" && activePayload && (
-          <motion.div key="setup" className="flex-1" initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -20 }}>
-             <SetupView payload={activePayload} defaultDrive={defaultDrive} onStart={handleStartInstall} onDownloadFixOnly={handleDownloadFixOnly} />
-          </motion.div>
-        )}
-        {view === "activity" && (
-          <motion.div key="activity" className="flex-1 flex items-center justify-center" initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }}>
-             <ActivityView
-               state={downloadState}
-               isPaused={downloadState?.isPaused || false}
-               onPause={async () => {
-                 if (downloadState?.isPaused) {
-                    await invoke("start_torrent", {
-                       magnet: activePayload?.magnet,
-                       installPath: downloadState.installPath
-                    });
-                    setDownloadState(prev => prev ? { ...prev, isPaused: false } : null);
-                 } else {
-                    await invoke("stop_torrent");
-                    setDownloadState(prev => prev ? { ...prev, isPaused: true } : null);
-                 }
-               }}
-               onCancel={async () => {
-                 await invoke("stop_torrent");
-                 if (downloadState && !downloadState.fixOnly) {
-                   await invoke("delete_folder", { path: downloadState.installPath }).catch(() => {});
-                 }
-                 setDownloadState(null);
-                 setView("library");
-               }}
-               onStartGame={async () => {
-                 if (downloadState?.fixOnly) {
-                   await invoke("open_path", {
-                     path: downloadState.installPath,
-                     selectFile: downloadState.fixFilePath || downloadState.installPath,
-                     preferSelect: true
-                   }).catch(() => {});
-                 }
-                 setDownloadState(null);
-                 setView("library");
-               }}
-             />
-          </motion.div>
-        )}
-        {view === "settings" && (
-          <SettingsView 
-            defaultDrive={defaultDrive} 
-            onDriveChange={(d) => setDefaultDrive(d)}
-            driveSelectionLocked={isDriveSelectionLocked}
+      {isWindowVisible ? (
+        <>
+          <Header 
+            currentView={view} 
+            onViewChange={setView} 
+            onLogoClick={() => setView('library')}
+            interactionLocked={isUpdateBlocking}
           />
-        )}
-        {view === "library" && <LibraryView defaultDrive={defaultDrive} />}
-      </AnimatePresence>
 
-      <Footer
-        installPath={downloadState?.installPath}
-        defaultDrive={defaultDrive}
-        onVersionClick={handleOpenReleaseNotes}
-        hasLastProtocol={Boolean(lastProtocolPayload)}
-        onLastProtocolClick={handleOpenLastProtocol}
-      />
+          <AnimatePresence mode="wait">
+            {view === "setup" && activePayload && (
+              <motion.div key="setup" className="flex-1" initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -20 }}>
+                 <SetupView payload={activePayload} defaultDrive={defaultDrive} onStart={handleStartInstall} onDownloadFixOnly={handleDownloadFixOnly} />
+              </motion.div>
+            )}
+            {view === "activity" && (
+              <motion.div key="activity" className="flex-1 flex items-center justify-center" initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }}>
+                 <ActivityView
+                   state={downloadState}
+                   isPaused={downloadState?.isPaused || false}
+                   onPause={async () => {
+                     if (downloadState?.isPaused) {
+                        await invoke("start_torrent", {
+                           magnet: activePayload?.magnet,
+                           installPath: downloadState.installPath
+                        });
+                        setDownloadState(prev => prev ? { ...prev, isPaused: false } : null);
+                     } else {
+                        await invoke("stop_torrent");
+                        setDownloadState(prev => prev ? { ...prev, isPaused: true } : null);
+                     }
+                   }}
+                   onCancel={async () => {
+                     await invoke("stop_torrent");
+                     if (downloadState && !downloadState.fixOnly) {
+                       await invoke("delete_folder", { path: downloadState.installPath }).catch(() => {});
+                     }
+                     setDownloadState(null);
+                     setView("library");
+                   }}
+                   onStartGame={async () => {
+                     if (downloadState?.fixOnly) {
+                       await invoke("open_path", {
+                         path: downloadState.installPath,
+                         selectFile: downloadState.fixFilePath || downloadState.installPath,
+                         preferSelect: true
+                       }).catch(() => {});
+                     }
+                     setDownloadState(null);
+                     setView("library");
+                   }}
+                 />
+              </motion.div>
+            )}
+            {view === "settings" && (
+              <SettingsView 
+                defaultDrive={defaultDrive} 
+                onDriveChange={(d) => setDefaultDrive(d)}
+                driveSelectionLocked={isDriveSelectionLocked}
+                isAdmin={isAdmin}
+              />
+            )}
+            {view === "library" && <LibraryView defaultDrive={defaultDrive} />}
+          </AnimatePresence>
+
+          <Footer
+            installPath={downloadState?.installPath}
+            defaultDrive={defaultDrive}
+            onVersionClick={handleOpenReleaseNotes}
+            hasLastProtocol={Boolean(lastProtocolPayload)}
+            onLastProtocolClick={handleOpenLastProtocol}
+            latestProtocolLocked={isProtocolLocked}
+          />
+        </>
+      ) : (
+        <div className="flex-1 bg-[#0e0e10]" />
+      )}
       <ReleaseNotesModal
         open={releaseNotesState.open}
         version={releaseNotesState.version}

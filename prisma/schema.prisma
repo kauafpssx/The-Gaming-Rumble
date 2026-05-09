@@ -1,0 +1,24 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+}
+
+model Game {
+  id          Int      @id @default(autoincrement())
+  drive       String
+  title       String
+  installPath String   @map("install_path")
+  executable  String
+  banner      String
+  sizeGb      Float    @default(0) @map("size_gb")
+  playTimeMs  BigInt   @default(0) @map("play_time_ms")
+  createdAt   DateTime @default(now()) @map("created_at")
+  updatedAt   DateTime @updatedAt @map("updated_at")
+
+  @@unique([drive, title])
+  @@index([drive, title])
+  @@map("games")
+}

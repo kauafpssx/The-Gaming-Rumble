@@ -1484,34 +1484,44 @@ class OnlineFixScraper:
         """Busca todos os links de download de todos os hosters para um jogo."""
         encoded_title = quote(title, safe='')
         url = f"{HOSTERS_BASE_URL}{encoded_title}"
-        try:
-            resp = self.session.get(url, timeout=15)
-            if resp.status_code != 200:
-                return None
-            soup = BeautifulSoup(resp.text, 'html.parser')
-            options = soup.select('.option')
-            if not options:
-                return None
-            hosters = {}
-            for opt in options:
-                hoster_name = opt.get_text(strip=True)
-                if not hoster_name:
+        for attempt in range(3):
+            try:
+                time.sleep(random.uniform(0.1, 0.4) * (attempt + 1))
+                resp = self.session.get(url, timeout=15)
+                if resp.status_code == 429:
+                    time.sleep(10 * (attempt + 1))
                     continue
-                data_links_raw = opt.get('data-links')
-                if not data_links_raw:
-                    continue
-                try:
-                    links = json.loads(data_links_raw)
-                    hosters[hoster_name] = [
-                        {"file_name": lnk["file_name"], "direct_link": lnk["direct_link"]}
-                        for lnk in links
-                        if lnk.get("file_name") and lnk.get("direct_link")
-                    ]
-                except (json.JSONDecodeError, KeyError):
-                    continue
-            return hosters if hosters else None
-        except Exception:
-            return None
+                if resp.status_code != 200:
+                    return None
+                soup = BeautifulSoup(resp.text, 'html.parser')
+                options = soup.select('.option')
+                if not options:
+                    if attempt < 2:
+                        continue
+                    return None
+                hosters = {}
+                for opt in options:
+                    hoster_name = opt.get_text(strip=True)
+                    if not hoster_name:
+                        continue
+                    data_links_raw = opt.get('data-links')
+                    if not data_links_raw:
+                        continue
+                    try:
+                        links = json.loads(data_links_raw)
+                        hosters[hoster_name] = [
+                            {"file_name": lnk["file_name"], "direct_link": lnk["direct_link"]}
+                            for lnk in links
+                            if lnk.get("file_name") and lnk.get("direct_link")
+                        ]
+                    except (json.JSONDecodeError, KeyError):
+                        continue
+                return hosters if hosters else None
+            except Exception:
+                if attempt < 2:
+                    time.sleep(1 * (attempt + 1))
+                continue
+        return None
 
     def find_torrent_robust(self, title):
         self._set_webdav_cookies()

@@ -1643,9 +1643,6 @@ class OnlineFixScraper:
                         break
                     elif resp.status_code == 401:
                         last_reason = {"reason": "401", "status_code": 401}
-                        if attempt < 2:
-                            time.sleep(2)
-                            continue
                         break
                     elif resp.status_code == 402:
                         last_reason = {"reason": "402", "status_code": 402}
@@ -1684,9 +1681,6 @@ class OnlineFixScraper:
                         break  # Pasta não existe/bloqueada, tentar próxima variação
                     if resp.status_code == 401:
                         last_reason = {"reason": "401", "status_code": 401}
-                        if attempt < 2:
-                            time.sleep(3)
-                            continue
                         break
                     if resp.status_code == 402:
                         last_reason = {"reason": "402", "status_code": 402}
@@ -1959,11 +1953,9 @@ class OnlineFixScraper:
                         if t_resp.status_code == 429:
                             time.sleep(10)
                             continue
-                        if t_resp.status_code == 401:
-                            time.sleep(2 * (t_attempt + 1))
-                            continue  # Tenta com outro proxy
                         if t_resp.status_code == 200:
                             break
+                        break  # 401, 403, etc — não retenta
                     except Exception:
                         time.sleep(2)
 

@@ -1612,9 +1612,12 @@ class OnlineFixScraper:
                         last_reason = {"reason": "401", "status_code": 401}
                         time.sleep(1 * (attempt + 1))
                         continue  # Tenta com outro proxy
-                    elif resp.status_code in (402, 403):
-                        last_reason = {"reason": str(resp.status_code), "status_code": resp.status_code}
-                        continue  # Tenta com outro proxy
+                    elif resp.status_code == 402:
+                        last_reason = {"reason": "402", "status_code": 402}
+                        continue  # Payment Required — tenta com outro proxy
+                    elif resp.status_code == 403:
+                        last_reason = {"reason": "403", "status_code": 403}
+                        break  # Forbidden — arquivo bloqueado, tentar próxima variação
                     else:
                         if attempt < 3:
                             time.sleep(1 * (attempt + 1))
@@ -1649,10 +1652,13 @@ class OnlineFixScraper:
                         last_reason = {"reason": "401", "status_code": 401}
                         time.sleep(2 * (attempt + 1))
                         continue  # Tenta com outro proxy
-                    if resp.status_code in (402, 403):
-                        last_reason = {"reason": str(resp.status_code), "status_code": resp.status_code}
+                    if resp.status_code == 402:
+                        last_reason = {"reason": "402", "status_code": 402}
                         time.sleep(1 * (attempt + 1))
-                        continue  # Tenta com outro proxy
+                        continue  # Payment Required — tenta com outro proxy
+                    if resp.status_code == 403:
+                        last_reason = {"reason": "403", "status_code": 403}
+                        break  # Forbidden — pasta bloqueada, tentar próxima variação
                     if resp.status_code != 200:
                         last_reason = {"reason": str(resp.status_code), "status_code": resp.status_code}
                         break

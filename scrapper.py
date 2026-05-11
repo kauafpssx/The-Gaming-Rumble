@@ -46,6 +46,7 @@ except ImportError:
 USER          = os.getenv("ONLINEFIX_USER", "")
 PASS          = os.getenv("ONLINEFIX_PASS", "")
 BASE_URL      = "https://online-fix.me/"
+HOSTERS_BASE_URL = "https://hosters.online-fix.me:2053/"
 WEBDAV_ROOT   = "https://uploads.online-fix.me:2053/torrents/"
 TORRENT_DIR   = "torrents"
 DEFAULT_GITHUB_REPO = "zKauaFerreira/The-Gaming-Rumble"
@@ -1477,6 +1478,39 @@ class OnlineFixScraper:
                 print(f"    ❌ Erro ao processar appdetails para {appid}: {e}")
             return {"not_found": True, "reason": "exception", "search_url": base_search_url}, base_search_url
 
+    def fetch_hoster_links(self, title):
+        """Busca todos os links de download de todos os hosters para um jogo."""
+        encoded_title = quote(title, safe='')
+        url = f"{HOSTERS_BASE_URL}{encoded_title}"
+        try:
+            resp = self.session.get(url, timeout=15)
+            if resp.status_code != 200:
+                return None
+            soup = BeautifulSoup(resp.text, 'html.parser')
+            options = soup.select('.option')
+            if not options:
+                return None
+            hosters = {}
+            for opt in options:
+                hoster_name = opt.get_text(strip=True)
+                if not hoster_name:
+                    continue
+                data_links_raw = opt.get('data-links')
+                if not data_links_raw:
+                    continue
+                try:
+                    links = json.loads(data_links_raw)
+                    hosters[hoster_name] = [
+                        {"file_name": lnk["file_name"], "direct_link": lnk["direct_link"]}
+                        for lnk in links
+                        if lnk.get("file_name") and lnk.get("direct_link")
+                    ]
+                except (json.JSONDecodeError, KeyError):
+                    continue
+            return hosters if hosters else None
+        except Exception:
+            return None
+
     def find_torrent_robust(self, title):
         self._set_webdav_cookies()
         last_reason = {"reason": "NO_TORRENT_LINK", "status_code": 404}
@@ -1901,6 +1935,8 @@ class OnlineFixScraper:
             match_via = steam.get('match_via') if steam_ok and isinstance(steam, dict) else None
             print(self._format_game_log_line(current_idx, total_games, title, p, True, steam_ok, latency_ms, str(reason), match_via, run_state))
 
+            hoster_links = self.fetch_hoster_links(title)
+
             return {
                 **current_scraped_game,
                 "unique_hash": metadata["unique_hash"],
@@ -1913,6 +1949,7 @@ class OnlineFixScraper:
                 "comment": metadata["comment"],
                 "scraped_at": self._format_now(),
                 "steam": steam,
+                "hoster_links": hoster_links,
             }
 
         from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -1994,6 +2031,7 @@ class OnlineFixScraper:
                             "update_info": current_scraped_game.get('update_info', existing_game_in_all_data.get('update_info')),
                             "update_date": current_scraped_game.get('update_date', existing_game_in_all_data.get('update_date')),
                             "formatted_update_date": current_scraped_game.get('formatted_update_date', existing_game_in_all_data.get('formatted_update_date')),
+                            "hoster_links": current_scraped_game.get('hoster_links') or existing_game_in_all_data.get('hoster_links'),
                             "scraped_at": self._format_now()
                         })
                         # Substituir o item antigo com as informações atualizadas

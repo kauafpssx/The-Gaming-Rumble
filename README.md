@@ -57,6 +57,7 @@ Este projeto automatiza toda a pipeline de coleta dos jogos do Online-Fix:
 - Extrai metadados do torrent como BTIH, lista de arquivos e magnet link
 - Tenta encontrar o jogo no catálogo local da Steam
 - Busca `appdetails` da Steam apenas para matches confiáveis
+- Busca todos os links de download de cada jogo em `hosters.online-fix.me` (Rootz, VikingFile, Pixeldrain, DataNodes, Gofile)
 - Publica `online_fix_games.json` como dataset principal
 - Publica `stats.json` para badges, automações e consumo externo
 
@@ -249,6 +250,7 @@ Esses dados são distribuídos nos campos abaixo:
 | `comment`               | Comentário embutido no torrent                                  |
 | `scraped_at`            | Timestamp local em que a entrada foi processada                 |
 | `steam`                 | Objeto com metadados da Steam ou payload `not_found` com motivo |
+| `hoster_links`          | Links de download por hoster (Rootz, VikingFile, Pixeldrain, DataNodes, Gofile) ou `null` se indisponível |
 
 <details>
 <summary><strong>Exemplo de entrada</strong></summary>
@@ -290,6 +292,14 @@ Esses dados são distribuídos nos campos abaixo:
       "recommended": null
     },
     "controller_support": "full"
+  },
+  "hoster_links": {
+    "Rootz": [
+      {"file_name": "10.Miles.to.Safety.v1.0-OFME.part1.rar", "direct_link": "https://rootz.so/d/XXXXX"}
+    ],
+    "Pixeldrain": [
+      {"file_name": "10.Miles.to.Safety.v1.0-OFME.part1.rar", "direct_link": "https://pixeldrain.com/u/XXXXX"}
+    ]
   }
 }
 ```
@@ -328,6 +338,38 @@ Se o scraper não conseguir validar um match seguro, ele grava um fallback leve 
   "search_url": "https://store.steampowered.com/api/storesearch/?term=example&l=portuguese&cc=BR"
 }
 ```
+
+</details>
+
+<details>
+<summary><strong>Exemplo do objeto hoster_links</strong></summary>
+
+Cada chave é o nome do hoster. Cada valor é uma lista de arquivos com nome e link direto.
+
+```json
+{
+  "Rootz": [
+    {"file_name": "SnowRunner_Fix_Repair_GDK.rar", "direct_link": "https://rootz.so/d/1kic08"},
+    {"file_name": "SnowRunner.v1.0.151.0-OFME.part01.rar", "direct_link": "https://rootz.so/d/1iZiaG"},
+    {"file_name": "SnowRunner.v1.0.151.0-OFME.part02.rar", "direct_link": "https://rootz.so/d/1qdQJM"}
+  ],
+  "VikingFile": [
+    {"file_name": "SnowRunner_Fix_Repair_GDK.rar", "direct_link": "https://vikingfile.com/f/eOwQ7yi9yU"},
+    {"file_name": "SnowRunner.v1.0.151.0-OFME.part01.rar", "direct_link": "https://vikingfile.com/f/sVKDwhpNqu"}
+  ],
+  "Pixeldrain": [
+    {"file_name": "SnowRunner_Fix_Repair_GDK.rar", "direct_link": "https://pixeldrain.com/u/FmkYM4Sz"}
+  ],
+  "DataNodes": [
+    {"file_name": "SnowRunner_Fix_Repair_GDK.rar", "direct_link": "https://datanodes.to/g8burcz39629"}
+  ],
+  "Gofile": [
+    {"file_name": "SnowRunner_Fix_Repair_GDK.rar", "direct_link": "https://gofile.io/d/6rzUTO"}
+  ]
+}
+```
+
+Nem todos os jogos têm todos os hosters. O campo é `null` quando a página `hosters.online-fix.me/{titulo}` não responde ou não tem links disponíveis.
 
 </details>
 
@@ -393,11 +435,13 @@ flowchart LR
   D --> E["Metadados torrent\n(bencode → hash, magnet, files)"]
   B --> F["Match Steam\n(fuzzy + ML Guard)"]
   F -->|appid confirmado| G["Steam appdetails\n+ Translate PT-BR"]
+  B --> HL["hosters.online-fix.me\n(Rootz, VikingFile,\nPixeldrain, DataNodes,\nGofile)"]
 
   %% Outputs
   C --> H[("online_fix_games.json\n1700+ jogos")]
   E --> H
   G --> H
+  HL --> H
   D --> I[("torrents/batch_1..N/")]
   H --> J[("stats.json")]
   J -->|Shields.io dynamic/json| K["🏷️ Badges do README"]
@@ -773,7 +817,7 @@ Consultas úteis:
 > Não faça commit de credenciais reais, cookies ou listas privadas de proxy neste repositório.
 
 > [!TIP]
-> Se o HTML do site mudar, comece revisando `_extract_games`, `find_torrent_robust` e os helpers de Steam matching dentro de `scrapper.py`.
+> Se o HTML do site mudar, comece revisando `_extract_games`, `find_torrent_robust`, `fetch_hoster_links` e os helpers de Steam matching dentro de `scrapper.py`.
 
 ## 📜 Licença
 

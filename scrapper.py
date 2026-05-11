@@ -1527,25 +1527,7 @@ class OnlineFixScraper:
                 continue
         return None
 
-    def _torrent_hints_from_hosters(self, hoster_links):
-        """Deriva nomes de arquivo .torrent a partir dos nomes de arquivo dos hosters."""
-        if not hoster_links:
-            return []
-        files = next(iter(hoster_links.values()), [])
-        seen = set()
-        hints = []
-        for f in files:
-            fname = f.get('file_name', '')
-            if not fname or 'fix' in fname.lower() or 'repair' in fname.lower():
-                continue
-            base = re.sub(r'\.part\d+\.rar$', '', fname, flags=re.I)
-            base = re.sub(r'\.rar$', '', base, flags=re.I)
-            if base and base not in seen:
-                seen.add(base)
-                hints.append(base + '.torrent')
-        return hints
-
-    def find_torrent_robust(self, title, hoster_hints=None):
+    def find_torrent_robust(self, title):
         self._set_webdav_cookies()
         last_reason = {"reason": "NO_TORRENT_LINK", "status_code": 404}
         # Normaliza o título base
@@ -1601,36 +1583,12 @@ class OnlineFixScraper:
                 if quoted_name not in direct_variations:
                     direct_variations.append(quoted_name)
 
-        # Fase 0: tenta URLs exatas derivadas dos nomes de arquivo dos hosters
-        # Ex: WEBDAV_ROOT/Beyond Sandbox/Beyond.Sandbox.v0.10.4-OFME.torrent
-        if hoster_hints:
-            for variant_name in name_variants:
-                folder = quote(variant_name, safe='')
-                for torrent_filename in hoster_hints:
-                    hint_url = f"{WEBDAV_ROOT}{folder}/{quote(torrent_filename, safe='')}"
-                    try:
-                        time.sleep(random.uniform(0.1, 0.3))
-                        resp = self.session.get(hint_url, headers=WEBDAV_HEADERS, timeout=(5, 10))
-                        if resp.status_code == 200:
-                            webdav_date = resp.headers.get('last-modified', 'Unknown')
-                            return hint_url, webdav_date, hint_url, {"reason": "OK", "status_code": 200}
-                        if resp.status_code == 401:
-                            # Tenta mais uma vez (transient)
-                            time.sleep(1)
-                            resp2 = self.session.get(hint_url, headers=WEBDAV_HEADERS, timeout=(5, 10))
-                            if resp2.status_code == 200:
-                                webdav_date = resp2.headers.get('last-modified', 'Unknown')
-                                return hint_url, webdav_date, hint_url, {"reason": "OK", "status_code": 200}
-                            last_reason = {"reason": "401", "status_code": 401}
-                    except Exception:
-                        pass
-
         # Tenta acesso direto primeiro
         for direct_var in direct_variations:
             time.sleep(random.uniform(0.2, 0.5))
             direct_url = f"{WEBDAV_ROOT}{direct_var}"
             try:
-                for attempt in range(4):
+                for attempt in range(3):
                     time.sleep(0.1)
                     resp = self.session.get(direct_url, headers=WEBDAV_HEADERS, timeout=(5, 10))
 
@@ -1646,21 +1604,17 @@ class OnlineFixScraper:
                             webdav_date = resp.headers.get('last-modified', 'Unknown')
                             return direct_url, webdav_date, direct_url, {"reason": "OK", "status_code": 200}
                         break
-                    elif resp.status_code == 404:
-                        last_reason = {"reason": "404", "status_code": 404}
-                        break  # Arquivo não existe, tentar próxima variação
-                    elif resp.status_code == 401:
-                        last_reason = {"reason": "401", "status_code": 401}
-                        time.sleep(1 * (attempt + 1))
-                        continue  # Tenta com outro proxy
+                    elif resp.status_code == 401 or resp.status_code == 404:
+                        last_reason = {"reason": str(resp.status_code), "status_code": resp.status_code}
+                        break  # Arquivo não existe ou não autorizado, tentar próxima variação
                     elif resp.status_code == 402:
                         last_reason = {"reason": "402", "status_code": 402}
-                        continue  # Payment Required — tenta com outro proxy
+                        break
                     elif resp.status_code == 403:
                         last_reason = {"reason": "403", "status_code": 403}
                         break  # Forbidden — arquivo bloqueado, tentar próxima variação
                     else:
-                        if attempt < 3:
+                        if attempt < 2:
                             time.sleep(1 * (attempt + 1))
                         continue
                 break
@@ -1685,20 +1639,13 @@ class OnlineFixScraper:
                         time.sleep(wait)
                         continue
 
-                    if resp.status_code == 404:
-                        last_reason = {"reason": "404", "status_code": 404}
-                        break  # Pasta não existe, tentar próxima variação
-                    if resp.status_code == 401:
-                        last_reason = {"reason": "401", "status_code": 401}
-                        time.sleep(2 * (attempt + 1))
-                        continue  # Tenta com outro proxy
+                    if resp.status_code in [401, 403, 404]:
+                        last_reason = {"reason": str(resp.status_code), "status_code": resp.status_code}
+                        break  # Pasta não existe/bloqueada, tentar próxima variação
                     if resp.status_code == 402:
                         last_reason = {"reason": "402", "status_code": 402}
                         time.sleep(1 * (attempt + 1))
                         continue  # Payment Required — tenta com outro proxy
-                    if resp.status_code == 403:
-                        last_reason = {"reason": "403", "status_code": 403}
-                        break  # Forbidden — pasta bloqueada, tentar próxima variação
                     if resp.status_code != 200:
                         last_reason = {"reason": str(resp.status_code), "status_code": resp.status_code}
                         break
@@ -1941,19 +1888,14 @@ class OnlineFixScraper:
             page_dir = os.path.join(TORRENT_DIR, f"batch_{p}")
             os.makedirs(page_dir, exist_ok=True)
 
-            # --- Hosters primeiro: filenames usados como hints pro torrent ---
-            hoster_links = self.fetch_hoster_links(title)
-            hoster_count = len(hoster_links) if hoster_links else 0
-            hoster_hints = self._torrent_hints_from_hosters(hoster_links)
-
-            # --- Torrent (falha não descarta o jogo se houver hosters) ---
+            # --- Torrent ---
             torrent_ok = False
             metadata = None
             torrent_link = None
             webdav_date = None
             torrent_reason = "NO_TORRENT_LINK"
 
-            torrent_url, webdav_date_raw, folder_url, torrent_meta = self.find_torrent_robust(title, hoster_hints=hoster_hints)
+            torrent_url, webdav_date_raw, folder_url, torrent_meta = self.find_torrent_robust(title)
             if torrent_url:
                 webdav_date = webdav_date_raw
                 t_resp = None
@@ -1993,6 +1935,10 @@ class OnlineFixScraper:
                     torrent_reason = str(getattr(t_resp, 'status_code', 'TORRENT_DOWNLOAD_ERR'))
             else:
                 torrent_reason = torrent_meta.get("reason", "NO_TORRENT_LINK")
+
+            # --- Hosters ---
+            hoster_links = self.fetch_hoster_links(title)
+            hoster_count = len(hoster_links) if hoster_links else 0
 
             # Descarta só se não há nenhum método de download
             if not torrent_ok and not hoster_links:

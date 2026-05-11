@@ -1075,13 +1075,14 @@ class OnlineFixScraper:
         except Exception:
             return 0
 
-    def _format_game_log_line(self, current_idx, total, name, page_num, torrent_ok, steam_ok, latency_ms, reason, match_via=None, run_state=None):
+    def _format_game_log_line(self, current_idx, total, name, page_num, torrent_ok, steam_ok, latency_ms, reason, match_via=None, run_state=None, hoster_count=None):
         icon = "✅" if torrent_ok and steam_ok else "❌"
         torrent_status = "OK" if torrent_ok else "!!"
         steam_status = "OK" if steam_ok else "!!"
         safe_reason = (reason or "OK")[:18]
         safe_via = (match_via or "--")[:5]
         safe_state = (run_state or "--")[:3]
+        hoster_str = f"{hoster_count}" if hoster_count is not None else "?"
         return (
             f"{icon} "
             f"[{current_idx:04d}/{total:04d}] "
@@ -1089,6 +1090,7 @@ class OnlineFixScraper:
             f"| T:{torrent_status} S:{steam_status} G:{safe_via:<5} R:{safe_state:<3} "
             f"| {latency_ms:>4}ms "
             f"| P:{page_num:03d} "
+            f"| Pr:{hoster_str:<1} "
             f"| {self._proxy_log_icon()} "
             f"| M:{self._memory_usage_mb():>4}MB "
             f"| {safe_reason:<18} "
@@ -1930,12 +1932,14 @@ class OnlineFixScraper:
 
             steam, _ = self.get_steam_data(title, verbose=False)
             steam_ok = bool(steam and not steam.get('not_found'))
+
+            hoster_links = self.fetch_hoster_links(title)
+            hoster_count = len(hoster_links) if hoster_links else 0
+
             latency_ms = int((time.time() - started_at) * 1000)
             reason = "OK" if steam_ok else steam.get('reason', 'NO_STEAM_MATCH')
             match_via = steam.get('match_via') if steam_ok and isinstance(steam, dict) else None
-            print(self._format_game_log_line(current_idx, total_games, title, p, True, steam_ok, latency_ms, str(reason), match_via, run_state))
-
-            hoster_links = self.fetch_hoster_links(title)
+            print(self._format_game_log_line(current_idx, total_games, title, p, True, steam_ok, latency_ms, str(reason), match_via, run_state, hoster_count))
 
             return {
                 **current_scraped_game,

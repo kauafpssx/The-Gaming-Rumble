@@ -618,9 +618,9 @@ O processamento da fase 2 agora prioriza uma linha compacta por jogo, reduzindo 
 Exemplo:
 
 ```text
-✅ [0002/0138] | RoadCraft                 | T:OK S:OK G:canon R:NEW | 4257ms | P:001 | 🌐 | M: 260MB | OK                 | 16:30:20
-✅ [0007/0138] | Some Existing Game        | T:OK S:OK G:model R:UPD | 3200ms | P:004 | 🌐 | M: 260MB | OK                 | 16:30:20
-❌ [0009/0138] | Old Existing Game         | T:!! S:!! G:--    R:OLD | 1600ms | P:004 | 🌐 | M: 260MB | 401                | 16:30:21
+✅ [0002/0138] | RoadCraft                 | T:OK S:OK G:canon R:NEW | 4257ms | P:001 | Pr:5 | 🌐 | M: 260MB | OK                 | 16:30:20
+✅ [0007/0138] | Some Existing Game        | T:OK S:OK G:model R:UPD | 3200ms | P:004 | Pr:3 | 🌐 | M: 260MB | OK                 | 16:30:20
+❌ [0009/0138] | Old Existing Game         | T:!! S:!! G:--    R:OLD | 1600ms | P:004 | Pr:? | 🌐 | M: 260MB | 401                | 16:30:21
 ```
 
 ### Campos da linha
@@ -636,6 +636,7 @@ Exemplo:
 | `R:NEW / UPD / OLD`                    | se o item é novo, update ou apenas já conhecido |
 | `ms`                                   | latência total por jogo                         |
 | `P:NNN`                                | página de origem no Online-Fix                  |
+| `Pr:N`                                 | quantidade de providers (hosters) encontrados; `?` quando o torrent falhou antes de buscar |
 | `🌐 / 🏠`                              | proxy ativo ou conexão local                    |
 | `M:NNNMB`                              | memória do processo quando disponível           |
 | motivo final                           | resumo do resultado ou da falha                 |

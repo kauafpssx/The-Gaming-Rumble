@@ -557,7 +557,20 @@ class OnlineFixScraper:
 
     def _set_webdav_cookies(self):
         for cookie in list(self.session.cookies):
-            self.session.cookies.set(cookie.name, cookie.value, domain='uploads.online-fix.me')
+            if cookie.domain and 'uploads.online-fix.me' not in cookie.domain:
+                self.session.cookies.set(cookie.name, cookie.value, domain='uploads.online-fix.me')
+
+    def _warmup_webdav(self):
+        """Faz uma request inicial ao WebDAV para resolver CF challenge do domínio."""
+        try:
+            resp = self.session.get(
+                f"{WEBDAV_ROOT}",
+                headers=WEBDAV_HEADERS,
+                timeout=(10, 15),
+            )
+            print(f"WebDAV warmup: {resp.status_code}")
+        except Exception as e:
+            print(f"WebDAV warmup falhou: {e}")
 
     def clean_name_for_url(self, title):
         name = self._normalize_game_title(title)
@@ -1528,7 +1541,6 @@ class OnlineFixScraper:
         return None
 
     def find_torrent_robust(self, title):
-        self._set_webdav_cookies()
         last_reason = {"reason": "NO_TORRENT_LINK", "status_code": 404}
         # Normaliza o título base
         name_base = self._normalize_game_title(title)
@@ -1604,9 +1616,15 @@ class OnlineFixScraper:
                             webdav_date = resp.headers.get('last-modified', 'Unknown')
                             return direct_url, webdav_date, direct_url, {"reason": "OK", "status_code": 200}
                         break
-                    elif resp.status_code == 401 or resp.status_code == 404:
-                        last_reason = {"reason": str(resp.status_code), "status_code": resp.status_code}
-                        break  # Arquivo não existe ou não autorizado, tentar próxima variação
+                    elif resp.status_code == 404:
+                        last_reason = {"reason": "404", "status_code": 404}
+                        break
+                    elif resp.status_code == 401:
+                        last_reason = {"reason": "401", "status_code": 401}
+                        if attempt < 2:
+                            time.sleep(2)
+                            continue
+                        break
                     elif resp.status_code == 402:
                         last_reason = {"reason": "402", "status_code": 402}
                         break
@@ -1639,9 +1657,15 @@ class OnlineFixScraper:
                         time.sleep(wait)
                         continue
 
-                    if resp.status_code in [401, 403, 404]:
+                    if resp.status_code in [403, 404]:
                         last_reason = {"reason": str(resp.status_code), "status_code": resp.status_code}
                         break  # Pasta não existe/bloqueada, tentar próxima variação
+                    if resp.status_code == 401:
+                        last_reason = {"reason": "401", "status_code": 401}
+                        if attempt < 2:
+                            time.sleep(3)
+                            continue
+                        break
                     if resp.status_code == 402:
                         last_reason = {"reason": "402", "status_code": 402}
                         time.sleep(1 * (attempt + 1))
@@ -1762,6 +1786,8 @@ class OnlineFixScraper:
 
     def run(self, pages=None, workers=6, start_page=1):
         self.login()
+        self._set_webdav_cookies()
+        self._warmup_webdav()
 
         max_page = self.get_max_page()
         limit_page = pages if pages else max_page

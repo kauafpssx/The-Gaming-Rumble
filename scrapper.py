@@ -562,24 +562,37 @@ class OnlineFixScraper:
             self.session.cookies.set(cookie.name, cookie.value, domain='uploads.online-fix.me')
 
     def _warmup_webdav(self):
-        """Faz request inicial ao WebDAV para resolver CF challenge e estabelecer sessão."""
-        for attempt in range(4):
+        """Bate no root do uploads para obter online_fix_auth antes de acessar /torrents/."""
+        root_url = "https://uploads.online-fix.me:2053/"
+        warmup_headers = {**WEBDAV_HEADERS, "referer": root_url, "sec-fetch-site": "none"}
+
+        # Passo 1: root — servidor gera online_fix_auth aqui
+        for attempt in range(3):
             try:
-                resp = self.session.get(
-                    WEBDAV_ROOT,
-                    headers=WEBDAV_HEADERS,
-                    timeout=(10, 15),
-                )
-                print(f"WebDAV warmup: {resp.status_code}")
-                if resp.status_code == 200:
-                    return
+                resp = self.session.get(root_url, headers=warmup_headers, timeout=(12, 20))
+                print(f"WebDAV root warmup: {resp.status_code}")
+                cookies_now = [c.name for c in self.session.cookies if 'uploads.online-fix.me' in (c.domain or '')]
+                print(f"Cookies uploads após root: {cookies_now}")
+                if resp.status_code in [200, 301, 302]:
+                    break
                 if resp.status_code in [401, 403]:
                     time.sleep(3 * (attempt + 1))
                     self._set_webdav_cookies()
             except Exception as e:
-                print(f"WebDAV warmup falhou (tentativa {attempt+1}): {e}")
+                print(f"WebDAV root warmup erro (tentativa {attempt+1}): {e}")
                 time.sleep(3)
-        print("WebDAV warmup: não conseguiu 200 — continuando mesmo assim")
+
+        # Passo 2: /torrents/ — confirma acesso
+        for attempt in range(2):
+            try:
+                resp = self.session.get(WEBDAV_ROOT, headers=WEBDAV_HEADERS, timeout=(12, 20))
+                print(f"WebDAV /torrents/ warmup: {resp.status_code}")
+                if resp.status_code == 200:
+                    return
+                time.sleep(3)
+            except Exception as e:
+                print(f"WebDAV /torrents/ warmup erro: {e}")
+                time.sleep(3)
 
     def clean_name_for_url(self, title):
         name = self._normalize_game_title(title)

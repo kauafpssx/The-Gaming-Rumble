@@ -2152,24 +2152,13 @@ class OnlineFixScraper:
 
             if hosters_ok:
                 fase3_filled = 0
-
-                def fetch_hoster_for_existing(item):
+                for item in games_missing_hosters:
                     title = item.get('title', '')
                     links = self.fetch_hoster_links(title)
                     if links:
                         item['hoster_links'] = links
                         print(f"  ✅ Hosters: {title} ({len(links)} providers)")
-                    return links is not None
-
-                with ThreadPoolExecutor(max_workers=4) as executor:
-                    futures = {executor.submit(fetch_hoster_for_existing, item): item for item in games_missing_hosters}
-                    for future in as_completed(futures):
-                        try:
-                            if future.result():
-                                fase3_filled += 1
-                        except Exception:
-                            pass
-
+                        fase3_filled += 1
                 print(f"FASE 3: {fase3_filled}/{len(games_missing_hosters)} jogos com providers preenchidos.")
 
         # Salvar

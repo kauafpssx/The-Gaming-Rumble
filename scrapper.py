@@ -1321,6 +1321,7 @@ class OnlineFixScraper:
             if isinstance(item.get('steam'), dict) and not item['steam'].get('not_found')
         )
         steam_without_metadata = len(downloads) - steam_with_metadata
+        games_with_providers = sum(1 for item in downloads if item.get('hoster_links'))
 
         pages_in_json = sorted({
             item.get('page') for item in downloads
@@ -1386,6 +1387,7 @@ class OnlineFixScraper:
             "processed_games_this_run": processed_results,
             "torrent_files_total": self._count_local_torrent_files(),
             "json_entries_with_torrent": sum(1 for item in downloads if item.get('torrent_file')),
+            "games_with_providers": games_with_providers,
             "last_scrape_at": last_scrape_at,
             "last_scrape_at_display": format_stat_datetime(last_scrape_at),
             "last_game_update": last_game_update,
@@ -1506,6 +1508,8 @@ class OnlineFixScraper:
                 "is_free": d.get('is_free', False),
                 "pc_requirements": parse_req('pc_requirements'),
                 "controller_support": d.get('controller_support'),
+                "categories": d.get('categories', []),
+                "genres": d.get('genres', []),
             }, base_search_url
 
         except Exception as e:

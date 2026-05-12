@@ -2156,23 +2156,30 @@ class OnlineFixScraper:
                 total_missing = len(games_missing_hosters)
                 for i, item in enumerate(games_missing_hosters, 1):
                     title = item.get('title', '')
+                    page_num = item.get('page', 0) or 0
+                    steam = item.get('steam') or {}
+                    steam_ok = bool(steam and not steam.get('not_found'))
+                    match_via = steam.get('match_via') if isinstance(steam, dict) else None
                     t0 = time.time()
                     links = self.fetch_hoster_links(title)
                     elapsed = time.time() - t0
+                    latency_ms = int(elapsed * 1000)
                     if links:
                         item['hoster_links'] = links
-                        print(f"  ✅ Hosters: {title} ({len(links)} providers)")
                         fase3_filled += 1
                         consecutive_slow = 0
+                        reason = "PROVIDERS"
                     elif elapsed >= 9:
                         consecutive_slow += 1
-                        if consecutive_slow >= 5:
-                            print(f"FASE 3: servidor travando requisições — abortando após {i}/{total_missing} jogos.")
-                            break
+                        reason = "TIMEOUT"
                     else:
                         consecutive_slow = 0
-                    if i % 100 == 0:
-                        print(f"FASE 3: [{i}/{total_missing}] {fase3_filled} providers encontrados...")
+                        reason = "NO_PROVIDERS"
+                    hoster_count = len(links) if links else 0
+                    print(self._format_game_log_line(i, total_missing, title, page_num, True, steam_ok, latency_ms, reason, match_via, "F3", hoster_count))
+                    if consecutive_slow >= 5:
+                        print(f"FASE 3: servidor travando requisições — abortando após {i}/{total_missing} jogos.")
+                        break
                 print(f"FASE 3: {fase3_filled}/{total_missing} jogos com providers preenchidos.")
 
         # Salvar

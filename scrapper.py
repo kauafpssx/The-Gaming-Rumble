@@ -1536,8 +1536,7 @@ class OnlineFixScraper:
                 soup = BeautifulSoup(resp.text, 'html.parser')
                 options = soup.select('.option')
                 if not options:
-                    time.sleep(2 * (attempt + 1))
-                    continue
+                    return None  # CF challenge ou jogo sem providers — retry não resolve
                 hosters = {}
                 for opt in options:
                     hoster_name = opt.get_text(strip=True)
@@ -2123,15 +2122,33 @@ class OnlineFixScraper:
         ]
         if games_missing_hosters:
             print(f"\nFASE 3: Buscando providers para {len(games_missing_hosters)} jogos sem hoster_links...")
-            # Proba o servidor antes de disparar os workers
+            # Proba o servidor com um título real antes de disparar os workers
             self._set_hosters_cookies()
-            try:
-                probe = self.session.get(HOSTERS_BASE_URL, timeout=(5, 8), proxies=None)
-                hosters_ok = probe.status_code in (200, 301, 302, 403, 404)
-                print(f"FASE 3: hosters probe → {probe.status_code}")
-            except Exception as e:
-                hosters_ok = False
-                print(f"FASE 3: hosters probe falhou ({e}), pulando.")
+            # Testa com até 3 jogos; basta 1 retornar 200+options ou 404 para confirmar acesso
+            hosters_ok = False
+            for probe_item in games_missing_hosters[:3]:
+                probe_title = probe_item.get('title', '')
+                probe_url = f"{HOSTERS_BASE_URL}{quote(probe_title, safe='')}"
+                try:
+                    probe = self.session.get(probe_url, timeout=(5, 8), proxies=None)
+                    if probe.status_code == 404:
+                        hosters_ok = True  # servidor acessível, jogo só não tem provider
+                        print(f"FASE 3: hosters probe [{probe_title}] → 404 (acessível, sem provider)")
+                        break
+                    if probe.status_code == 200:
+                        probe_options = BeautifulSoup(probe.text, 'html.parser').select('.option')
+                        if probe_options:
+                            hosters_ok = True
+                            print(f"FASE 3: hosters probe [{probe_title}] → 200 OK ({len(probe_options)} options)")
+                            break
+                        else:
+                            print(f"FASE 3: hosters probe [{probe_title}] → 200 sem .option (CF challenge)")
+                    else:
+                        print(f"FASE 3: hosters probe [{probe_title}] → {probe.status_code}")
+                except Exception as e:
+                    print(f"FASE 3: hosters probe [{probe_title}] erro: {e}")
+            if not hosters_ok:
+                print("FASE 3: servidor inacessível ou bloqueado por CF, pulando.")
 
             if hosters_ok:
                 fase3_filled = 0

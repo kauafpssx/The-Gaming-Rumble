@@ -12,19 +12,17 @@
   "pages_scraped_target": 90,
   "pages_present_in_json": 90,
   "last_page_in_json": 90,
-  "new_games_found_this_run": 141,
-  "new_games_added_to_json_this_run": 1,
-  "latest_run_new_game_names": [
-    "Better Mart"
-  ],
+  "new_games_found_this_run": 140,
+  "new_games_added_to_json_this_run": 0,
+  "latest_run_new_game_names": [],
   "updated_games_this_run": 0,
   "latest_run_updated_game_names": [],
-  "processed_games_this_run": 1,
+  "processed_games_this_run": 0,
   "torrent_files_total": 1720,
   "json_entries_with_torrent": 1720,
   "last_scrape_at": "2026-05-11 20:49:44",
   "last_scrape_at_display": "11/05/2026",
   "last_game_update": "2026-05-11T20:25:58+03:00",
-  "generated_at": "2026-05-11 20:51:34",
+  "generated_at": "2026-05-11 21:48:44",
   "generated_at_display": "11/05/2026"
 }

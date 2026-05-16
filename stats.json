@@ -12,23 +12,18 @@
   "pages_scraped_target": 90,
   "pages_present_in_json": 90,
   "last_page_in_json": 90,
-  "new_games_found_this_run": 144,
-  "new_games_added_to_json_this_run": 4,
-  "latest_run_new_game_names": [
-    "No Time",
-    "Outworld Station",
-    "Forza Horizon 6",
-    "Plains of Pain"
-  ],
+  "new_games_found_this_run": 140,
+  "new_games_added_to_json_this_run": 0,
+  "latest_run_new_game_names": [],
   "updated_games_this_run": 0,
   "latest_run_updated_game_names": [],
-  "processed_games_this_run": 4,
+  "processed_games_this_run": 0,
   "torrent_files_total": 1729,
   "json_entries_with_torrent": 1729,
   "games_with_providers": 756,
   "last_scrape_at": "2026-05-15 16:24:41",
   "last_scrape_at_display": "15/05/2026",
   "last_game_update": "2026-05-15T07:00:32+03:00",
-  "generated_at": "2026-05-15 16:26:30",
-  "generated_at_display": "15/05/2026"
+  "generated_at": "2026-05-16 15:59:44",
+  "generated_at_display": "16/05/2026"
 }

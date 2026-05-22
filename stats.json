@@ -12,20 +12,18 @@
   "pages_scraped_target": 91,
   "pages_present_in_json": 90,
   "last_page_in_json": 90,
-  "new_games_found_this_run": 141,
-  "new_games_added_to_json_this_run": 1,
-  "latest_run_new_game_names": [
-    "Prehistoric Hunt"
-  ],
+  "new_games_found_this_run": 140,
+  "new_games_added_to_json_this_run": 0,
+  "latest_run_new_game_names": [],
   "updated_games_this_run": 0,
   "latest_run_updated_game_names": [],
-  "processed_games_this_run": 1,
+  "processed_games_this_run": 0,
   "torrent_files_total": 1739,
   "json_entries_with_torrent": 1739,
   "games_with_providers": 765,
   "last_scrape_at": "2026-05-21 16:47:52",
   "last_scrape_at_display": "21/05/2026",
   "last_game_update": "2026-05-21T19:25:25+03:00",
-  "generated_at": "2026-05-21 16:49:36",
-  "generated_at_display": "21/05/2026"
+  "generated_at": "2026-05-22 16:30:17",
+  "generated_at_display": "22/05/2026"
 }

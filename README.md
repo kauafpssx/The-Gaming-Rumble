@@ -14,7 +14,7 @@
 
 <br>
 
-> O frontend definitivo para o ecossistema Gaming Rumble. Um catálogo de jogos de alto desempenho, focado em UX, com integração profunda via Deep Links e sincronização automatizada.
+> O frontend definitivo para o ecossistema Gaming Rumble. Um catálogo de jogos de alto desempenho, focado em UX, com integração profunda via Deep Links, sincronização automatizada e API REST pública.
 
 ---
 
@@ -23,9 +23,10 @@
 - 🚀 [Recursos Principais](#-recursos-principais)
 - 🔀 [Sistema de Rotas e Redirecionamento](#-sistema-de-rotas-e-redirecionamento)
 - 🧱 [Arquitetura e Fluxo de Dados](#-arquitetura-e-fluxo-de-dados)
+- 🌐 [API Pública](#-api-pública)
 - 📡 [Protocolo gaming-rumble:// (Deep Link)](#-protocolo-gaming-rumble-deep-link)
 - 🛠️ [Guia de Desenvolvimento](#️-guia-de-desenvolvimento)
-- 🌍 [Variáveis de Ambiente](#-variáveis-de-ambiente)
+- 🌍 [Hospedagem na Vercel](#-hospedagem-na-vercel)
 - 📁 [Estrutura do Projeto](#-estrutura-do-projeto)
 - 📜 [Licença](#-licença)
 
@@ -36,7 +37,7 @@
 ### 🖥️ Interface de Usuário (UI/UX)
 - **Grid Ultra-Wide:** Otimizado para monitores de alta performance, exibindo até 10 jogos por linha em 4K.
 - **Design "Glassmorphism":** Cabeçalho e rodapé com efeitos de desfoque (backdrop-blur) e transparência.
-- **Barra de Status Inteligente:** Rodapé dinâmico que exibe saúde do banco (`match_rate`), total de torrents e build, com animação de auto-hide para não obstruir a navegação.
+- **Barra de Status Inteligente:** Rodapé dinâmico com saúde do banco (`match_rate`), torrents, build e atalho direto para a documentação da API.
 - **Badges de Status:** Identificadores visuais para jogos recém-adicionados (`NOVO`) e atualizados (`UPD`).
 
 ### 🔍 Exploração e Busca
@@ -49,11 +50,14 @@
 - **Normalização de Links:** Utilitário `ensureProtocol` que corrige URLs malformadas garantindo que o redirecionamento sempre funcione.
 - **Deep Link Bridge:** Telas de espera que enriquecem os dados básicos com metadados do banco de dados (Tags, Banners HD).
 
+### 🌐 API REST Pública
+- **Explorer Interativo em `/api`:** Documentação estilo Swagger com design glassmorphism, modais "Try it" e download de coleção Postman dinâmica.
+- **Rate Limiting por IP:** 60 req/min sem chave, 300 req/min com `X-Api-Key`, sem limite com `MASTER_API_KEY`.
+- **Headers de Rate Limit:** `X-RateLimit-Limit`, `X-RateLimit-Remaining`, `X-RateLimit-Reset`, `Retry-After`.
+
 ---
 
 ## 🔀 Sistema de Rotas e Redirecionamento
-
-O site utiliza o `react-router-dom` para gerenciar um fluxo de navegação híbrido:
 
 | Rota | Descrição Técnica |
 |---|---|
@@ -62,6 +66,7 @@ O site utiliza o `react-router-dom` para gerenciar um fluxo de navegação híbr
 | `/game/:slug?download` | Gatilho silencioso: codifica os dados, envia para a bridge e abre o app nativo. |
 | `/?data=<payload>` | Rota de processamento de Deep Link via parâmetro de busca. |
 | `/d/:id` | Redirecionador curto amigável para uso em bots do Discord. |
+| `/api` | Explorer interativo da API REST (documentação + Try it). |
 
 ---
 
@@ -73,7 +78,14 @@ O site não possui um banco de dados SQL tradicional. Ele utiliza o **Vercel Blo
 1.  **Trigger:** Vercel Cron aciona `/api/cron` a cada 24h.
 2.  **Ingestão:** A função serverless baixa o `online_fix_games.json` e o `stats.json` direto do repositório de dados no GitHub.
 3.  **Processamento:** Os dados são validados e salvos no Blob Storage com `allowOverwrite: true`.
-4.  **Consumo:** O cliente React usa `TanStack Query` para buscar esses arquivos, aplicando uma camada de cache de 5 minutos e **Cache-Busting** (`?t=...`) para ignorar caches de CDN.
+4.  **Consumo:** O cliente React usa `TanStack Query` para buscar os dados via `/api/games` e `/api/stats` (nunca diretamente do Blob — as URLs ficam server-side apenas).
+
+### Arquitetura das Serverless Functions
+Todas as rotas `/api/*` são consolidadas em **dois serverless functions** (dentro do limite Hobby da Vercel):
+- `api/cron.ts` — sincronizador de dados (acionado pelo cron agendado)
+- `api/[...path].ts` — router catch-all com toda a lógica da API REST
+
+O padrão `createHandler` aplica CORS, autenticação via `X-Api-Key` e rate limiting automaticamente em todas as rotas.
 
 ### Diagrama de Sequência de Download
 ```mermaid
@@ -88,11 +100,80 @@ sequenceDiagram
 
 ---
 
+## 🌐 API Pública
+
+Explorer interativo disponível em `/api` com design do site, modais "Try it" e download de coleção Postman.
+
+### Autenticação e Rate Limiting
+
+| Tipo | Header | Limite |
+|---|---|---|
+| Sem chave | — | 60 req/min |
+| Com chave | `X-Api-Key: sua-chave` | 300 req/min |
+| Master key | `X-Api-Key: MASTER_API_KEY` | Sem limite |
+
+### Endpoints
+
+#### `GET /api/manifest`
+Metadados do ecossistema, versões de cliente suportadas e mapeamento de rotas.
+
+#### `GET /api/health`
+Integridade do ecossistema, tempo de atividade e latência de consulta à base de jogos.
+
+#### `GET /api/stats`
+Estatísticas detalhadas: total de jogos, torrents e última data de sincronização.
+
+#### `GET /api/games`
+Lista todos os jogos do catálogo.
+
+#### `GET /api/games/:slug`
+Retorna um jogo pelo slug (ex: `/api/games/cyberpunk-2077`).
+
+#### `GET /api/games/hash/:hash`
+Busca um jogo pelo Info Hash do torrent (ex: `/api/games/hash/<hash>`).
+
+#### `GET /api/search?q=:termo`
+Busca por título, hash, tags (gêneros/categorias Steam) ou providers (ex: `gofile`, `pixeldrain`).
+
+#### `GET /api/trending`
+12 jogos em alta (ordenados por novidade).
+
+#### `GET /api/recent`
+24 jogos recém-adicionados.
+
+#### `GET /api/updated`
+24 jogos atualizados recentemente.
+
+#### `GET /api/providers`
+Todos os providers de download disponíveis na base.
+
+#### `GET /api/download/:slug`
+Payload codificado para abrir no app nativo via `gaming-rumble://`.
+
+#### `GET /api/d/:id`
+Resolver de link curto para bots do Discord (aceita slug ou hash).
+
+#### `GET /api/encode/:hashOrSlug`
+Retorna a URL direta `gaming-rumble://<payload>` para um jogo.
+
+#### `POST /api/encode`
+Codifica dados customizados e retorna o payload Base64 + URL de protocolo.
+```json
+{
+  "game": {
+    "title": "Nome do Jogo",
+    "magnet": "magnet:?xt=urn:btih:...",
+    "fileSize": "10 GB",
+    "files": []
+  }
+}
+```
+
+---
+
 ## 📡 Protocolo `gaming-rumble://` (Deep Link)
 
 ### Estrutura do Payload (V2)
-O payload enviado ao app nativo é um objeto JSON codificado em Base64 URL-safe.
-
 ```typescript
 interface ProtocolPayload {
   title: string;      // Nome do jogo
@@ -102,85 +183,10 @@ interface ProtocolPayload {
   magnet: string;     // Link magnet completo
   hash: string;       // Info Hash completo do torrent
   h?: {               // Opcional: Download Direto
-    [provider: string]: Array<{
-      n: string;      // Nome do arquivo
-      u: string;      // URL direta
-    }>
+    [provider: string]: Array<{ n: string; u: string }>
   }
 }
 ```
-
-### Exemplo de Implementação (Site)
-```javascript
-const json = JSON.stringify(payload);
-// Unescape/Encode garante suporte a caracteres UTF-8 (acentos, etc)
-const b64 = btoa(unescape(encodeURIComponent(json)));
-window.location.href = `gaming-rumble://${b64}`;
-```
-
----
-
-## 🌐 API Pública
-
-O site expõe uma API REST pública e rápida para que bots (como Discord) e outros aplicativos possam consumir o catálogo de jogos do **Gaming Rumble**.
-
-### Endpoints Disponíveis
-
-#### `GET /api/manifest`
-Retorna metadados do ecossistema, versões de cliente suportadas e mapeamento de rotas.
-
-#### `GET /api/health`
-Retorna a integridade do ecossistema, tempo de atividade e latência de consulta à base de jogos.
-
-#### `GET /api/stats`
-Retorna estatísticas detalhadas como quantidade total de jogos, torrents e última data de sincronização.
-
-#### `GET /api/games`
-Lista todos os jogos cadastrados no catálogo.
-
-#### `GET /api/games/:slug`
-Retorna informações detalhadas de um jogo específico buscando pelo slug (ex: `/api/games/cyberpunk-2077`).
-
-#### `GET /api/games/hash/:hash`
-Busca um jogo a partir do Info Hash do torrent (ex: `/api/games/hash/<hash>`).
-
-#### `GET /api/search?q=:termo`
-Busca jogos por título, hash, tags (gêneros e categorias Steam) ou providers de download (ex: `gofile`, `pixeldrain`).
-
-#### `GET /api/trending`
-Retorna uma lista contendo os 12 jogos em alta (ordenados por novidade).
-
-#### `GET /api/recent`
-Retorna a lista dos 24 jogos recém-adicionados.
-
-#### `GET /api/updated`
-Retorna a lista dos 24 jogos atualizados recentemente.
-
-#### `GET /api/providers`
-Retorna todos os providers de download disponíveis na base de dados (ex: `torrent`, `gofile`, `pixeldrain`).
-
-#### `GET /api/download/:slug`
-Retorna o payload codificado para abrir diretamente no app nativo via `gaming-rumble://` e os links da bridge.
-
-#### `GET /api/d/:id`
-Busca e retorna o jogo correspondente a um ID curto (útil para links curtos e bots).
-
-#### `GET /api/encode/:hashOrSlug`
-Busca o jogo e retorna a URL direta de inicialização do protocolo nativo `gaming-rumble://<payload>`.
-
-#### `POST /api/encode`
-Recebe dados de um jogo customizado no corpo da requisição e retorna o payload Base64 URL-safe junto com a URL de protocolo.
-- **Corpo (JSON):**
-  ```json
-  {
-    "game": {
-      "title": "Nome do Jogo",
-      "magnet": "magnet:?xt=urn:btih:...",
-      "fileSize": "10 GB",
-      "files": []
-    }
-  }
-  ```
 
 ---
 
@@ -190,38 +196,70 @@ Recebe dados de um jogo customizado no corpo da requisição e retorna o payload
 - **Framework:** React 18 com Vite (SWC)
 - **Estilização:** Tailwind CSS + `tailwindcss-animate`
 - **Estado Global/Server:** TanStack Query V5 (SWR pattern)
-- **Utilidades:** `fflate` (compressão zlib), `lucide-react` (ícones)
+- **Utilidades:** `fflate` (compressão zlib no browser), `lucide-react` (ícones)
 
 ### Comandos Úteis
 | Comando | Descrição |
 |---|---|
-| `bun dev` | Inicia o servidor de desenvolvimento em `localhost:8080` |
+| `bun dev` | Inicia o servidor Vite em `localhost:8080` (frontend apenas) |
+| `bun run dev:full` | Inicia `vercel dev` com funções serverless em `localhost:3000` |
 | `bun run build` | Gera a build otimizada na pasta `dist/` |
-| `bun run lint` | Executa o ESLint para verificar padrões de código |
-| `bun run tsc` | Executa a verificação de tipos do TypeScript |
+| `bun run lint` | Executa o ESLint |
+
+> **Nota:** `bun run dev:full` requer a Vercel CLI instalada globalmente (`bun add -g vercel`) e o projeto linkado (`vercel link`).
 
 ---
 
-## 🌍 Variáveis de Ambiente
+## 🌍 Hospedagem na Vercel
 
-Configuradas no dashboard da Vercel em **Settings → Environment Variables**. Nunca commitar valores reais no repositório.
+### Pré-requisitos
+1. Conta na Vercel (plano Hobby é suficiente — a API usa apenas 2 serverless functions)
+2. Um Vercel Blob Storage criado no projeto
+3. Fork/clone deste repositório
 
-```env
-# URL do Blob Storage (server-side only, não exposta ao cliente)
-VITE_GAMES_API_URL=<sua-url-privada>/games.json
-VITE_STATS_API_URL=<sua-url-privada>/stats.json
+### Variáveis de Ambiente
 
-# Token de escrita do Vercel Blob (cron sync)
-BLOB_READ_WRITE_TOKEN=vercel_blob_rw_...
+Configure em **Settings → Environment Variables** na Vercel. Marque **Production**, **Preview** e **Development** para cada uma.
 
-# Autenticação do cron job
-CRON_SECRET=<secret>
+| Variável | Onde obter | Obrigatória |
+|---|---|---|
+| `VITE_GAMES_API_URL` | URL pública do arquivo `games.json` no seu Vercel Blob | ✅ |
+| `VITE_STATS_API_URL` | URL pública do arquivo `stats.json` no seu Vercel Blob | ✅ |
+| `BLOB_READ_WRITE_TOKEN` | Vercel → Storage → seu Blob → `.env.local` | ✅ |
+| `CRON_SECRET` | Qualquer string aleatória longa (protege `/api/cron`) | ✅ |
+| `API_KEYS` | Keys separadas por vírgula para dar 300 req/min a bots/apps | ⬜ |
+| `MASTER_API_KEY` | String secreta longa — sem rate limit (para uso interno) | ⬜ |
 
-# Chaves de API (separadas por vírgula) — 300 req/min
-API_KEYS=key1,key2
+### Como gerar valores seguros
+```bash
+# Gera uma string aleatória de 64 caracteres hexadecimais
+openssl rand -hex 32
+```
 
-# Master key — sem rate limit
-MASTER_API_KEY=<secret-longo>
+### Passos para hospedar
+
+```bash
+# 1. Instala a Vercel CLI
+bun add -g vercel
+
+# 2. Faz login
+vercel login
+
+# 3. Linka o projeto (na pasta do projeto)
+vercel link
+
+# 4. Puxa as env vars de produção para desenvolvimento local
+vercel env pull --environment=production
+
+# 5. Deploy manual (ou conecte o GitHub para deploy automático)
+vercel --prod
+```
+
+### Configurar o Blob Storage
+Após criar o Blob Storage na Vercel, execute o cron manualmente uma vez para popular os dados:
+```bash
+curl -X GET "https://seu-dominio.vercel.app/api/cron" \
+  -H "Authorization: Bearer SEU_CRON_SECRET"
 ```
 
 ---
@@ -231,41 +269,24 @@ MASTER_API_KEY=<secret-longo>
 ```txt
 gr-link/
 ├── api/
-│   ├── _utils.ts              # Helpers: fetchGames, sendJson, cors, getPathParam
+│   ├── _utils.ts              # Helpers: fetchGames, sendJson, cors, createHandler (rate limiting)
+│   ├── _games.ts              # Tipos e funções de negócio da API (server-side)
 │   ├── cron.ts                # Sincronizador atômico (Games + Stats → Vercel Blob)
-│   ├── health.ts              # GET /api/health — status, latência, gamesCount
-│   ├── manifest.ts            # GET /api/manifest — versão, protocolo, endpoints
-│   ├── stats.ts               # GET /api/stats — totais e última sync
-│   ├── search.ts              # GET /api/search?q= — busca por nome, hash, provider, tag
-│   ├── trending.ts            # GET /api/trending — 12 jogos mais recentes
-│   ├── recent.ts              # GET /api/recent — 24 recém-adicionados
-│   ├── updated.ts             # GET /api/updated — 24 atualizados recentemente
-│   ├── providers.ts           # GET /api/providers — lista providers disponíveis
-│   ├── games/
-│   │   ├── index.ts           # GET /api/games — todos os jogos
-│   │   ├── [slug].ts          # GET /api/games/:slug — jogo por slug
-│   │   └── hash/
-│   │       └── [hash].ts      # GET /api/games/hash/:hash — jogo por info hash
-│   ├── download/
-│   │   └── [slug].ts          # GET /api/download/:slug — payload gaming-rumble://
-│   ├── encode/
-│   │   ├── index.ts           # POST /api/encode — codifica payload customizado
-│   │   └── [hashOrSlug].ts    # GET /api/encode/:hashOrSlug — URL gaming-rumble:// direta
-│   └── d/
-│       └── [id].ts            # GET /api/d/:id — resolver link curto (Discord bot)
+│   └── [...path].ts           # Router catch-all: todas as rotas /api/* em um único function
 ├── src/
 │   ├── components/
-│   │   ├── GameCatalog.tsx    # O "coração" do site (Grid, Header, Footer)
+│   │   ├── GameCatalog.tsx    # O "coração" do site (Grid, Header, Footer com link /api)
 │   │   ├── GameModal.tsx      # Modal detalhado com lógica de colapso
 │   │   └── ui/                # Primitivos de UI (Tooltip, Sonner, etc)
 │   ├── lib/
-│   │   ├── games.ts           # Business Logic, Sorting e Protocol Schema
+│   │   ├── games.ts           # Business Logic, Sorting e Protocol Schema (browser)
 │   │   └── translations.json  # Engine de tradução para requisitos
 │   ├── pages/
 │   │   ├── Index.tsx          # Landing/Bridge principal (?data=)
+│   │   ├── ApiExplorer.tsx    # Explorer interativo da API (/api)
 │   │   └── ShortLink.tsx      # Bridge para links curtos (/d/)
 │   └── ...
-├── vercel.json                # Agendamento de cron e regras de SPA
+├── vercel.json                # Agendamento de cron e regras de roteamento
 └── ...
 ```
 

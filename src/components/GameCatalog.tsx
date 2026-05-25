@@ -462,10 +462,16 @@ export function GameCatalog() {
             </div>
 
             <div className="flex items-center gap-3 shrink-0">
-              <span>Saúde do Banco: <span className="text-foreground/70">{stats.match_rate}%</span></span>
+              <span className="hidden md:inline">Saúde do Banco: <span className="text-foreground/70">{stats.match_rate}%</span></span>
               <div className="w-12 h-1 bg-secondary rounded-full overflow-hidden hidden md:block">
                 <div className="h-full bg-primary/60" style={{ width: `${stats.match_rate}%` }} />
               </div>
+              <a
+                href="/api"
+                className="flex items-center gap-1 px-2 py-0.5 rounded-md border border-border/60 bg-primary/10 text-primary/70 hover:text-primary hover:bg-primary/20 transition-colors text-[9px] uppercase tracking-wider font-medium"
+              >
+                API
+              </a>
             </div>
           </div>
         </footer>

@@ -1,0 +1,229 @@
+{
+  "info": {
+    "name": "Gaming Rumble API",
+    "description": "API pública do ecossistema Gaming Rumble. O identificador único de cada jogo é o info hash do torrent. Base URL: https://gr-link.vercel.app",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "version": "1.0.0"
+  },
+  "variable": [
+    {
+      "key": "baseUrl",
+      "value": "https://gr-link.vercel.app",
+      "type": "string"
+    }
+  ],
+  "item": [
+    {
+      "name": "Catálogo",
+      "item": [
+        {
+          "name": "Listar todos os jogos",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/api/games",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "games"]
+            },
+            "description": "Retorna o catálogo completo de jogos."
+          }
+        },
+        {
+          "name": "Buscar jogo por slug",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/api/games/:slug",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "games", ":slug"],
+              "variable": [{ "key": "slug", "value": "cyberpunk-2077" }]
+            },
+            "description": "Retorna informações de um jogo específico pelo slug."
+          }
+        },
+        {
+          "name": "Buscar jogo por info hash",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/api/games/hash/:hash",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "games", "hash", ":hash"],
+              "variable": [{ "key": "hash", "value": "a3f2d1b8c9e4f7a2b5d8e1f4a7b0c3d6e9f2a5b8" }]
+            },
+            "description": "Busca um jogo a partir do info hash do torrent."
+          }
+        },
+        {
+          "name": "Buscar jogos",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/api/search?q=cyberpunk",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "search"],
+              "query": [{ "key": "q", "value": "cyberpunk", "description": "Termo de busca: título, hash, provider ou tag de gênero" }]
+            },
+            "description": "Busca jogos por título, hash, provider (gofile, pixeldrain) ou tag de gênero Steam."
+          }
+        },
+        {
+          "name": "Estatísticas",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/api/stats",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "stats"]
+            },
+            "description": "Retorna total de jogos, torrents, match rate e data da última sincronização."
+          }
+        }
+      ]
+    },
+    {
+      "name": "Descoberta",
+      "item": [
+        {
+          "name": "Trending (12 mais recentes)",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/api/trending",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "trending"]
+            },
+            "description": "Retorna os 12 jogos mais recentes em alta."
+          }
+        },
+        {
+          "name": "Recentes (24 recém-adicionados)",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/api/recent",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "recent"]
+            },
+            "description": "Retorna os 24 jogos adicionados mais recentemente ao catálogo."
+          }
+        },
+        {
+          "name": "Atualizados (24 mais recentes)",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/api/updated",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "updated"]
+            },
+            "description": "Retorna os 24 jogos atualizados mais recentemente."
+          }
+        },
+        {
+          "name": "Providers disponíveis",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/api/providers",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "providers"]
+            },
+            "description": "Lista todos os providers de download disponíveis: torrent, gofile, pixeldrain, etc."
+          }
+        }
+      ]
+    },
+    {
+      "name": "Deep Link",
+      "item": [
+        {
+          "name": "Payload de download (slug)",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/api/download/:slug",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "download", ":slug"],
+              "variable": [{ "key": "slug", "value": "cyberpunk-2077" }]
+            },
+            "description": "Retorna o payload completo para abrir no app nativo via gaming-rumble://"
+          }
+        },
+        {
+          "name": "Encode por hash ou slug (GET)",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/api/encode/:hashOrSlug",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "encode", ":hashOrSlug"],
+              "variable": [{ "key": "hashOrSlug", "value": "cyberpunk-2077" }]
+            },
+            "description": "Retorna a URL gaming-rumble:// direta para o jogo identificado por hash ou slug."
+          }
+        },
+        {
+          "name": "Encode payload customizado (POST)",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"game\": {\n    \"title\": \"Meu Jogo\",\n    \"magnet\": \"magnet:?xt=urn:btih:HASH_AQUI\",\n    \"fileSize\": \"10 GB\",\n    \"files\": []\n  }\n}",
+              "options": { "raw": { "language": "json" } }
+            },
+            "url": {
+              "raw": "{{baseUrl}}/api/encode",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "encode"]
+            },
+            "description": "Recebe dados de um jogo e retorna o payload Base64 URL-safe e a URL gaming-rumble://"
+          }
+        },
+        {
+          "name": "Resolver link curto",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/api/d/:id",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "d", ":id"],
+              "variable": [{ "key": "id", "value": "abc123" }]
+            },
+            "description": "Resolve um link curto (hash ou slug) para os dados completos do jogo. Ideal para bots do Discord."
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sistema",
+      "item": [
+        {
+          "name": "Health check",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/api/health",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "health"]
+            },
+            "description": "Retorna status da API, latência de consulta e contagem de jogos disponíveis."
+          }
+        },
+        {
+          "name": "Manifest do ecossistema",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/api/manifest",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "manifest"]
+            },
+            "description": "Retorna versão do ecossistema, protocolo suportado e mapa completo de endpoints."
+          }
+        }
+      ]
+    }
+  ]
+}

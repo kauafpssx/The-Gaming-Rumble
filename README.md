@@ -1,356 +1,191 @@
-# 🎮 Gaming Rumble (Desktop Client)
+# 🎮 Gaming Rumble (GR-Link)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/zKauaFerreira/The-Gaming-Rumble/refs/heads/main/public/banner.png" alt="Gaming Rumble Banner" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
 <br>
 
-> Cliente desktop construído com Tauri para consumir payloads compatíveis, baixar jogos via magnet link, extrair automaticamente e organizar a biblioteca local no Windows.
-
-## ✨ Snapshot Do Projeto
-
-| Plataforma | Engine | Frontend | Runtime | Status |
-|:---:|:---:|:---:|:---:|:---:|
-| ![](https://img.shields.io/badge/Windows-10%2F11-0078D6?style=flat-square&logo=windows&logoColor=white) | ![](https://img.shields.io/badge/Tauri-2.x-24C8DB?style=flat-square&logo=tauri&logoColor=white) | ![](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=0B0F13) | ![](https://img.shields.io/badge/Rust-Stable-000000?style=flat-square&logo=rust&logoColor=white) | ![](https://img.shields.io/badge/Build-Stable-2ea44f?style=flat-square) |
+> O frontend definitivo para o ecossistema Gaming Rumble. Um catálogo de jogos de alto desempenho, focado em UX, com integração profunda via Deep Links e sincronização automatizada.
 
 ---
 
 ## 📋 Índice
 
-<details open>
-<summary><b>Clique para expandir/recolher</b></summary>
-
-- 📖 [Sobre o Projeto](#-sobre-o-projeto)
-- ⚠️ [Compatibilidade](#️-compatibilidade)
-- 🧭 [Fluxo Completo Do Produto](#-fluxo-completo-do-produto)
-- ✨ [Recursos Principais](#-recursos-principais)
-- 🧠 [Como O Fluxo Funciona](#-como-o-fluxo-funciona)
-- 🧱 [Stack Atual](#-stack-atual)
-- 📦 [Binários Externos](#-binários-externos)
-- 🖥️ [Plataforma Suportada](#️-plataforma-suportada)
-- 🗂️ [Estrutura Do Projeto](#️-estrutura-do-projeto)
-- ⚙️ [Configuração Local](#️-configuração-local)
-- 🚀 [Desenvolvimento](#-desenvolvimento)
-- 📦 [Build E Release](#-build-e-release)
-- 🧠 [Comportamentos Técnicos](#-comportamentos-técnicos)
-- 🛠️ [Notas Operacionais](#️-notas-operacionais)
-- ⚠️ [Aviso Legal](#️-aviso-legal)
+- 🚀 [Recursos Principais](#-recursos-principais)
+- 🔀 [Sistema de Rotas e Redirecionamento](#-sistema-de-rotas-e-redirecionamento)
+- 🧱 [Arquitetura e Fluxo de Dados](#-arquitetura-e-fluxo-de-dados)
+- 📡 [Protocolo gaming-rumble:// (Deep Link)](#-protocolo-gaming-rumble-deep-link)
+- 🛠️ [Guia de Desenvolvimento](#️-guia-de-desenvolvimento)
+- 🌍 [Variáveis de Ambiente](#-variáveis-de-ambiente)
+- 📁 [Estrutura do Projeto](#-estrutura-do-projeto)
 - 📜 [Licença](#-licença)
 
-</details>
+---
+
+## 🚀 Recursos Principais
+
+### 🖥️ Interface de Usuário (UI/UX)
+- **Grid Ultra-Wide:** Otimizado para monitores de alta performance, exibindo até 10 jogos por linha em 4K.
+- **Design "Glassmorphism":** Cabeçalho e rodapé com efeitos de desfoque (backdrop-blur) e transparência.
+- **Barra de Status Inteligente:** Rodapé dinâmico que exibe saúde do banco (`match_rate`), total de torrents e build, com animação de auto-hide para não obstruir a navegação.
+- **Badges de Status:** Identificadores visuais para jogos recém-adicionados (`NOVO`) e atualizados (`UPD`).
+
+### 🔍 Exploração e Busca
+- **Busca por Info Hash:** Permite colar o Hash do torrent diretamente na busca para localizar o jogo instantaneamente.
+- **Ranking de Relevância:** Algoritmo de busca que prioriza correspondências exatas e prefixos sobre correspondências parciais.
+- **Ordenação Inteligente:** Filtros por Data de Lançamento, Tamanho de Arquivo e Ordem Alfabética.
+
+### 📦 Gestão de Downloads
+- **Sistema Colapsável:** Modais limpos que escondem listas longas de arquivos ou múltiplos providers de download direto.
+- **Normalização de Links:** Utilitário `ensureProtocol` que corrige URLs malformadas garantindo que o redirecionamento sempre funcione.
+- **Deep Link Bridge:** Telas de espera que enriquecem os dados básicos com metadados do banco de dados (Tags, Banners HD).
 
 ---
 
-## 📖 Sobre o Projeto
+## 🔀 Sistema de Rotas e Redirecionamento
 
-O Gaming Rumble é o client desktop principal do ecossistema.
+O site utiliza o `react-router-dom` para gerenciar um fluxo de navegação híbrido:
 
-Ele automatiza todo o fluxo de instalação dos jogos:
-
-- Recebe payloads via protocolo `gaming-rumble://`
-- Decodifica informações do jogo em Base64
-- Executa downloads via BitTorrent usando `aria2c`
-- Extrai automaticamente os arquivos do jogo
-- Detecta executáveis principais
-- Organiza a biblioteca local com persistência em `SQLite`
-- Cria atalhos automaticamente
-- Monitora sessões iniciadas pelo launcher
-- Mantém gerenciamento persistente da biblioteca
-- Importa automaticamente bibliotecas legadas em `JSON` no primeiro boot compatível e finaliza a transição para `SQLite`
-
-O foco do projeto é reduzir atrito e automatizar processos repetitivos.
+| Rota | Descrição Técnica |
+|---|---|
+| `/page/:page` | Exibe o catálogo. Faz o "clamping" automático (ex: se pedir página 999, vai para a última disponível). |
+| `/game/:id` | **Rota Dual:** Se `:id` for um slug (nome), abre o modal. Se for um Hash (40 chars), resolve o jogo e redireciona a URL para o slug. |
+| `/game/:slug?download` | Gatilho silencioso: codifica os dados, envia para a bridge e abre o app nativo. |
+| `/?data=<payload>` | Rota de processamento de Deep Link via parâmetro de busca. |
+| `/d/:id` | Redirecionador curto amigável para uso em bots do Discord. |
 
 ---
 
-## ⚠️ Compatibilidade
+## 🧱 Arquitetura e Fluxo de Dados
 
-> [!WARNING]
-> Este client foi desenvolvido especificamente para o ecossistema Gaming Rumble.
->
-> Atualmente o fluxo suportado é baseado no indexador vindo de `online-fix.me`.
->
-> Magnet links aleatórios ou payloads externos podem não funcionar corretamente.
->
-> Não existe garantia de compatibilidade fora do fluxo oficial do projeto.
+### Sincronização Serverless
+O site não possui um banco de dados SQL tradicional. Ele utiliza o **Vercel Blob** como um armazenamento de objetos ultrarrápido, alimentado por um cron job.
 
----
+1.  **Trigger:** Vercel Cron aciona `/api/cron` a cada 24h.
+2.  **Ingestão:** A função serverless baixa o `online_fix_games.json` e o `stats.json` direto do repositório de dados no GitHub.
+3.  **Processamento:** Os dados são validados e salvos no Blob Storage com `allowOverwrite: true`.
+4.  **Consumo:** O cliente React usa `TanStack Query` para buscar esses arquivos, aplicando uma camada de cache de 5 minutos e **Cache-Busting** (`?t=...`) para ignorar caches de CDN.
 
-## 🧭 Fluxo Completo Do Produto
-
+### Diagrama de Sequência de Download
 ```mermaid
-flowchart LR
-  A["🌐 Browser / Discord"] --> B["🚀 gaming-rumble://"]
-  B --> C["📦 Decode Payload"]
-  C --> D["⚙️ Setup"]
-  D --> E["⬇️ aria2c Download"]
-  E --> F["📂 7-Zip Extract"]
-  F --> G["🧠 Detect Executable"]
-  G --> H["🎮 Local Library"]
-  H --> I["🚀 Launch Game"]
+sequenceDiagram
+    User->>Site: Clica em "Baixar"
+    Site->>Site: Serializa JSON do Jogo (Base64)
+    Site->>Browser: Abre URL customizada gaming-rumble://[b64]
+    Browser->>OS: Identifica Protocolo Registrado
+    OS->>App Nativo: Passa o payload Base64
+    App Nativo->>User: Exibe tela de download com Magnet e Hosters
 ```
 
 ---
 
-## ✨ Recursos Principais
+## 📡 Protocolo `gaming-rumble://` (Deep Link)
 
-| Feature | Descrição |
-|---|---|
-| `gaming-rumble://` | Protocolo customizado para instalação automática |
-| Download BitTorrent | Download com progresso em tempo real |
-| Biblioteca Persistente | Jogos instalados ficam registrados localmente em `SQLite` |
-| Auto Extract | Extração automática pós-download |
-| Fix Only | Baixa apenas o fix quando necessário |
-| Auto Shortcut | Cria atalhos automaticamente |
-| System Tray | Fecha para tray e restaura o launcher rapidamente |
-| Playtime Tracking | Monitora tempo jogado das sessões iniciadas pelo app |
-| Resume Support | Pausa e retomada de download |
-| Disk Validation | Verifica espaço disponível antes da instalação |
-| Error Handling | Tratamento separado para download e extração |
-| Executable Detection | Detecta automaticamente o executável principal |
+### Estrutura do Payload (V2)
+O payload enviado ao app nativo é um objeto JSON codificado em Base64 URL-safe.
 
----
-
-## 🧠 Como O Fluxo Funciona
-
-### Payload
-
-O navegador ou app intermediário envia um payload Base64:
-
-```json
-{
-  "title": "Nome do Jogo",
-  "banner": "https://shared.akamai.steamstatic.com/.../header.jpg",
-  "parts": 4,
-  "fileSize": "551.10 MB",
-  "magnet": "magnet:?xt=urn:btih:..."
+```typescript
+interface ProtocolPayload {
+  title: string;      // Nome do jogo
+  banner: string;     // URL da imagem de cabeçalho
+  parts: number;      // Quantidade de arquivos/partes
+  fileSize: string;   // Tamanho formatado (ex: "10 GB")
+  magnet: string;     // Link magnet completo
+  hash: string;       // Info Hash completo do torrent
+  h?: {               // Opcional: Download Direto
+    [provider: string]: Array<{
+      n: string;      // Nome do arquivo
+      u: string;      // URL direta
+    }>
+  }
 }
 ```
 
-### Fluxo interno
-
-```txt
-1. Browser abre gaming-rumble://
-2. Tauri recebe a URI
-3. Payload é decodificado
-4. Usuário confirma instalação
-5. aria2c inicia o torrent
-6. 7-Zip extrai os arquivos
-7. O executável principal é detectado
-8. O jogo entra na biblioteca
-9. Atalhos são criados automaticamente
+### Exemplo de Implementação (Site)
+```javascript
+const json = JSON.stringify(payload);
+// Unescape/Encode garante suporte a caracteres UTF-8 (acentos, etc)
+const b64 = btoa(unescape(encodeURIComponent(json)));
+window.location.href = `gaming-rumble://${b64}`;
 ```
 
 ---
 
-## 🧱 Stack Atual
+## 🛠️ Guia de Desenvolvimento
 
-### Base do projeto
+### Stack Tecnológica
+- **Framework:** React 18 com Vite (SWC)
+- **Estilização:** Tailwind CSS + `tailwindcss-animate`
+- **Estado Global/Server:** TanStack Query V5 (SWR pattern)
+- **Utilidades:** `fflate` (compressão zlib), `lucide-react` (ícones)
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="50"><br>
-      <strong>React 19</strong>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=ts" width="50"><br>
-      <strong>TypeScript</strong>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=tauri" width="50"><br>
-      <strong>Tauri 2</strong>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="50"><br>
-      <strong>Tailwind 4</strong>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=rust" width="50"><br>
-      <strong>Rust</strong>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=sqlite" width="50"><br>
-      <strong>SQLite</strong>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=prisma" width="50"><br>
-      <strong>Prisma</strong>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📦 Binários Externos
-
-| Binário | Status | Finalidade |
-|---|---|---|
-| `aria2c.exe` | Bundled | Download BitTorrent |
-| `7-ZIP/` | Bundled | Extração de arquivos |
-| `WebView2` | Runtime | Renderização da UI |
-
----
-
-## 🖥️ Plataforma Suportada
-
-| Sistema | Status |
+### Comandos Úteis
+| Comando | Descrição |
 |---|---|
-| Windows 10 | ✅ Suportado |
-| Windows 11 | ✅ Suportado |
-| Linux | ❌ Não suportado oficialmente |
-| macOS | ❌ Não suportado oficialmente |
-
-> O projeto atual foi desenvolvido e empacotado exclusivamente com foco em Windows.
+| `bun dev` | Inicia o servidor de desenvolvimento em `localhost:8080` |
+| `bun run build` | Gera a build otimizada na pasta `dist/` |
+| `bun run lint` | Executa o ESLint para verificar padrões de código |
+| `bun run tsc` | Executa a verificação de tipos do TypeScript |
 
 ---
 
-## 🗂️ Estrutura Do Projeto
+## 🌍 Variáveis de Ambiente
+
+O arquivo `.env` deve ser configurado para que o site saiba onde buscar os dados.
+
+```env
+# URL do JSON principal (Vercel Blob ou GitHub)
+VITE_GAMES_API_URL=https://mkuqgpwafiakxxi1.public.blob.vercel-storage.com/games.json
+
+# URL do JSON de estatísticas (Opcional)
+VITE_STATS_API_URL=https://mkuqgpwafiakxxi1.public.blob.vercel-storage.com/stats.json
+
+# Apenas para a Vercel (API/Cron)
+BLOB_READ_WRITE_TOKEN=vercel_blob_rw_...
+CRON_SECRET=seu_segredo_aqui
+```
+
+---
+
+## 📁 Estrutura do Projeto
 
 ```txt
-Gaming Rumble/
-├── prisma/
-│   ├── migrations/
-│   └── schema.prisma
+gr-link/
+├── api/
+│   ├── cron.ts            # Sincronizador atômico (Games + Stats)
+│   └── update-games.js    # Fallback/Update manual
 ├── src/
-│   ├── App.tsx
-│   ├── payload.ts
-│   ├── types.ts
-│   └── components/
-│       ├── Layout/
-│       └── Views/
-├── src-tauri/
-│   ├── src/
-│   │   └── commands/
-│   └── tauri.conf.json
-├── public/
-├── .github/workflows/
-└── README.md
+│   ├── components/
+│   │   ├── GameCatalog.tsx # O "coração" do site (Grid, Header, Footer)
+│   │   ├── GameModal.tsx   # Modal detalhado com lógica de colapso
+│   │   └── ui/             # Primitivos de UI (Tooltip, Sonner, etc)
+│   ├── lib/
+│   │   ├── games.ts        # Business Logic, Sorting e Protocol Schema
+│   │   └── translations.json # Engine de tradução para requisitos
+│   ├── pages/
+│   │   ├── Index.tsx       # Landing/Bridge principal (?data=)
+│   │   └── ShortLink.tsx   # Bridge para links curtos (/d/)
+│   └── ...
+├── vercel.json             # Agendamento de cron e regras de SPA
+└── ...
 ```
-
-### Visão rápida das pastas
-
-| Caminho | Conteúdo |
-|---|---|
-| `src/` | Frontend React |
-| `src/components/Views/` | Telas do aplicativo |
-| `src-tauri/src/commands/` | Comandos nativos em Rust |
-| `prisma/` | Schema e migrações da biblioteca local |
-| `payload.ts` | Decode e parsing do protocolo |
-| `tauri.conf.json` | Configuração principal |
-| `.github/workflows/` | Build e release CI/CD |
-
----
-
-## ⚙️ Configuração Local
-
-### Pré-requisitos
-
-| Ferramenta | Necessária |
-|---|---|
-| Node.js LTS | Sim |
-| Rust / rustup | Sim |
-| Windows 10/11 | Sim |
-
----
-
-## 🚀 Desenvolvimento
-
-### Instalar dependências
-
-```bash
-npm install
-npm run prisma:generate
-```
-
-### Rodar ambiente local
-
-```bash
-npm run tauri dev
-```
-
-### Gerar build local
-
-```bash
-npm run tauri build
-```
-
----
-
-## 📦 Build E Release
-
-### Saídas locais
-
-Os builds são gerados em:
-
-```txt
-src-tauri/target/release/bundle/msi/
-src-tauri/target/release/bundle/nsis/
-```
-
-### Pipeline CI/CD
-
-```mermaid
-flowchart LR
-  A["📦 Push na main"] --> B["⚙️ GitHub Actions"]
-  B --> C["📥 Install Node.js"]
-  C --> D["🦀 Install Rust"]
-  D --> E["🪟 Install WebView2"]
-  E --> F["🔨 Build Tauri"]
-  F --> G["📦 Generate MSI / NSIS"]
-  G --> H["🚀 GitHub Release"]
-```
-
-O workflow automatiza:
-
-- instalação do ambiente
-- geração dos bundles
-- upload de artefatos
-- criação de releases
-
----
-
-## 🧠 Comportamentos Técnicos
-
-| Sistema | Função |
-|---|---|
-| Download State | Persistência local de progresso |
-| Event System | Eventos Tauri para logs e progresso |
-| Library Manager | Gerenciamento local da biblioteca em `SQLite` |
-| Extract Pipeline | Pipeline separada de extração |
-| Launcher Detection | Busca automática do executável |
-| Tray Runtime | Minimização para tray e restauração do launcher |
-| Session Tracking | Monitoramento de processo e tempo jogado |
-
----
-
-## 🛠️ Notas Operacionais
-
-- O app utiliza janela customizada sem decoração nativa
-- O botão de fechar envia o launcher para o tray em vez de encerrar imediatamente
-- O estado dos downloads sobrevive a reload durante desenvolvimento
-- A biblioteca é mantida localmente pelo client com banco `SQLite`
-- Bibliotecas antigas em `library.json` são migradas automaticamente uma única vez quando encontradas e depois deixam de ser usadas
-- O fluxo foi desenhado para integração com o ecossistema Gaming Rumble
-- O projeto não pretende ser um client torrent genérico
-
----
-
-## ⚠️ Aviso Legal
-
-> [!WARNING]
-> Este software é fornecido **"AS IS"**, sem garantias de qualquer tipo.
->
-> - O projeto não hospeda conteúdo protegido
-> - O app apenas automatiza download, extração e gerenciamento
-> - Não existe suporte para conteúdo acessado pelo usuário
-> - O uso é por conta e risco do usuário final
-> - Toda responsabilidade sobre conteúdo acessado pertence ao usuário
 
 ---
 
 ## 📜 Licença
 
-Este repositório é disponibilizado apenas para fins educacionais e de pesquisa.
+Este software é fornecido "como está", para fins educacionais e de demonstração técnica.
 
-Veja a licença completa e o aviso legal em `LICENSE`.
+Consulte o arquivo [LICENSE](LICENSE) para mais detalhes sobre permissões e restrições.
+
+---
+<p align="center">Feito com ❤️ pela comunidade Gaming Rumble</p>

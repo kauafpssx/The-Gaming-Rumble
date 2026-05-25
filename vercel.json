@@ -1,0 +1,14 @@
+{
+  "crons": [
+    {
+      "path": "/api/cron",
+      "schedule": "0 20 * * *"
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}

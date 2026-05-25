@@ -11,43 +11,18 @@ node_modules
 dist
 dist-ssr
 *.local
-bun.lock
-bun.lockb
-.bun/
-.turbo/
-coverage/
-prisma/dev.db
-prisma/dev.db-journal
-prisma/dev.db-shm
-prisma/dev.db-wal
 
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
-.claude
 .idea
+
+# Claude Code
+.claude/
+.openclaude/
 .DS_Store
 *.suo
 *.ntvs*
 *.njsproj
 *.sln
 *.sw?
-
-# Rust
-src-tauri/target/
-src-tauri/icons/
-!src-tauri/icons/32x32.png
-!src-tauri/icons/64x64.png
-!src-tauri/icons/128x128.png
-!src-tauri/icons/128x128@2x.png
-!src-tauri/icons/icon.png
-!src-tauri/icons/icon.ico
-!src-tauri/icons/icon.icns
-!src-tauri/icons/README.md
-src-tauri/resources/bin/7z.exe
-
-# Torrent downloads
-torrents/
-
-# OS
-Thumbs.db

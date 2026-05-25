@@ -9,7 +9,7 @@ export default createHandler(async (req, res) => {
   const games = await fetchGames();
   if (!q) return sendJson(res, 200, games);
 
-  let results = searchGames(games, q);
+  const results = searchGames(games, q);
   const lowerQ = q.toLowerCase();
 
   const extraMatches = games.filter((g) => {

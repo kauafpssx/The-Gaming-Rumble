@@ -247,7 +247,7 @@ function TryModal({ route, globalApiKey, onClose }: TryModalProps) {
 
       const text = await res.text();
       let pretty = text;
-      try { pretty = JSON.stringify(JSON.parse(text), null, 2); } catch {}
+      try { pretty = JSON.stringify(JSON.parse(text), null, 2); } catch (_) { /* not json */ }
       setResponse({ status: res.status, ms, body: pretty });
     } catch (err) {
       setResponse({ status: 0, ms: Date.now() - start, body: String(err) });

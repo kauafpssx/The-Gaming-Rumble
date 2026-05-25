@@ -6,16 +6,17 @@ const STATS_API_URL = process.env.VITE_STATS_API_URL;
 
 export async function fetchGames(): Promise<Game[]> {
   if (!GAMES_API_URL) throw new Error("VITE_GAMES_API_URL env var not set");
-  const r = await fetch(`${GAMES_API_URL}?t=${Date.now()}`, { cache: "no-store" });
+  const r = await fetch(`${GAMES_API_URL}?t=${Date.now()}`);
   if (!r.ok) throw new Error("Failed to fetch games dataset");
-  const json = await r.json();
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  const json = (await r.json()) as any;
   return (json.downloads || json) as Game[];
 }
 
 export async function fetchStats(): Promise<GameStats | null> {
   if (!STATS_API_URL) return null;
   try {
-    const r = await fetch(`${STATS_API_URL}?t=${Date.now()}`, { cache: "no-store" });
+    const r = await fetch(`${STATS_API_URL}?t=${Date.now()}`);
     if (!r.ok) return null;
     return (await r.json()) as GameStats;
   } catch {

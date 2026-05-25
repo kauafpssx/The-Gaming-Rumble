@@ -13,7 +13,7 @@ export default createHandler(
       });
     }
 
-    const g = game as Parameters<typeof makeProtocolUrl>[0];
+    const g = game as unknown as Parameters<typeof makeProtocolUrl>[0];
     return sendJson(res, 200, {
       encoded: encodeGameForDataUrl(g),
       deepLinkUrl: `/?data=${encodeGameForDataUrl(g)}`,

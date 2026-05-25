@@ -1,4 +1,4 @@
-import { zlibSync } from "fflate";
+import { deflateSync } from "zlib";
 
 export interface GameStats {
   total_games: number;
@@ -108,7 +108,7 @@ export function encodeGameForDataUrl(game: Game): string {
     m: game.magnet,
   };
   const bytes = Buffer.from(JSON.stringify(payload));
-  const compressed = zlibSync(bytes);
+  const compressed = deflateSync(bytes);
   const b64 = Buffer.from(compressed).toString("base64");
   return b64.replace(/\+/g, "-").replace(/\//g, "_").replace(/=+$/, "");
 }

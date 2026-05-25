@@ -173,7 +173,6 @@ export function GameModal({ game, onClose }: { game: Game; onClose: () => void }
               <CollapsibleList
                 items={Object.entries(game.hoster_links)}
                 initialCount={6}
-                containerClassName="grid grid-cols-1 sm:grid-cols-2 gap-2 items-start"
                 renderItem={([hoster, links]) => (
                   <HosterSection key={hoster} hoster={hoster} links={links} />
                 )}

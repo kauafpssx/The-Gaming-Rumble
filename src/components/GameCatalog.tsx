@@ -450,7 +450,7 @@ export function GameCatalog() {
                 <span className="font-medium uppercase tracking-wider text-emerald-500/80">Sistema Online</span>
               </div>
               <div className="hidden md:flex items-center gap-3 border-l border-border pl-4">
-                <span>Torrents: <span className="text-foreground/70">{stats.torrent_files_total}</span></span>
+                <span>Torrents: <span className="text-foreground/70">{stats.online_fix_total}</span></span>
                 <span>Steam Sync: <span className="text-foreground/70">{stats.steam_with_metadata}</span></span>
               </div>
             </div>

@@ -173,6 +173,12 @@ export function createHandler(fn: Handler, opts: HandlerOpts = {}) {
       res.setHeader("X-RateLimit-Remaining", "unlimited");
     }
 
-    await fn(req, res);
+    try {
+      await fn(req, res);
+    } catch (err) {
+      const msg = err instanceof Error ? err.message : "Internal server error";
+      console.error("[api]", req.url, err);
+      if (!res.headersSent) sendJson(res, 500, { error: msg });
+    }
   };
 }

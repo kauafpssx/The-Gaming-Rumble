@@ -1,5 +1,5 @@
 import type { IncomingMessage, ServerResponse } from "http";
-import { type Game, type GameStats } from "../src/lib/games";
+import { type Game, type GameStats } from "./_games";
 
 const GAMES_API_URL = process.env.VITE_GAMES_API_URL;
 const STATS_API_URL = process.env.VITE_STATS_API_URL;

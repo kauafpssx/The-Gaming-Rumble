@@ -8,7 +8,7 @@ import {
   findByHash,
   encodeGameForDataUrl,
   makeProtocolUrl,
-} from "../src/lib/games";
+} from "./_games";
 
 async function router(req: IncomingMessage, res: ServerResponse) {
   const url = parse(req.url || "", true);

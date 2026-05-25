@@ -1,7 +1,7 @@
 import { useEffect, useState, useCallback } from "react";
 import { useParams, Navigate } from "react-router-dom";
 import { useQuery } from "@tanstack/react-query";
-import { GAMES_API, findByHash, findBySlug, makeProtocolUrl, Game } from "@/lib/games";
+import { findByHash, findBySlug, makeProtocolUrl, Game } from "@/lib/games";
 import icon from "@/assets/icon.png";
 
 type PageState = "loading" | "opened" | "fallback" | "error" | "not-found";
@@ -16,13 +16,10 @@ const ShortLink = () => {
   const { data: games, isLoading, isError } = useQuery({
     queryKey: ["games"],
     queryFn: async () => {
-      if (!GAMES_API) throw new Error("GAMES_API missing");
-      const r = await fetch(GAMES_API);
+      const r = await fetch("/api/games");
       if (!r.ok) throw new Error("Failed to fetch games");
-      const json = await r.json();
-      return json.downloads as Game[];
+      return (await r.json()) as Game[];
     },
-    enabled: !!GAMES_API,
   });
 
   const tryOpenProtocol = useCallback((url: string) => {

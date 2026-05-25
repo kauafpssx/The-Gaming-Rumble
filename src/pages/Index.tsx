@@ -3,7 +3,7 @@ import { Navigate } from "react-router-dom";
 import { useQuery } from "@tanstack/react-query";
 import { unzlibSync } from "fflate";
 import icon from "@/assets/icon.png";
-import { GAMES_API, findByHash, findBySlug, Game } from "@/lib/games";
+import { findByHash, findBySlug, Game } from "@/lib/games";
 
 type PageState = "loading" | "opened" | "fallback" | "error" | "invalid-payload";
 
@@ -52,13 +52,10 @@ const Index = () => {
   const { data: games, isLoading: gamesLoading } = useQuery({
     queryKey: ["games"],
     queryFn: async () => {
-      if (!GAMES_API) throw new Error("GAMES_API missing");
-      const r = await fetch(GAMES_API);
+      const r = await fetch("/api/games");
       if (!r.ok) throw new Error("Failed to fetch games");
-      const json = await r.json();
-      return json.downloads as Game[];
+      return (await r.json()) as Game[];
     },
-    enabled: !!GAMES_API,
   });
 
   const tryOpenProtocol = useCallback((url: string) => {

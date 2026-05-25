@@ -120,6 +120,70 @@ window.location.href = `gaming-rumble://${b64}`;
 
 ---
 
+## 🌐 API Pública
+
+O site expõe uma API REST pública e rápida para que bots (como Discord) e outros aplicativos possam consumir o catálogo de jogos do **Gaming Rumble**.
+
+### Endpoints Disponíveis
+
+#### `GET /api/manifest`
+Retorna metadados do ecossistema, versões de cliente suportadas e mapeamento de rotas.
+
+#### `GET /api/health`
+Retorna a integridade do ecossistema, tempo de atividade e latência de consulta à base de jogos.
+
+#### `GET /api/stats`
+Retorna estatísticas detalhadas como quantidade total de jogos, torrents e última data de sincronização.
+
+#### `GET /api/games`
+Lista todos os jogos cadastrados no catálogo.
+
+#### `GET /api/games/:slug`
+Retorna informações detalhadas de um jogo específico buscando pelo slug (ex: `/api/games/cyberpunk-2077`).
+
+#### `GET /api/games/hash/:hash`
+Busca um jogo a partir do Info Hash do torrent (ex: `/api/games/hash/<hash>`).
+
+#### `GET /api/search?q=:termo`
+Busca jogos por título, hash, tags (gêneros e categorias Steam) ou providers de download (ex: `gofile`, `pixeldrain`).
+
+#### `GET /api/trending`
+Retorna uma lista contendo os 12 jogos em alta (ordenados por novidade).
+
+#### `GET /api/recent`
+Retorna a lista dos 24 jogos recém-adicionados.
+
+#### `GET /api/updated`
+Retorna a lista dos 24 jogos atualizados recentemente.
+
+#### `GET /api/providers`
+Retorna todos os providers de download disponíveis na base de dados (ex: `torrent`, `gofile`, `pixeldrain`).
+
+#### `GET /api/download/:slug`
+Retorna o payload codificado para abrir diretamente no app nativo via `gaming-rumble://` e os links da bridge.
+
+#### `GET /api/d/:id`
+Busca e retorna o jogo correspondente a um ID curto (útil para links curtos e bots).
+
+#### `GET /api/encode/:hashOrSlug`
+Busca o jogo e retorna a URL direta de inicialização do protocolo nativo `gaming-rumble://<payload>`.
+
+#### `POST /api/encode`
+Recebe dados de um jogo customizado no corpo da requisição e retorna o payload Base64 URL-safe junto com a URL de protocolo.
+- **Corpo (JSON):**
+  ```json
+  {
+    "game": {
+      "title": "Nome do Jogo",
+      "magnet": "magnet:?xt=urn:btih:...",
+      "fileSize": "10 GB",
+      "files": []
+    }
+  }
+  ```
+
+---
+
 ## 🛠️ Guia de Desenvolvimento
 
 ### Stack Tecnológica
@@ -140,18 +204,24 @@ window.location.href = `gaming-rumble://${b64}`;
 
 ## 🌍 Variáveis de Ambiente
 
-O arquivo `.env` deve ser configurado para que o site saiba onde buscar os dados.
+Configuradas no dashboard da Vercel em **Settings → Environment Variables**. Nunca commitar valores reais no repositório.
 
 ```env
-# URL do JSON principal (Vercel Blob ou GitHub)
-VITE_GAMES_API_URL=https://mkuqgpwafiakxxi1.public.blob.vercel-storage.com/games.json
+# URL do Blob Storage (server-side only, não exposta ao cliente)
+VITE_GAMES_API_URL=<sua-url-privada>/games.json
+VITE_STATS_API_URL=<sua-url-privada>/stats.json
 
-# URL do JSON de estatísticas (Opcional)
-VITE_STATS_API_URL=https://mkuqgpwafiakxxi1.public.blob.vercel-storage.com/stats.json
-
-# Apenas para a Vercel (API/Cron)
+# Token de escrita do Vercel Blob (cron sync)
 BLOB_READ_WRITE_TOKEN=vercel_blob_rw_...
-CRON_SECRET=seu_segredo_aqui
+
+# Autenticação do cron job
+CRON_SECRET=<secret>
+
+# Chaves de API (separadas por vírgula) — 300 req/min
+API_KEYS=key1,key2
+
+# Master key — sem rate limit
+MASTER_API_KEY=<secret-longo>
 ```
 
 ---
@@ -161,21 +231,41 @@ CRON_SECRET=seu_segredo_aqui
 ```txt
 gr-link/
 ├── api/
-│   ├── cron.ts            # Sincronizador atômico (Games + Stats)
-│   └── update-games.js    # Fallback/Update manual
+│   ├── _utils.ts              # Helpers: fetchGames, sendJson, cors, getPathParam
+│   ├── cron.ts                # Sincronizador atômico (Games + Stats → Vercel Blob)
+│   ├── health.ts              # GET /api/health — status, latência, gamesCount
+│   ├── manifest.ts            # GET /api/manifest — versão, protocolo, endpoints
+│   ├── stats.ts               # GET /api/stats — totais e última sync
+│   ├── search.ts              # GET /api/search?q= — busca por nome, hash, provider, tag
+│   ├── trending.ts            # GET /api/trending — 12 jogos mais recentes
+│   ├── recent.ts              # GET /api/recent — 24 recém-adicionados
+│   ├── updated.ts             # GET /api/updated — 24 atualizados recentemente
+│   ├── providers.ts           # GET /api/providers — lista providers disponíveis
+│   ├── games/
+│   │   ├── index.ts           # GET /api/games — todos os jogos
+│   │   ├── [slug].ts          # GET /api/games/:slug — jogo por slug
+│   │   └── hash/
+│   │       └── [hash].ts      # GET /api/games/hash/:hash — jogo por info hash
+│   ├── download/
+│   │   └── [slug].ts          # GET /api/download/:slug — payload gaming-rumble://
+│   ├── encode/
+│   │   ├── index.ts           # POST /api/encode — codifica payload customizado
+│   │   └── [hashOrSlug].ts    # GET /api/encode/:hashOrSlug — URL gaming-rumble:// direta
+│   └── d/
+│       └── [id].ts            # GET /api/d/:id — resolver link curto (Discord bot)
 ├── src/
 │   ├── components/
-│   │   ├── GameCatalog.tsx # O "coração" do site (Grid, Header, Footer)
-│   │   ├── GameModal.tsx   # Modal detalhado com lógica de colapso
-│   │   └── ui/             # Primitivos de UI (Tooltip, Sonner, etc)
+│   │   ├── GameCatalog.tsx    # O "coração" do site (Grid, Header, Footer)
+│   │   ├── GameModal.tsx      # Modal detalhado com lógica de colapso
+│   │   └── ui/                # Primitivos de UI (Tooltip, Sonner, etc)
 │   ├── lib/
-│   │   ├── games.ts        # Business Logic, Sorting e Protocol Schema
-│   │   └── translations.json # Engine de tradução para requisitos
+│   │   ├── games.ts           # Business Logic, Sorting e Protocol Schema
+│   │   └── translations.json  # Engine de tradução para requisitos
 │   ├── pages/
-│   │   ├── Index.tsx       # Landing/Bridge principal (?data=)
-│   │   └── ShortLink.tsx   # Bridge para links curtos (/d/)
+│   │   ├── Index.tsx          # Landing/Bridge principal (?data=)
+│   │   └── ShortLink.tsx      # Bridge para links curtos (/d/)
 │   └── ...
-├── vercel.json             # Agendamento de cron e regras de SPA
+├── vercel.json                # Agendamento de cron e regras de SPA
 └── ...
 ```
 

@@ -1,8 +1,5 @@
 import { zlibSync } from "fflate";
 
-export const GAMES_API = import.meta.env.VITE_GAMES_API_URL;
-export const STATS_API = import.meta.env.VITE_STATS_API_URL;
-
 export interface GameStats {
   total_games: number;
   online_fix_total: number;

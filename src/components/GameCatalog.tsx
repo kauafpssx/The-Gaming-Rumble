@@ -14,8 +14,6 @@ import {
   type Game,
   type SortId,
   type GameStats,
-  GAMES_API,
-  STATS_API,
   toSlug,
   findBySlug,
   findByHash,
@@ -70,27 +68,22 @@ export function GameCatalog() {
   const { data: stats } = useQuery({
     queryKey: ["stats"],
     queryFn: async () => {
-      if (!STATS_API) return null;
-      const r = await fetch(`${STATS_API}?t=${Date.now()}`, { cache: "no-store" });
+      const r = await fetch("/api/stats");
       if (!r.ok) return null;
       return (await r.json()) as GameStats;
     },
-    enabled: !!STATS_API,
-    staleTime: 1000 * 60 * 5, // 5 minutes
+    staleTime: 1000 * 60 * 5,
   });
 
   /* ── Fetch games (cached via QueryClient) ── */
   const { data: gamesData, isLoading, isError } = useQuery({
     queryKey: ["games"],
     queryFn: async () => {
-      if (!GAMES_API) throw new Error("GAMES_API missing");
-      const r = await fetch(`${GAMES_API}?t=${Date.now()}`, { cache: "no-store" });
+      const r = await fetch("/api/games");
       if (!r.ok) throw new Error("Failed to fetch games");
-      const json = await r.json();
-      return json.downloads as Game[];
+      return (await r.json()) as Game[];
     },
-    enabled: !!GAMES_API,
-    staleTime: 1000 * 60 * 5, // 5 minutes
+    staleTime: 1000 * 60 * 5,
   });
   const games = useMemo(() => gamesData ?? [], [gamesData]);
 
@@ -229,31 +222,6 @@ export function GameCatalog() {
     return Array.from({ length: Math.max(0, end - start + 1) }, (_, i) => start + i);
   }, [page, totalPages]);
 
-  /* ── Render states ── */
-  if (!GAMES_API) {
-    return (
-      <div className="min-h-screen flex items-center justify-center p-4">
-        <div className="text-center max-w-md animate-fade-in-up">
-          <div className="w-16 h-16 bg-destructive/10 rounded-2xl flex items-center justify-center mx-auto mb-6">
-            <svg className="w-8 h-8 text-destructive" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
-              <path strokeLinecap="round" strokeLinejoin="round" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z" />
-            </svg>
-          </div>
-          <h1 className="text-xl font-bold mb-3">Configuração Necessária</h1>
-          <p className="text-muted-foreground text-sm mb-6 leading-relaxed">
-            A variável de ambiente <code className="bg-secondary px-1.5 py-0.5 rounded text-foreground font-mono">VITE_GAMES_API_URL</code> é obrigatória para o funcionamento do site.
-            <br /><br />
-            A variável <code className="bg-secondary px-1.5 py-0.5 rounded text-foreground font-mono">VITE_STATS_API_URL</code> é opcional e serve para exibir estatísticas globais.
-          </p>
-          <div className="bg-card border border-border p-4 rounded-xl text-left font-mono text-[11px] text-muted-foreground">
-            # Exemplo .env<br />
-            VITE_GAMES_API_URL=https://.../games.json<br />
-            VITE_STATS_API_URL=https://.../stats.json
-          </div>
-        </div>
-      </div>
-    );
-  }
 
   if (isLoading || (isDownload && slug)) {
     return (

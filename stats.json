@@ -2,9 +2,9 @@
   "repo": "kauafpssx/The-Gaming-Rumble",
   "branch": "games",
   "raw_base_url": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/",
-  "total_games": 1752,
-  "online_fix_total": 1752,
-  "steam_with_metadata": 1643,
+  "total_games": 1753,
+  "online_fix_total": 1753,
+  "steam_with_metadata": 1644,
   "steam_without_metadata": 109,
   "match_rate": 93.78,
   "success_rate": 93.78,
@@ -15,19 +15,19 @@
   "new_games_found_this_run": 144,
   "new_games_added_to_json_this_run": 1,
   "latest_run_new_game_names": [
-    "Teamfight Manager 2"
+    "Bandit Trap"
   ],
   "updated_games_this_run": 1,
   "latest_run_updated_game_names": [
-    "Forts"
+    "Escape the Backrooms"
   ],
   "processed_games_this_run": 2,
-  "torrent_files_total": 1753,
-  "json_entries_with_torrent": 1752,
-  "games_with_providers": 777,
-  "last_scrape_at": "2026-06-03 17:53:15",
-  "last_scrape_at_display": "03/06/2026",
-  "last_game_update": "2026-06-03T14:21:09+03:00",
-  "generated_at": "2026-06-03 17:53:21",
-  "generated_at_display": "03/06/2026"
+  "torrent_files_total": 1755,
+  "json_entries_with_torrent": 1753,
+  "games_with_providers": 778,
+  "last_scrape_at": "2026-06-04 16:59:24",
+  "last_scrape_at_display": "04/06/2026",
+  "last_game_update": "2026-06-04T17:37:19+03:00",
+  "generated_at": "2026-06-04 17:00:05",
+  "generated_at_display": "04/06/2026"
 }

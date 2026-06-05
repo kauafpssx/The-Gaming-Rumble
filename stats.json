@@ -12,22 +12,18 @@
   "pages_scraped_target": 92,
   "pages_present_in_json": 90,
   "last_page_in_json": 90,
-  "new_games_found_this_run": 144,
-  "new_games_added_to_json_this_run": 1,
-  "latest_run_new_game_names": [
-    "Bandit Trap"
-  ],
-  "updated_games_this_run": 1,
-  "latest_run_updated_game_names": [
-    "Escape the Backrooms"
-  ],
-  "processed_games_this_run": 2,
+  "new_games_found_this_run": 142,
+  "new_games_added_to_json_this_run": 0,
+  "latest_run_new_game_names": [],
+  "updated_games_this_run": 0,
+  "latest_run_updated_game_names": [],
+  "processed_games_this_run": 0,
   "torrent_files_total": 1755,
   "json_entries_with_torrent": 1753,
   "games_with_providers": 778,
   "last_scrape_at": "2026-06-04 16:59:24",
   "last_scrape_at_display": "04/06/2026",
   "last_game_update": "2026-06-04T17:37:19+03:00",
-  "generated_at": "2026-06-04 17:00:05",
-  "generated_at_display": "04/06/2026"
+  "generated_at": "2026-06-05 16:48:50",
+  "generated_at_display": "05/06/2026"
 }

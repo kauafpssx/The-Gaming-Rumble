@@ -18,6 +18,7 @@ import {
   findBySlug,
   findByHash,
   sortGames,
+  gameImageUrl,
   searchGames,
   encodeGameForDataUrl,
   makeProtocolUrl,
@@ -544,7 +545,7 @@ function GameCard({
       >
         {!imgError && game.steam?.header_image ? (
           <img
-            src={game.steam.header_image}
+            src={gameImageUrl(game)}
             alt={game.title}
             className="w-full h-full object-cover transition-transform duration-300 group-hover:scale-105"
             onError={() => setImgError(true)}

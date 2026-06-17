@@ -63,6 +63,10 @@ export type SortId = "az" | "za" | "newest" | "oldest" | "largest" | "smallest";
 
 /* ── Search/Find ── */
 
+export function gameImageUrl(game: Game): string {
+  return `/api/image/${toSlug(game.title)}`;
+}
+
 export function toSlug(title: string): string {
   return title
     .normalize("NFD")

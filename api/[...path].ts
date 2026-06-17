@@ -1,6 +1,6 @@
 import type { IncomingMessage, ServerResponse } from "http";
 import { parse } from "url";
-import { fetchGames, fetchStats, sendJson, getJsonBody, createHandler } from "./_utils";
+import { fetchGames, fetchStats, sendJson, getJsonBody, createHandler, proxyImage } from "./_utils";
 import {
   searchGames,
   sortGames,
@@ -92,6 +92,7 @@ async function router(req: IncomingMessage, res: ServerResponse) {
         providers: "/api/providers",
         health: "/api/health",
         manifest: "/api/manifest",
+        image: "/api/image/:slugOrHash",
         download: "/api/download/:slug",
         encode_get: "/api/encode/:hashOrSlug",
         encode_post: "/api/encode",
@@ -186,6 +187,17 @@ async function router(req: IncomingMessage, res: ServerResponse) {
       deepLinkUrl: `/?data=${encodeGameForDataUrl(g)}`,
       protocolUrl: makeProtocolUrl(g),
     });
+  }
+
+  // GET /api/image/:id  (proxy Steam header image by slug or hash)
+  if (seg0 === "image") {
+    if (!seg1) return sendJson(res, 400, { error: "Missing game slug or hash" });
+    const games = await fetchGames();
+    const game = findBySlug(games, seg1) || findByHash(games, seg1);
+    if (!game) return sendJson(res, 404, { error: "Game not found" });
+    const imageUrl = game.steam?.header_image;
+    if (!imageUrl) return sendJson(res, 404, { error: "No image available for this game" });
+    return proxyImage(res, imageUrl);
   }
 
   return sendJson(res, 404, { error: "API endpoint not found" });

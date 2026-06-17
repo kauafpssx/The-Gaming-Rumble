@@ -1,7 +1,7 @@
 import { useEffect, useState, useCallback } from "react";
 import { useParams, Navigate } from "react-router-dom";
 import { useQuery } from "@tanstack/react-query";
-import { findByHash, findBySlug, makeProtocolUrl, Game } from "@/lib/games";
+import { findByHash, findBySlug, makeProtocolUrl, gameImageUrl, Game } from "@/lib/games";
 import icon from "@/assets/icon.png";
 
 type PageState = "loading" | "opened" | "fallback" | "error" | "not-found";
@@ -119,7 +119,7 @@ const ShortLink = () => {
         {gameData && (
           <div className="relative w-full">
             <img
-              src={gameData.steam?.header_image}
+              src={gameImageUrl(gameData)}
               alt={gameData.title}
               className="w-full h-40 md:h-48 object-cover"
               onError={(e) => {

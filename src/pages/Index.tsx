@@ -3,7 +3,7 @@ import { Navigate } from "react-router-dom";
 import { useQuery } from "@tanstack/react-query";
 import { unzlibSync } from "fflate";
 import icon from "@/assets/icon.png";
-import { findByHash, findBySlug, Game } from "@/lib/games";
+import { findByHash, findBySlug, gameImageUrl, Game } from "@/lib/games";
 
 type PageState = "loading" | "opened" | "fallback" | "error" | "invalid-payload";
 
@@ -160,7 +160,7 @@ const Index = () => {
         {gameData && (
           <div className="relative w-full">
             <img
-              src={enrichedGame?.steam?.header_image || gameData.banner}
+              src={enrichedGame ? gameImageUrl(enrichedGame) : gameData.banner}
               alt={gameData.title}
               className="w-full h-40 md:h-48 object-cover"
               onError={(e) => {

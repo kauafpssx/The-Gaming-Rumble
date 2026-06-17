@@ -8,10 +8,7 @@
       "schedule": "0 20 * * *"
     }
   ],
-  "routes": [
-    { "handle": "filesystem" },
-    { "src": "/api/cron", "dest": "/api/cron" },
-    { "src": "/api/(.*)", "dest": "/api/[...path]" },
-    { "src": "/(.*)", "dest": "/index.html" }
+  "rewrites": [
+    { "source": "/api/(.*)", "destination": "/api/[...path]" }
   ]
 }

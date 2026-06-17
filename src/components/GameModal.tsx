@@ -1,6 +1,6 @@
 import { useEffect, useState, useCallback, useMemo } from "react";
 import { type Game } from "./GameCatalog";
-import { makeProtocolUrl, toSlug, getGameDate, type HosterLink } from "@/lib/games";
+import { makeProtocolUrl, toSlug, getGameDate, gameImageUrl, type HosterLink } from "@/lib/games";
 import translationsData from "@/lib/translations.json";
 
 function ensureProtocol(url: string) {
@@ -60,7 +60,7 @@ export function GameModal({ game, onClose }: { game: Game; onClose: () => void }
         <div className="relative shrink-0">
           {game.steam?.header_image ? (
             <img
-              src={game.steam.header_image}
+              src={gameImageUrl(game)}
               alt={game.title}
               className="w-full h-52 object-cover rounded-t-2xl"
             />

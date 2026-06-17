@@ -4,13 +4,21 @@ import { type Game, type GameStats } from "./_games";
 const GAMES_API_URL = process.env.VITE_GAMES_API_URL;
 const STATS_API_URL = process.env.VITE_STATS_API_URL;
 
+let _gamesCache: Game[] | null = null;
+let _gamesCacheTs = 0;
+const GAMES_CACHE_TTL = 5 * 60 * 1000; // 5 min
+
 export async function fetchGames(): Promise<Game[]> {
+  if (_gamesCache && Date.now() - _gamesCacheTs < GAMES_CACHE_TTL) return _gamesCache;
   if (!GAMES_API_URL) throw new Error("VITE_GAMES_API_URL env var not set");
   const r = await fetch(`${GAMES_API_URL}?t=${Date.now()}`);
   if (!r.ok) throw new Error("Failed to fetch games dataset");
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
   const json = (await r.json()) as any;
-  return (json.downloads || json) as Game[];
+  const games = (json.downloads || json) as Game[];
+  _gamesCache = games;
+  _gamesCacheTs = Date.now();
+  return games;
 }
 
 export async function fetchStats(): Promise<GameStats | null> {
@@ -41,6 +49,55 @@ export function sendJson(res: ServerResponse, status: number, body: unknown) {
   cors(res);
   res.writeHead(status, { "Content-Type": "application/json" });
   res.end(JSON.stringify(body));
+}
+
+// ── Image proxy cache ─────────────────────────────────────────────────────────
+const _imgCache = new Map<string, { buf: Buffer; ct: string; ts: number }>();
+const IMG_CACHE_TTL = 60 * 60 * 1000; // 1 hour
+
+export async function proxyImage(res: ServerResponse, imageUrl: string) {
+  cors(res);
+
+  const cached = _imgCache.get(imageUrl);
+  if (cached && Date.now() - cached.ts < IMG_CACHE_TTL) {
+    res.writeHead(200, {
+      "Content-Type": cached.ct,
+      "Cache-Control": "public, max-age=3600",
+      "Access-Control-Allow-Origin": "*",
+    });
+    return res.end(cached.buf);
+  }
+
+  try {
+    const upstream = await fetch(imageUrl, {
+      headers: { "User-Agent": "Mozilla/5.0" },
+      signal: AbortSignal.timeout(10_000),
+    });
+    if (!upstream.ok) {
+      return sendJson(res, upstream.status, { error: "Failed to fetch image" });
+    }
+    const contentType = upstream.headers.get("content-type") || "image/jpeg";
+    const buf = Buffer.from(await upstream.arrayBuffer());
+    _imgCache.set(imageUrl, { buf, ct: contentType, ts: Date.now() });
+
+    // evict old entries every 1000 images
+    if (_imgCache.size > 1000) {
+      const now = Date.now();
+      for (const [k, v] of _imgCache) {
+        if (now - v.ts > IMG_CACHE_TTL) _imgCache.delete(k);
+      }
+    }
+
+    res.writeHead(200, {
+      "Content-Type": contentType,
+      "Cache-Control": "public, max-age=3600",
+      "Access-Control-Allow-Origin": "*",
+    });
+    res.end(buf);
+  } catch (err) {
+    console.error("[image-proxy]", imageUrl, err);
+    if (!res.headersSent) sendJson(res, 502, { error: "Image proxy failed" });
+  }
 }
 
 export function getJsonBody(req: IncomingMessage): Promise<unknown> {

@@ -1,6 +1,6 @@
 {
   "framework": "vite",
-  "installCommand": "npm install --ignore-scripts",
+  "installCommand": "npm install",
   "buildCommand": "vite build",
   "outputDirectory": "dist",
   "crons": [

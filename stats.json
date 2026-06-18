@@ -12,22 +12,18 @@
   "pages_scraped_target": 92,
   "pages_present_in_json": 90,
   "last_page_in_json": 90,
-  "new_games_found_this_run": 145,
-  "new_games_added_to_json_this_run": 1,
-  "latest_run_new_game_names": [
-    "Frog Sqwad"
-  ],
-  "updated_games_this_run": 1,
-  "latest_run_updated_game_names": [
-    "Tribes of Midgard"
-  ],
-  "processed_games_this_run": 2,
+  "new_games_found_this_run": 143,
+  "new_games_added_to_json_this_run": 0,
+  "latest_run_new_game_names": [],
+  "updated_games_this_run": 0,
+  "latest_run_updated_game_names": [],
+  "processed_games_this_run": 0,
   "torrent_files_total": 1774,
   "json_entries_with_torrent": 1770,
   "games_with_providers": 796,
   "last_scrape_at": "2026-06-17 17:08:09",
   "last_scrape_at_display": "17/06/2026",
   "last_game_update": "2026-06-17T14:44:59+03:00",
-  "generated_at": "2026-06-17 17:08:41",
-  "generated_at_display": "17/06/2026"
+  "generated_at": "2026-06-18 17:18:42",
+  "generated_at_display": "18/06/2026"
 }

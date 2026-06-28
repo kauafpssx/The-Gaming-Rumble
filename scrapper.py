@@ -1832,6 +1832,7 @@ class OnlineFixScraper:
                 print(f"⚠️ Erro ao carregar banco de dados atual: {e}")
 
         existing_titles_map = {item['title']: item for item in all_data if item.get('title')}
+        existing_url_map = {item['url']: item for item in all_data if item.get('url')}
         new_games = []
         seen_links = set()
 
@@ -1848,6 +1849,12 @@ class OnlineFixScraper:
                             seen_links.add(g['href'])
                             g['page'] = 1
                             new_games.append(g)
+                        elif g['href'] in existing_links and g['href'] not in seen_links:
+                            existing_stored = existing_url_map.get(g['href'])
+                            if existing_stored and self._is_game_updated(existing_stored, g):
+                                seen_links.add(g['href'])
+                                g['page'] = 1
+                                new_games.append(g)
                     print(f"✅ Page 1 OK ({len(games)} games)")
                 else:
                     print(f"❌ Page 1 status {resp.status_code}")
@@ -1893,6 +1900,12 @@ class OnlineFixScraper:
                         seen_links.add(g['href'])
                         g['page'] = p
                         new_games.append(g)
+                    elif g['href'] in existing_links and g['href'] not in seen_links:
+                        existing_stored = existing_url_map.get(g['href'])
+                        if existing_stored and self._is_game_updated(existing_stored, g):
+                            seen_links.add(g['href'])
+                            g['page'] = p
+                            new_games.append(g)
 
                 count = len(games)
                 print(f"✅ Page {p} OK ({count} games)")

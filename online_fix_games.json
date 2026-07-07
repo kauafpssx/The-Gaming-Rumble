@@ -1,5 +1,5 @@
 {
-    "total": 1772,
+    "total": 1773,
     "downloads": [
         {
             "title": "10 Miles to Safety",
@@ -8709,10 +8709,10 @@
             "url": "https://online-fix.me/games/survival/16310-barotrauma-po-seti.html",
             "last_update": "2020-04-06T23:59:05+03:00",
             "release_date": "13.03.2023",
-            "update_info": "Обновлено 13 мая 2026, 17:10. Игра обновлена до версии 1.12.7.0.",
-            "update_date": "2026-05-13T17:10:00+03:00",
-            "formatted_update_date": "2026-05-13 17:10:00",
-            "scraped_at": "2026-06-28 18:57:55",
+            "update_info": "Обновлено Сегодня, 16:26. Игра обновлена до версии 1.13.4.0.",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-07-07 16:49:29",
             "steam": {
                 "steam_appid": 602960,
                 "match_score": 100,
@@ -8801,14 +8801,26 @@
                 ]
             },
             "hoster_links": {
+                "FileDitch": [
+                    {
+                        "file_name": "Barotrauma.v1.13.4.0-OFME.rar",
+                        "direct_link": "https://fileditchfiles.me/alpha13/6300ed26734abc206ec4/Barotrauma.v1.13.4.0-OFME.rar"
+                    }
+                ],
+                "Rootz": [
+                    {
+                        "file_name": "Barotrauma.v1.13.4.0-OFME.rar",
+                        "direct_link": "https://rootz.so/d/27vlr6"
+                    }
+                ],
                 "Pixeldrain": [
                     {
                         "file_name": "Barotrauma_Fix_Repair_Steam_V3_Generic.rar",
                         "direct_link": "https://pixeldrain.com/u/EC4KMoKG"
                     },
                     {
-                        "file_name": "Barotrauma.v1.12.7.0-OFME.rar",
-                        "direct_link": "https://pixeldrain.com/u/re4Gx1HY"
+                        "file_name": "Barotrauma.v1.13.4.0-OFME.rar",
+                        "direct_link": "https://pixeldrain.com/u/n9SezFzF"
                     }
                 ],
                 "Gofile": [
@@ -8817,14 +8829,8 @@
                         "direct_link": "https://gofile.io/d/1jWhtF"
                     },
                     {
-                        "file_name": "Barotrauma.v1.12.7.0-OFME.rar",
-                        "direct_link": "https://gofile.io/d/XpfdAb"
-                    }
-                ],
-                "Rootz": [
-                    {
-                        "file_name": "Barotrauma.v1.12.7.0-OFME.rar",
-                        "direct_link": "https://rootz.so/d/13U0G0"
+                        "file_name": "Barotrauma.v1.13.4.0-OFME.rar",
+                        "direct_link": "https://gofile.io/d/O7bnhJ"
                     }
                 ],
                 "VikingFile": [
@@ -8833,16 +8839,16 @@
                         "direct_link": "https://vikingfile.com/f/Odz6uzq7f4"
                     },
                     {
-                        "file_name": "Barotrauma.v1.12.7.0-OFME.rar",
-                        "direct_link": "https://vikingfile.com/f/AZOB7DaOc2"
+                        "file_name": "Barotrauma.v1.13.4.0-OFME.rar",
+                        "direct_link": "https://vikingfile.com/f/QuAWnsTMxD"
                     }
                 ]
             },
-            "unique_hash": "5a279a95d1ad71eb5f070573e1d0253e3737c448",
+            "unique_hash": "78b5d8b2ca2c5c799b2cde8cdcadb3f4b2047f12",
             "fileSize": "1.49 GB",
-            "magnet": "magnet:?xt=urn:btih:5a279a95d1ad71eb5f070573e1d0253e3737c448&dn=Barotrauma&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
-            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_85/Barotrauma.v1.12.7.0-OFME.torrent",
-            "created_at": "2026-05-13 11:04:38",
+            "magnet": "magnet:?xt=urn:btih:78b5d8b2ca2c5c799b2cde8cdcadb3f4b2047f12&dn=Barotrauma&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_85/Barotrauma.v1.13.4.0-OFME.torrent",
+            "created_at": "2026-07-07 10:07:34",
             "webdav_updated_at": "Unknown",
             "files": [
                 {
@@ -8850,7 +8856,7 @@
                     "size": "10.01 MB"
                 },
                 {
-                    "name": "Barotrauma.v1.12.7.0-OFME.rar",
+                    "name": "Barotrauma.v1.13.4.0-OFME.rar",
                     "size": "1.48 GB"
                 }
             ],
@@ -33039,14 +33045,14 @@
         },
         {
             "title": "ELDEN RING NIGHTREIGN",
-            "page": 15,
+            "page": 18,
             "url": "https://online-fix.me/games/rpg/17783-elden-ring-nightreign-po-seti.html",
             "last_update": "2025-05-30T22:02:35+03:00",
             "release_date": "30.05.2025",
-            "update_info": "Обновлено 2 февраля 2026, 17:16. Модификация обновлена до версии 1.1.2.",
-            "update_date": "2026-02-02T17:16:00+03:00",
-            "formatted_update_date": "2026-02-02 17:16:00",
-            "scraped_at": "2026-05-11 20:16:50",
+            "update_info": "Обновлено Сегодня, 16:26. Игра обновлена до версии 1.03.3. Модификация обновлена до версии 1.1.3.",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-07-07 16:47:42",
             "steam": {
                 "steam_appid": 2622380,
                 "match_score": 100,
@@ -33054,199 +33060,287 @@
                 "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2622380/header.jpg?t=1773099036",
                 "short_description": "ELDEN RING NIGHTREIGN é uma aventura independente localizada no universo de ELDEN RING, criada para oferecer uma nova experiência de jogo através da reformulação do design central do jogo.",
                 "short_description_native": "ELDEN RING NIGHTREIGN é uma aventura independente localizada no universo de ELDEN RING, criada para oferecer uma nova experiência de jogo através da reformulação do design central do jogo.",
-                "price_brl": "R$ 197,90",
+                "price_brl": "R$ 148,42",
                 "is_free": false,
                 "pc_requirements": {
                     "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10\n\nProcessador: Intel Core i5-10600 / AMD RYZEN 5 5500\n\nMemória: 12 GB de RAM\n\nPlaca gráfica: NVIDIA GeForce GTX 1060 3GB / AMD Radeon RX 580 4GB\n\nDirectX: Versão 12\n\nEspaço no disco: Requer 30 GB de espaço livre\n\nPlaca de som: Windows compatible audio device",
                     "recommended": "Recomendados:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 11\n\nProcessador: Intel Core i5-11500 / AMD RYZEN 5 5600\n\nMemória: 16 GB de RAM\n\nPlaca gráfica: NVIDIA GeForce GTX 1070 8GB / AMD Radeon RX Vega-56 8GB\n\nDirectX: Versão 12\n\nEspaço no disco: Requer 30 GB de espaço livre\n\nPlaca de som: Windows compatible audio device"
                 },
-                "controller_support": "full"
-            },
-            "hoster_links": {
-                "Rootz": [
+                "controller_support": "full",
+                "categories": [
                     {
-                        "file_name": "ELDENRINGNIGHTREIGN_Fix_Repair_Steam_V2_Generic.rar",
-                        "direct_link": "https://www.rootz.so/d/1Xwk4m"
+                        "id": 2,
+                        "description": "Um jogador"
                     },
                     {
-                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.2-OFME.part1.rar",
-                        "direct_link": "https://www.rootz.so/d/CjiOe"
+                        "id": 1,
+                        "description": "Multijogador"
                     },
                     {
-                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.2-OFME.part2.rar",
-                        "direct_link": "https://www.rootz.so/d/1TRnxQ"
+                        "id": 9,
+                        "description": "Co-op"
                     },
                     {
-                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.2-OFME.part3.rar",
-                        "direct_link": "https://www.rootz.so/d/GlZGC"
+                        "id": 38,
+                        "description": "Co-op online"
                     },
                     {
-                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.2-OFME.part4.rar",
-                        "direct_link": "https://www.rootz.so/d/1PPx5s"
+                        "id": 22,
+                        "description": "Proezas Steam"
                     },
                     {
-                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.2-OFME.part5.rar",
-                        "direct_link": "https://www.rootz.so/d/KnQ7k"
+                        "id": 28,
+                        "description": "Compat. total c/ comando"
                     },
                     {
-                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.2-OFME.part6.rar",
-                        "direct_link": "https://www.rootz.so/d/179eM4"
+                        "id": 67,
+                        "description": "Conforto de câmara"
+                    },
+                    {
+                        "id": 68,
+                        "description": "Controlos de volume independentes"
+                    },
+                    {
+                        "id": 60,
+                        "description": "Comando recomendado"
+                    },
+                    {
+                        "id": 74,
+                        "description": "Jogável sem necessitar de ações rápidas ou precisas"
+                    },
+                    {
+                        "id": 55,
+                        "description": "Compat. com DUALSHOCK"
+                    },
+                    {
+                        "id": 56,
+                        "description": "Compat. com DUALSHOCK"
+                    },
+                    {
+                        "id": 57,
+                        "description": "Compat. com DualSense"
+                    },
+                    {
+                        "id": 58,
+                        "description": "Compat. com DualSense"
+                    },
+                    {
+                        "id": 59,
+                        "description": "Compat. com Steam Input"
+                    },
+                    {
+                        "id": 69,
+                        "description": "Som estéreo"
+                    },
+                    {
+                        "id": 70,
+                        "description": "Som surround"
+                    },
+                    {
+                        "id": 23,
+                        "description": "Steam Cloud"
+                    },
+                    {
+                        "id": 62,
+                        "description": "Partilha de Biblioteca"
                     }
                 ],
-                "VikingFile": [
+                "genres": [
                     {
-                        "file_name": "ELDENRINGNIGHTREIGN_Fix_Repair_Steam_V2_Generic.rar",
-                        "direct_link": "https://vikingfile.com/f/7LXFJ8iaby"
+                        "id": "1",
+                        "description": "Ação"
                     },
                     {
-                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.2-OFME.part1.rar",
-                        "direct_link": "https://vikingfile.com/f/H5DGuww2ro"
+                        "id": "3",
+                        "description": "RPG"
+                    }
+                ]
+            },
+            "hoster_links": {
+                "FileDitch": [
+                    {
+                        "file_name": "ELDENRINGNIGHTREIGN_Fix_Repair_Steam_V2_Generic (1).rar",
+                        "direct_link": "https://fileditchfiles.me/alpha13/327e27caf458ce089560/ELDENRINGNIGHTREIGN_Fix_Repair_Steam_V2_Generic_%281%29.rar"
                     },
                     {
-                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.2-OFME.part2.rar",
-                        "direct_link": "https://vikingfile.com/f/8sTqdMk9qR"
+                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.3-OFME.part1.rar",
+                        "direct_link": "https://fileditchfiles.me/alpha13/7d826f7b0aaf68b99628/ELDEN.RING.NIGHTREIGN.v1.03.3-OFME.part1.rar"
                     },
                     {
-                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.2-OFME.part3.rar",
-                        "direct_link": "https://vikingfile.com/f/hyoQUWWtQC"
+                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.3-OFME.part2.rar",
+                        "direct_link": "https://fileditchfiles.me/alpha13/f6c1916dba4b2f5f3b17/ELDEN.RING.NIGHTREIGN.v1.03.3-OFME.part2.rar"
                     },
                     {
-                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.2-OFME.part4.rar",
-                        "direct_link": "https://vikingfile.com/f/HukUmA25PQ"
+                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.3-OFME.part3.rar",
+                        "direct_link": "https://fileditchfiles.me/alpha13/47823455d35dc5cd1946/ELDEN.RING.NIGHTREIGN.v1.03.3-OFME.part3.rar"
                     },
                     {
-                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.2-OFME.part5.rar",
-                        "direct_link": "https://vikingfile.com/f/qevyi9JCTK"
+                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.3-OFME.part4.rar",
+                        "direct_link": "https://fileditchfiles.me/alpha13/870446d3aa9bb8835306/ELDEN.RING.NIGHTREIGN.v1.03.3-OFME.part4.rar"
                     },
                     {
-                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.2-OFME.part6.rar",
-                        "direct_link": "https://vikingfile.com/f/FYKkA1tN9B"
+                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.3-OFME.part5.rar",
+                        "direct_link": "https://fileditchfiles.me/alpha13/9cbd7152fe173b021815/ELDEN.RING.NIGHTREIGN.v1.03.3-OFME.part5.rar"
+                    },
+                    {
+                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.3-OFME.part6.rar",
+                        "direct_link": "https://fileditchfiles.me/alpha13/30a9e547b0fb8115e693/ELDEN.RING.NIGHTREIGN.v1.03.3-OFME.part6.rar"
+                    }
+                ],
+                "Rootz": [
+                    {
+                        "file_name": "ELDENRINGNIGHTREIGN_Fix_Repair_Steam_V2_Generic (1).rar",
+                        "direct_link": "https://rootz.so/d/apdui"
+                    },
+                    {
+                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.3-OFME.part1.rar",
+                        "direct_link": "https://rootz.so/d/1HmvVg"
+                    },
+                    {
+                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.3-OFME.part2.rar",
+                        "direct_link": "https://rootz.so/d/2AJtxI"
+                    },
+                    {
+                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.3-OFME.part3.rar",
+                        "direct_link": "https://rootz.so/d/CeWnY"
+                    },
+                    {
+                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.3-OFME.part4.rar",
+                        "direct_link": "https://rootz.so/d/56goS"
+                    },
+                    {
+                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.3-OFME.part5.rar",
+                        "direct_link": "https://rootz.so/d/98Xg0"
+                    },
+                    {
+                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.3-OFME.part6.rar",
+                        "direct_link": "https://rootz.so/d/15hMzA"
                     }
                 ],
                 "Pixeldrain": [
                     {
-                        "file_name": "ELDENRINGNIGHTREIGN_Fix_Repair_Steam_V2_Generic.rar",
-                        "direct_link": "https://pixeldrain.com/u/mq9DppLV"
+                        "file_name": "ELDENRINGNIGHTREIGN_Fix_Repair_Steam_V2_Generic (1).rar",
+                        "direct_link": "https://pixeldrain.com/u/deZso4Xp"
                     },
                     {
-                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.2-OFME.part1.rar",
-                        "direct_link": "https://pixeldrain.com/u/P6k2w7ys"
+                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.3-OFME.part1.rar",
+                        "direct_link": "https://pixeldrain.com/u/U3WauWTV"
                     },
                     {
-                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.2-OFME.part2.rar",
-                        "direct_link": "https://pixeldrain.com/u/SMGdyb6X"
+                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.3-OFME.part2.rar",
+                        "direct_link": "https://pixeldrain.com/u/kYPuwHHB"
                     },
                     {
-                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.2-OFME.part3.rar",
-                        "direct_link": "https://pixeldrain.com/u/LafUPZZk"
+                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.3-OFME.part3.rar",
+                        "direct_link": "https://pixeldrain.com/u/VY9GCZh4"
                     },
                     {
-                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.2-OFME.part4.rar",
-                        "direct_link": "https://pixeldrain.com/u/pWCjWXfY"
+                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.3-OFME.part4.rar",
+                        "direct_link": "https://pixeldrain.com/u/XdNGKEdW"
                     },
                     {
-                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.2-OFME.part5.rar",
-                        "direct_link": "https://pixeldrain.com/u/TbUDL9Z6"
+                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.3-OFME.part5.rar",
+                        "direct_link": "https://pixeldrain.com/u/KxrkynCp"
                     },
                     {
-                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.2-OFME.part6.rar",
-                        "direct_link": "https://pixeldrain.com/u/X9uxRpfh"
+                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.3-OFME.part6.rar",
+                        "direct_link": "https://pixeldrain.com/u/tyjL4ezD"
                     }
                 ],
                 "Gofile": [
                     {
-                        "file_name": "ELDENRINGNIGHTREIGN_Fix_Repair_Steam_V2_Generic.rar",
-                        "direct_link": "https://gofile.io/d/YEij6f"
+                        "file_name": "ELDENRINGNIGHTREIGN_Fix_Repair_Steam_V2_Generic (1).rar",
+                        "direct_link": "https://gofile.io/d/4QvnHF"
                     },
                     {
-                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.2-OFME.part1.rar",
-                        "direct_link": "https://gofile.io/d/26mo32"
+                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.3-OFME.part1.rar",
+                        "direct_link": "https://gofile.io/d/dztuGQ"
                     },
                     {
-                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.2-OFME.part2.rar",
-                        "direct_link": "https://gofile.io/d/QbNErP"
+                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.3-OFME.part2.rar",
+                        "direct_link": "https://gofile.io/d/Ax98Xn"
                     },
                     {
-                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.2-OFME.part3.rar",
-                        "direct_link": "https://gofile.io/d/jUSPi2"
+                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.3-OFME.part3.rar",
+                        "direct_link": "https://gofile.io/d/8DEMb6"
                     },
                     {
-                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.2-OFME.part4.rar",
-                        "direct_link": "https://gofile.io/d/ojDiYn"
+                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.3-OFME.part4.rar",
+                        "direct_link": "https://gofile.io/d/5MB16i"
                     },
                     {
-                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.2-OFME.part5.rar",
-                        "direct_link": "https://gofile.io/d/c3Qact"
+                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.3-OFME.part5.rar",
+                        "direct_link": "https://gofile.io/d/kCNBK9"
                     },
                     {
-                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.2-OFME.part6.rar",
-                        "direct_link": "https://gofile.io/d/ibOEd7"
+                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.3-OFME.part6.rar",
+                        "direct_link": "https://gofile.io/d/okO5OR"
                     }
                 ],
-                "DataNodes": [
+                "VikingFile": [
                     {
-                        "file_name": "ELDENRINGNIGHTREIGN_Fix_Repair_Steam_V2_Generic.rar",
-                        "direct_link": "https://datanodes.to/zfc4zw10uva5"
+                        "file_name": "ELDENRINGNIGHTREIGN_Fix_Repair_Steam_V2_Generic (1).rar",
+                        "direct_link": "https://vikingfile.com/f/JLyHSF3m27"
                     },
                     {
-                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.2-OFME.part1.rar",
-                        "direct_link": "https://datanodes.to/c858a9t1re9v"
+                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.3-OFME.part1.rar",
+                        "direct_link": "https://vikingfile.com/f/Y7T2zM8iq7"
                     },
                     {
-                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.2-OFME.part2.rar",
-                        "direct_link": "https://datanodes.to/djueks0ui5j3"
+                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.3-OFME.part2.rar",
+                        "direct_link": "https://vikingfile.com/f/9P0dB9DHUT"
                     },
                     {
-                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.2-OFME.part3.rar",
-                        "direct_link": "https://datanodes.to/z61nlbfgk9s3"
+                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.3-OFME.part3.rar",
+                        "direct_link": "https://vikingfile.com/f/zzFagCVAmF"
                     },
                     {
-                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.2-OFME.part4.rar",
-                        "direct_link": "https://datanodes.to/aa2pcj2ce4ba"
+                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.3-OFME.part4.rar",
+                        "direct_link": "https://vikingfile.com/f/bOhmMmtS8V"
                     },
                     {
-                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.2-OFME.part5.rar",
-                        "direct_link": "https://datanodes.to/uqfkbgi36a2w"
+                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.3-OFME.part5.rar",
+                        "direct_link": "https://vikingfile.com/f/bjJQF2JVsq"
                     },
                     {
-                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.2-OFME.part6.rar",
-                        "direct_link": "https://datanodes.to/640k7j5bui04"
+                        "file_name": "ELDEN.RING.NIGHTREIGN.v1.03.3-OFME.part6.rar",
+                        "direct_link": "https://vikingfile.com/f/jPIWfIu9G0"
                     }
                 ]
             },
-            "unique_hash": "3fd56dba307b3452ee5dcd0cec852800646e86f1",
-            "fileSize": "27.22 GB",
-            "magnet": "magnet:?xt=urn:btih:3fd56dba307b3452ee5dcd0cec852800646e86f1&dn=ELDEN%20RING%20NIGHTREIGN&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
-            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_15/ELDEN.RING.NIGHTREIGN.v1.03.2-OFME.torrent",
-            "created_at": "2026-02-02 11:18:13",
+            "unique_hash": "7728dd4b38b6996d3bc4e109829d6eb9748c894d",
+            "fileSize": "27.10 GB",
+            "magnet": "magnet:?xt=urn:btih:7728dd4b38b6996d3bc4e109829d6eb9748c894d&dn=ELDEN%20RING%20NIGHTREIGN&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_18/ELDEN.RING.NIGHTREIGN.v1.03.3-OFME.torrent",
+            "created_at": "2026-07-07 10:08:38",
             "webdav_updated_at": "Unknown",
             "files": [
                 {
-                    "name": "ELDEN.RING.NIGHTREIGN.v1.03.2-OFME.part2.rar",
-                    "size": "5.00 GB"
-                },
-                {
-                    "name": "ELDEN.RING.NIGHTREIGN.v1.03.2-OFME.part3.rar",
-                    "size": "5.00 GB"
-                },
-                {
-                    "name": "ELDEN.RING.NIGHTREIGN.v1.03.2-OFME.part6.rar",
-                    "size": "2.21 GB"
+                    "name": "ELDEN.RING.NIGHTREIGN.v1.03.3-OFME.part6.rar",
+                    "size": "2.09 GB"
                 },
                 {
                     "name": "Fix Repair/ELDENRINGNIGHTREIGN_Fix_Repair_Steam_V2_Generic.rar",
-                    "size": "12.43 MB"
+                    "size": "13.81 MB"
                 },
                 {
-                    "name": "ELDEN.RING.NIGHTREIGN.v1.03.2-OFME.part1.rar",
+                    "name": "ELDEN.RING.NIGHTREIGN.v1.03.3-OFME.part1.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "ELDEN.RING.NIGHTREIGN.v1.03.2-OFME.part4.rar",
+                    "name": "ELDEN.RING.NIGHTREIGN.v1.03.3-OFME.part2.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "ELDEN.RING.NIGHTREIGN.v1.03.2-OFME.part5.rar",
+                    "name": "ELDEN.RING.NIGHTREIGN.v1.03.3-OFME.part3.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "ELDEN.RING.NIGHTREIGN.v1.03.3-OFME.part4.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "ELDEN.RING.NIGHTREIGN.v1.03.3-OFME.part5.rar",
                     "size": "5.00 GB"
                 }
             ],
@@ -46682,15 +46776,15 @@
             "url": "https://online-fix.me/games/fighting/16648-guilty-gear-strive-po-seti.html",
             "last_update": "2023-05-23T14:41:57+03:00",
             "release_date": "07.03.2023",
-            "update_info": "Обновлено 18 мая 2026, 19:32. Игра обновлена до версии 1.3.4.0.",
-            "update_date": "2026-05-18T19:32:00+03:00",
-            "formatted_update_date": "2026-05-18 19:32:00",
-            "scraped_at": "2026-06-28 18:56:19",
+            "update_info": "Обновлено Сегодня, 16:27. Игра обновлена до версии 1.3.5.0.",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-07-07 16:47:53",
             "steam": {
                 "steam_appid": 1384160,
                 "match_score": 100,
                 "match_via": "canon",
-                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1384160/23a7b8f8c96b47ab7ef5f22f33b572a63aaf9fab/header.jpg?t=1778742247",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1384160/23a7b8f8c96b47ab7ef5f22f33b572a63aaf9fab/header.jpg?t=1782984163",
                 "short_description": "Os gráficos híbridos 2D/3D de última geração, pioneiros na série Guilty Gear, foram elevados ao próximo nível em “GUILTY GEAR -STRIVE-“. A nova direção artística e as animações aprimoradas dos personagens irão além de tudo que você já viu em um jogo de luta!",
                 "short_description_native": "The cutting-edge 2D/3D hybrid graphics pioneered in the Guilty Gear series have been raised to the next level in “GUILTY GEAR -STRIVE-“. The new artistic direction and improved character animations will go beyond anything you’ve seen before in a fighting game!",
                 "price_brl": "R$ 86,99",
@@ -46770,132 +46864,162 @@
                 ]
             },
             "hoster_links": {
-                "Pixeldrain": [
+                "FileDitch": [
                     {
-                        "file_name": "GGS_Fix_Repair_GDK_V2_Generic (1).rar",
-                        "direct_link": "https://pixeldrain.com/u/HGeyzF74"
+                        "file_name": "GGS_Fix_Repair_GDK_V2_Generic.rar",
+                        "direct_link": "https://fileditchfiles.me/alpha13/b330fe6e6839cfab008c/GGS_Fix_Repair_GDK_V2_Generic.rar"
                     },
                     {
-                        "file_name": "GUILTY.GEAR.STRIVE.v1.3.4.0-OFME.part1.rar",
-                        "direct_link": "https://pixeldrain.com/u/e4v5Qwfd"
+                        "file_name": "GUILTY.GEAR.STRIVE.v1.3.5.0-OFME.part1.rar",
+                        "direct_link": "https://fileditchfiles.me/alpha13/2d074c5f77551555d008/GUILTY.GEAR.STRIVE.v1.3.5.0-OFME.part1.rar"
                     },
                     {
-                        "file_name": "GUILTY.GEAR.STRIVE.v1.3.4.0-OFME.part2.rar",
-                        "direct_link": "https://pixeldrain.com/u/wsmadWTP"
+                        "file_name": "GUILTY.GEAR.STRIVE.v1.3.5.0-OFME.part2.rar",
+                        "direct_link": "https://fileditchfiles.me/alpha13/346eca85a712460635b1/GUILTY.GEAR.STRIVE.v1.3.5.0-OFME.part2.rar"
                     },
                     {
-                        "file_name": "GUILTY.GEAR.STRIVE.v1.3.4.0-OFME.part3.rar",
-                        "direct_link": "https://pixeldrain.com/u/qX7uz7Wu"
+                        "file_name": "GUILTY.GEAR.STRIVE.v1.3.5.0-OFME.part3.rar",
+                        "direct_link": "https://fileditchfiles.me/alpha13/6eda05274026686a8a16/GUILTY.GEAR.STRIVE.v1.3.5.0-OFME.part3.rar"
                     },
                     {
-                        "file_name": "GUILTY.GEAR.STRIVE.v1.3.4.0-OFME.part4.rar",
-                        "direct_link": "https://pixeldrain.com/u/7L92dQ11"
+                        "file_name": "GUILTY.GEAR.STRIVE.v1.3.5.0-OFME.part4.rar",
+                        "direct_link": "https://fileditchfiles.me/alpha13/f473337a5cf1d5f8106a/GUILTY.GEAR.STRIVE.v1.3.5.0-OFME.part4.rar"
                     },
                     {
-                        "file_name": "GUILTY.GEAR.STRIVE.v1.3.4.0-OFME.part5.rar",
-                        "direct_link": "https://pixeldrain.com/u/d8HFbbwa"
+                        "file_name": "GUILTY.GEAR.STRIVE.v1.3.5.0-OFME.part5.rar",
+                        "direct_link": "https://fileditchfiles.me/alpha13/7e1e05c00c99a5d29a40/GUILTY.GEAR.STRIVE.v1.3.5.0-OFME.part5.rar"
                     },
                     {
-                        "file_name": "GUILTY.GEAR.STRIVE.v1.3.4.0-OFME.part6.rar",
-                        "direct_link": "https://pixeldrain.com/u/8xYKm35k"
-                    }
-                ],
-                "Gofile": [
-                    {
-                        "file_name": "GGS_Fix_Repair_GDK_V2_Generic (1).rar",
-                        "direct_link": "https://gofile.io/d/ubG83r"
-                    },
-                    {
-                        "file_name": "GUILTY.GEAR.STRIVE.v1.3.4.0-OFME.part1.rar",
-                        "direct_link": "https://gofile.io/d/kyQtgd"
-                    },
-                    {
-                        "file_name": "GUILTY.GEAR.STRIVE.v1.3.4.0-OFME.part2.rar",
-                        "direct_link": "https://gofile.io/d/z6rUkX"
-                    },
-                    {
-                        "file_name": "GUILTY.GEAR.STRIVE.v1.3.4.0-OFME.part3.rar",
-                        "direct_link": "https://gofile.io/d/vqIOMh"
-                    },
-                    {
-                        "file_name": "GUILTY.GEAR.STRIVE.v1.3.4.0-OFME.part4.rar",
-                        "direct_link": "https://gofile.io/d/Rf0cyq"
-                    },
-                    {
-                        "file_name": "GUILTY.GEAR.STRIVE.v1.3.4.0-OFME.part5.rar",
-                        "direct_link": "https://gofile.io/d/2SiNXT"
-                    },
-                    {
-                        "file_name": "GUILTY.GEAR.STRIVE.v1.3.4.0-OFME.part6.rar",
-                        "direct_link": "https://gofile.io/d/0hlvvk"
+                        "file_name": "GUILTY.GEAR.STRIVE.v1.3.5.0-OFME.part6.rar",
+                        "direct_link": "https://fileditchfiles.me/alpha13/5c644c829d331f6644cc/GUILTY.GEAR.STRIVE.v1.3.5.0-OFME.part6.rar"
                     }
                 ],
                 "Rootz": [
                     {
-                        "file_name": "GGS_Fix_Repair_GDK_V2_Generic (1).rar",
-                        "direct_link": "https://rootz.so/d/1lo276"
+                        "file_name": "GGS_Fix_Repair_GDK_V2_Generic.rar",
+                        "direct_link": "https://rootz.so/d/AmGNE"
                     },
                     {
-                        "file_name": "GUILTY.GEAR.STRIVE.v1.3.4.0-OFME.part1.rar",
-                        "direct_link": "https://rootz.so/d/1xtadc"
+                        "file_name": "GUILTY.GEAR.STRIVE.v1.3.5.0-OFME.part1.rar",
+                        "direct_link": "https://rootz.so/d/27PD1c"
                     },
                     {
-                        "file_name": "GUILTY.GEAR.STRIVE.v1.3.4.0-OFME.part2.rar",
-                        "direct_link": "https://rootz.so/d/13TegC"
+                        "file_name": "GUILTY.GEAR.STRIVE.v1.3.5.0-OFME.part2.rar",
+                        "direct_link": "https://rootz.so/d/uiyKO"
                     },
                     {
-                        "file_name": "GUILTY.GEAR.STRIVE.v1.3.4.0-OFME.part3.rar",
-                        "direct_link": "https://rootz.so/d/2KBkJ6"
+                        "file_name": "GUILTY.GEAR.STRIVE.v1.3.5.0-OFME.part3.rar",
+                        "direct_link": "https://rootz.so/d/2BR3tA"
                     },
                     {
-                        "file_name": "GUILTY.GEAR.STRIVE.v1.3.4.0-OFME.part4.rar",
-                        "direct_link": "https://rootz.so/d/17VVXk"
+                        "file_name": "GUILTY.GEAR.STRIVE.v1.3.5.0-OFME.part4.rar",
+                        "direct_link": "https://rootz.so/d/ykpBw"
                     },
                     {
-                        "file_name": "GUILTY.GEAR.STRIVE.v1.3.4.0-OFME.part5.rar",
-                        "direct_link": "https://rootz.so/d/1FZDGq"
+                        "file_name": "GUILTY.GEAR.STRIVE.v1.3.5.0-OFME.part5.rar",
+                        "direct_link": "https://rootz.so/d/1AaRsW"
                     },
                     {
-                        "file_name": "GUILTY.GEAR.STRIVE.v1.3.4.0-OFME.part6.rar",
-                        "direct_link": "https://rootz.so/d/EyX68"
+                        "file_name": "GUILTY.GEAR.STRIVE.v1.3.5.0-OFME.part6.rar",
+                        "direct_link": "https://rootz.so/d/12mg3U"
+                    }
+                ],
+                "Pixeldrain": [
+                    {
+                        "file_name": "GGS_Fix_Repair_GDK_V2_Generic.rar",
+                        "direct_link": "https://pixeldrain.com/u/9HcKW3CE"
+                    },
+                    {
+                        "file_name": "GUILTY.GEAR.STRIVE.v1.3.5.0-OFME.part1.rar",
+                        "direct_link": "https://pixeldrain.com/u/ftnp7qk1"
+                    },
+                    {
+                        "file_name": "GUILTY.GEAR.STRIVE.v1.3.5.0-OFME.part2.rar",
+                        "direct_link": "https://pixeldrain.com/u/pdG2PE61"
+                    },
+                    {
+                        "file_name": "GUILTY.GEAR.STRIVE.v1.3.5.0-OFME.part3.rar",
+                        "direct_link": "https://pixeldrain.com/u/aFkVJT3U"
+                    },
+                    {
+                        "file_name": "GUILTY.GEAR.STRIVE.v1.3.5.0-OFME.part4.rar",
+                        "direct_link": "https://pixeldrain.com/u/cc7gyCpg"
+                    },
+                    {
+                        "file_name": "GUILTY.GEAR.STRIVE.v1.3.5.0-OFME.part5.rar",
+                        "direct_link": "https://pixeldrain.com/u/kEyvecya"
+                    },
+                    {
+                        "file_name": "GUILTY.GEAR.STRIVE.v1.3.5.0-OFME.part6.rar",
+                        "direct_link": "https://pixeldrain.com/u/LQsNP47a"
+                    }
+                ],
+                "Gofile": [
+                    {
+                        "file_name": "GGS_Fix_Repair_GDK_V2_Generic.rar",
+                        "direct_link": "https://gofile.io/d/Sl7pEn"
+                    },
+                    {
+                        "file_name": "GUILTY.GEAR.STRIVE.v1.3.5.0-OFME.part1.rar",
+                        "direct_link": "https://gofile.io/d/fDUPYL"
+                    },
+                    {
+                        "file_name": "GUILTY.GEAR.STRIVE.v1.3.5.0-OFME.part2.rar",
+                        "direct_link": "https://gofile.io/d/hRJnUS"
+                    },
+                    {
+                        "file_name": "GUILTY.GEAR.STRIVE.v1.3.5.0-OFME.part3.rar",
+                        "direct_link": "https://gofile.io/d/kB9rLw"
+                    },
+                    {
+                        "file_name": "GUILTY.GEAR.STRIVE.v1.3.5.0-OFME.part4.rar",
+                        "direct_link": "https://gofile.io/d/UMERmH"
+                    },
+                    {
+                        "file_name": "GUILTY.GEAR.STRIVE.v1.3.5.0-OFME.part5.rar",
+                        "direct_link": "https://gofile.io/d/YDHMfa"
+                    },
+                    {
+                        "file_name": "GUILTY.GEAR.STRIVE.v1.3.5.0-OFME.part6.rar",
+                        "direct_link": "https://gofile.io/d/aCOxdn"
                     }
                 ],
                 "VikingFile": [
                     {
-                        "file_name": "GGS_Fix_Repair_GDK_V2_Generic (1).rar",
-                        "direct_link": "https://vikingfile.com/f/zmn7toVunx"
+                        "file_name": "GGS_Fix_Repair_GDK_V2_Generic.rar",
+                        "direct_link": "https://vikingfile.com/f/1KkfvZWjJo"
                     },
                     {
-                        "file_name": "GUILTY.GEAR.STRIVE.v1.3.4.0-OFME.part1.rar",
-                        "direct_link": "https://vikingfile.com/f/KXRv2VdRk1"
+                        "file_name": "GUILTY.GEAR.STRIVE.v1.3.5.0-OFME.part1.rar",
+                        "direct_link": "https://vikingfile.com/f/vA0MlYPWEQ"
                     },
                     {
-                        "file_name": "GUILTY.GEAR.STRIVE.v1.3.4.0-OFME.part2.rar",
-                        "direct_link": "https://vikingfile.com/f/4gUyga78yI"
+                        "file_name": "GUILTY.GEAR.STRIVE.v1.3.5.0-OFME.part2.rar",
+                        "direct_link": "https://vikingfile.com/f/SRnivgVXGU"
                     },
                     {
-                        "file_name": "GUILTY.GEAR.STRIVE.v1.3.4.0-OFME.part3.rar",
-                        "direct_link": "https://vikingfile.com/f/IulEkofUft"
+                        "file_name": "GUILTY.GEAR.STRIVE.v1.3.5.0-OFME.part3.rar",
+                        "direct_link": "https://vikingfile.com/f/6Bd4V4nGCJ"
                     },
                     {
-                        "file_name": "GUILTY.GEAR.STRIVE.v1.3.4.0-OFME.part4.rar",
-                        "direct_link": "https://vikingfile.com/f/kj6NvaEU8O"
+                        "file_name": "GUILTY.GEAR.STRIVE.v1.3.5.0-OFME.part4.rar",
+                        "direct_link": "https://vikingfile.com/f/HzlcBAf2gz"
                     },
                     {
-                        "file_name": "GUILTY.GEAR.STRIVE.v1.3.4.0-OFME.part5.rar",
-                        "direct_link": "https://vikingfile.com/f/6IRtfq0Bai"
+                        "file_name": "GUILTY.GEAR.STRIVE.v1.3.5.0-OFME.part5.rar",
+                        "direct_link": "https://vikingfile.com/f/f1uGdSZEy3"
                     },
                     {
-                        "file_name": "GUILTY.GEAR.STRIVE.v1.3.4.0-OFME.part6.rar",
-                        "direct_link": "https://vikingfile.com/f/wz7Fe55YYa"
+                        "file_name": "GUILTY.GEAR.STRIVE.v1.3.5.0-OFME.part6.rar",
+                        "direct_link": "https://vikingfile.com/f/OHTURDXqcp"
                     }
                 ]
             },
-            "unique_hash": "3f7425b805d2de9d941b7c6623d663402dfe0253",
-            "fileSize": "29.10 GB",
-            "magnet": "magnet:?xt=urn:btih:3f7425b805d2de9d941b7c6623d663402dfe0253&dn=GUILTY%20GEAR%20STRIVE&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
-            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_42/GUILTY.GEAR.STRIVE.v1.3.4.0-OFME.torrent",
-            "created_at": "2026-05-18 13:22:12",
+            "unique_hash": "d1fc111702156b07f8118545cf23a1bd04999944",
+            "fileSize": "29.18 GB",
+            "magnet": "magnet:?xt=urn:btih:d1fc111702156b07f8118545cf23a1bd04999944&dn=GUILTY%20GEAR%20STRIVE&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_42/GUILTY.GEAR.STRIVE.v1.3.5.0-OFME.torrent",
+            "created_at": "2026-07-07 10:17:37",
             "webdav_updated_at": "Unknown",
             "files": [
                 {
@@ -46903,28 +47027,28 @@
                     "size": "15.37 MB"
                 },
                 {
-                    "name": "GUILTY.GEAR.STRIVE.v1.3.4.0-OFME.part1.rar",
+                    "name": "GUILTY.GEAR.STRIVE.v1.3.5.0-OFME.part1.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "GUILTY.GEAR.STRIVE.v1.3.4.0-OFME.part2.rar",
+                    "name": "GUILTY.GEAR.STRIVE.v1.3.5.0-OFME.part2.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "GUILTY.GEAR.STRIVE.v1.3.4.0-OFME.part3.rar",
+                    "name": "GUILTY.GEAR.STRIVE.v1.3.5.0-OFME.part3.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "GUILTY.GEAR.STRIVE.v1.3.4.0-OFME.part4.rar",
+                    "name": "GUILTY.GEAR.STRIVE.v1.3.5.0-OFME.part4.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "GUILTY.GEAR.STRIVE.v1.3.4.0-OFME.part5.rar",
+                    "name": "GUILTY.GEAR.STRIVE.v1.3.5.0-OFME.part5.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "GUILTY.GEAR.STRIVE.v1.3.4.0-OFME.part6.rar",
-                    "size": "4.09 GB"
+                    "name": "GUILTY.GEAR.STRIVE.v1.3.5.0-OFME.part6.rar",
+                    "size": "4.16 GB"
                 }
             ],
             "comment": ""
@@ -65046,6 +65170,425 @@
             "comment": ""
         },
         {
+            "title": "Lies of P",
+            "page": 1,
+            "url": "https://online-fix.me/games/adventures/18151-lies-of-p-po-seti.html",
+            "last_update": "2026-07-07T16:32:51+03:00",
+            "release_date": "18.09.2023",
+            "update_info": "",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-07-07 16:47:37",
+            "steam": {
+                "steam_appid": 1627720,
+                "match_score": 100,
+                "match_via": "canon",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1627720/header.jpg?t=1764565054",
+                "short_description": "Lies of P é um filme emocionante que pega a história de Pinóquio, vira-a de cabeça para baixo e coloca-a no cenário sombrio e elegante da era da Belle Époque.",
+                "short_description_native": "Lies of P is a thrilling soulslike that takes the story of Pinocchio, turns it on its head, and sets it against the darkly elegant backdrop of the Belle Epoque era.",
+                "price_brl": "R$ 124,95",
+                "is_free": false,
+                "pc_requirements": {
+                    "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10 64bit\n\nProcessador: AMD Ryzen 3 1200／Intel Core i3-6300\n\nMemória: 8 GB de RAM\n\nPlaca gráfica: AMD Radeon RX 560 4GB / NVIDIA GeForce GTX 960 4GB\n\nDirectX: Versão 12\n\nEspaço no disco: Requer 50 GB de espaço livre",
+                    "recommended": "Recomendados:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10 64bit\n\nProcessador: AMD Ryzen 3 1200／Intel Core i3-6300\n\nMemória: 16 GB de RAM\n\nPlaca gráfica: AMD Radeon RX 6500 XT 4GB / NVIDIA GeForce GTX 1660 6GB\n\nDirectX: Versão 12\n\nEspaço no disco: Requer 50 GB de espaço livre"
+                },
+                "controller_support": "full",
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Um jogador"
+                    },
+                    {
+                        "id": 22,
+                        "description": "Proezas Steam"
+                    },
+                    {
+                        "id": 28,
+                        "description": "Compat. total c/ comando"
+                    },
+                    {
+                        "id": 67,
+                        "description": "Conforto de câmara"
+                    },
+                    {
+                        "id": 66,
+                        "description": "Alternativas de cores"
+                    },
+                    {
+                        "id": 68,
+                        "description": "Controlos de volume independentes"
+                    },
+                    {
+                        "id": 78,
+                        "description": "Dificuldade ajustável"
+                    },
+                    {
+                        "id": 60,
+                        "description": "Comando recomendado"
+                    },
+                    {
+                        "id": 55,
+                        "description": "Compat. com DUALSHOCK"
+                    },
+                    {
+                        "id": 56,
+                        "description": "Compat. com DUALSHOCK"
+                    },
+                    {
+                        "id": 57,
+                        "description": "Compat. com DualSense"
+                    },
+                    {
+                        "id": 58,
+                        "description": "Compat. com DualSense"
+                    },
+                    {
+                        "id": 79,
+                        "description": "Guardar progresso a qualquer momento"
+                    },
+                    {
+                        "id": 69,
+                        "description": "Som estéreo"
+                    },
+                    {
+                        "id": 70,
+                        "description": "Som surround"
+                    },
+                    {
+                        "id": 23,
+                        "description": "Steam Cloud"
+                    },
+                    {
+                        "id": 62,
+                        "description": "Partilha de Biblioteca"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "1",
+                        "description": "Ação"
+                    },
+                    {
+                        "id": "25",
+                        "description": "Aventura"
+                    },
+                    {
+                        "id": "3",
+                        "description": "RPG"
+                    }
+                ]
+            },
+            "hoster_links": {
+                "FileDitch": [
+                    {
+                        "file_name": "LiesOfP_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://fileditchfiles.me/alpha13/2b46096c05d60ca33acb/LiesOfP_Fix_Repair_Steam_Generic.rar"
+                    },
+                    {
+                        "file_name": "Lies.of.P.v1.12.0.0-OFME.part01.rar",
+                        "direct_link": "https://fileditchfiles.me/alpha13/04e42afd20a81efa6829/Lies.of.P.v1.12.0.0-OFME.part01.rar"
+                    },
+                    {
+                        "file_name": "Lies.of.P.v1.12.0.0-OFME.part02.rar",
+                        "direct_link": "https://fileditchfiles.me/alpha13/fb41f3c8a604eee327b7/Lies.of.P.v1.12.0.0-OFME.part02.rar"
+                    },
+                    {
+                        "file_name": "Lies.of.P.v1.12.0.0-OFME.part03.rar",
+                        "direct_link": "https://fileditchfiles.me/alpha13/7c9ec8c1c3f09bbad1cb/Lies.of.P.v1.12.0.0-OFME.part03.rar"
+                    },
+                    {
+                        "file_name": "Lies.of.P.v1.12.0.0-OFME.part04.rar",
+                        "direct_link": "https://fileditchfiles.me/alpha13/5b573c38328b39a48df0/Lies.of.P.v1.12.0.0-OFME.part04.rar"
+                    },
+                    {
+                        "file_name": "Lies.of.P.v1.12.0.0-OFME.part05.rar",
+                        "direct_link": "https://fileditchfiles.me/alpha13/c4bde11722b2fb5d5640/Lies.of.P.v1.12.0.0-OFME.part05.rar"
+                    },
+                    {
+                        "file_name": "Lies.of.P.v1.12.0.0-OFME.part06.rar",
+                        "direct_link": "https://fileditchfiles.me/alpha13/09a5cb8d729262082df7/Lies.of.P.v1.12.0.0-OFME.part06.rar"
+                    },
+                    {
+                        "file_name": "Lies.of.P.v1.12.0.0-OFME.part07.rar",
+                        "direct_link": "https://fileditchfiles.me/alpha13/81ab54608caedd50d275/Lies.of.P.v1.12.0.0-OFME.part07.rar"
+                    },
+                    {
+                        "file_name": "Lies.of.P.v1.12.0.0-OFME.part08.rar",
+                        "direct_link": "https://fileditchfiles.me/alpha13/0c7399eae807fb112806/Lies.of.P.v1.12.0.0-OFME.part08.rar"
+                    },
+                    {
+                        "file_name": "Lies.of.P.v1.12.0.0-OFME.part09.rar",
+                        "direct_link": "https://fileditchfiles.me/alpha13/685b0dcfba861962af9a/Lies.of.P.v1.12.0.0-OFME.part09.rar"
+                    },
+                    {
+                        "file_name": "Lies.of.P.v1.12.0.0-OFME.part10.rar",
+                        "direct_link": "https://fileditchfiles.me/alpha13/0ed91a7166b3f35ddde5/Lies.of.P.v1.12.0.0-OFME.part10.rar"
+                    },
+                    {
+                        "file_name": "Lies.of.P.v1.12.0.0-OFME.part11.rar",
+                        "direct_link": "https://fileditchfiles.me/alpha13/eed43b2445cfec7e141c/Lies.of.P.v1.12.0.0-OFME.part11.rar"
+                    }
+                ],
+                "Rootz": [
+                    {
+                        "file_name": "LiesOfP_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://rootz.so/d/2627Fo"
+                    },
+                    {
+                        "file_name": "Lies.of.P.v1.12.0.0-OFME.part01.rar",
+                        "direct_link": "https://rootz.so/d/DAOTQ"
+                    },
+                    {
+                        "file_name": "Lies.of.P.v1.12.0.0-OFME.part02.rar",
+                        "direct_link": "https://rootz.so/d/HCFKy"
+                    },
+                    {
+                        "file_name": "Lies.of.P.v1.12.0.0-OFME.part03.rar",
+                        "direct_link": "https://rootz.so/d/1e55BA"
+                    },
+                    {
+                        "file_name": "Lies.of.P.v1.12.0.0-OFME.part04.rar",
+                        "direct_link": "https://rootz.so/d/1i6vya"
+                    },
+                    {
+                        "file_name": "Lies.of.P.v1.12.0.0-OFME.part05.rar",
+                        "direct_link": "https://rootz.so/d/1m8mq8"
+                    },
+                    {
+                        "file_name": "Lies.of.P.v1.12.0.0-OFME.part06.rar",
+                        "direct_link": "https://rootz.so/d/1sJX3Q"
+                    },
+                    {
+                        "file_name": "Lies.of.P.v1.12.0.0-OFME.part07.rar",
+                        "direct_link": "https://rootz.so/d/N73iK"
+                    },
+                    {
+                        "file_name": "Lies.of.P.v1.12.0.0-OFME.part08.rar",
+                        "direct_link": "https://rootz.so/d/VAlRQ"
+                    },
+                    {
+                        "file_name": "Lies.of.P.v1.12.0.0-OFME.part09.rar",
+                        "direct_link": "https://rootz.so/d/1jztUO"
+                    },
+                    {
+                        "file_name": "Lies.of.P.v1.12.0.0-OFME.part10.rar",
+                        "direct_link": "https://rootz.so/d/5MceO"
+                    },
+                    {
+                        "file_name": "Lies.of.P.v1.12.0.0-OFME.part11.rar",
+                        "direct_link": "https://rootz.so/d/1icnia"
+                    }
+                ],
+                "Pixeldrain": [
+                    {
+                        "file_name": "LiesOfP_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://pixeldrain.com/u/VeSpHdYd"
+                    },
+                    {
+                        "file_name": "Lies.of.P.v1.12.0.0-OFME.part01.rar",
+                        "direct_link": "https://pixeldrain.com/u/QMor8zU4"
+                    },
+                    {
+                        "file_name": "Lies.of.P.v1.12.0.0-OFME.part02.rar",
+                        "direct_link": "https://pixeldrain.com/u/MXRk9w3F"
+                    },
+                    {
+                        "file_name": "Lies.of.P.v1.12.0.0-OFME.part03.rar",
+                        "direct_link": "https://pixeldrain.com/u/yHCtQdnD"
+                    },
+                    {
+                        "file_name": "Lies.of.P.v1.12.0.0-OFME.part04.rar",
+                        "direct_link": "https://pixeldrain.com/u/4p1q2uD3"
+                    },
+                    {
+                        "file_name": "Lies.of.P.v1.12.0.0-OFME.part05.rar",
+                        "direct_link": "https://pixeldrain.com/u/F4sVpJ14"
+                    },
+                    {
+                        "file_name": "Lies.of.P.v1.12.0.0-OFME.part06.rar",
+                        "direct_link": "https://pixeldrain.com/u/zL3Ze38z"
+                    },
+                    {
+                        "file_name": "Lies.of.P.v1.12.0.0-OFME.part07.rar",
+                        "direct_link": "https://pixeldrain.com/u/PBwRNkRq"
+                    },
+                    {
+                        "file_name": "Lies.of.P.v1.12.0.0-OFME.part08.rar",
+                        "direct_link": "https://pixeldrain.com/u/CjySoTVe"
+                    },
+                    {
+                        "file_name": "Lies.of.P.v1.12.0.0-OFME.part09.rar",
+                        "direct_link": "https://pixeldrain.com/u/Mp3wYg1H"
+                    },
+                    {
+                        "file_name": "Lies.of.P.v1.12.0.0-OFME.part10.rar",
+                        "direct_link": "https://pixeldrain.com/u/Dch5mjBp"
+                    },
+                    {
+                        "file_name": "Lies.of.P.v1.12.0.0-OFME.part11.rar",
+                        "direct_link": "https://pixeldrain.com/u/wJZJgMoM"
+                    }
+                ],
+                "Gofile": [
+                    {
+                        "file_name": "LiesOfP_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://gofile.io/d/Q09s3c"
+                    },
+                    {
+                        "file_name": "Lies.of.P.v1.12.0.0-OFME.part01.rar",
+                        "direct_link": "https://gofile.io/d/aHg6Jk"
+                    },
+                    {
+                        "file_name": "Lies.of.P.v1.12.0.0-OFME.part02.rar",
+                        "direct_link": "https://gofile.io/d/0P0MJc"
+                    },
+                    {
+                        "file_name": "Lies.of.P.v1.12.0.0-OFME.part03.rar",
+                        "direct_link": "https://gofile.io/d/Vc5fgR"
+                    },
+                    {
+                        "file_name": "Lies.of.P.v1.12.0.0-OFME.part04.rar",
+                        "direct_link": "https://gofile.io/d/56PWVs"
+                    },
+                    {
+                        "file_name": "Lies.of.P.v1.12.0.0-OFME.part05.rar",
+                        "direct_link": "https://gofile.io/d/TtCCos"
+                    },
+                    {
+                        "file_name": "Lies.of.P.v1.12.0.0-OFME.part06.rar",
+                        "direct_link": "https://gofile.io/d/efgBXR"
+                    },
+                    {
+                        "file_name": "Lies.of.P.v1.12.0.0-OFME.part07.rar",
+                        "direct_link": "https://gofile.io/d/Izoozn"
+                    },
+                    {
+                        "file_name": "Lies.of.P.v1.12.0.0-OFME.part08.rar",
+                        "direct_link": "https://gofile.io/d/2HVa2Q"
+                    },
+                    {
+                        "file_name": "Lies.of.P.v1.12.0.0-OFME.part09.rar",
+                        "direct_link": "https://gofile.io/d/ET8HQ0"
+                    },
+                    {
+                        "file_name": "Lies.of.P.v1.12.0.0-OFME.part10.rar",
+                        "direct_link": "https://gofile.io/d/X20SGs"
+                    },
+                    {
+                        "file_name": "Lies.of.P.v1.12.0.0-OFME.part11.rar",
+                        "direct_link": "https://gofile.io/d/jjV0sQ"
+                    }
+                ],
+                "VikingFile": [
+                    {
+                        "file_name": "LiesOfP_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://vikingfile.com/f/HuQjXCq7AT"
+                    },
+                    {
+                        "file_name": "Lies.of.P.v1.12.0.0-OFME.part01.rar",
+                        "direct_link": "https://vikingfile.com/f/RoAJ5pU6Bl"
+                    },
+                    {
+                        "file_name": "Lies.of.P.v1.12.0.0-OFME.part02.rar",
+                        "direct_link": "https://vikingfile.com/f/VrFAyEdvfh"
+                    },
+                    {
+                        "file_name": "Lies.of.P.v1.12.0.0-OFME.part03.rar",
+                        "direct_link": "https://vikingfile.com/f/F3eFsbpSbP"
+                    },
+                    {
+                        "file_name": "Lies.of.P.v1.12.0.0-OFME.part04.rar",
+                        "direct_link": "https://vikingfile.com/f/nqnAiX8H50"
+                    },
+                    {
+                        "file_name": "Lies.of.P.v1.12.0.0-OFME.part05.rar",
+                        "direct_link": "https://vikingfile.com/f/Sr7DeLMiAw"
+                    },
+                    {
+                        "file_name": "Lies.of.P.v1.12.0.0-OFME.part06.rar",
+                        "direct_link": "https://vikingfile.com/f/dhwHfZxzPr"
+                    },
+                    {
+                        "file_name": "Lies.of.P.v1.12.0.0-OFME.part07.rar",
+                        "direct_link": "https://vikingfile.com/f/w0Zf8uHdUr"
+                    },
+                    {
+                        "file_name": "Lies.of.P.v1.12.0.0-OFME.part08.rar",
+                        "direct_link": "https://vikingfile.com/f/A4jcEN6TFL"
+                    },
+                    {
+                        "file_name": "Lies.of.P.v1.12.0.0-OFME.part09.rar",
+                        "direct_link": "https://vikingfile.com/f/ZrIiHHKPu7"
+                    },
+                    {
+                        "file_name": "Lies.of.P.v1.12.0.0-OFME.part10.rar",
+                        "direct_link": "https://vikingfile.com/f/IDdbINYSW7"
+                    },
+                    {
+                        "file_name": "Lies.of.P.v1.12.0.0-OFME.part11.rar",
+                        "direct_link": "https://vikingfile.com/f/gnlsPQyBeH"
+                    }
+                ]
+            },
+            "unique_hash": "39e64770297c2bb8d3af1950ae659b2f9e76c852",
+            "fileSize": "54.18 GB",
+            "magnet": "magnet:?xt=urn:btih:39e64770297c2bb8d3af1950ae659b2f9e76c852&dn=Lies%20of%20P&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_1/Lies.of.P.v1.12.0.0-OFME.torrent",
+            "created_at": "2026-07-07 10:21:47",
+            "webdav_updated_at": "Unknown",
+            "files": [
+                {
+                    "name": "Fix Repair/LiesOfP_Fix_Repair_Steam_Generic.rar",
+                    "size": "40.78 MB"
+                },
+                {
+                    "name": "Lies.of.P.v1.12.0.0-OFME.part01.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Lies.of.P.v1.12.0.0-OFME.part08.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Lies.of.P.v1.12.0.0-OFME.part09.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Lies.of.P.v1.12.0.0-OFME.part10.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Lies.of.P.v1.12.0.0-OFME.part11.rar",
+                    "size": "4.14 GB"
+                },
+                {
+                    "name": "Lies.of.P.v1.12.0.0-OFME.part02.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Lies.of.P.v1.12.0.0-OFME.part03.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Lies.of.P.v1.12.0.0-OFME.part04.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Lies.of.P.v1.12.0.0-OFME.part05.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Lies.of.P.v1.12.0.0-OFME.part06.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Lies.of.P.v1.12.0.0-OFME.part07.rar",
+                    "size": "5.00 GB"
+                }
+            ],
+            "comment": ""
+        },
+        {
             "title": "Life Not Supported",
             "page": 38,
             "url": "https://online-fix.me/games/survival/17282-life-not-supported-po-seti.html",
@@ -82644,48 +83187,162 @@
         },
         {
             "title": "Overcooked! All You Can Eat",
-            "page": 68,
+            "page": 71,
             "url": "https://online-fix.me/games/adventures/16610-overcooked-all-you-can-eat-po-seti.html",
             "last_update": "2021-03-24T12:27:57+03:00",
             "release_date": "23.03.2021",
-            "update_info": "Обновлено 8 сентября 2025, 18:32. Добавлен Steam-Fix V3. Исправлена проблема при аутентификации через XboxLiveAuth.",
-            "update_date": "2025-09-08T18:32:00+03:00",
-            "formatted_update_date": "2025-09-08 18:32:00",
-            "scraped_at": "2026-05-11 20:06:51",
+            "update_info": "Обновлено Сегодня, 16:27. Игра обновлена до версии 1277.",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-07-07 16:49:19",
             "steam": {
                 "steam_appid": 1243830,
                 "match_score": 100,
                 "match_via": "canon",
-                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1243830/header.jpg?t=1775580214",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1243830/header.jpg?t=1780480509",
                 "short_description": "Aproveita tudo o que o reino das cebolas tem para oferecer! Overcooked! 1 e Overcooked! 2, agora em delicioso 4K e nuns fluidos 60 fps, acabaram de sair do forno totalmente remasterizados. Desfruta dos mais de 200 níveis (22 novos) e dos mais de 80 chefs (3 novos) — este é o derradeiro Overcooked!",
                 "short_description_native": "Aproveita tudo o que o reino das cebolas tem para oferecer! Overcooked! 1 e Overcooked! 2, agora em delicioso 4K e nuns fluidos 60 fps, acabaram de sair do forno totalmente remasterizados. Desfruta dos mais de 200 níveis (22 novos) e dos mais de 80 chefs (3 novos) — este é o derradeiro Overcooked!",
-                "price_brl": "R$ 214,90",
+                "price_brl": "R$ 64,47",
                 "is_free": false,
                 "pc_requirements": {
                     "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: WIN7-64 bit\n\nProcessador: Intel Core 2 Quad Q6600 or AMD Phenom II X3 720\n\nMemória: 4 GB de RAM\n\nPlaca gráfica: NVIDIA GeForce GTS 450, 1 GB / AMD Radeon HD 5750, 1 GB\n\nDirectX: Versão 11\n\nEspaço no disco: Requer 8 GB de espaço livre",
                     "recommended": "Recomendados:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10 64 Bit\n\nProcessador: Intel core i5-2300, 2.8 GHz or AMD FX-4300, 3.8 GHz\n\nMemória: 6 GB de RAM\n\nPlaca gráfica: GeForce GTX 660 2GB VRAM / Radeon HD 7870 2GB VRAM\n\nDirectX: Versão 12\n\nEspaço no disco: Requer 10 GB de espaço livre"
                 },
-                "controller_support": "full"
+                "controller_support": "full",
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Um jogador"
+                    },
+                    {
+                        "id": 1,
+                        "description": "Multijogador"
+                    },
+                    {
+                        "id": 49,
+                        "description": "PvP"
+                    },
+                    {
+                        "id": 36,
+                        "description": "PvP online"
+                    },
+                    {
+                        "id": 37,
+                        "description": "PvP, ecrã partilhado/dividido"
+                    },
+                    {
+                        "id": 9,
+                        "description": "Co-op"
+                    },
+                    {
+                        "id": 38,
+                        "description": "Co-op online"
+                    },
+                    {
+                        "id": 39,
+                        "description": "Co-op, ecrã partilh./dividido"
+                    },
+                    {
+                        "id": 24,
+                        "description": "Ecrã partilhado/dividido"
+                    },
+                    {
+                        "id": 27,
+                        "description": "Multijogador interplataformas"
+                    },
+                    {
+                        "id": 22,
+                        "description": "Proezas Steam"
+                    },
+                    {
+                        "id": 28,
+                        "description": "Compat. total c/ comando"
+                    },
+                    {
+                        "id": 44,
+                        "description": "Remote Play Together"
+                    },
+                    {
+                        "id": 62,
+                        "description": "Partilha de Biblioteca"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "4",
+                        "description": "Casual"
+                    },
+                    {
+                        "id": "23",
+                        "description": "Indie"
+                    },
+                    {
+                        "id": "28",
+                        "description": "Simulação"
+                    },
+                    {
+                        "id": "2",
+                        "description": "Estratégia"
+                    }
+                ]
             },
             "hoster_links": {
+                "FileDitch": [
+                    {
+                        "file_name": "Overcooked!.All.You.Can.Eat.v1277-OFME.part1.rar",
+                        "direct_link": "https://fileditchfiles.me/alpha13/0a16a76549e1dfe248d1/Overcooked_.All.You.Can.Eat.v1277-OFME.part1.rar"
+                    },
+                    {
+                        "file_name": "Overcooked!.All.You.Can.Eat.v1277-OFME.part2.rar",
+                        "direct_link": "https://fileditchfiles.me/alpha13/2aa07f9adb626c812724/Overcooked_.All.You.Can.Eat.v1277-OFME.part2.rar"
+                    }
+                ],
+                "Rootz": [
+                    {
+                        "file_name": "Overcooked!.All.You.Can.Eat.v1277-OFME.part1.rar",
+                        "direct_link": "https://rootz.so/d/23NMA4"
+                    },
+                    {
+                        "file_name": "Overcooked!.All.You.Can.Eat.v1277-OFME.part2.rar",
+                        "direct_link": "https://rootz.so/d/1PbOUK"
+                    }
+                ],
                 "Pixeldrain": [
                     {
-                        "file_name": "Overcooked!.All.You.Can.Eat.v1173-OFME.rar",
-                        "direct_link": "https://pixeldrain.com/u/9Hc2N7w8"
+                        "file_name": "Overcooked!.All.You.Can.Eat.v1277-OFME.part1.rar",
+                        "direct_link": "https://pixeldrain.com/u/Rafp7iYk"
+                    },
+                    {
+                        "file_name": "Overcooked!.All.You.Can.Eat.v1277-OFME.part2.rar",
+                        "direct_link": "https://pixeldrain.com/u/d6Dgj2NJ"
                     }
                 ],
                 "Gofile": [
                     {
-                        "file_name": "Overcooked!.All.You.Can.Eat.v1173-OFME.rar",
-                        "direct_link": "https://gofile.io/d/DeS5zZ"
+                        "file_name": "Overcooked!.All.You.Can.Eat.v1277-OFME.part1.rar",
+                        "direct_link": "https://gofile.io/d/vKnx9p"
+                    },
+                    {
+                        "file_name": "Overcooked!.All.You.Can.Eat.v1277-OFME.part2.rar",
+                        "direct_link": "https://gofile.io/d/uMRqgy"
+                    }
+                ],
+                "VikingFile": [
+                    {
+                        "file_name": "Overcooked!.All.You.Can.Eat.v1277-OFME.part1.rar",
+                        "direct_link": "https://vikingfile.com/f/ULiIbi8z6D"
+                    },
+                    {
+                        "file_name": "Overcooked!.All.You.Can.Eat.v1277-OFME.part2.rar",
+                        "direct_link": "https://vikingfile.com/f/jMpAJCBJai"
                     }
                 ]
             },
-            "unique_hash": "a7a7f2ef57f68bddd3b3c29a245c2131e76abe3b",
-            "fileSize": "7.56 GB",
-            "magnet": "magnet:?xt=urn:btih:a7a7f2ef57f68bddd3b3c29a245c2131e76abe3b&dn=Overcooked%21%20All%20You%20Can%20Eat&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
-            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_68/Overcooked%21.All.You.Can.Eat.v1173-OFME.torrent",
-            "created_at": "2025-09-08 12:28:51",
+            "unique_hash": "24ed5771188acc5a461fe3e6cccee0e9bb3fc695",
+            "fileSize": "7.51 GB",
+            "magnet": "magnet:?xt=urn:btih:24ed5771188acc5a461fe3e6cccee0e9bb3fc695&dn=Overcooked%21%20All%20You%20Can%20Eat&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_71/Overcooked%21.All.You.Can.Eat.v1277-OFME.torrent",
+            "created_at": "2026-07-07 10:40:37",
             "webdav_updated_at": "Unknown",
             "files": [
                 {
@@ -82693,8 +83350,12 @@
                     "size": "14.40 MB"
                 },
                 {
-                    "name": "Overcooked!.All.You.Can.Eat.v1173-OFME.rar",
-                    "size": "7.55 GB"
+                    "name": "Overcooked!.All.You.Can.Eat.v1277-OFME.part1.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Overcooked!.All.You.Can.Eat.v1277-OFME.part2.rar",
+                    "size": "2.50 GB"
                 }
             ],
             "comment": ""
@@ -130571,164 +131232,166 @@
         },
         {
             "title": "Warhammer 40 000 Rogue Trader",
-            "page": 33,
+            "page": 35,
             "url": "https://online-fix.me/games/rpg/17408-warhammer-40-000-rogue-trader-po-seti.html",
             "last_update": "2023-12-09T03:52:16+03:00",
             "release_date": "07.12.2023",
-            "update_info": "Обновлено 27 января 2026, 01:31. Игра обновлена до версии 1.5.0.320.",
-            "update_date": "2026-01-27T01:31:00+03:00",
-            "formatted_update_date": "2026-01-27 01:31:00",
-            "scraped_at": "2026-05-11 19:56:39",
+            "update_info": "Обновлено Сегодня, 16:28. Игра обновлена до версии 1.6.1.495.",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-07-07 16:47:49",
             "steam": {
                 "steam_appid": 2186680,
                 "match_score": 100,
                 "match_via": "canon",
-                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186680/c7b0bd6f233f6c03fa68eee2fd1108a183329230/header.jpg?t=1770731512",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186680/c7b0bd6f233f6c03fa68eee2fd1108a183329230/header.jpg?t=1781198086",
                 "short_description": "Warhammer 40,000: Rogue Trader é um RPG clássico e cheio de história criado pela Owlcat Games, desenvolvedora do aclamado Pathfinder: Wrath of the Righteous, com consultoria extensa da Games Workshop.",
                 "short_description_native": "Warhammer 40,000: Rogue Trader é um RPG clássico e cheio de história criado pela Owlcat Games, desenvolvedora do aclamado Pathfinder: Wrath of the Righteous, com consultoria extensa da Games Workshop.",
-                "price_brl": "R$ 124,99",
+                "price_brl": "R$ 49,99",
                 "is_free": false,
                 "pc_requirements": {
                     "minimum": "Mínimos:\n\nSistema Operativo: Win10\n\nProcessador: Intel(R) Core(TM) i5-4590T CPU @ 2.00GHz\n\nMemória: 8 GB de RAM\n\nPlaca gráfica: AMD Radeon RX Vega 6 / Intel HD Graphics 630\n\nDirectX: Versão 11\n\nEspaço no disco: Requer 40 GB de espaço livre",
                     "recommended": "Recomendados:\n\nSistema Operativo: Win10\n\nProcessador: Intel(R) Core(TM) i5-6400 CPU @ 2.70GHz\n\nMemória: 16 GB de RAM\n\nPlaca gráfica: AMD Radeon RX 570 / NVIDIA GeForce GTX 1050 Ti\n\nDirectX: Versão 11\n\nEspaço no disco: Requer 40 GB de espaço livre"
                 },
-                "controller_support": null
+                "controller_support": null,
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Um jogador"
+                    },
+                    {
+                        "id": 1,
+                        "description": "Multijogador"
+                    },
+                    {
+                        "id": 9,
+                        "description": "Co-op"
+                    },
+                    {
+                        "id": 38,
+                        "description": "Co-op online"
+                    },
+                    {
+                        "id": 27,
+                        "description": "Multijogador interplataformas"
+                    },
+                    {
+                        "id": 22,
+                        "description": "Proezas Steam"
+                    },
+                    {
+                        "id": 29,
+                        "description": "Cartas Colecionáveis Steam"
+                    },
+                    {
+                        "id": 30,
+                        "description": "Steam Workshop"
+                    },
+                    {
+                        "id": 64,
+                        "description": "Tamanho do texto ajustável"
+                    },
+                    {
+                        "id": 68,
+                        "description": "Controlos de volume independentes"
+                    },
+                    {
+                        "id": 76,
+                        "description": "Opção de controlo só por rato"
+                    },
+                    {
+                        "id": 55,
+                        "description": "Compat. com DUALSHOCK"
+                    },
+                    {
+                        "id": 57,
+                        "description": "Compat. com DualSense"
+                    },
+                    {
+                        "id": 79,
+                        "description": "Guardar progresso a qualquer momento"
+                    },
+                    {
+                        "id": 69,
+                        "description": "Som estéreo"
+                    },
+                    {
+                        "id": 65,
+                        "description": "Opções de legendas"
+                    },
+                    {
+                        "id": 70,
+                        "description": "Som surround"
+                    },
+                    {
+                        "id": 18,
+                        "description": "Compat. parcial c/ comando"
+                    },
+                    {
+                        "id": 23,
+                        "description": "Steam Cloud"
+                    },
+                    {
+                        "id": 62,
+                        "description": "Partilha de Biblioteca"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "1",
+                        "description": "Ação"
+                    },
+                    {
+                        "id": "25",
+                        "description": "Aventura"
+                    },
+                    {
+                        "id": "23",
+                        "description": "Indie"
+                    },
+                    {
+                        "id": "3",
+                        "description": "RPG"
+                    },
+                    {
+                        "id": "2",
+                        "description": "Estratégia"
+                    }
+                ]
             },
             "hoster_links": {
-                "DataNodes": [
+                "FileDitch": [
                     {
-                        "file_name": "W40000RT_Fix_Repair_Epic_Generic (1).rar",
-                        "direct_link": "https://datanodes.to/jng7w63wdh3j"
+                        "file_name": "Warhammer.40,000.Rogue.Trader.v1.6.1.495-OFME.part01.rar",
+                        "direct_link": "https://fileditchfiles.me/alpha13/fc3eaf2d778bb376e791/Warhammer.40_000.Rogue.Trader.v1.6.1.495-OFME.part01.rar"
                     },
                     {
-                        "file_name": "Warhammer.40000.Rogue.Trader.v1.5.0.320-OFME.part01.rar",
-                        "direct_link": "https://datanodes.to/3nzu8z2mxa2h"
+                        "file_name": "Warhammer.40,000.Rogue.Trader.v1.6.1.495-OFME.part02.rar",
+                        "direct_link": "https://fileditchfiles.me/alpha13/478147e0f7a054fe814a/Warhammer.40_000.Rogue.Trader.v1.6.1.495-OFME.part02.rar"
                     },
                     {
-                        "file_name": "Warhammer.40000.Rogue.Trader.v1.5.0.320-OFME.part02.rar",
-                        "direct_link": "https://datanodes.to/zjpkocnqq77m"
+                        "file_name": "Warhammer.40,000.Rogue.Trader.v1.6.1.495-OFME.part03.rar",
+                        "direct_link": "https://fileditchfiles.me/alpha13/b39bea2e131f5b2319eb/Warhammer.40_000.Rogue.Trader.v1.6.1.495-OFME.part03.rar"
                     },
                     {
-                        "file_name": "Warhammer.40000.Rogue.Trader.v1.5.0.320-OFME.part03.rar",
-                        "direct_link": "https://datanodes.to/fgysps3nrlvw"
+                        "file_name": "Warhammer.40,000.Rogue.Trader.v1.6.1.495-OFME.part04.rar",
+                        "direct_link": "https://fileditchfiles.me/alpha13/fce9260c6e85be6ea172/Warhammer.40_000.Rogue.Trader.v1.6.1.495-OFME.part04.rar"
                     },
                     {
-                        "file_name": "Warhammer.40000.Rogue.Trader.v1.5.0.320-OFME.part04.rar",
-                        "direct_link": "https://datanodes.to/y0fu2sbpw412"
+                        "file_name": "Warhammer.40,000.Rogue.Trader.v1.6.1.495-OFME.part05.rar",
+                        "direct_link": "https://fileditchfiles.me/alpha13/302a5b602d6ce185530d/Warhammer.40_000.Rogue.Trader.v1.6.1.495-OFME.part05.rar"
                     },
                     {
-                        "file_name": "Warhammer.40000.Rogue.Trader.v1.5.0.320-OFME.part05.rar",
-                        "direct_link": "https://datanodes.to/lwzag2ezo9os"
+                        "file_name": "Warhammer.40,000.Rogue.Trader.v1.6.1.495-OFME.part06.rar",
+                        "direct_link": "https://fileditchfiles.me/alpha13/0e5442b9b89f1eb891aa/Warhammer.40_000.Rogue.Trader.v1.6.1.495-OFME.part06.rar"
                     },
                     {
-                        "file_name": "Warhammer.40000.Rogue.Trader.v1.5.0.320-OFME.part06.rar",
-                        "direct_link": "https://datanodes.to/jcuce4o3he1o"
+                        "file_name": "Warhammer.40,000.Rogue.Trader.v1.6.1.495-OFME.part07.rar",
+                        "direct_link": "https://fileditchfiles.me/alpha13/9a9caafc4a30f75407f3/Warhammer.40_000.Rogue.Trader.v1.6.1.495-OFME.part07.rar"
                     },
                     {
-                        "file_name": "Warhammer.40000.Rogue.Trader.v1.5.0.320-OFME.part07.rar",
-                        "direct_link": "https://datanodes.to/8a4s75x9dlfx"
-                    }
-                ],
-                "Gofile": [
-                    {
-                        "file_name": "W40000RT_Fix_Repair_Epic_Generic (1).rar",
-                        "direct_link": "https://gofile.io/d/8bxrMj"
-                    },
-                    {
-                        "file_name": "Warhammer.40000.Rogue.Trader.v1.5.0.320-OFME.part01.rar",
-                        "direct_link": "https://gofile.io/d/q2Q1t3"
-                    },
-                    {
-                        "file_name": "Warhammer.40000.Rogue.Trader.v1.5.0.320-OFME.part02.rar",
-                        "direct_link": "https://gofile.io/d/w9Uvdp"
-                    },
-                    {
-                        "file_name": "Warhammer.40000.Rogue.Trader.v1.5.0.320-OFME.part03.rar",
-                        "direct_link": "https://gofile.io/d/828Bhp"
-                    },
-                    {
-                        "file_name": "Warhammer.40000.Rogue.Trader.v1.5.0.320-OFME.part04.rar",
-                        "direct_link": "https://gofile.io/d/fWpWFl"
-                    },
-                    {
-                        "file_name": "Warhammer.40000.Rogue.Trader.v1.5.0.320-OFME.part05.rar",
-                        "direct_link": "https://gofile.io/d/Jwd4g5"
-                    },
-                    {
-                        "file_name": "Warhammer.40000.Rogue.Trader.v1.5.0.320-OFME.part06.rar",
-                        "direct_link": "https://gofile.io/d/tqKQeF"
-                    },
-                    {
-                        "file_name": "Warhammer.40000.Rogue.Trader.v1.5.0.320-OFME.part07.rar",
-                        "direct_link": "https://gofile.io/d/7IGNQx"
-                    }
-                ],
-                "VikingFile": [
-                    {
-                        "file_name": "W40000RT_Fix_Repair_Epic_Generic (1).rar",
-                        "direct_link": "https://vikingfile.com/f/CwHTbhWNu0"
-                    },
-                    {
-                        "file_name": "Warhammer.40000.Rogue.Trader.v1.5.0.320-OFME.part01.rar",
-                        "direct_link": "https://vikingfile.com/f/FDvU2ZeeOf"
-                    },
-                    {
-                        "file_name": "Warhammer.40000.Rogue.Trader.v1.5.0.320-OFME.part02.rar",
-                        "direct_link": "https://vikingfile.com/f/wSlXC4oy29"
-                    },
-                    {
-                        "file_name": "Warhammer.40000.Rogue.Trader.v1.5.0.320-OFME.part03.rar",
-                        "direct_link": "https://vikingfile.com/f/yWt4ogo9Gc"
-                    },
-                    {
-                        "file_name": "Warhammer.40000.Rogue.Trader.v1.5.0.320-OFME.part04.rar",
-                        "direct_link": "https://vikingfile.com/f/21ijkrKE5h"
-                    },
-                    {
-                        "file_name": "Warhammer.40000.Rogue.Trader.v1.5.0.320-OFME.part05.rar",
-                        "direct_link": "https://vikingfile.com/f/oK6zrWybgk"
-                    },
-                    {
-                        "file_name": "Warhammer.40000.Rogue.Trader.v1.5.0.320-OFME.part06.rar",
-                        "direct_link": "https://vikingfile.com/f/yx0yrov224"
-                    },
-                    {
-                        "file_name": "Warhammer.40000.Rogue.Trader.v1.5.0.320-OFME.part07.rar",
-                        "direct_link": "https://vikingfile.com/f/TvDPnEBjv0"
-                    }
-                ],
-                "Pixeldrain": [
-                    {
-                        "file_name": "W40000RT_Fix_Repair_Epic_Generic (1).rar",
-                        "direct_link": "https://pixeldrain.com/u/9fP5q2ho"
-                    },
-                    {
-                        "file_name": "Warhammer.40000.Rogue.Trader.v1.5.0.320-OFME.part01.rar",
-                        "direct_link": "https://pixeldrain.com/u/ZWbFiY2M"
-                    },
-                    {
-                        "file_name": "Warhammer.40000.Rogue.Trader.v1.5.0.320-OFME.part02.rar",
-                        "direct_link": "https://pixeldrain.com/u/9jSXFZjw"
-                    },
-                    {
-                        "file_name": "Warhammer.40000.Rogue.Trader.v1.5.0.320-OFME.part03.rar",
-                        "direct_link": "https://pixeldrain.com/u/uVVM2ryv"
-                    },
-                    {
-                        "file_name": "Warhammer.40000.Rogue.Trader.v1.5.0.320-OFME.part04.rar",
-                        "direct_link": "https://pixeldrain.com/u/MmtFt39P"
-                    },
-                    {
-                        "file_name": "Warhammer.40000.Rogue.Trader.v1.5.0.320-OFME.part05.rar",
-                        "direct_link": "https://pixeldrain.com/u/GxQGuYPM"
-                    },
-                    {
-                        "file_name": "Warhammer.40000.Rogue.Trader.v1.5.0.320-OFME.part06.rar",
-                        "direct_link": "https://pixeldrain.com/u/2ZCTr31W"
-                    },
-                    {
-                        "file_name": "Warhammer.40000.Rogue.Trader.v1.5.0.320-OFME.part07.rar",
-                        "direct_link": "https://pixeldrain.com/u/BxDoSRp5"
+                        "file_name": "Warhammer.40,000.Rogue.Trader.v1.6.1.495-OFME.part08.rar",
+                        "direct_link": "https://fileditchfiles.me/alpha13/70bd26a545f300a355c9/Warhammer.40_000.Rogue.Trader.v1.6.1.495-OFME.part08.rar"
                     }
                 ],
                 "Rootz": [
@@ -130737,40 +131400,158 @@
                         "direct_link": "https://www.rootz.so/d/cmkMK"
                     },
                     {
-                        "file_name": "Warhammer.40000.Rogue.Trader.v1.5.0.320-OFME.part01.rar",
-                        "direct_link": "https://www.rootz.so/d/su9kO"
+                        "file_name": "Warhammer.40,000.Rogue.Trader.v1.6.1.495-OFME.part01.rar",
+                        "direct_link": "https://rootz.so/d/1X8XNw"
                     },
                     {
-                        "file_name": "Warhammer.40000.Rogue.Trader.v1.5.0.320-OFME.part02.rar",
-                        "direct_link": "https://www.rootz.so/d/ww0bw"
+                        "file_name": "Warhammer.40,000.Rogue.Trader.v1.6.1.495-OFME.part02.rar",
+                        "direct_link": "https://rootz.so/d/1XOTDs"
                     },
                     {
-                        "file_name": "Warhammer.40000.Rogue.Trader.v1.5.0.320-OFME.part03.rar",
-                        "direct_link": "https://www.rootz.so/d/1JEADI"
+                        "file_name": "Warhammer.40,000.Rogue.Trader.v1.6.1.495-OFME.part03.rar",
+                        "direct_link": "https://rootz.so/d/Wnn3A"
                     },
                     {
-                        "file_name": "Warhammer.40000.Rogue.Trader.v1.5.0.320-OFME.part04.rar",
-                        "direct_link": "https://www.rootz.so/d/2W4eW"
+                        "file_name": "Warhammer.40,000.Rogue.Trader.v1.6.1.495-OFME.part04.rar",
+                        "direct_link": "https://rootz.so/d/1bQK5Q"
                     },
                     {
-                        "file_name": "Warhammer.40000.Rogue.Trader.v1.5.0.320-OFME.part05.rar",
-                        "direct_link": "https://www.rootz.so/d/6XvW4"
+                        "file_name": "Warhammer.40,000.Rogue.Trader.v1.6.1.495-OFME.part05.rar",
+                        "direct_link": "https://rootz.so/d/1fSAwy"
                     },
                     {
-                        "file_name": "Warhammer.40000.Rogue.Trader.v1.5.0.320-OFME.part06.rar",
-                        "direct_link": "https://www.rootz.so/d/z4txg"
+                        "file_name": "Warhammer.40,000.Rogue.Trader.v1.6.1.495-OFME.part06.rar",
+                        "direct_link": "https://rootz.so/d/erUmG"
                     },
                     {
-                        "file_name": "Warhammer.40000.Rogue.Trader.v1.5.0.320-OFME.part07.rar",
-                        "direct_link": "https://www.rootz.so/d/1rbsPI"
+                        "file_name": "Warhammer.40,000.Rogue.Trader.v1.6.1.495-OFME.part07.rar",
+                        "direct_link": "https://rootz.so/d/1nVsbw"
+                    },
+                    {
+                        "file_name": "Warhammer.40,000.Rogue.Trader.v1.6.1.495-OFME.part08.rar",
+                        "direct_link": "https://rootz.so/d/1jU1kO"
+                    }
+                ],
+                "Pixeldrain": [
+                    {
+                        "file_name": "W40000RT_Fix_Repair_Epic_Generic (1).rar",
+                        "direct_link": "https://pixeldrain.com/u/9fP5q2ho"
+                    },
+                    {
+                        "file_name": "Warhammer.40,000.Rogue.Trader.v1.6.1.495-OFME.part01.rar",
+                        "direct_link": "https://pixeldrain.com/u/jBRscw3t"
+                    },
+                    {
+                        "file_name": "Warhammer.40,000.Rogue.Trader.v1.6.1.495-OFME.part02.rar",
+                        "direct_link": "https://pixeldrain.com/u/8cRxbebY"
+                    },
+                    {
+                        "file_name": "Warhammer.40,000.Rogue.Trader.v1.6.1.495-OFME.part03.rar",
+                        "direct_link": "https://pixeldrain.com/u/fbpxaNS8"
+                    },
+                    {
+                        "file_name": "Warhammer.40,000.Rogue.Trader.v1.6.1.495-OFME.part04.rar",
+                        "direct_link": "https://pixeldrain.com/u/HzBrZU4z"
+                    },
+                    {
+                        "file_name": "Warhammer.40,000.Rogue.Trader.v1.6.1.495-OFME.part05.rar",
+                        "direct_link": "https://pixeldrain.com/u/YaE3qFzb"
+                    },
+                    {
+                        "file_name": "Warhammer.40,000.Rogue.Trader.v1.6.1.495-OFME.part06.rar",
+                        "direct_link": "https://pixeldrain.com/u/6zRTwwrD"
+                    },
+                    {
+                        "file_name": "Warhammer.40,000.Rogue.Trader.v1.6.1.495-OFME.part07.rar",
+                        "direct_link": "https://pixeldrain.com/u/9BVUt7kb"
+                    },
+                    {
+                        "file_name": "Warhammer.40,000.Rogue.Trader.v1.6.1.495-OFME.part08.rar",
+                        "direct_link": "https://pixeldrain.com/u/gvHypJ5H"
+                    }
+                ],
+                "Gofile": [
+                    {
+                        "file_name": "W40000RT_Fix_Repair_Epic_Generic (1).rar",
+                        "direct_link": "https://gofile.io/d/8bxrMj"
+                    },
+                    {
+                        "file_name": "Warhammer.40,000.Rogue.Trader.v1.6.1.495-OFME.part01.rar",
+                        "direct_link": "https://gofile.io/d/2BLXji"
+                    },
+                    {
+                        "file_name": "Warhammer.40,000.Rogue.Trader.v1.6.1.495-OFME.part02.rar",
+                        "direct_link": "https://gofile.io/d/YpEXV1"
+                    },
+                    {
+                        "file_name": "Warhammer.40,000.Rogue.Trader.v1.6.1.495-OFME.part03.rar",
+                        "direct_link": "https://gofile.io/d/75qzrT"
+                    },
+                    {
+                        "file_name": "Warhammer.40,000.Rogue.Trader.v1.6.1.495-OFME.part04.rar",
+                        "direct_link": "https://gofile.io/d/DYsCgH"
+                    },
+                    {
+                        "file_name": "Warhammer.40,000.Rogue.Trader.v1.6.1.495-OFME.part05.rar",
+                        "direct_link": "https://gofile.io/d/TlcDhh"
+                    },
+                    {
+                        "file_name": "Warhammer.40,000.Rogue.Trader.v1.6.1.495-OFME.part06.rar",
+                        "direct_link": "https://gofile.io/d/kunIED"
+                    },
+                    {
+                        "file_name": "Warhammer.40,000.Rogue.Trader.v1.6.1.495-OFME.part07.rar",
+                        "direct_link": "https://gofile.io/d/Oeukg0"
+                    },
+                    {
+                        "file_name": "Warhammer.40,000.Rogue.Trader.v1.6.1.495-OFME.part08.rar",
+                        "direct_link": "https://gofile.io/d/NCvNou"
+                    }
+                ],
+                "VikingFile": [
+                    {
+                        "file_name": "W40000RT_Fix_Repair_Epic_Generic (1).rar",
+                        "direct_link": "https://vikingfile.com/f/CwHTbhWNu0"
+                    },
+                    {
+                        "file_name": "Warhammer.40,000.Rogue.Trader.v1.6.1.495-OFME.part01.rar",
+                        "direct_link": "https://vikingfile.com/f/Iotgcd4a9n"
+                    },
+                    {
+                        "file_name": "Warhammer.40,000.Rogue.Trader.v1.6.1.495-OFME.part02.rar",
+                        "direct_link": "https://vikingfile.com/f/aFF0pXseqB"
+                    },
+                    {
+                        "file_name": "Warhammer.40,000.Rogue.Trader.v1.6.1.495-OFME.part03.rar",
+                        "direct_link": "https://vikingfile.com/f/44ifJV8NJz"
+                    },
+                    {
+                        "file_name": "Warhammer.40,000.Rogue.Trader.v1.6.1.495-OFME.part04.rar",
+                        "direct_link": "https://vikingfile.com/f/Kor9ZqDA1F"
+                    },
+                    {
+                        "file_name": "Warhammer.40,000.Rogue.Trader.v1.6.1.495-OFME.part05.rar",
+                        "direct_link": "https://vikingfile.com/f/MLe1KcyXE6"
+                    },
+                    {
+                        "file_name": "Warhammer.40,000.Rogue.Trader.v1.6.1.495-OFME.part06.rar",
+                        "direct_link": "https://vikingfile.com/f/ztHWFLbgZ3"
+                    },
+                    {
+                        "file_name": "Warhammer.40,000.Rogue.Trader.v1.6.1.495-OFME.part07.rar",
+                        "direct_link": "https://vikingfile.com/f/RcqeFSaiU7"
+                    },
+                    {
+                        "file_name": "Warhammer.40,000.Rogue.Trader.v1.6.1.495-OFME.part08.rar",
+                        "direct_link": "https://vikingfile.com/f/iLQXpJ5Ius"
                     }
                 ]
             },
-            "unique_hash": "dfb4bdf1e79cc80402615e2ae1e8cf09984c8773",
-            "fileSize": "32.29 GB",
-            "magnet": "magnet:?xt=urn:btih:dfb4bdf1e79cc80402615e2ae1e8cf09984c8773&dn=Warhammer%2040%20000%20Rogue%20Trader&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
-            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_33/Warhammer.40000.Rogue.Trader.v1.5.0.320-OFME.torrent",
-            "created_at": "2026-01-26 19:23:23",
+            "unique_hash": "0b37c28ba2164245a342b911bbe9d58d89ec8d23",
+            "fileSize": "36.33 GB",
+            "magnet": "magnet:?xt=urn:btih:0b37c28ba2164245a342b911bbe9d58d89ec8d23&dn=Warhammer%2040%20000%20Rogue%20Trader&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_35/Warhammer.40%2C000.Rogue.Trader.v1.6.1.495-OFME.torrent",
+            "created_at": "2026-07-07 10:45:49",
             "webdav_updated_at": "Unknown",
             "files": [
                 {
@@ -130778,32 +131559,36 @@
                     "size": "18.90 MB"
                 },
                 {
-                    "name": "Warhammer.40000.Rogue.Trader.v1.5.0.320-OFME.part05.rar",
+                    "name": "Warhammer.40,000.Rogue.Trader.v1.6.1.495-OFME.part01.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "Warhammer.40000.Rogue.Trader.v1.5.0.320-OFME.part06.rar",
+                    "name": "Warhammer.40,000.Rogue.Trader.v1.6.1.495-OFME.part02.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "Warhammer.40000.Rogue.Trader.v1.5.0.320-OFME.part01.rar",
+                    "name": "Warhammer.40,000.Rogue.Trader.v1.6.1.495-OFME.part03.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "Warhammer.40000.Rogue.Trader.v1.5.0.320-OFME.part02.rar",
+                    "name": "Warhammer.40,000.Rogue.Trader.v1.6.1.495-OFME.part04.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "Warhammer.40000.Rogue.Trader.v1.5.0.320-OFME.part03.rar",
+                    "name": "Warhammer.40,000.Rogue.Trader.v1.6.1.495-OFME.part05.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "Warhammer.40000.Rogue.Trader.v1.5.0.320-OFME.part04.rar",
+                    "name": "Warhammer.40,000.Rogue.Trader.v1.6.1.495-OFME.part06.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "Warhammer.40000.Rogue.Trader.v1.5.0.320-OFME.part07.rar",
-                    "size": "2.28 GB"
+                    "name": "Warhammer.40,000.Rogue.Trader.v1.6.1.495-OFME.part07.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Warhammer.40,000.Rogue.Trader.v1.6.1.495-OFME.part08.rar",
+                    "size": "1.31 GB"
                 }
             ],
             "comment": ""

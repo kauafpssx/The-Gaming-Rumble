@@ -1,5 +1,5 @@
 {
-    "total": 1773,
+    "total": 1776,
     "downloads": [
         {
             "title": "10 Miles to Safety",
@@ -85,6 +85,177 @@
                 {
                     "name": "Fix Repair/100OJ_Fix_Repair_Steam_Generic.rar",
                     "size": "16.47 MB"
+                }
+            ],
+            "comment": ""
+        },
+        {
+            "title": "2 Fights in 2 Tight Spaces",
+            "page": 1,
+            "url": "https://online-fix.me/games/fighting/18153-2-fights-in-2-tight-spaces-po-seti.html",
+            "last_update": "2026-07-08T17:10:58+03:00",
+            "release_date": "07.06.2026",
+            "update_info": "",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-07-08 16:16:18",
+            "steam": {
+                "steam_appid": 3734890,
+                "match_score": 100,
+                "match_via": "canon",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3734890/68eb814dd8f35fa8b4a687a936e4777d3f491077/header.jpg?t=1781021618",
+                "short_description": "O Agente 11 está de volta. O icônico construtor de deck tático retorna, com novos truques em suas mangas impecavelmente adaptadas... e desta vez é com amigos. Improvise dentro do espaço, adapte seu deck aos desafios futuros e supere uma lista de novos inimigos em sequências de luta elegantes e animadas.",
+                "short_description_native": "Agent 11 is back. The iconic tactical deck-builder returns, with new tricks up its impeccably tailored sleeves… and this time it’s with friends. Improvise within the space, adapt your deck to the challenges ahead, and overcome a roster of new enemies in stylish, animated, fight sequences.",
+                "price_brl": "R$ 47,99",
+                "is_free": false,
+                "pc_requirements": {
+                    "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10\n\nProcessador:  Intel Core i5-2300 CPU @ 2.80GHz/AMD Ryzen 5 1600 or equivalents\n\nMemória: 8 GB de RAM\n\nPlaca gráfica: NVIDIA GeForce GTX 1050 3GB VRAM/AMD Radeon RX 560 3GB VRAM or equivalents\n\nDirectX: Versão 10\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 2 GB de espaço livre",
+                    "recommended": "Recomendados:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10\n\nProcessador: AMD Ryzen 7 5800X 8-Core/Intel Core i5-4670K CPU @ 3.40GHz or equivalents\n\nMemória: 16 GB de RAM\n\nPlaca gráfica: NVIDIA GeForce GTX 1060 6GB VRAM/Radeon RX 480 Graphics 6GB VRAM or equivalents\n\nDirectX: Versão 10\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 2 MB de espaço livre"
+                },
+                "controller_support": "full",
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Um jogador"
+                    },
+                    {
+                        "id": 1,
+                        "description": "Multijogador"
+                    },
+                    {
+                        "id": 9,
+                        "description": "Co-op"
+                    },
+                    {
+                        "id": 38,
+                        "description": "Co-op online"
+                    },
+                    {
+                        "id": 28,
+                        "description": "Compat. total c/ comando"
+                    },
+                    {
+                        "id": 64,
+                        "description": "Tamanho do texto ajustável"
+                    },
+                    {
+                        "id": 67,
+                        "description": "Conforto de câmara"
+                    },
+                    {
+                        "id": 68,
+                        "description": "Controlos de volume independentes"
+                    },
+                    {
+                        "id": 78,
+                        "description": "Dificuldade ajustável"
+                    },
+                    {
+                        "id": 76,
+                        "description": "Opção de controlo só por rato"
+                    },
+                    {
+                        "id": 74,
+                        "description": "Jogável sem necessitar de ações rápidas ou precisas"
+                    },
+                    {
+                        "id": 55,
+                        "description": "Compat. com DUALSHOCK"
+                    },
+                    {
+                        "id": 57,
+                        "description": "Compat. com DualSense"
+                    },
+                    {
+                        "id": 79,
+                        "description": "Guardar progresso a qualquer momento"
+                    },
+                    {
+                        "id": 62,
+                        "description": "Partilha de Biblioteca"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "1",
+                        "description": "Ação"
+                    },
+                    {
+                        "id": "2",
+                        "description": "Estratégia"
+                    },
+                    {
+                        "id": "70",
+                        "description": "Acesso Antecipado"
+                    }
+                ]
+            },
+            "hoster_links": {
+                "FileDitch": [
+                    {
+                        "file_name": "2Fightsin2TightSpaces_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://fileditchfiles.me/alpha13/0856ad22d2dbe40f3ef4/2Fightsin2TightSpaces_Fix_Repair_Steam_Generic.rar"
+                    },
+                    {
+                        "file_name": "2.Fights.in.2.Tight.Spaces.v0.3.22936-OFME.rar",
+                        "direct_link": "https://fileditchfiles.me/alpha13/405fd9feb386f1bd8f2b/2.Fights.in.2.Tight.Spaces.v0.3.22936-OFME.rar"
+                    }
+                ],
+                "Rootz": [
+                    {
+                        "file_name": "2Fightsin2TightSpaces_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://rootz.so/d/2D9W0u"
+                    },
+                    {
+                        "file_name": "2.Fights.in.2.Tight.Spaces.v0.3.22936-OFME.rar",
+                        "direct_link": "https://rootz.so/d/k5w1Y"
+                    }
+                ],
+                "Pixeldrain": [
+                    {
+                        "file_name": "2Fightsin2TightSpaces_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://pixeldrain.com/u/ZW2rTxQC"
+                    },
+                    {
+                        "file_name": "2.Fights.in.2.Tight.Spaces.v0.3.22936-OFME.rar",
+                        "direct_link": "https://pixeldrain.com/u/Vy9biGaw"
+                    }
+                ],
+                "Gofile": [
+                    {
+                        "file_name": "2Fightsin2TightSpaces_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://gofile.io/d/anZl1C"
+                    },
+                    {
+                        "file_name": "2.Fights.in.2.Tight.Spaces.v0.3.22936-OFME.rar",
+                        "direct_link": "https://gofile.io/d/1HRa3K"
+                    }
+                ],
+                "VikingFile": [
+                    {
+                        "file_name": "2Fightsin2TightSpaces_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://vikingfile.com/f/QsqIs70LdU"
+                    },
+                    {
+                        "file_name": "2.Fights.in.2.Tight.Spaces.v0.3.22936-OFME.rar",
+                        "direct_link": "https://vikingfile.com/f/KIwIb85SVv"
+                    }
+                ]
+            },
+            "unique_hash": "90d43eefcc99420054c47935128eff9a65e16caa",
+            "fileSize": "938.59 MB",
+            "magnet": "magnet:?xt=urn:btih:90d43eefcc99420054c47935128eff9a65e16caa&dn=2%20Fights%20in%202%20Tight%20Spaces&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_1/2.Fights.in.2.Tight.Spaces.v0.3.22936-OFME.torrent",
+            "created_at": "2026-07-08 08:02:23",
+            "webdav_updated_at": "Unknown",
+            "files": [
+                {
+                    "name": "2.Fights.in.2.Tight.Spaces.v0.3.22936-OFME.rar",
+                    "size": "927.51 MB"
+                },
+                {
+                    "name": "Fix Repair/2Fightsin2TightSpaces_Fix_Repair_Steam_Generic.rar",
+                    "size": "11.08 MB"
                 }
             ],
             "comment": ""
@@ -518,19 +689,19 @@
         },
         {
             "title": "7 Days To Die",
-            "page": 79,
+            "page": 80,
             "url": "https://online-fix.me/games/officialservers/16429-7-days-to-die-po-seti.html",
             "last_update": "2020-07-25T19:32:51+03:00",
             "release_date": "25.07.2024",
-            "update_info": "Обновлено 19 мая 2026, 14:16. Игра обновлена до версии 2.6b14.",
-            "update_date": "2026-05-19T14:16:00+03:00",
-            "formatted_update_date": "2026-05-19 14:16:00",
-            "scraped_at": "2026-06-28 18:57:38",
+            "update_info": "Обновлено Сегодня, 14:15. Игра обновлена до версии 3.0.0.B259.",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-07-08 16:17:57",
             "steam": {
                 "steam_appid": 251570,
                 "match_score": 100,
                 "match_via": "canon",
-                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251570/header.jpg?t=1776457619",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251570/header.jpg?t=1783524685",
                 "short_description": "7 Days to Die é um jogo de mundo aberto que é uma combinação única de tiro em primeira pessoa, terror de sobrevivência, defesa de torre e jogos de RPG. Jogue o RPG sandbox definitivo de sobrevivência de zumbis que veio primeiro. Navezgane espera!",
                 "short_description_native": "7 Days to Die is an open-world game that is a unique combination of first-person shooter, survival horror, tower defense, and role-playing games. Play the definitive zombie survival sandbox RPG that came first. Navezgane awaits!",
                 "price_brl": "R$ 67,09",
@@ -650,26 +821,62 @@
                 ]
             },
             "hoster_links": {
+                "FileDitch": [
+                    {
+                        "file_name": "7.Days.To.Die.v3.0.0.B259-OFME.part1.rar",
+                        "direct_link": "https://fileditchfiles.me/alpha13/12b570af59b9f55c44b3/7.Days.To.Die.v3.0.0.B259-OFME.part1.rar"
+                    },
+                    {
+                        "file_name": "7.Days.To.Die.v3.0.0.B259-OFME.part2.rar",
+                        "direct_link": "https://fileditchfiles.me/alpha13/00ad54e4961765a48107/7.Days.To.Die.v3.0.0.B259-OFME.part2.rar"
+                    },
+                    {
+                        "file_name": "7.Days.To.Die.v3.0.0.B259-OFME.part3.rar",
+                        "direct_link": "https://fileditchfiles.me/alpha13/c5c7e2f4715b58c081aa/7.Days.To.Die.v3.0.0.B259-OFME.part3.rar"
+                    },
+                    {
+                        "file_name": "7.Days.To.Die.v3.0.0.B259-OFME.part4.rar",
+                        "direct_link": "https://fileditchfiles.me/alpha13/26231905d93e970bf4bf/7.Days.To.Die.v3.0.0.B259-OFME.part4.rar"
+                    }
+                ],
+                "Rootz": [
+                    {
+                        "file_name": "7.Days.To.Die.v3.0.0.B259-OFME.part1.rar",
+                        "direct_link": "https://rootz.so/d/2CdeGu"
+                    },
+                    {
+                        "file_name": "7.Days.To.Die.v3.0.0.B259-OFME.part2.rar",
+                        "direct_link": "https://rootz.so/d/3OaGW"
+                    },
+                    {
+                        "file_name": "7.Days.To.Die.v3.0.0.B259-OFME.part3.rar",
+                        "direct_link": "https://rootz.so/d/oNij2"
+                    },
+                    {
+                        "file_name": "7.Days.To.Die.v3.0.0.B259-OFME.part4.rar",
+                        "direct_link": "https://rootz.so/d/28bnPM"
+                    }
+                ],
                 "Pixeldrain": [
                     {
                         "file_name": "7DaysToDie_Fix_Repair_GDK_Generic.rar",
                         "direct_link": "https://pixeldrain.com/u/D8aTrxFN"
                     },
                     {
-                        "file_name": "7.Days.To.Die.v2.6b14-OFME.part1.rar",
-                        "direct_link": "https://pixeldrain.com/u/eNd6Ngew"
+                        "file_name": "7.Days.To.Die.v3.0.0.B259-OFME.part1.rar",
+                        "direct_link": "https://pixeldrain.com/u/NjYrc2GF"
                     },
                     {
-                        "file_name": "7.Days.To.Die.v2.6b14-OFME.part2.rar",
-                        "direct_link": "https://pixeldrain.com/u/28CcjRJc"
+                        "file_name": "7.Days.To.Die.v3.0.0.B259-OFME.part2.rar",
+                        "direct_link": "https://pixeldrain.com/u/39HogxbE"
                     },
                     {
-                        "file_name": "7.Days.To.Die.v2.6b14-OFME.part3.rar",
-                        "direct_link": "https://pixeldrain.com/u/U1SJc8zY"
+                        "file_name": "7.Days.To.Die.v3.0.0.B259-OFME.part3.rar",
+                        "direct_link": "https://pixeldrain.com/u/zsn2of8M"
                     },
                     {
-                        "file_name": "7.Days.To.Die.v2.6b14-OFME.part4.rar",
-                        "direct_link": "https://pixeldrain.com/u/EfwmaSFp"
+                        "file_name": "7.Days.To.Die.v3.0.0.B259-OFME.part4.rar",
+                        "direct_link": "https://pixeldrain.com/u/8hgEGLEW"
                     }
                 ],
                 "Gofile": [
@@ -678,38 +885,20 @@
                         "direct_link": "https://gofile.io/d/Ja30EU"
                     },
                     {
-                        "file_name": "7.Days.To.Die.v2.6b14-OFME.part1.rar",
-                        "direct_link": "https://gofile.io/d/aD2Hid"
+                        "file_name": "7.Days.To.Die.v3.0.0.B259-OFME.part1.rar",
+                        "direct_link": "https://gofile.io/d/aOhw4a"
                     },
                     {
-                        "file_name": "7.Days.To.Die.v2.6b14-OFME.part2.rar",
-                        "direct_link": "https://gofile.io/d/VsS1gm"
+                        "file_name": "7.Days.To.Die.v3.0.0.B259-OFME.part2.rar",
+                        "direct_link": "https://gofile.io/d/jUeI9m"
                     },
                     {
-                        "file_name": "7.Days.To.Die.v2.6b14-OFME.part3.rar",
-                        "direct_link": "https://gofile.io/d/kbLK2H"
+                        "file_name": "7.Days.To.Die.v3.0.0.B259-OFME.part3.rar",
+                        "direct_link": "https://gofile.io/d/hcVXVT"
                     },
                     {
-                        "file_name": "7.Days.To.Die.v2.6b14-OFME.part4.rar",
-                        "direct_link": "https://gofile.io/d/WYC7uH"
-                    }
-                ],
-                "Rootz": [
-                    {
-                        "file_name": "7.Days.To.Die.v2.6b14-OFME.part1.rar",
-                        "direct_link": "https://rootz.so/d/1Y4kl6"
-                    },
-                    {
-                        "file_name": "7.Days.To.Die.v2.6b14-OFME.part2.rar",
-                        "direct_link": "https://rootz.so/d/1Bmb9k"
-                    },
-                    {
-                        "file_name": "7.Days.To.Die.v2.6b14-OFME.part3.rar",
-                        "direct_link": "https://rootz.so/d/1Q1368"
-                    },
-                    {
-                        "file_name": "7.Days.To.Die.v2.6b14-OFME.part4.rar",
-                        "direct_link": "https://rootz.so/d/nbU2a"
+                        "file_name": "7.Days.To.Die.v3.0.0.B259-OFME.part4.rar",
+                        "direct_link": "https://gofile.io/d/mmqLpp"
                     }
                 ],
                 "VikingFile": [
@@ -718,49 +907,49 @@
                         "direct_link": "https://vikingfile.com/f/ZVUxMJcTvE"
                     },
                     {
-                        "file_name": "7.Days.To.Die.v2.6b14-OFME.part1.rar",
-                        "direct_link": "https://vikingfile.com/f/qlWDy75rxn"
+                        "file_name": "7.Days.To.Die.v3.0.0.B259-OFME.part1.rar",
+                        "direct_link": "https://vikingfile.com/f/9svT50U7hV"
                     },
                     {
-                        "file_name": "7.Days.To.Die.v2.6b14-OFME.part2.rar",
-                        "direct_link": "https://vikingfile.com/f/4sw03N7HcQ"
+                        "file_name": "7.Days.To.Die.v3.0.0.B259-OFME.part2.rar",
+                        "direct_link": "https://vikingfile.com/f/9sXswJuf9a"
                     },
                     {
-                        "file_name": "7.Days.To.Die.v2.6b14-OFME.part3.rar",
-                        "direct_link": "https://vikingfile.com/f/zFhzPQwjmp"
+                        "file_name": "7.Days.To.Die.v3.0.0.B259-OFME.part3.rar",
+                        "direct_link": "https://vikingfile.com/f/vR7aZis0nK"
                     },
                     {
-                        "file_name": "7.Days.To.Die.v2.6b14-OFME.part4.rar",
-                        "direct_link": "https://vikingfile.com/f/zJ19ybylox"
+                        "file_name": "7.Days.To.Die.v3.0.0.B259-OFME.part4.rar",
+                        "direct_link": "https://vikingfile.com/f/iul5RsSmIc"
                     }
                 ]
             },
-            "unique_hash": "0cbb733a55d312d6d06d6615f2a60e109a1fb45a",
-            "fileSize": "15.58 GB",
-            "magnet": "magnet:?xt=urn:btih:0cbb733a55d312d6d06d6615f2a60e109a1fb45a&dn=7%20Days%20To%20Die&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
-            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_79/7.Days.To.Die.v2.6b14-OFME.torrent",
-            "created_at": "2026-05-19 08:09:34",
+            "unique_hash": "5c67d6d21d753821354cfc38520b07047b5e9b92",
+            "fileSize": "16.19 GB",
+            "magnet": "magnet:?xt=urn:btih:5c67d6d21d753821354cfc38520b07047b5e9b92&dn=7%20Days%20To%20Die&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_80/7.Days.To.Die.v3.0.0.B259-OFME.torrent",
+            "created_at": "2026-07-08 08:03:01",
             "webdav_updated_at": "Unknown",
             "files": [
-                {
-                    "name": "7.Days.To.Die.v2.6b14-OFME.part1.rar",
-                    "size": "5.00 GB"
-                },
-                {
-                    "name": "7.Days.To.Die.v2.6b14-OFME.part2.rar",
-                    "size": "5.00 GB"
-                },
                 {
                     "name": "Fix Repair/7DaysToDie_Fix_Repair_GDK_Generic.rar",
                     "size": "0.25 MB"
                 },
                 {
-                    "name": "7.Days.To.Die.v2.6b14-OFME.part3.rar",
+                    "name": "7.Days.To.Die.v3.0.0.B259-OFME.part1.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "7.Days.To.Die.v2.6b14-OFME.part4.rar",
-                    "size": "590.09 MB"
+                    "name": "7.Days.To.Die.v3.0.0.B259-OFME.part2.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "7.Days.To.Die.v3.0.0.B259-OFME.part3.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "7.Days.To.Die.v3.0.0.B259-OFME.part4.rar",
+                    "size": "1.19 GB"
                 }
             ],
             "comment": ""
@@ -8709,10 +8898,10 @@
             "url": "https://online-fix.me/games/survival/16310-barotrauma-po-seti.html",
             "last_update": "2020-04-06T23:59:05+03:00",
             "release_date": "13.03.2023",
-            "update_info": "Обновлено Сегодня, 16:26. Игра обновлена до версии 1.13.4.0.",
+            "update_info": "Обновлено Вчера, 16:26. Игра обновлена до версии 1.13.4.0.",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-07-07 16:49:29",
+            "scraped_at": "2026-07-08 16:18:02",
             "steam": {
                 "steam_appid": 602960,
                 "match_score": 100,
@@ -33049,10 +33238,10 @@
             "url": "https://online-fix.me/games/rpg/17783-elden-ring-nightreign-po-seti.html",
             "last_update": "2025-05-30T22:02:35+03:00",
             "release_date": "30.05.2025",
-            "update_info": "Обновлено Сегодня, 16:26. Игра обновлена до версии 1.03.3. Модификация обновлена до версии 1.1.3.",
+            "update_info": "Обновлено Вчера, 16:26. Игра обновлена до версии 1.03.3. Модификация обновлена до версии 1.1.3.",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-07-07 16:47:42",
+            "scraped_at": "2026-07-08 16:16:26",
             "steam": {
                 "steam_appid": 2622380,
                 "match_score": 100,
@@ -46776,10 +46965,10 @@
             "url": "https://online-fix.me/games/fighting/16648-guilty-gear-strive-po-seti.html",
             "last_update": "2023-05-23T14:41:57+03:00",
             "release_date": "07.03.2023",
-            "update_info": "Обновлено Сегодня, 16:27. Игра обновлена до версии 1.3.5.0.",
+            "update_info": "Обновлено Вчера, 16:27. Игра обновлена до версии 1.3.5.0.",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-07-07 16:47:53",
+            "scraped_at": "2026-07-08 16:16:37",
             "steam": {
                 "steam_appid": 1384160,
                 "match_score": 100,
@@ -55785,6 +55974,165 @@
             "comment": ""
         },
         {
+            "title": "Hold Your King",
+            "page": 1,
+            "url": "https://online-fix.me/games/adventures/18152-hold-your-king-po-seti.html",
+            "last_update": "2026-07-08T17:10:56+03:00",
+            "release_date": "10.06.2026",
+            "update_info": "",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-07-08 16:16:17",
+            "steam": {
+                "steam_appid": 3564340,
+                "match_score": 100,
+                "match_via": "canon",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3564340/73845ec77cbc1a99efcfd68939599879a4b946ab/header.jpg?t=1782308257",
+                "short_description": "Neste jogo cooperativo de plataforma baseado em física, você e seu amigo devem carregar o rei mal-humorado por percursos medievais perigosos. Desviem de armadilhas, mantenham o equilíbrio e cheguem ao trono. Um erro e o rei pode coroá-los com sua fúria!",
+                "short_description_native": "Neste jogo cooperativo de plataforma baseado em física, você e seu amigo devem carregar o rei mal-humorado por percursos medievais perigosos. Desviem de armadilhas, mantenham o equilíbrio e cheguem ao trono. Um erro e o rei pode coroá-los com sua fúria!",
+                "price_brl": "R$ 23,49",
+                "is_free": false,
+                "pc_requirements": {
+                    "minimum": "Mínimos:\n\nSistema Operativo: Windows 10/11 (64-Bit)\n\nProcessador: Intel i3-4130 @ 3.7Ghz OR AMD FX-4300 @ 3.8Ghz\n\nMemória: 8 GB de RAM\n\nPlaca gráfica: NVIDIA GeForce GT 1030 OR AMD Radeon HD 7770\n\nDirectX: Versão 11\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 6 GB de espaço livre",
+                    "recommended": "Recomendados:\n\nSistema Operativo: Windows 10/11 (64-Bit)\n\nProcessador: Intel i5-8400 @ 2.8GHz OR AMD Ryzen 5 1600\n\nMemória: 16 GB de RAM\n\nPlaca gráfica: NVIDIA GTX 1050 OR AMD Radeon RX 560\n\nDirectX: Versão 12\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 6 GB de espaço livre"
+                },
+                "controller_support": null,
+                "categories": [
+                    {
+                        "id": 1,
+                        "description": "Multijogador"
+                    },
+                    {
+                        "id": 9,
+                        "description": "Co-op"
+                    },
+                    {
+                        "id": 38,
+                        "description": "Co-op online"
+                    },
+                    {
+                        "id": 22,
+                        "description": "Proezas Steam"
+                    },
+                    {
+                        "id": 67,
+                        "description": "Conforto de câmara"
+                    },
+                    {
+                        "id": 66,
+                        "description": "Alternativas de cores"
+                    },
+                    {
+                        "id": 68,
+                        "description": "Controlos de volume independentes"
+                    },
+                    {
+                        "id": 78,
+                        "description": "Dificuldade ajustável"
+                    },
+                    {
+                        "id": 74,
+                        "description": "Jogável sem necessitar de ações rápidas ou precisas"
+                    },
+                    {
+                        "id": 69,
+                        "description": "Som estéreo"
+                    },
+                    {
+                        "id": 23,
+                        "description": "Steam Cloud"
+                    },
+                    {
+                        "id": 62,
+                        "description": "Partilha de Biblioteca"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "25",
+                        "description": "Aventura"
+                    },
+                    {
+                        "id": "4",
+                        "description": "Casual"
+                    },
+                    {
+                        "id": "23",
+                        "description": "Indie"
+                    }
+                ]
+            },
+            "hoster_links": {
+                "FileDitch": [
+                    {
+                        "file_name": "HoldYourKing_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://fileditchfiles.me/alpha13/736eb40f3572090fa138/HoldYourKing_Fix_Repair_Steam_Generic.rar"
+                    },
+                    {
+                        "file_name": "Hold.Your.King.v1.0.0-OFME.rar",
+                        "direct_link": "https://fileditchfiles.me/alpha13/aeb75349708277108eb3/Hold.Your.King.v1.0.0-OFME.rar"
+                    }
+                ],
+                "Rootz": [
+                    {
+                        "file_name": "HoldYourKing_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://rootz.so/d/1C2y6C"
+                    },
+                    {
+                        "file_name": "Hold.Your.King.v1.0.0-OFME.rar",
+                        "direct_link": "https://rootz.so/d/297f9M"
+                    }
+                ],
+                "Pixeldrain": [
+                    {
+                        "file_name": "HoldYourKing_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://pixeldrain.com/u/GCL22FdL"
+                    },
+                    {
+                        "file_name": "Hold.Your.King.v1.0.0-OFME.rar",
+                        "direct_link": "https://pixeldrain.com/u/xowP8JHc"
+                    }
+                ],
+                "Gofile": [
+                    {
+                        "file_name": "HoldYourKing_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://gofile.io/d/WlaTvh"
+                    },
+                    {
+                        "file_name": "Hold.Your.King.v1.0.0-OFME.rar",
+                        "direct_link": "https://gofile.io/d/9ZcAkT"
+                    }
+                ],
+                "VikingFile": [
+                    {
+                        "file_name": "HoldYourKing_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://vikingfile.com/f/fxylZ4SAEi"
+                    },
+                    {
+                        "file_name": "Hold.Your.King.v1.0.0-OFME.rar",
+                        "direct_link": "https://vikingfile.com/f/eKwkUUBLhi"
+                    }
+                ]
+            },
+            "unique_hash": "5ce3f1cf2ca55033b7fc5d02a76a6c1cd25e0b5f",
+            "fileSize": "718.86 MB",
+            "magnet": "magnet:?xt=urn:btih:5ce3f1cf2ca55033b7fc5d02a76a6c1cd25e0b5f&dn=Hold%20Your%20King&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_1/Hold.Your.King.v1.0.0-OFME.torrent",
+            "created_at": "2026-07-08 08:49:18",
+            "webdav_updated_at": "Unknown",
+            "files": [
+                {
+                    "name": "Fix Repair/HoldYourKing_Fix_Repair_Steam_Generic.rar",
+                    "size": "11.08 MB"
+                },
+                {
+                    "name": "Hold.Your.King.v1.0.0-OFME.rar",
+                    "size": "707.78 MB"
+                }
+            ],
+            "comment": ""
+        },
+        {
             "title": "Hollow Knight Silksong",
             "page": 11,
             "url": "https://online-fix.me/games/adventures/17869-hollow-knight-silksong-po-seti.html",
@@ -56274,19 +56622,19 @@
         },
         {
             "title": "House Flipper 2",
-            "page": 25,
+            "page": 26,
             "url": "https://online-fix.me/games/simulator/17616-house-flipper-2-po-seti.html",
             "last_update": "2024-10-24T17:25:53+03:00",
             "release_date": "14.12.2023",
-            "update_info": "Обновлено 20 мая 2026, 19:24. Игра обновлена до версии Build 23032026.",
-            "update_date": "2026-05-20T19:24:00+03:00",
-            "formatted_update_date": "2026-05-20 19:24:00",
-            "scraped_at": "2026-06-28 18:55:55",
+            "update_info": "Обновлено Сегодня, 14:15. Игра обновлена до версии Build 02072026. Добавлен Steam-Fix V3.",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-07-08 16:16:28",
             "steam": {
                 "steam_appid": 1190970,
                 "match_score": 100,
                 "match_via": "canon",
-                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1190970/a8c4bf872d073e27e96c2179e19a5cd9971bfd2e/header.jpg?t=1780923801",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1190970/a8c4bf872d073e27e96c2179e19a5cd9971bfd2e/header.jpg?t=1782758014",
                 "short_description": "Livra-te das preocupações com este simulador de renovação! Compra, arranja, vende e torna-te uma lenda local. Ou pega nas tuas ferramentas elétricas e cria tudo do zero! Graças ao modo cooperativo on-line, podes jogar com 4 amigos tanto no modo seguro como no modo de história.",
                 "short_description_native": "Livra-te das preocupações com este simulador de renovação! Compra, arranja, vende e torna-te uma lenda local. Ou pega nas tuas ferramentas elétricas e cria tudo do zero! Graças ao modo cooperativo on-line, podes jogar com 4 amigos tanto no modo seguro como no modo de história.",
                 "price_brl": "R$ 70,19",
@@ -56380,14 +56728,6 @@
                 ],
                 "genres": [
                     {
-                        "id": "1",
-                        "description": "Ação"
-                    },
-                    {
-                        "id": "25",
-                        "description": "Aventura"
-                    },
-                    {
                         "id": "4",
                         "description": "Casual"
                     },
@@ -56396,111 +56736,125 @@
                         "description": "Indie"
                     },
                     {
-                        "id": "29",
-                        "description": "Multijogador Massivo Online (MMO)"
-                    },
-                    {
                         "id": "28",
                         "description": "Simulação"
                     }
                 ]
             },
             "hoster_links": {
-                "Pixeldrain": [
+                "FileDitch": [
                     {
-                        "file_name": "HouseFlipper2_Fix_Repair_Steam_V2_Generic (1).rar",
-                        "direct_link": "https://pixeldrain.com/u/SAsvA8xs"
+                        "file_name": "HouseFlipper2_Fix_Repair_Steam_V3_Generic.rar",
+                        "direct_link": "https://fileditchfiles.me/alpha13/4cd52a93e5d7deec3685/HouseFlipper2_Fix_Repair_Steam_V3_Generic.rar"
                     },
                     {
-                        "file_name": "House.Flipper.2.Build.23032026-OFME.part1.rar",
-                        "direct_link": "https://pixeldrain.com/u/nrM9e5nS"
+                        "file_name": "House.Flipper.2.Build.02072026-OFME.part1.rar",
+                        "direct_link": "https://fileditchfiles.me/alpha13/9fbb9706afda879c3308/House.Flipper.2.Build.02072026-OFME.part1.rar"
                     },
                     {
-                        "file_name": "House.Flipper.2.Build.23032026-OFME.part2.rar",
-                        "direct_link": "https://pixeldrain.com/u/vGcTX1Tj"
+                        "file_name": "House.Flipper.2.Build.02072026-OFME.part2.rar",
+                        "direct_link": "https://fileditchfiles.me/alpha13/1536d84a4b84c28c0b17/House.Flipper.2.Build.02072026-OFME.part2.rar"
                     },
                     {
-                        "file_name": "House.Flipper.2.Build.23032026-OFME.part3.rar",
-                        "direct_link": "https://pixeldrain.com/u/TLFCbrUJ"
-                    }
-                ],
-                "Gofile": [
-                    {
-                        "file_name": "HouseFlipper2_Fix_Repair_Steam_V2_Generic (1).rar",
-                        "direct_link": "https://gofile.io/d/8EOavW"
-                    },
-                    {
-                        "file_name": "House.Flipper.2.Build.23032026-OFME.part1.rar",
-                        "direct_link": "https://gofile.io/d/e4SBIY"
-                    },
-                    {
-                        "file_name": "House.Flipper.2.Build.23032026-OFME.part2.rar",
-                        "direct_link": "https://gofile.io/d/ucAn4R"
-                    },
-                    {
-                        "file_name": "House.Flipper.2.Build.23032026-OFME.part3.rar",
-                        "direct_link": "https://gofile.io/d/fqRYHu"
+                        "file_name": "House.Flipper.2.Build.02072026-OFME.part3.rar",
+                        "direct_link": "https://fileditchfiles.me/alpha13/aca429567106954e29d9/House.Flipper.2.Build.02072026-OFME.part3.rar"
                     }
                 ],
                 "Rootz": [
                     {
-                        "file_name": "HouseFlipper2_Fix_Repair_Steam_V2_Generic (1).rar",
-                        "direct_link": "https://rootz.so/d/1148P2"
+                        "file_name": "HouseFlipper2_Fix_Repair_Steam_V3_Generic.rar",
+                        "direct_link": "https://rootz.so/d/zxPZg"
                     },
                     {
-                        "file_name": "House.Flipper.2.Build.23032026-OFME.part1.rar",
-                        "direct_link": "https://rootz.so/d/27Jh32"
+                        "file_name": "House.Flipper.2.Build.02072026-OFME.part1.rar",
+                        "direct_link": "https://rootz.so/d/2KhM00"
                     },
                     {
-                        "file_name": "House.Flipper.2.Build.23032026-OFME.part2.rar",
-                        "direct_link": "https://rootz.so/d/udSHg"
+                        "file_name": "House.Flipper.2.Build.02072026-OFME.part2.rar",
+                        "direct_link": "https://rootz.so/d/213xQG"
                     },
                     {
-                        "file_name": "House.Flipper.2.Build.23032026-OFME.part3.rar",
-                        "direct_link": "https://rootz.so/d/1zFzJw"
+                        "file_name": "House.Flipper.2.Build.02072026-OFME.part3.rar",
+                        "direct_link": "https://rootz.so/d/sPZaa"
+                    }
+                ],
+                "Pixeldrain": [
+                    {
+                        "file_name": "HouseFlipper2_Fix_Repair_Steam_V3_Generic.rar",
+                        "direct_link": "https://pixeldrain.com/u/bq65VqPw"
+                    },
+                    {
+                        "file_name": "House.Flipper.2.Build.02072026-OFME.part1.rar",
+                        "direct_link": "https://pixeldrain.com/u/xnzU2wXN"
+                    },
+                    {
+                        "file_name": "House.Flipper.2.Build.02072026-OFME.part2.rar",
+                        "direct_link": "https://pixeldrain.com/u/4AHxGdFU"
+                    },
+                    {
+                        "file_name": "House.Flipper.2.Build.02072026-OFME.part3.rar",
+                        "direct_link": "https://pixeldrain.com/u/eXUjSKSC"
+                    }
+                ],
+                "Gofile": [
+                    {
+                        "file_name": "HouseFlipper2_Fix_Repair_Steam_V3_Generic.rar",
+                        "direct_link": "https://gofile.io/d/LSL0w7"
+                    },
+                    {
+                        "file_name": "House.Flipper.2.Build.02072026-OFME.part1.rar",
+                        "direct_link": "https://gofile.io/d/Tbygpg"
+                    },
+                    {
+                        "file_name": "House.Flipper.2.Build.02072026-OFME.part2.rar",
+                        "direct_link": "https://gofile.io/d/KUW4Wo"
+                    },
+                    {
+                        "file_name": "House.Flipper.2.Build.02072026-OFME.part3.rar",
+                        "direct_link": "https://gofile.io/d/5YrCVh"
                     }
                 ],
                 "VikingFile": [
                     {
-                        "file_name": "HouseFlipper2_Fix_Repair_Steam_V2_Generic (1).rar",
-                        "direct_link": "https://vikingfile.com/f/2wHnD3i756"
+                        "file_name": "HouseFlipper2_Fix_Repair_Steam_V3_Generic.rar",
+                        "direct_link": "https://vikingfile.com/f/N1KcFEatdb"
                     },
                     {
-                        "file_name": "House.Flipper.2.Build.23032026-OFME.part1.rar",
-                        "direct_link": "https://vikingfile.com/f/rZL61EXazB"
+                        "file_name": "House.Flipper.2.Build.02072026-OFME.part1.rar",
+                        "direct_link": "https://vikingfile.com/f/IpuvG9sHqm"
                     },
                     {
-                        "file_name": "House.Flipper.2.Build.23032026-OFME.part2.rar",
-                        "direct_link": "https://vikingfile.com/f/LlUYkMnULy"
+                        "file_name": "House.Flipper.2.Build.02072026-OFME.part2.rar",
+                        "direct_link": "https://vikingfile.com/f/qsWoJxByt1"
                     },
                     {
-                        "file_name": "House.Flipper.2.Build.23032026-OFME.part3.rar",
-                        "direct_link": "https://vikingfile.com/f/tgWFQDc1xp"
+                        "file_name": "House.Flipper.2.Build.02072026-OFME.part3.rar",
+                        "direct_link": "https://vikingfile.com/f/y7lIc1jK2Q"
                     }
                 ]
             },
-            "unique_hash": "08904b652148f0bd96417f375e019f53a43e359e",
-            "fileSize": "13.45 GB",
-            "magnet": "magnet:?xt=urn:btih:08904b652148f0bd96417f375e019f53a43e359e&dn=House%20Flipper%202&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
-            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_25/House.Flipper.2.Build.23032026-OFME.torrent",
-            "created_at": "2026-05-20 12:46:46",
+            "unique_hash": "dc695b23fa8bbe12d755e6f6cad9728f622c98c0",
+            "fileSize": "14.37 GB",
+            "magnet": "magnet:?xt=urn:btih:dc695b23fa8bbe12d755e6f6cad9728f622c98c0&dn=House%20Flipper%202&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_26/House.Flipper.2.Build.02072026-OFME.torrent",
+            "created_at": "2026-07-08 08:07:16",
             "webdav_updated_at": "Unknown",
             "files": [
                 {
-                    "name": "Fix Repair/HouseFlipper2_Fix_Repair_Steam_V2_Generic.rar",
-                    "size": "22.03 MB"
+                    "name": "Fix Repair/HouseFlipper2_Fix_Repair_Steam_V3_Generic.rar",
+                    "size": "22.05 MB"
                 },
                 {
-                    "name": "House.Flipper.2.Build.23032026-OFME.part1.rar",
+                    "name": "House.Flipper.2.Build.02072026-OFME.part1.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "House.Flipper.2.Build.23032026-OFME.part2.rar",
+                    "name": "House.Flipper.2.Build.02072026-OFME.part2.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "House.Flipper.2.Build.23032026-OFME.part3.rar",
-                    "size": "3.43 GB"
+                    "name": "House.Flipper.2.Build.02072026-OFME.part3.rar",
+                    "size": "4.35 GB"
                 }
             ],
             "comment": ""
@@ -65175,10 +65529,10 @@
             "url": "https://online-fix.me/games/adventures/18151-lies-of-p-po-seti.html",
             "last_update": "2026-07-07T16:32:51+03:00",
             "release_date": "18.09.2023",
-            "update_info": "",
+            "update_info": "Обновлено Сегодня, 14:17. Добавлен Steam-Fix V2. Исправлена проблема при запуске на некоторых системах.",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-07-07 16:47:37",
+            "scraped_at": "2026-07-08 16:16:17",
             "steam": {
                 "steam_appid": 1627720,
                 "match_score": 100,
@@ -65281,8 +65635,8 @@
             "hoster_links": {
                 "FileDitch": [
                     {
-                        "file_name": "LiesOfP_Fix_Repair_Steam_Generic.rar",
-                        "direct_link": "https://fileditchfiles.me/alpha13/2b46096c05d60ca33acb/LiesOfP_Fix_Repair_Steam_Generic.rar"
+                        "file_name": "LiesOfP_Fix_Repair_Steam_V2_Generic.rar",
+                        "direct_link": "https://fileditchfiles.me/alpha13/b7d255b415a23d9ee401/LiesOfP_Fix_Repair_Steam_V2_Generic.rar"
                     },
                     {
                         "file_name": "Lies.of.P.v1.12.0.0-OFME.part01.rar",
@@ -65331,8 +65685,8 @@
                 ],
                 "Rootz": [
                     {
-                        "file_name": "LiesOfP_Fix_Repair_Steam_Generic.rar",
-                        "direct_link": "https://rootz.so/d/2627Fo"
+                        "file_name": "LiesOfP_Fix_Repair_Steam_V2_Generic.rar",
+                        "direct_link": "https://rootz.so/d/2GfV8S"
                     },
                     {
                         "file_name": "Lies.of.P.v1.12.0.0-OFME.part01.rar",
@@ -65381,8 +65735,8 @@
                 ],
                 "Pixeldrain": [
                     {
-                        "file_name": "LiesOfP_Fix_Repair_Steam_Generic.rar",
-                        "direct_link": "https://pixeldrain.com/u/VeSpHdYd"
+                        "file_name": "LiesOfP_Fix_Repair_Steam_V2_Generic.rar",
+                        "direct_link": "https://pixeldrain.com/u/4unEsYBp"
                     },
                     {
                         "file_name": "Lies.of.P.v1.12.0.0-OFME.part01.rar",
@@ -65431,8 +65785,8 @@
                 ],
                 "Gofile": [
                     {
-                        "file_name": "LiesOfP_Fix_Repair_Steam_Generic.rar",
-                        "direct_link": "https://gofile.io/d/Q09s3c"
+                        "file_name": "LiesOfP_Fix_Repair_Steam_V2_Generic.rar",
+                        "direct_link": "https://gofile.io/d/e9Jm59"
                     },
                     {
                         "file_name": "Lies.of.P.v1.12.0.0-OFME.part01.rar",
@@ -65481,8 +65835,8 @@
                 ],
                 "VikingFile": [
                     {
-                        "file_name": "LiesOfP_Fix_Repair_Steam_Generic.rar",
-                        "direct_link": "https://vikingfile.com/f/HuQjXCq7AT"
+                        "file_name": "LiesOfP_Fix_Repair_Steam_V2_Generic.rar",
+                        "direct_link": "https://vikingfile.com/f/MxTVVHHrqY"
                     },
                     {
                         "file_name": "Lies.of.P.v1.12.0.0-OFME.part01.rar",
@@ -65530,16 +65884,16 @@
                     }
                 ]
             },
-            "unique_hash": "39e64770297c2bb8d3af1950ae659b2f9e76c852",
-            "fileSize": "54.18 GB",
-            "magnet": "magnet:?xt=urn:btih:39e64770297c2bb8d3af1950ae659b2f9e76c852&dn=Lies%20of%20P&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "unique_hash": "200a935a84cdf4e939b5b51529c2f6790c9aec28",
+            "fileSize": "54.17 GB",
+            "magnet": "magnet:?xt=urn:btih:200a935a84cdf4e939b5b51529c2f6790c9aec28&dn=Lies%20of%20P&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
             "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_1/Lies.of.P.v1.12.0.0-OFME.torrent",
-            "created_at": "2026-07-07 10:21:47",
+            "created_at": "2026-07-08 08:14:47",
             "webdav_updated_at": "Unknown",
             "files": [
                 {
-                    "name": "Fix Repair/LiesOfP_Fix_Repair_Steam_Generic.rar",
-                    "size": "40.78 MB"
+                    "name": "Fix Repair/LiesOfP_Fix_Repair_Steam_V2_Generic.rar",
+                    "size": "30.02 MB"
                 },
                 {
                     "name": "Lies.of.P.v1.12.0.0-OFME.part01.rar",
@@ -83191,10 +83545,10 @@
             "url": "https://online-fix.me/games/adventures/16610-overcooked-all-you-can-eat-po-seti.html",
             "last_update": "2021-03-24T12:27:57+03:00",
             "release_date": "23.03.2021",
-            "update_info": "Обновлено Сегодня, 16:27. Игра обновлена до версии 1277.",
+            "update_info": "Обновлено Вчера, 16:27. Игра обновлена до версии 1277.",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-07-07 16:49:19",
+            "scraped_at": "2026-07-08 16:17:52",
             "steam": {
                 "steam_appid": 1243830,
                 "match_score": 100,
@@ -98378,15 +98732,15 @@
             "url": "https://online-fix.me/games/officialservers/17748-runescape-dragonwilds-po-seti.html",
             "last_update": "2025-04-16T01:43:18+03:00",
             "release_date": "15.04.2025",
-            "update_info": "Обновлено 10 июня 2026, 17:25. Игра обновлена до версии Build 26052026.",
-            "update_date": "2026-06-10T17:25:00+03:00",
-            "formatted_update_date": "2026-06-10 17:25:00",
-            "scraped_at": "2026-06-28 18:55:46",
+            "update_info": "Обновлено Сегодня, 14:16. Игра обновлена до версии 0.12.0.8.",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-07-08 16:16:26",
             "steam": {
                 "steam_appid": 1374490,
                 "match_score": 100,
                 "match_via": "canon",
-                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/b6f9281032fa5b46f654e22fcc16566e434d7e00/header_alt_assets_2.jpg?t=1782481994",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/b6f9281032fa5b46f654e22fcc16566e434d7e00/header_alt_assets_2.jpg?t=1783424384",
                 "short_description": "No continente esquecido de Ashenfall, no RuneScape, os dragões acordaram. Reúna, construa, aprimore e crie nesta aventura cooperativa de sobrevivência. Somente dominando a sobrevivência e descobrindo segredos antigos você poderá enfrentar a feroz Rainha Dragão.",
                 "short_description_native": "On RuneScape's forgotten continent of Ashenfall, dragons have awoken. Gather, build, skill and craft in this co-operative survival adventure. Only by mastering survival and uncovering ancient secrets can you hope to face the ferocious Dragon Queen.",
                 "price_brl": "R$ 80,49",
@@ -98464,64 +98818,20 @@
             "hoster_links": {
                 "FileDitch": [
                     {
-                        "file_name": "RuneScape.Dragonwilds.Build.26052026-OFME.part1.rar",
-                        "direct_link": "https://fileditchfiles.me/alpha7/acfb2372c38a6e47a531/RuneScape.Dragonwilds.Build.26052026-OFME.part1.rar"
+                        "file_name": "RuneScape.Dragonwilds.0.12.0.8-OFME.part1.rar",
+                        "direct_link": "https://fileditchfiles.me/alpha13/78cafc3cb5f9d5189732/RuneScape.Dragonwilds.0.12.0.8-OFME.part1.rar"
                     },
                     {
-                        "file_name": "RuneScape.Dragonwilds.Build.26052026-OFME.part2.rar",
-                        "direct_link": "https://fileditchfiles.me/alpha7/356fa7e216096b943759/RuneScape.Dragonwilds.Build.26052026-OFME.part2.rar"
+                        "file_name": "RuneScape.Dragonwilds.0.12.0.8-OFME.part2.rar",
+                        "direct_link": "https://fileditchfiles.me/alpha13/466f691f2de4cb5f9939/RuneScape.Dragonwilds.0.12.0.8-OFME.part2.rar"
                     },
                     {
-                        "file_name": "RuneScape.Dragonwilds.Build.26052026-OFME.part3.rar",
-                        "direct_link": "https://fileditchfiles.me/alpha7/48a53abbc44570f1d593/RuneScape.Dragonwilds.Build.26052026-OFME.part3.rar"
+                        "file_name": "RuneScape.Dragonwilds.0.12.0.8-OFME.part3.rar",
+                        "direct_link": "https://fileditchfiles.me/alpha13/e71874db2d4f5ced1ef1/RuneScape.Dragonwilds.0.12.0.8-OFME.part3.rar"
                     },
                     {
-                        "file_name": "RuneScape.Dragonwilds.Build.26052026-OFME.part4.rar",
-                        "direct_link": "https://fileditchfiles.me/alpha7/2b7b53ec62b6ed131b9d/RuneScape.Dragonwilds.Build.26052026-OFME.part4.rar"
-                    }
-                ],
-                "Pixeldrain": [
-                    {
-                        "file_name": "RuneScapeDragonwilds_Fix_Repair_Steam_V4_Generic.rar",
-                        "direct_link": "https://pixeldrain.com/u/aWWPVYou"
-                    },
-                    {
-                        "file_name": "RuneScape.Dragonwilds.Build.26052026-OFME.part1.rar",
-                        "direct_link": "https://pixeldrain.com/u/iEWBAoqA"
-                    },
-                    {
-                        "file_name": "RuneScape.Dragonwilds.Build.26052026-OFME.part2.rar",
-                        "direct_link": "https://pixeldrain.com/u/kA6X5YJG"
-                    },
-                    {
-                        "file_name": "RuneScape.Dragonwilds.Build.26052026-OFME.part3.rar",
-                        "direct_link": "https://pixeldrain.com/u/n3YU1nGK"
-                    },
-                    {
-                        "file_name": "RuneScape.Dragonwilds.Build.26052026-OFME.part4.rar",
-                        "direct_link": "https://pixeldrain.com/u/UnTva4BK"
-                    }
-                ],
-                "Gofile": [
-                    {
-                        "file_name": "RuneScapeDragonwilds_Fix_Repair_Steam_V4_Generic.rar",
-                        "direct_link": "https://gofile.io/d/iKiC2Y"
-                    },
-                    {
-                        "file_name": "RuneScape.Dragonwilds.Build.26052026-OFME.part1.rar",
-                        "direct_link": "https://gofile.io/d/iY0J76"
-                    },
-                    {
-                        "file_name": "RuneScape.Dragonwilds.Build.26052026-OFME.part2.rar",
-                        "direct_link": "https://gofile.io/d/7MPlwe"
-                    },
-                    {
-                        "file_name": "RuneScape.Dragonwilds.Build.26052026-OFME.part3.rar",
-                        "direct_link": "https://gofile.io/d/vE5SzL"
-                    },
-                    {
-                        "file_name": "RuneScape.Dragonwilds.Build.26052026-OFME.part4.rar",
-                        "direct_link": "https://gofile.io/d/lnfO0T"
+                        "file_name": "RuneScape.Dragonwilds.0.12.0.8-OFME.part4.rar",
+                        "direct_link": "https://fileditchfiles.me/alpha13/dd7d12c479949d547983/RuneScape.Dragonwilds.0.12.0.8-OFME.part4.rar"
                     }
                 ],
                 "Rootz": [
@@ -98530,20 +98840,64 @@
                         "direct_link": "https://rootz.so/d/tJZAm"
                     },
                     {
-                        "file_name": "RuneScape.Dragonwilds.Build.26052026-OFME.part1.rar",
-                        "direct_link": "https://rootz.so/d/cKRii"
+                        "file_name": "RuneScape.Dragonwilds.0.12.0.8-OFME.part1.rar",
+                        "direct_link": "https://rootz.so/d/1G4oxk"
                     },
                     {
-                        "file_name": "RuneScape.Dragonwilds.Build.26052026-OFME.part2.rar",
-                        "direct_link": "https://rootz.so/d/G2I7M"
+                        "file_name": "RuneScape.Dragonwilds.0.12.0.8-OFME.part2.rar",
+                        "direct_link": "https://rootz.so/d/I8tsm"
                     },
                     {
-                        "file_name": "RuneScape.Dragonwilds.Build.26052026-OFME.part3.rar",
-                        "direct_link": "https://rootz.so/d/1YtH1s"
+                        "file_name": "RuneScape.Dragonwilds.0.12.0.8-OFME.part3.rar",
+                        "direct_link": "https://rootz.so/d/1skJrE"
                     },
                     {
-                        "file_name": "RuneScape.Dragonwilds.Build.26052026-OFME.part4.rar",
-                        "direct_link": "https://rootz.so/d/C0RFo"
+                        "file_name": "RuneScape.Dragonwilds.0.12.0.8-OFME.part4.rar",
+                        "direct_link": "https://rootz.so/d/1oiSzg"
+                    }
+                ],
+                "Pixeldrain": [
+                    {
+                        "file_name": "RuneScapeDragonwilds_Fix_Repair_Steam_V4_Generic.rar",
+                        "direct_link": "https://pixeldrain.com/u/aWWPVYou"
+                    },
+                    {
+                        "file_name": "RuneScape.Dragonwilds.0.12.0.8-OFME.part1.rar",
+                        "direct_link": "https://pixeldrain.com/u/PQpG6xYn"
+                    },
+                    {
+                        "file_name": "RuneScape.Dragonwilds.0.12.0.8-OFME.part2.rar",
+                        "direct_link": "https://pixeldrain.com/u/5eMY5794"
+                    },
+                    {
+                        "file_name": "RuneScape.Dragonwilds.0.12.0.8-OFME.part3.rar",
+                        "direct_link": "https://pixeldrain.com/u/A9exvatT"
+                    },
+                    {
+                        "file_name": "RuneScape.Dragonwilds.0.12.0.8-OFME.part4.rar",
+                        "direct_link": "https://pixeldrain.com/u/ANmY7kno"
+                    }
+                ],
+                "Gofile": [
+                    {
+                        "file_name": "RuneScapeDragonwilds_Fix_Repair_Steam_V4_Generic.rar",
+                        "direct_link": "https://gofile.io/d/iKiC2Y"
+                    },
+                    {
+                        "file_name": "RuneScape.Dragonwilds.0.12.0.8-OFME.part1.rar",
+                        "direct_link": "https://gofile.io/d/donNsR"
+                    },
+                    {
+                        "file_name": "RuneScape.Dragonwilds.0.12.0.8-OFME.part2.rar",
+                        "direct_link": "https://gofile.io/d/RDvVXa"
+                    },
+                    {
+                        "file_name": "RuneScape.Dragonwilds.0.12.0.8-OFME.part3.rar",
+                        "direct_link": "https://gofile.io/d/8S1xOs"
+                    },
+                    {
+                        "file_name": "RuneScape.Dragonwilds.0.12.0.8-OFME.part4.rar",
+                        "direct_link": "https://gofile.io/d/vYuIrr"
                     }
                 ],
                 "VikingFile": [
@@ -98552,28 +98906,28 @@
                         "direct_link": "https://vikingfile.com/f/0URElVqkXC"
                     },
                     {
-                        "file_name": "RuneScape.Dragonwilds.Build.26052026-OFME.part1.rar",
-                        "direct_link": "https://vikingfile.com/f/03grOjBgQN"
+                        "file_name": "RuneScape.Dragonwilds.0.12.0.8-OFME.part1.rar",
+                        "direct_link": "https://vikingfile.com/f/rTUgdgCTEl"
                     },
                     {
-                        "file_name": "RuneScape.Dragonwilds.Build.26052026-OFME.part2.rar",
-                        "direct_link": "https://vikingfile.com/f/miT3YOnSKw"
+                        "file_name": "RuneScape.Dragonwilds.0.12.0.8-OFME.part2.rar",
+                        "direct_link": "https://vikingfile.com/f/rkqoR5LfDj"
                     },
                     {
-                        "file_name": "RuneScape.Dragonwilds.Build.26052026-OFME.part3.rar",
-                        "direct_link": "https://vikingfile.com/f/WpGN2YtknG"
+                        "file_name": "RuneScape.Dragonwilds.0.12.0.8-OFME.part3.rar",
+                        "direct_link": "https://vikingfile.com/f/J30mjbbTVX"
                     },
                     {
-                        "file_name": "RuneScape.Dragonwilds.Build.26052026-OFME.part4.rar",
-                        "direct_link": "https://vikingfile.com/f/ss8FfOMlZW"
+                        "file_name": "RuneScape.Dragonwilds.0.12.0.8-OFME.part4.rar",
+                        "direct_link": "https://vikingfile.com/f/wwWRW98UQR"
                     }
                 ]
             },
-            "unique_hash": "bed2b1b05bbf3a2a5f34d1ac72bb1f055e47fbd8",
-            "fileSize": "15.75 GB",
-            "magnet": "magnet:?xt=urn:btih:bed2b1b05bbf3a2a5f34d1ac72bb1f055e47fbd8&dn=RuneScape%20Dragonwilds&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
-            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_19/RuneScape.Dragonwilds.Build.26052026-OFME.torrent",
-            "created_at": "2026-06-10 11:44:30",
+            "unique_hash": "e7eb94a4107f1a4317afd49ffe90405f11f5010f",
+            "fileSize": "18.78 GB",
+            "magnet": "magnet:?xt=urn:btih:e7eb94a4107f1a4317afd49ffe90405f11f5010f&dn=RuneScape%20Dragonwilds&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_19/RuneScape.Dragonwilds.0.12.0.8-OFME.torrent",
+            "created_at": "2026-07-08 08:34:01",
             "webdav_updated_at": "Unknown",
             "files": [
                 {
@@ -98581,20 +98935,20 @@
                     "size": "23.33 MB"
                 },
                 {
-                    "name": "RuneScape.Dragonwilds.Build.26052026-OFME.part1.rar",
+                    "name": "RuneScape.Dragonwilds.0.12.0.8-OFME.part1.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "RuneScape.Dragonwilds.Build.26052026-OFME.part2.rar",
+                    "name": "RuneScape.Dragonwilds.0.12.0.8-OFME.part2.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "RuneScape.Dragonwilds.Build.26052026-OFME.part3.rar",
+                    "name": "RuneScape.Dragonwilds.0.12.0.8-OFME.part3.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "RuneScape.Dragonwilds.Build.26052026-OFME.part4.rar",
-                    "size": "744.75 MB"
+                    "name": "RuneScape.Dragonwilds.0.12.0.8-OFME.part4.rar",
+                    "size": "3.76 GB"
                 }
             ],
             "comment": ""
@@ -118197,6 +118551,165 @@
             "comment": ""
         },
         {
+            "title": "The Backrooms Rescue Expedition",
+            "page": 1,
+            "url": "https://online-fix.me/games/horror/18154-the-backrooms-rescue-expedition-po-seti.html",
+            "last_update": "2026-07-08T17:10:59+03:00",
+            "release_date": "20.10.2025",
+            "update_info": "",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-07-08 16:16:18",
+            "steam": {
+                "steam_appid": 3267550,
+                "match_score": 100,
+                "match_via": "canon",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3267550/84d40a8ae6ff5d504375d5ec616422caf3947f9a/header.jpg?t=1774547275",
+                "short_description": "The Backrooms: Rescue Expedition é um jogo de terror realista em primeira pessoa para até 4 jogadores. Você e sua equipe têm a tarefa de salvar as vidas da unidade de expedição desaparecida, Echo-7 North. Entidades implacáveis ​​e a loucura dos corredores infinitos criam uma atmosfera de terror implacável.",
+                "short_description_native": "The Backrooms: Rescue Expedition is a realistic first-person horror game up to 4 players. You and your team are tasked with saving the lives of the missing expedition unit, Echo-7 North. Ruthless entities and the madness of infinite halls create an atmosphere of relentless terror.",
+                "price_brl": "R$ 16,66",
+                "is_free": false,
+                "pc_requirements": {
+                    "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10\n\nProcessador: AMD Ryzen 5 1600X / Intel Core i5-4430\n\nMemória: 16 GB de RAM\n\nPlaca gráfica: Radeon RX 5700 / Nvidia GeForce RTX 2060\n\nDirectX: Versão 12\n\nEspaço no disco: Requer 25 GB de espaço livre\n\nNotas adicionais: The latest versions of drivers for AMD and NVIDIA graphics processors are required. If you are using AMD, you must install the latest versions of ADDITIONAL drivers.",
+                    "recommended": "Recomendados:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10\n\nProcessador: AMD Ryzen 7 5700 / Intel Core i5-12600KF\n\nMemória: 16 GB de RAM\n\nPlaca gráfica: Nvidia GeForce RTX 3060 / Radeon RX 6600 XT\n\nDirectX: Versão 12\n\nEspaço no disco: Requer 25 GB de espaço livre"
+                },
+                "controller_support": null,
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Um jogador"
+                    },
+                    {
+                        "id": 1,
+                        "description": "Multijogador"
+                    },
+                    {
+                        "id": 9,
+                        "description": "Co-op"
+                    },
+                    {
+                        "id": 38,
+                        "description": "Co-op online"
+                    },
+                    {
+                        "id": 22,
+                        "description": "Proezas Steam"
+                    },
+                    {
+                        "id": 62,
+                        "description": "Partilha de Biblioteca"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "1",
+                        "description": "Ação"
+                    },
+                    {
+                        "id": "25",
+                        "description": "Aventura"
+                    },
+                    {
+                        "id": "23",
+                        "description": "Indie"
+                    }
+                ]
+            },
+            "hoster_links": {
+                "FileDitch": [
+                    {
+                        "file_name": "TheBackroomsRescueExpedition_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://fileditchfiles.me/alpha13/09d88ba122ededa4c263/TheBackroomsRescueExpedition_Fix_Repair_Steam_Generic.rar"
+                    },
+                    {
+                        "file_name": "The.Backrooms.Rescue.Expedition.Build.26032026-OFME.part1.rar",
+                        "direct_link": "https://fileditchfiles.me/alpha13/36daba7f060f346d5149/The.Backrooms.Rescue.Expedition.Build.26032026-OFME.part1.rar"
+                    },
+                    {
+                        "file_name": "The.Backrooms.Rescue.Expedition.Build.26032026-OFME.part2.rar",
+                        "direct_link": "https://fileditchfiles.me/alpha13/b1f7b6668c9928d7bdb4/The.Backrooms.Rescue.Expedition.Build.26032026-OFME.part2.rar"
+                    }
+                ],
+                "Rootz": [
+                    {
+                        "file_name": "TheBackroomsRescueExpedition_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://rootz.so/d/g45A0"
+                    },
+                    {
+                        "file_name": "The.Backrooms.Rescue.Expedition.Build.26032026-OFME.part1.rar",
+                        "direct_link": "https://rootz.so/d/1wmAim"
+                    },
+                    {
+                        "file_name": "The.Backrooms.Rescue.Expedition.Build.26032026-OFME.part2.rar",
+                        "direct_link": "https://rootz.so/d/o7mt6"
+                    }
+                ],
+                "Pixeldrain": [
+                    {
+                        "file_name": "TheBackroomsRescueExpedition_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://pixeldrain.com/u/2osXbKt4"
+                    },
+                    {
+                        "file_name": "The.Backrooms.Rescue.Expedition.Build.26032026-OFME.part1.rar",
+                        "direct_link": "https://pixeldrain.com/u/of9LHT3b"
+                    },
+                    {
+                        "file_name": "The.Backrooms.Rescue.Expedition.Build.26032026-OFME.part2.rar",
+                        "direct_link": "https://pixeldrain.com/u/MJQm9FKw"
+                    }
+                ],
+                "Gofile": [
+                    {
+                        "file_name": "TheBackroomsRescueExpedition_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://gofile.io/d/qsuStR"
+                    },
+                    {
+                        "file_name": "The.Backrooms.Rescue.Expedition.Build.26032026-OFME.part1.rar",
+                        "direct_link": "https://gofile.io/d/T9GJDG"
+                    },
+                    {
+                        "file_name": "The.Backrooms.Rescue.Expedition.Build.26032026-OFME.part2.rar",
+                        "direct_link": "https://gofile.io/d/24DAYE"
+                    }
+                ],
+                "VikingFile": [
+                    {
+                        "file_name": "TheBackroomsRescueExpedition_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://vikingfile.com/f/0z8A4AY3Wr"
+                    },
+                    {
+                        "file_name": "The.Backrooms.Rescue.Expedition.Build.26032026-OFME.part1.rar",
+                        "direct_link": "https://vikingfile.com/f/Pvq4iC4I1p"
+                    },
+                    {
+                        "file_name": "The.Backrooms.Rescue.Expedition.Build.26032026-OFME.part2.rar",
+                        "direct_link": "https://vikingfile.com/f/h9yWwhsVoZ"
+                    }
+                ]
+            },
+            "unique_hash": "6ea3721aa05bf008e54994d1fa161d36525ce154",
+            "fileSize": "8.03 GB",
+            "magnet": "magnet:?xt=urn:btih:6ea3721aa05bf008e54994d1fa161d36525ce154&dn=The%20Backrooms%20Rescue%20Expedition&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_1/The.Backrooms.Rescue.Expedition.Build.26032026-OFME.torrent",
+            "created_at": "2026-07-08 08:50:27",
+            "webdav_updated_at": "Unknown",
+            "files": [
+                {
+                    "name": "Fix Repair/TheBackroomsRescueExpedition_Fix_Repair_Steam_Generic.rar",
+                    "size": "16.45 MB"
+                },
+                {
+                    "name": "The.Backrooms.Rescue.Expedition.Build.26032026-OFME.part1.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "The.Backrooms.Rescue.Expedition.Build.26032026-OFME.part2.rar",
+                    "size": "3.01 GB"
+                }
+            ],
+            "comment": ""
+        },
+        {
             "title": "The Backrooms Survival",
             "page": 50,
             "url": "https://online-fix.me/games/horror/17023-the-backrooms-survival-po-seti.html",
@@ -131236,10 +131749,10 @@
             "url": "https://online-fix.me/games/rpg/17408-warhammer-40-000-rogue-trader-po-seti.html",
             "last_update": "2023-12-09T03:52:16+03:00",
             "release_date": "07.12.2023",
-            "update_info": "Обновлено Сегодня, 16:28. Игра обновлена до версии 1.6.1.495.",
+            "update_info": "Обновлено Вчера, 16:28. Игра обновлена до версии 1.6.1.495.",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-07-07 16:47:49",
+            "scraped_at": "2026-07-08 16:16:33",
             "steam": {
                 "steam_appid": 2186680,
                 "match_score": 100,

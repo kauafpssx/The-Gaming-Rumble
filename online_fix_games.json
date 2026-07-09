@@ -1,5 +1,5 @@
 {
-    "total": 1776,
+    "total": 1777,
     "downloads": [
         {
             "title": "10 Miles to Safety",
@@ -693,18 +693,18 @@
             "url": "https://online-fix.me/games/officialservers/16429-7-days-to-die-po-seti.html",
             "last_update": "2020-07-25T19:32:51+03:00",
             "release_date": "25.07.2024",
-            "update_info": "Обновлено Сегодня, 14:15. Игра обновлена до версии 3.0.0.B259.",
+            "update_info": "Обновлено Вчера, 14:15. Игра обновлена до версии 3.0.0.B259.",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-07-08 16:17:57",
+            "scraped_at": "2026-07-09 16:31:34",
             "steam": {
                 "steam_appid": 251570,
                 "match_score": 100,
                 "match_via": "canon",
-                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251570/header.jpg?t=1783524685",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251570/header.jpg?t=1783624206",
                 "short_description": "7 Days to Die é um jogo de mundo aberto que é uma combinação única de tiro em primeira pessoa, terror de sobrevivência, defesa de torre e jogos de RPG. Jogue o RPG sandbox definitivo de sobrevivência de zumbis que veio primeiro. Navezgane espera!",
                 "short_description_native": "7 Days to Die is an open-world game that is a unique combination of first-person shooter, survival horror, tower defense, and role-playing games. Play the definitive zombie survival sandbox RPG that came first. Navezgane awaits!",
-                "price_brl": "R$ 67,09",
+                "price_brl": "R$ 121,99",
                 "is_free": false,
                 "pc_requirements": {
                     "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10 or higher (64-bit)\n\nProcessador: 2.8 Ghz Quad Core CPU\n\nMemória: 8 GB de RAM\n\nPlaca gráfica: 2 GB Dedicated Memory\n\nDirectX: Versão 11\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 15 GB de espaço livre\n\nPlaca de som: Sound Card: DirectX® Compatible\n\nNotas adicionais: Running a Dedicated Server and Client on the same computer will double ram requirements. Also future releases may require more hard drive space.",
@@ -8898,10 +8898,10 @@
             "url": "https://online-fix.me/games/survival/16310-barotrauma-po-seti.html",
             "last_update": "2020-04-06T23:59:05+03:00",
             "release_date": "13.03.2023",
-            "update_info": "Обновлено Вчера, 16:26. Игра обновлена до версии 1.13.4.0.",
-            "update_date": null,
-            "formatted_update_date": null,
-            "scraped_at": "2026-07-08 16:18:02",
+            "update_info": "Обновлено 7 июля 2026, 16:26. Игра обновлена до версии 1.13.4.0.",
+            "update_date": "2026-07-07T16:26:00+03:00",
+            "formatted_update_date": "2026-07-07 16:26:00",
+            "scraped_at": "2026-07-09 16:31:40",
             "steam": {
                 "steam_appid": 602960,
                 "match_score": 100,
@@ -8909,7 +8909,7 @@
                 "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/602960/header.jpg?t=1776271911",
                 "short_description": "Barotrauma é um simulador cooperativo em 2D de terror, sobrevivência e RPG, no espaço. Controle seu submarino, conclua missões. encare monstros, conserte vazamentos, opere o maquinário, cuide da tripulação e fabrique itens. Cuidado: o perigo é imprevisível em Barotrauma!",
                 "short_description_native": "Barotrauma é um simulador cooperativo em 2D de terror, sobrevivência e RPG, no espaço. Controle seu submarino, conclua missões. encare monstros, conserte vazamentos, opere o maquinário, cuide da tripulação e fabrique itens. Cuidado: o perigo é imprevisível em Barotrauma!",
-                "price_brl": "R$ 49,99",
+                "price_brl": "R$ 99,99",
                 "is_free": false,
                 "pc_requirements": {
                     "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo *: Windows 7/8.1/10 (64-bit versions)\n\nProcessador: Dual Core 2.4 GHz\n\nMemória: 4 GB de RAM\n\nPlaca gráfica: 2 GB memory (dedicated VRAM or shared RAM), Shader Model 2.0+\n\nDirectX: Versão 11\n\nEspaço no disco: Requer 2 GB de espaço livre\n\nNotas adicionais: 64-bit operating system is required",
@@ -21005,14 +21005,14 @@
         },
         {
             "title": "Cricket 26 The Official Game of the Ashes",
-            "page": 6,
+            "page": 7,
             "url": "https://online-fix.me/games/officialservers/18021-cricket-26-the-official-game-of-the-ashes-po-seti.html",
             "last_update": "2026-03-03T20:31:29+03:00",
             "release_date": "19.11.2025",
-            "update_info": "Обновлено 2 июня 2026, 15:44. Игра обновлена до версии 1.0.3048. Обновлён фикс.",
-            "update_date": "2026-06-02T15:44:00+03:00",
-            "formatted_update_date": "2026-06-02 15:44:00",
-            "scraped_at": "2026-06-28 18:55:30",
+            "update_info": "Обновлено Сегодня, 18:16. Игра обновлена до версии 1.0.3215. Обновлён фикс.",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-07-09 16:29:53",
             "steam": {
                 "steam_appid": 3468650,
                 "match_score": 100,
@@ -21104,524 +21104,524 @@
                 "FileDitch": [
                     {
                         "file_name": "Cricket26TheOfficialGameOfTheAshes_Fix_Repair_Steam.rar",
-                        "direct_link": "https://fileditchfiles.me/file.php?f=/alpha6/2c27148683cdfa6a5a6a/Cricket26TheOfficialGameOfTheAshes_Fix_Repair_Steam.rar"
+                        "direct_link": "https://fileditchfiles.st/alpha13/5df77b967429cae2a788/Cricket26TheOfficialGameOfTheAshes_Fix_Repair_Steam.rar"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part01.rar",
-                        "direct_link": "https://fileditchfiles.me/file.php?f=/alpha6/e9f6466ed961c5b3f3a1/Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part01.rar"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part01.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha13/45bad80294b819087239/Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part01.rar"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part02.rar",
-                        "direct_link": "https://fileditchfiles.me/file.php?f=/alpha6/40657b81c9a7b0f91cac/Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part02.rar"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part02.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha13/aae7de3d673fd4eca744/Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part02.rar"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part03.rar",
-                        "direct_link": "https://fileditchfiles.me/file.php?f=/alpha6/b9693322b3cf030c6a62/Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part03.rar"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part03.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha13/9f525e044146e8885b6f/Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part03.rar"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part04.rar",
-                        "direct_link": "https://fileditchfiles.me/file.php?f=/alpha6/b332f36a839e8d18b9dd/Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part04.rar"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part04.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha13/64eafbe6e9df14fb44a7/Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part04.rar"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part05.rar",
-                        "direct_link": "https://fileditchfiles.me/file.php?f=/alpha6/32805a2bc85152bb47a3/Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part05.rar"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part05.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha13/df96015aa304e6c779eb/Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part05.rar"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part06.rar",
-                        "direct_link": "https://fileditchfiles.me/file.php?f=/alpha6/b1edf35f1b4b2a87a3c5/Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part06.rar"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part06.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha13/658f8aaeb31e7975ccec/Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part06.rar"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part07.rar",
-                        "direct_link": "https://fileditchfiles.me/file.php?f=/alpha6/d1ef6028cca6090af0c5/Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part07.rar"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part07.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha13/1e6c872dc63bb1cf5ff6/Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part07.rar"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part08.rar",
-                        "direct_link": "https://fileditchfiles.me/file.php?f=/alpha6/fb589ff945c14d67272b/Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part08.rar"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part08.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha13/48a34fc0b8d0476bcf77/Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part08.rar"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part09.rar",
-                        "direct_link": "https://fileditchfiles.me/file.php?f=/alpha6/45b4ece5a3c1f46ec7a0/Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part09.rar"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part09.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha13/f2d5745915bcb55a3eb3/Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part09.rar"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part10.rar",
-                        "direct_link": "https://fileditchfiles.me/file.php?f=/alpha6/82e721eef22a9c79b221/Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part10.rar"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part10.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha13/8dfe1c77b2152d24de44/Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part10.rar"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part11.rar",
-                        "direct_link": "https://fileditchfiles.me/file.php?f=/alpha6/fbe69449bf91e8e2383e/Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part11.rar"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part11.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha13/6cc176037b2a46a5e5d2/Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part11.rar"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part12.rar",
-                        "direct_link": "https://fileditchfiles.me/file.php?f=/alpha6/26448ddecee86cfbfd53/Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part12.rar"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part12.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha13/7fc53101b2fb249e613a/Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part12.rar"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part13.rar",
-                        "direct_link": "https://fileditchfiles.me/file.php?f=/alpha6/9f743321aa2ef426ee2e/Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part13.rar"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part13.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha13/e4ec42259c13a8b697c1/Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part13.rar"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part14.rar",
-                        "direct_link": "https://fileditchfiles.me/file.php?f=/alpha6/b8c86b3a89ceb2e796dc/Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part14.rar"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part14.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha13/f62367b026dc50dcfb01/Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part14.rar"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part15.rar",
-                        "direct_link": "https://fileditchfiles.me/file.php?f=/alpha6/904a3d777a59b6563afd/Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part15.rar"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part15.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha13/b56eeb740d5c8be5008c/Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part15.rar"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part16.rar",
-                        "direct_link": "https://fileditchfiles.me/file.php?f=/alpha6/7c2a933884f1542261b5/Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part16.rar"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part16.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha13/6a404607767a97dbd4a2/Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part16.rar"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part17.rar",
-                        "direct_link": "https://fileditchfiles.me/file.php?f=/alpha6/7c13ce24ff30d50a2f45/Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part17.rar"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part17.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha13/4d1fc2825778c26bffb6/Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part17.rar"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part18.rar",
-                        "direct_link": "https://fileditchfiles.me/file.php?f=/alpha6/2e826a992d9e46d91256/Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part18.rar"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part18.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha13/7d59509191aaff79c166/Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part18.rar"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part19.rar",
-                        "direct_link": "https://fileditchfiles.me/file.php?f=/alpha6/ce66f5cef47d9868b2a4/Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part19.rar"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part19.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha13/73bd2903e063571e48db/Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part19.rar"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part20.rar",
-                        "direct_link": "https://fileditchfiles.me/file.php?f=/alpha6/267e23514d3c2c3d15fb/Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part20.rar"
-                    }
-                ],
-                "Pixeldrain": [
-                    {
-                        "file_name": "Cricket26TheOfficialGameOfTheAshes_Fix_Repair_Steam.rar",
-                        "direct_link": "https://pixeldrain.com/u/KehkAhXQ"
-                    },
-                    {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part01.rar",
-                        "direct_link": "https://pixeldrain.com/u/Z5U9cBqs"
-                    },
-                    {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part02.rar",
-                        "direct_link": "https://pixeldrain.com/u/vaaZhXCb"
-                    },
-                    {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part03.rar",
-                        "direct_link": "https://pixeldrain.com/u/7MjHEq2T"
-                    },
-                    {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part04.rar",
-                        "direct_link": "https://pixeldrain.com/u/Autu59NR"
-                    },
-                    {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part05.rar",
-                        "direct_link": "https://pixeldrain.com/u/PQyfNg2R"
-                    },
-                    {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part06.rar",
-                        "direct_link": "https://pixeldrain.com/u/qmGTCoZ9"
-                    },
-                    {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part07.rar",
-                        "direct_link": "https://pixeldrain.com/u/1X5doTEU"
-                    },
-                    {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part08.rar",
-                        "direct_link": "https://pixeldrain.com/u/t74gwr1C"
-                    },
-                    {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part09.rar",
-                        "direct_link": "https://pixeldrain.com/u/ewg2b7tF"
-                    },
-                    {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part10.rar",
-                        "direct_link": "https://pixeldrain.com/u/ujmBW8Bg"
-                    },
-                    {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part11.rar",
-                        "direct_link": "https://pixeldrain.com/u/Ziooq2mR"
-                    },
-                    {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part12.rar",
-                        "direct_link": "https://pixeldrain.com/u/RyzdniUH"
-                    },
-                    {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part13.rar",
-                        "direct_link": "https://pixeldrain.com/u/wj6rRbpY"
-                    },
-                    {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part14.rar",
-                        "direct_link": "https://pixeldrain.com/u/d7VLVoCW"
-                    },
-                    {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part15.rar",
-                        "direct_link": "https://pixeldrain.com/u/SkVtz3C2"
-                    },
-                    {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part16.rar",
-                        "direct_link": "https://pixeldrain.com/u/XUsTpQR6"
-                    },
-                    {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part17.rar",
-                        "direct_link": "https://pixeldrain.com/u/VVZJccwS"
-                    },
-                    {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part18.rar",
-                        "direct_link": "https://pixeldrain.com/u/pj6UF2VU"
-                    },
-                    {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part19.rar",
-                        "direct_link": "https://pixeldrain.com/u/NXqgTqTP"
-                    },
-                    {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part20.rar",
-                        "direct_link": "https://pixeldrain.com/u/wJE6St9p"
-                    }
-                ],
-                "Gofile": [
-                    {
-                        "file_name": "Cricket26TheOfficialGameOfTheAshes_Fix_Repair_Steam.rar",
-                        "direct_link": "https://gofile.io/d/nJjfK4"
-                    },
-                    {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part01.rar",
-                        "direct_link": "https://gofile.io/d/kG6cgW"
-                    },
-                    {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part02.rar",
-                        "direct_link": "https://gofile.io/d/zWlhgF"
-                    },
-                    {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part03.rar",
-                        "direct_link": "https://gofile.io/d/2XDwdR"
-                    },
-                    {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part04.rar",
-                        "direct_link": "https://gofile.io/d/cpGbKl"
-                    },
-                    {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part05.rar",
-                        "direct_link": "https://gofile.io/d/7Y3VHV"
-                    },
-                    {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part06.rar",
-                        "direct_link": "https://gofile.io/d/n4fal2"
-                    },
-                    {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part07.rar",
-                        "direct_link": "https://gofile.io/d/pM8TGo"
-                    },
-                    {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part08.rar",
-                        "direct_link": "https://gofile.io/d/gQy8wT"
-                    },
-                    {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part09.rar",
-                        "direct_link": "https://gofile.io/d/fRNRS8"
-                    },
-                    {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part10.rar",
-                        "direct_link": "https://gofile.io/d/1bBhzx"
-                    },
-                    {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part11.rar",
-                        "direct_link": "https://gofile.io/d/NOAvAB"
-                    },
-                    {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part12.rar",
-                        "direct_link": "https://gofile.io/d/lo2ZxA"
-                    },
-                    {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part13.rar",
-                        "direct_link": "https://gofile.io/d/5XVXRe"
-                    },
-                    {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part14.rar",
-                        "direct_link": "https://gofile.io/d/xmjpgq"
-                    },
-                    {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part15.rar",
-                        "direct_link": "https://gofile.io/d/wIe491"
-                    },
-                    {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part16.rar",
-                        "direct_link": "https://gofile.io/d/GBO7zR"
-                    },
-                    {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part17.rar",
-                        "direct_link": "https://gofile.io/d/NfdxSo"
-                    },
-                    {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part18.rar",
-                        "direct_link": "https://gofile.io/d/sdA7c6"
-                    },
-                    {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part19.rar",
-                        "direct_link": "https://gofile.io/d/SrLCrp"
-                    },
-                    {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part20.rar",
-                        "direct_link": "https://gofile.io/d/nQ4HJw"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part20.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha13/3a897045a83618db81c2/Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part20.rar"
                     }
                 ],
                 "Rootz": [
                     {
                         "file_name": "Cricket26TheOfficialGameOfTheAshes_Fix_Repair_Steam.rar",
-                        "direct_link": "https://rootz.so/d/12cZyS"
+                        "direct_link": "https://rootz.so/d/1v8nXE"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part01.rar",
-                        "direct_link": "https://rootz.so/d/yKnGy"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part01.rar",
+                        "direct_link": "https://rootz.so/d/150eHI"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part02.rar",
-                        "direct_link": "https://rootz.so/d/Y0mo4"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part02.rar",
+                        "direct_link": "https://rootz.so/d/O7JA"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part03.rar",
-                        "direct_link": "https://rootz.so/d/TyvwW"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part03.rar",
+                        "direct_link": "https://rootz.so/d/192V8q"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part04.rar",
-                        "direct_link": "https://rootz.so/d/REkOu"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part04.rar",
+                        "direct_link": "https://rootz.so/d/uY7MW"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part05.rar",
-                        "direct_link": "https://rootz.so/d/OsC0"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part05.rar",
+                        "direct_link": "https://rootz.so/d/27EM7s"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part06.rar",
-                        "direct_link": "https://rootz.so/d/1xYNfs"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part06.rar",
+                        "direct_link": "https://rootz.so/d/yZyE4"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part07.rar",
-                        "direct_link": "https://rootz.so/d/gqI2y"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part07.rar",
+                        "direct_link": "https://rootz.so/d/23CVGK"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part08.rar",
-                        "direct_link": "https://rootz.so/d/1FE0Ey"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part08.rar",
+                        "direct_link": "https://rootz.so/d/4A2Ge"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part09.rar",
-                        "direct_link": "https://rootz.so/d/1uIKOG"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part09.rar",
+                        "direct_link": "https://rootz.so/d/12bp5c"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part10.rar",
-                        "direct_link": "https://rootz.so/d/CEUsa"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part10.rar",
+                        "direct_link": "https://rootz.so/d/1Ml5LE"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part11.rar",
-                        "direct_link": "https://rootz.so/d/19Z7lg"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part11.rar",
+                        "direct_link": "https://rootz.so/d/A4qe0"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part12.rar",
-                        "direct_link": "https://rootz.so/d/29O0MS"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part12.rar",
+                        "direct_link": "https://rootz.so/d/62zmS"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part13.rar",
-                        "direct_link": "https://rootz.so/d/JQyVk"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part13.rar",
+                        "direct_link": "https://rootz.so/d/1j3Ewa"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part14.rar",
-                        "direct_link": "https://rootz.so/d/QSwoy"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part14.rar",
+                        "direct_link": "https://rootz.so/d/aOr6u"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part15.rar",
-                        "direct_link": "https://rootz.so/d/13ONYO"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part15.rar",
+                        "direct_link": "https://rootz.so/d/1n55o8"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part16.rar",
-                        "direct_link": "https://rootz.so/d/20T4bY"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part16.rar",
+                        "direct_link": "https://rootz.so/d/18mZIu"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part17.rar",
-                        "direct_link": "https://rootz.so/d/1hB2Nk"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part17.rar",
+                        "direct_link": "https://rootz.so/d/eQhyS"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part18.rar",
-                        "direct_link": "https://rootz.so/d/1FTw92"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part18.rar",
+                        "direct_link": "https://rootz.so/d/2DP6H2"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part19.rar",
-                        "direct_link": "https://rootz.so/d/d4N5U"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part19.rar",
+                        "direct_link": "https://rootz.so/d/1zAeOm"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part20.rar",
-                        "direct_link": "https://rootz.so/d/17QEPw"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part20.rar",
+                        "direct_link": "https://rootz.so/d/1r6wfg"
+                    }
+                ],
+                "Pixeldrain": [
+                    {
+                        "file_name": "Cricket26TheOfficialGameOfTheAshes_Fix_Repair_Steam.rar",
+                        "direct_link": "https://pixeldrain.com/u/VwdVKZSk"
+                    },
+                    {
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part01.rar",
+                        "direct_link": "https://pixeldrain.com/u/4qBcbBWD"
+                    },
+                    {
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part02.rar",
+                        "direct_link": "https://pixeldrain.com/u/hvPsrRHr"
+                    },
+                    {
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part03.rar",
+                        "direct_link": "https://pixeldrain.com/u/5wKCRhDH"
+                    },
+                    {
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part04.rar",
+                        "direct_link": "https://pixeldrain.com/u/fg4nTDjH"
+                    },
+                    {
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part05.rar",
+                        "direct_link": "https://pixeldrain.com/u/vuQ7acdM"
+                    },
+                    {
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part06.rar",
+                        "direct_link": "https://pixeldrain.com/u/26m87zcF"
+                    },
+                    {
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part07.rar",
+                        "direct_link": "https://pixeldrain.com/u/UEYpRGNb"
+                    },
+                    {
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part08.rar",
+                        "direct_link": "https://pixeldrain.com/u/skWPNK5K"
+                    },
+                    {
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part09.rar",
+                        "direct_link": "https://pixeldrain.com/u/8q4B2BhL"
+                    },
+                    {
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part10.rar",
+                        "direct_link": "https://pixeldrain.com/u/Ku9ZGqp7"
+                    },
+                    {
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part11.rar",
+                        "direct_link": "https://pixeldrain.com/u/1Lu74JMQ"
+                    },
+                    {
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part12.rar",
+                        "direct_link": "https://pixeldrain.com/u/uHEvZRy5"
+                    },
+                    {
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part13.rar",
+                        "direct_link": "https://pixeldrain.com/u/1bMWFibT"
+                    },
+                    {
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part14.rar",
+                        "direct_link": "https://pixeldrain.com/u/RffzHthA"
+                    },
+                    {
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part15.rar",
+                        "direct_link": "https://pixeldrain.com/u/EigyQVsf"
+                    },
+                    {
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part16.rar",
+                        "direct_link": "https://pixeldrain.com/u/NTUPfqAy"
+                    },
+                    {
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part17.rar",
+                        "direct_link": "https://pixeldrain.com/u/Hj2FnqN1"
+                    },
+                    {
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part18.rar",
+                        "direct_link": "https://pixeldrain.com/u/MgDhonBt"
+                    },
+                    {
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part19.rar",
+                        "direct_link": "https://pixeldrain.com/u/gXYGNhdW"
+                    },
+                    {
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part20.rar",
+                        "direct_link": "https://pixeldrain.com/u/ovVX4vg9"
+                    }
+                ],
+                "Gofile": [
+                    {
+                        "file_name": "Cricket26TheOfficialGameOfTheAshes_Fix_Repair_Steam.rar",
+                        "direct_link": "https://gofile.io/d/ECM4Le"
+                    },
+                    {
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part01.rar",
+                        "direct_link": "https://gofile.io/d/jjSjAX"
+                    },
+                    {
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part02.rar",
+                        "direct_link": "https://gofile.io/d/3TdZoQ"
+                    },
+                    {
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part03.rar",
+                        "direct_link": "https://gofile.io/d/gSoUBL"
+                    },
+                    {
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part04.rar",
+                        "direct_link": "https://gofile.io/d/X8mAG5"
+                    },
+                    {
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part05.rar",
+                        "direct_link": "https://gofile.io/d/zrNDyq"
+                    },
+                    {
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part06.rar",
+                        "direct_link": "https://gofile.io/d/yzCwHB"
+                    },
+                    {
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part07.rar",
+                        "direct_link": "https://gofile.io/d/6wKx5q"
+                    },
+                    {
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part08.rar",
+                        "direct_link": "https://gofile.io/d/KqO8rB"
+                    },
+                    {
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part09.rar",
+                        "direct_link": "https://gofile.io/d/aF8J2i"
+                    },
+                    {
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part10.rar",
+                        "direct_link": "https://gofile.io/d/xdUwoF"
+                    },
+                    {
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part11.rar",
+                        "direct_link": "https://gofile.io/d/H6IeMI"
+                    },
+                    {
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part12.rar",
+                        "direct_link": "https://gofile.io/d/eH2YVz"
+                    },
+                    {
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part13.rar",
+                        "direct_link": "https://gofile.io/d/b9wBan"
+                    },
+                    {
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part14.rar",
+                        "direct_link": "https://gofile.io/d/m4jxQT"
+                    },
+                    {
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part15.rar",
+                        "direct_link": "https://gofile.io/d/MNoM3n"
+                    },
+                    {
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part16.rar",
+                        "direct_link": "https://gofile.io/d/TFIZjL"
+                    },
+                    {
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part17.rar",
+                        "direct_link": "https://gofile.io/d/SDv6t1"
+                    },
+                    {
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part18.rar",
+                        "direct_link": "https://gofile.io/d/MqW52a"
+                    },
+                    {
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part19.rar",
+                        "direct_link": "https://gofile.io/d/ScgwGg"
+                    },
+                    {
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part20.rar",
+                        "direct_link": "https://gofile.io/d/cbCa54"
                     }
                 ],
                 "VikingFile": [
                     {
                         "file_name": "Cricket26TheOfficialGameOfTheAshes_Fix_Repair_Steam.rar",
-                        "direct_link": "https://vikingfile.com/f/G1BaFmRBZZ"
+                        "direct_link": "https://vikingfile.com/f/25Km5Ibue5"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part01.rar",
-                        "direct_link": "https://vikingfile.com/f/fRhMq7dmek"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part01.rar",
+                        "direct_link": "https://vikingfile.com/f/VtStVQmfUs"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part02.rar",
-                        "direct_link": "https://vikingfile.com/f/19tSSS61Zh"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part02.rar",
+                        "direct_link": "https://vikingfile.com/f/E49URwGV2A"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part03.rar",
-                        "direct_link": "https://vikingfile.com/f/3orIheIS0B"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part03.rar",
+                        "direct_link": "https://vikingfile.com/f/XOm7OYj96L"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part04.rar",
-                        "direct_link": "https://vikingfile.com/f/InMidHT276"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part04.rar",
+                        "direct_link": "https://vikingfile.com/f/90WzblmNxN"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part05.rar",
-                        "direct_link": "https://vikingfile.com/f/w4WIYzfUo4"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part05.rar",
+                        "direct_link": "https://vikingfile.com/f/fqpM7MN1jm"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part06.rar",
-                        "direct_link": "https://vikingfile.com/f/2G2UwUwi1i"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part06.rar",
+                        "direct_link": "https://vikingfile.com/f/MImrlOTF3e"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part07.rar",
-                        "direct_link": "https://vikingfile.com/f/DeI11YuYz1"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part07.rar",
+                        "direct_link": "https://vikingfile.com/f/p6MMjfYZeN"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part08.rar",
-                        "direct_link": "https://vikingfile.com/f/HO4kP6C5WL"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part08.rar",
+                        "direct_link": "https://vikingfile.com/f/QZhRZ5jLNC"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part09.rar",
-                        "direct_link": "https://vikingfile.com/f/o6te0flgeO"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part09.rar",
+                        "direct_link": "https://vikingfile.com/f/51RlB10qLp"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part10.rar",
-                        "direct_link": "https://vikingfile.com/f/kHMaXqi7Xe"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part10.rar",
+                        "direct_link": "https://vikingfile.com/f/sKf9r50uA7"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part11.rar",
-                        "direct_link": "https://vikingfile.com/f/Mqpd3mYREz"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part11.rar",
+                        "direct_link": "https://vikingfile.com/f/ebpvQgpw5F"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part12.rar",
-                        "direct_link": "https://vikingfile.com/f/5xbGD7qUHU"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part12.rar",
+                        "direct_link": "https://vikingfile.com/f/ulkYZJ0dEV"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part13.rar",
-                        "direct_link": "https://vikingfile.com/f/obQC1q7QKu"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part13.rar",
+                        "direct_link": "https://vikingfile.com/f/dErO7EQUgZ"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part14.rar",
-                        "direct_link": "https://vikingfile.com/f/MfqBx17SCb"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part14.rar",
+                        "direct_link": "https://vikingfile.com/f/vOBkWC6Pvk"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part15.rar",
-                        "direct_link": "https://vikingfile.com/f/Q7WyPkprde"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part15.rar",
+                        "direct_link": "https://vikingfile.com/f/4YUrJEyKNr"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part16.rar",
-                        "direct_link": "https://vikingfile.com/f/hwVoflcYc5"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part16.rar",
+                        "direct_link": "https://vikingfile.com/f/EtECi4RspK"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part17.rar",
-                        "direct_link": "https://vikingfile.com/f/24iYO2RYnu"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part17.rar",
+                        "direct_link": "https://vikingfile.com/f/lydjOagPub"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part18.rar",
-                        "direct_link": "https://vikingfile.com/f/PTS6gYqDR2"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part18.rar",
+                        "direct_link": "https://vikingfile.com/f/ItlZhrXaHs"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part19.rar",
-                        "direct_link": "https://vikingfile.com/f/s0zWDjvUA7"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part19.rar",
+                        "direct_link": "https://vikingfile.com/f/aUYLOkHVre"
                     },
                     {
-                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part20.rar",
-                        "direct_link": "https://vikingfile.com/f/nAbF2I5gqO"
+                        "file_name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part20.rar",
+                        "direct_link": "https://vikingfile.com/f/gW3K7e1rpd"
                     }
                 ]
             },
-            "unique_hash": "5b67e84c132814e5028ec400d969060092351d62",
-            "fileSize": "97.10 GB",
-            "magnet": "magnet:?xt=urn:btih:5b67e84c132814e5028ec400d969060092351d62&dn=Cricket%2026%20The%20Official%20Game%20of%20the%20Ashes&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
-            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_6/Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.torrent",
-            "created_at": "2026-06-02 09:20:57",
+            "unique_hash": "7a827478b735b9bc145206d5bc3ffdcc6cbe398d",
+            "fileSize": "97.96 GB",
+            "magnet": "magnet:?xt=urn:btih:7a827478b735b9bc145206d5bc3ffdcc6cbe398d&dn=Cricket%2026%20The%20Official%20Game%20of%20the%20Ashes&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_7/Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.torrent",
+            "created_at": "2026-07-09 12:09:20",
             "webdav_updated_at": "Unknown",
             "files": [
                 {
-                    "name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part01.rar",
+                    "name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part01.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part02.rar",
+                    "name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part02.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part03.rar",
+                    "name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part03.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part06.rar",
+                    "name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part04.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part07.rar",
+                    "name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part11.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part08.rar",
+                    "name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part12.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part09.rar",
+                    "name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part13.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part14.rar",
+                    "name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part14.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part15.rar",
+                    "name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part15.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part16.rar",
-                    "size": "5.00 GB"
-                },
-                {
-                    "name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part17.rar",
+                    "name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part16.rar",
                     "size": "5.00 GB"
                 },
                 {
                     "name": "Fix Repair/Cricket26TheOfficialGameOfTheAshes_Fix_Repair_Steam.rar",
-                    "size": "30.77 MB"
+                    "size": "29.54 MB"
                 },
                 {
-                    "name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part04.rar",
+                    "name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part05.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part05.rar",
+                    "name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part06.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part10.rar",
+                    "name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part07.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part11.rar",
+                    "name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part08.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part12.rar",
+                    "name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part09.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part13.rar",
+                    "name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part10.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part18.rar",
+                    "name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part17.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part19.rar",
+                    "name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part18.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3048-OFME.part20.rar",
-                    "size": "2.07 GB"
+                    "name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part19.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Cricket.26.The.Official.Game.of.the.Ashes.v1.0.3215-OFME.part20.rar",
+                    "size": "2.93 GB"
                 }
             ],
             "comment": ""
@@ -33238,10 +33238,10 @@
             "url": "https://online-fix.me/games/rpg/17783-elden-ring-nightreign-po-seti.html",
             "last_update": "2025-05-30T22:02:35+03:00",
             "release_date": "30.05.2025",
-            "update_info": "Обновлено Вчера, 16:26. Игра обновлена до версии 1.03.3. Модификация обновлена до версии 1.1.3.",
-            "update_date": null,
-            "formatted_update_date": null,
-            "scraped_at": "2026-07-08 16:16:26",
+            "update_info": "Обновлено 7 июля 2026, 16:26. Игра обновлена до версии 1.03.3. Модификация обновлена до версии 1.1.3.",
+            "update_date": "2026-07-07T16:26:00+03:00",
+            "formatted_update_date": "2026-07-07 16:26:00",
+            "scraped_at": "2026-07-09 16:29:58",
             "steam": {
                 "steam_appid": 2622380,
                 "match_score": 100,
@@ -33249,7 +33249,7 @@
                 "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2622380/header.jpg?t=1773099036",
                 "short_description": "ELDEN RING NIGHTREIGN é uma aventura independente localizada no universo de ELDEN RING, criada para oferecer uma nova experiência de jogo através da reformulação do design central do jogo.",
                 "short_description_native": "ELDEN RING NIGHTREIGN é uma aventura independente localizada no universo de ELDEN RING, criada para oferecer uma nova experiência de jogo através da reformulação do design central do jogo.",
-                "price_brl": "R$ 148,42",
+                "price_brl": "R$ 197,90",
                 "is_free": false,
                 "pc_requirements": {
                     "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10\n\nProcessador: Intel Core i5-10600 / AMD RYZEN 5 5500\n\nMemória: 12 GB de RAM\n\nPlaca gráfica: NVIDIA GeForce GTX 1060 3GB / AMD Radeon RX 580 4GB\n\nDirectX: Versão 12\n\nEspaço no disco: Requer 30 GB de espaço livre\n\nPlaca de som: Windows compatible audio device",
@@ -46965,10 +46965,10 @@
             "url": "https://online-fix.me/games/fighting/16648-guilty-gear-strive-po-seti.html",
             "last_update": "2023-05-23T14:41:57+03:00",
             "release_date": "07.03.2023",
-            "update_info": "Обновлено Вчера, 16:27. Игра обновлена до версии 1.3.5.0.",
-            "update_date": null,
-            "formatted_update_date": null,
-            "scraped_at": "2026-07-08 16:16:37",
+            "update_info": "Обновлено 7 июля 2026, 16:27. Игра обновлена до версии 1.3.5.0.",
+            "update_date": "2026-07-07T16:27:00+03:00",
+            "formatted_update_date": "2026-07-07 16:27:00",
+            "scraped_at": "2026-07-09 16:30:11",
             "steam": {
                 "steam_appid": 1384160,
                 "match_score": 100,
@@ -46976,7 +46976,7 @@
                 "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1384160/23a7b8f8c96b47ab7ef5f22f33b572a63aaf9fab/header.jpg?t=1782984163",
                 "short_description": "Os gráficos híbridos 2D/3D de última geração, pioneiros na série Guilty Gear, foram elevados ao próximo nível em “GUILTY GEAR -STRIVE-“. A nova direção artística e as animações aprimoradas dos personagens irão além de tudo que você já viu em um jogo de luta!",
                 "short_description_native": "The cutting-edge 2D/3D hybrid graphics pioneered in the Guilty Gear series have been raised to the next level in “GUILTY GEAR -STRIVE-“. The new artistic direction and improved character animations will go beyond anything you’ve seen before in a fighting game!",
-                "price_brl": "R$ 86,99",
+                "price_brl": "R$ 173,99",
                 "is_free": false,
                 "pc_requirements": {
                     "minimum": "Mínimos:\n\nSistema Operativo *: Windows 8/10 (64-bit OS required)\n\nProcessador: AMD FX-4350, 4.2 GHz / Intel Core i5-3450, 3.10 GHz\n\nMemória: 4 GB de RAM\n\nPlaca gráfica: Radeon HD 6870, 1 GB / GeForce GTX 650 Ti, 1 GB\n\nDirectX: Versão 11\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 26 GB de espaço livre\n\nPlaca de som: DirectX compatible soundcard or onboard chipset",
@@ -56626,10 +56626,10 @@
             "url": "https://online-fix.me/games/simulator/17616-house-flipper-2-po-seti.html",
             "last_update": "2024-10-24T17:25:53+03:00",
             "release_date": "14.12.2023",
-            "update_info": "Обновлено Сегодня, 14:15. Игра обновлена до версии Build 02072026. Добавлен Steam-Fix V3.",
+            "update_info": "Обновлено Вчера, 14:15. Игра обновлена до версии Build 02072026. Добавлен Steam-Fix V3.",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-07-08 16:16:28",
+            "scraped_at": "2026-07-09 16:30:01",
             "steam": {
                 "steam_appid": 1190970,
                 "match_score": 100,
@@ -56637,7 +56637,7 @@
                 "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1190970/a8c4bf872d073e27e96c2179e19a5cd9971bfd2e/header.jpg?t=1782758014",
                 "short_description": "Livra-te das preocupações com este simulador de renovação! Compra, arranja, vende e torna-te uma lenda local. Ou pega nas tuas ferramentas elétricas e cria tudo do zero! Graças ao modo cooperativo on-line, podes jogar com 4 amigos tanto no modo seguro como no modo de história.",
                 "short_description_native": "Livra-te das preocupações com este simulador de renovação! Compra, arranja, vende e torna-te uma lenda local. Ou pega nas tuas ferramentas elétricas e cria tudo do zero! Graças ao modo cooperativo on-line, podes jogar com 4 amigos tanto no modo seguro como no modo de história.",
-                "price_brl": "R$ 70,19",
+                "price_brl": "R$ 107,99",
                 "is_free": false,
                 "pc_requirements": {
                     "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10 64bit\n\nProcessador: AMD Ryzen 5 1st gen / Intel Core i5 7th gen\n\nMemória: 8 GB de RAM\n\nPlaca gráfica: AMD Radeon RX 580 4GB / NVIDIA GeForce GTX 1060 6GB\n\nDirectX: Versão 11\n\nEspaço no disco: Requer 10 GB de espaço livre",
@@ -65529,10 +65529,10 @@
             "url": "https://online-fix.me/games/adventures/18151-lies-of-p-po-seti.html",
             "last_update": "2026-07-07T16:32:51+03:00",
             "release_date": "18.09.2023",
-            "update_info": "Обновлено Сегодня, 14:17. Добавлен Steam-Fix V2. Исправлена проблема при запуске на некоторых системах.",
+            "update_info": "Обновлено Вчера, 14:17. Добавлен Steam-Fix V2. Исправлена проблема при запуске на некоторых системах.",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-07-08 16:16:17",
+            "scraped_at": "2026-07-09 16:29:51",
             "steam": {
                 "steam_appid": 1627720,
                 "match_score": 100,
@@ -65540,7 +65540,7 @@
                 "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1627720/header.jpg?t=1764565054",
                 "short_description": "Lies of P é um filme emocionante que pega a história de Pinóquio, vira-a de cabeça para baixo e coloca-a no cenário sombrio e elegante da era da Belle Époque.",
                 "short_description_native": "Lies of P is a thrilling soulslike that takes the story of Pinocchio, turns it on its head, and sets it against the darkly elegant backdrop of the Belle Epoque era.",
-                "price_brl": "R$ 124,95",
+                "price_brl": "R$ 249,90",
                 "is_free": false,
                 "pc_requirements": {
                     "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10 64bit\n\nProcessador: AMD Ryzen 3 1200／Intel Core i3-6300\n\nMemória: 8 GB de RAM\n\nPlaca gráfica: AMD Radeon RX 560 4GB / NVIDIA GeForce GTX 960 4GB\n\nDirectX: Versão 12\n\nEspaço no disco: Requer 50 GB de espaço livre",
@@ -83545,10 +83545,10 @@
             "url": "https://online-fix.me/games/adventures/16610-overcooked-all-you-can-eat-po-seti.html",
             "last_update": "2021-03-24T12:27:57+03:00",
             "release_date": "23.03.2021",
-            "update_info": "Обновлено Вчера, 16:27. Игра обновлена до версии 1277.",
-            "update_date": null,
-            "formatted_update_date": null,
-            "scraped_at": "2026-07-08 16:17:52",
+            "update_info": "Обновлено 7 июля 2026, 16:27. Игра обновлена до версии 1277.",
+            "update_date": "2026-07-07T16:27:00+03:00",
+            "formatted_update_date": "2026-07-07 16:27:00",
+            "scraped_at": "2026-07-09 16:31:29",
             "steam": {
                 "steam_appid": 1243830,
                 "match_score": 100,
@@ -83556,7 +83556,7 @@
                 "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1243830/header.jpg?t=1780480509",
                 "short_description": "Aproveita tudo o que o reino das cebolas tem para oferecer! Overcooked! 1 e Overcooked! 2, agora em delicioso 4K e nuns fluidos 60 fps, acabaram de sair do forno totalmente remasterizados. Desfruta dos mais de 200 níveis (22 novos) e dos mais de 80 chefs (3 novos) — este é o derradeiro Overcooked!",
                 "short_description_native": "Aproveita tudo o que o reino das cebolas tem para oferecer! Overcooked! 1 e Overcooked! 2, agora em delicioso 4K e nuns fluidos 60 fps, acabaram de sair do forno totalmente remasterizados. Desfruta dos mais de 200 níveis (22 novos) e dos mais de 80 chefs (3 novos) — este é o derradeiro Overcooked!",
-                "price_brl": "R$ 64,47",
+                "price_brl": "R$ 214,90",
                 "is_free": false,
                 "pc_requirements": {
                     "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: WIN7-64 bit\n\nProcessador: Intel Core 2 Quad Q6600 or AMD Phenom II X3 720\n\nMemória: 4 GB de RAM\n\nPlaca gráfica: NVIDIA GeForce GTS 450, 1 GB / AMD Radeon HD 5750, 1 GB\n\nDirectX: Versão 11\n\nEspaço no disco: Requer 8 GB de espaço livre",
@@ -98732,18 +98732,18 @@
             "url": "https://online-fix.me/games/officialservers/17748-runescape-dragonwilds-po-seti.html",
             "last_update": "2025-04-16T01:43:18+03:00",
             "release_date": "15.04.2025",
-            "update_info": "Обновлено Сегодня, 14:16. Игра обновлена до версии 0.12.0.8.",
+            "update_info": "Обновлено Вчера, 14:16. Игра обновлена до версии 0.12.0.8.",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-07-08 16:16:26",
+            "scraped_at": "2026-07-09 16:30:00",
             "steam": {
                 "steam_appid": 1374490,
                 "match_score": 100,
                 "match_via": "canon",
-                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/b6f9281032fa5b46f654e22fcc16566e434d7e00/header_alt_assets_2.jpg?t=1783424384",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/6f6bba2ddccb49f3a0abb831684ca085e453c721/header_alt_assets_3.jpg?t=1783424384",
                 "short_description": "No continente esquecido de Ashenfall, no RuneScape, os dragões acordaram. Reúna, construa, aprimore e crie nesta aventura cooperativa de sobrevivência. Somente dominando a sobrevivência e descobrindo segredos antigos você poderá enfrentar a feroz Rainha Dragão.",
                 "short_description_native": "On RuneScape's forgotten continent of Ashenfall, dragons have awoken. Gather, build, skill and craft in this co-operative survival adventure. Only by mastering survival and uncovering ancient secrets can you hope to face the ferocious Dragon Queen.",
-                "price_brl": "R$ 80,49",
+                "price_brl": "R$ 114,99",
                 "is_free": false,
                 "pc_requirements": {
                     "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10\n\nProcessador: Intel Core i3-8100 or AMD Ryzen 5 1600\n\nMemória: 8 GB de RAM\n\nPlaca gráfica: NVIDIA GeForce GTX 1060, 6GB, AMD Radeon RX 5600XT or Intel Arc A750, 8GB\n\nDirectX: Versão 12\n\nEspaço no disco: Requer 25 GB de espaço livre",
@@ -102457,6 +102457,145 @@
                 {
                     "name": "Scam.Line.Build.23042026-OFME.rar",
                     "size": "133.62 MB"
+                }
+            ],
+            "comment": ""
+        },
+        {
+            "title": "Scamper",
+            "page": 1,
+            "url": "https://online-fix.me/games/officialservers/18156-scamper-po-seti.html",
+            "last_update": "2026-07-09T18:17:21+03:00",
+            "release_date": "28.07.2023",
+            "update_info": "",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-07-09 16:29:52",
+            "steam": {
+                "steam_appid": 2481930,
+                "match_score": 100,
+                "match_via": "canon",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2481930/73a7159a1472f2e6a27dbc826fc877ed524ec578/header.jpg?t=1746296371",
+                "short_description": "Você é um rato. Sua resposta ao medo será testada.",
+                "short_description_native": "You are a rat. Your fear response will be tested.",
+                "price_brl": "R$ 32,99",
+                "is_free": false,
+                "pc_requirements": {
+                    "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10\n\nProcessador: Intel Core i5-4590 / AMD FX 8350\n\nMemória: 4 GB de RAM\n\nPlaca gráfica: NVIDIA GTX 970 / AMD Radeon R9 290\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 3 GB de espaço livre\n\nCompatibilidade com R.V.: OpenXR, requires motion controllers",
+                    "recommended": "Recomendados:\n\nRequer um sistema operativo e processador de 64 bits\n\nCompatibilidade com R.V.: OpenXR, requires motion controllers"
+                },
+                "controller_support": null,
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Um jogador"
+                    },
+                    {
+                        "id": 1,
+                        "description": "Multijogador"
+                    },
+                    {
+                        "id": 9,
+                        "description": "Co-op"
+                    },
+                    {
+                        "id": 38,
+                        "description": "Co-op online"
+                    },
+                    {
+                        "id": 27,
+                        "description": "Multijogador interplataformas"
+                    },
+                    {
+                        "id": 52,
+                        "description": "Compat. comandos deteção"
+                    },
+                    {
+                        "id": 54,
+                        "description": "Só em R.V."
+                    },
+                    {
+                        "id": 62,
+                        "description": "Partilha de Biblioteca"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "1",
+                        "description": "Ação"
+                    },
+                    {
+                        "id": "23",
+                        "description": "Indie"
+                    }
+                ]
+            },
+            "hoster_links": {
+                "FileDitch": [
+                    {
+                        "file_name": "Scamper_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha13/17b367773eeff6da105f/Scamper_Fix_Repair_Steam_Generic.rar"
+                    },
+                    {
+                        "file_name": "Scamper.Build.19112025-OFME.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha13/91727e5eed8377cd78a8/Scamper.Build.19112025-OFME.rar"
+                    }
+                ],
+                "Rootz": [
+                    {
+                        "file_name": "Scamper_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://rootz.so/d/iSYq0"
+                    },
+                    {
+                        "file_name": "Scamper.Build.19112025-OFME.rar",
+                        "direct_link": "https://rootz.so/d/1CoQAS"
+                    }
+                ],
+                "Pixeldrain": [
+                    {
+                        "file_name": "Scamper_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://pixeldrain.com/u/Fj1fon7i"
+                    },
+                    {
+                        "file_name": "Scamper.Build.19112025-OFME.rar",
+                        "direct_link": "https://pixeldrain.com/u/WS6L5PEe"
+                    }
+                ],
+                "Gofile": [
+                    {
+                        "file_name": "Scamper_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://gofile.io/d/oZLLBN"
+                    },
+                    {
+                        "file_name": "Scamper.Build.19112025-OFME.rar",
+                        "direct_link": "https://gofile.io/d/eoMXAi"
+                    }
+                ],
+                "VikingFile": [
+                    {
+                        "file_name": "Scamper_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://vikingfile.com/f/vfJTNnBrkl"
+                    },
+                    {
+                        "file_name": "Scamper.Build.19112025-OFME.rar",
+                        "direct_link": "https://vikingfile.com/f/DsCrNCQRol"
+                    }
+                ]
+            },
+            "unique_hash": "036383b0fc17581da6accd3a5d059edd32aaac58",
+            "fileSize": "2.32 GB",
+            "magnet": "magnet:?xt=urn:btih:036383b0fc17581da6accd3a5d059edd32aaac58&dn=Scamper&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_1/Scamper.Build.19112025-OFME.torrent",
+            "created_at": "2026-07-09 12:30:27",
+            "webdav_updated_at": "Unknown",
+            "files": [
+                {
+                    "name": "Fix Repair/Scamper_Fix_Repair_Steam_Generic.rar",
+                    "size": "16.78 MB"
+                },
+                {
+                    "name": "Scamper.Build.19112025-OFME.rar",
+                    "size": "2.31 GB"
                 }
             ],
             "comment": ""
@@ -131745,14 +131884,14 @@
         },
         {
             "title": "Warhammer 40 000 Rogue Trader",
-            "page": 35,
+            "page": 36,
             "url": "https://online-fix.me/games/rpg/17408-warhammer-40-000-rogue-trader-po-seti.html",
             "last_update": "2023-12-09T03:52:16+03:00",
             "release_date": "07.12.2023",
-            "update_info": "Обновлено Вчера, 16:28. Игра обновлена до версии 1.6.1.495.",
-            "update_date": null,
-            "formatted_update_date": null,
-            "scraped_at": "2026-07-08 16:16:33",
+            "update_info": "Обновлено 7 июля 2026, 16:28. Игра обновлена до версии 1.6.1.495.",
+            "update_date": "2026-07-07T16:28:00+03:00",
+            "formatted_update_date": "2026-07-07 16:28:00",
+            "scraped_at": "2026-07-09 16:30:08",
             "steam": {
                 "steam_appid": 2186680,
                 "match_score": 100,
@@ -132063,7 +132202,7 @@
             "unique_hash": "0b37c28ba2164245a342b911bbe9d58d89ec8d23",
             "fileSize": "36.33 GB",
             "magnet": "magnet:?xt=urn:btih:0b37c28ba2164245a342b911bbe9d58d89ec8d23&dn=Warhammer%2040%20000%20Rogue%20Trader&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
-            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_35/Warhammer.40%2C000.Rogue.Trader.v1.6.1.495-OFME.torrent",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_36/Warhammer.40%2C000.Rogue.Trader.v1.6.1.495-OFME.torrent",
             "created_at": "2026-07-07 10:45:49",
             "webdav_updated_at": "Unknown",
             "files": [

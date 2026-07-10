@@ -693,15 +693,15 @@
             "url": "https://online-fix.me/games/officialservers/16429-7-days-to-die-po-seti.html",
             "last_update": "2020-07-25T19:32:51+03:00",
             "release_date": "25.07.2024",
-            "update_info": "Обновлено Вчера, 14:15. Игра обновлена до версии 3.0.0.B259.",
-            "update_date": null,
-            "formatted_update_date": null,
-            "scraped_at": "2026-07-09 16:31:34",
+            "update_info": "Обновлено 8 июля 2026, 14:15. Игра обновлена до версии 3.0.0.B259.",
+            "update_date": "2026-07-08T14:15:00+03:00",
+            "formatted_update_date": "2026-07-08 14:15:00",
+            "scraped_at": "2026-07-10 16:22:43",
             "steam": {
                 "steam_appid": 251570,
                 "match_score": 100,
                 "match_via": "canon",
-                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251570/header.jpg?t=1783624206",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251570/header.jpg?t=1783709369",
                 "short_description": "7 Days to Die é um jogo de mundo aberto que é uma combinação única de tiro em primeira pessoa, terror de sobrevivência, defesa de torre e jogos de RPG. Jogue o RPG sandbox definitivo de sobrevivência de zumbis que veio primeiro. Navezgane espera!",
                 "short_description_native": "7 Days to Die is an open-world game that is a unique combination of first-person shooter, survival horror, tower defense, and role-playing games. Play the definitive zombie survival sandbox RPG that came first. Navezgane awaits!",
                 "price_brl": "R$ 121,99",
@@ -754,7 +754,7 @@
                     },
                     {
                         "id": 28,
-                        "description": "Compat. total c/ comando"
+                        "description": "Compatibilidade total com comando"
                     },
                     {
                         "id": 29,
@@ -762,19 +762,19 @@
                     },
                     {
                         "id": 55,
-                        "description": "Compat. com DUALSHOCK"
+                        "description": "Compatibilidade com DUALSHOCK"
                     },
                     {
                         "id": 56,
-                        "description": "Compat. com DUALSHOCK"
+                        "description": "Compatibilidade com DUALSHOCK"
                     },
                     {
                         "id": 57,
-                        "description": "Compat. com DualSense"
+                        "description": "Compatibilidade com DualSense"
                     },
                     {
                         "id": 58,
-                        "description": "Compat. com DualSense"
+                        "description": "Compatibilidade com DualSense"
                     },
                     {
                         "id": 17,
@@ -21009,10 +21009,10 @@
             "url": "https://online-fix.me/games/officialservers/18021-cricket-26-the-official-game-of-the-ashes-po-seti.html",
             "last_update": "2026-03-03T20:31:29+03:00",
             "release_date": "19.11.2025",
-            "update_info": "Обновлено Сегодня, 18:16. Игра обновлена до версии 1.0.3215. Обновлён фикс.",
+            "update_info": "Обновлено Вчера, 18:16. Игра обновлена до версии 1.0.3215. Обновлён фикс.",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-07-09 16:29:53",
+            "scraped_at": "2026-07-10 16:21:08",
             "steam": {
                 "steam_appid": 3468650,
                 "match_score": 100,
@@ -21058,7 +21058,7 @@
                     },
                     {
                         "id": 39,
-                        "description": "Co-op, ecrã partilh./dividido"
+                        "description": "Co-op, ecrã partilhado/dividido"
                     },
                     {
                         "id": 24,
@@ -21082,7 +21082,7 @@
                     },
                     {
                         "id": 18,
-                        "description": "Compat. parcial c/ comando"
+                        "description": "Compatibilidade parcial com comando"
                     },
                     {
                         "id": 23,
@@ -56626,10 +56626,10 @@
             "url": "https://online-fix.me/games/simulator/17616-house-flipper-2-po-seti.html",
             "last_update": "2024-10-24T17:25:53+03:00",
             "release_date": "14.12.2023",
-            "update_info": "Обновлено Вчера, 14:15. Игра обновлена до версии Build 02072026. Добавлен Steam-Fix V3.",
-            "update_date": null,
-            "formatted_update_date": null,
-            "scraped_at": "2026-07-09 16:30:01",
+            "update_info": "Обновлено 8 июля 2026, 14:15. Игра обновлена до версии Build 02072026. Добавлен Steam-Fix V3.",
+            "update_date": "2026-07-08T14:15:00+03:00",
+            "formatted_update_date": "2026-07-08 14:15:00",
+            "scraped_at": "2026-07-10 16:21:15",
             "steam": {
                 "steam_appid": 1190970,
                 "match_score": 100,
@@ -56675,7 +56675,7 @@
                     },
                     {
                         "id": 28,
-                        "description": "Compat. total c/ comando"
+                        "description": "Compatibilidade total com comando"
                     },
                     {
                         "id": 29,
@@ -56691,19 +56691,19 @@
                     },
                     {
                         "id": 55,
-                        "description": "Compat. com DUALSHOCK"
+                        "description": "Compatibilidade com DUALSHOCK"
                     },
                     {
                         "id": 56,
-                        "description": "Compat. com DUALSHOCK"
+                        "description": "Compatibilidade com DUALSHOCK"
                     },
                     {
                         "id": 57,
-                        "description": "Compat. com DualSense"
+                        "description": "Compatibilidade com DualSense"
                     },
                     {
                         "id": 58,
-                        "description": "Compat. com DualSense"
+                        "description": "Compatibilidade com DualSense"
                     },
                     {
                         "id": 79,
@@ -65529,10 +65529,10 @@
             "url": "https://online-fix.me/games/adventures/18151-lies-of-p-po-seti.html",
             "last_update": "2026-07-07T16:32:51+03:00",
             "release_date": "18.09.2023",
-            "update_info": "Обновлено Вчера, 14:17. Добавлен Steam-Fix V2. Исправлена проблема при запуске на некоторых системах.",
-            "update_date": null,
-            "formatted_update_date": null,
-            "scraped_at": "2026-07-09 16:29:51",
+            "update_info": "Обновлено 8 июля 2026, 14:17. Добавлен Steam-Fix V2. Исправлена проблема при запуске на некоторых системах.",
+            "update_date": "2026-07-08T14:17:00+03:00",
+            "formatted_update_date": "2026-07-08 14:17:00",
+            "scraped_at": "2026-07-10 16:21:07",
             "steam": {
                 "steam_appid": 1627720,
                 "match_score": 100,
@@ -65558,7 +65558,7 @@
                     },
                     {
                         "id": 28,
-                        "description": "Compat. total c/ comando"
+                        "description": "Compatibilidade total com comando"
                     },
                     {
                         "id": 67,
@@ -65582,19 +65582,19 @@
                     },
                     {
                         "id": 55,
-                        "description": "Compat. com DUALSHOCK"
+                        "description": "Compatibilidade com DUALSHOCK"
                     },
                     {
                         "id": 56,
-                        "description": "Compat. com DUALSHOCK"
+                        "description": "Compatibilidade com DUALSHOCK"
                     },
                     {
                         "id": 57,
-                        "description": "Compat. com DualSense"
+                        "description": "Compatibilidade com DualSense"
                     },
                     {
                         "id": 58,
-                        "description": "Compat. com DualSense"
+                        "description": "Compatibilidade com DualSense"
                     },
                     {
                         "id": 79,
@@ -98732,10 +98732,10 @@
             "url": "https://online-fix.me/games/officialservers/17748-runescape-dragonwilds-po-seti.html",
             "last_update": "2025-04-16T01:43:18+03:00",
             "release_date": "15.04.2025",
-            "update_info": "Обновлено Вчера, 14:16. Игра обновлена до версии 0.12.0.8.",
-            "update_date": null,
-            "formatted_update_date": null,
-            "scraped_at": "2026-07-09 16:30:00",
+            "update_info": "Обновлено 8 июля 2026, 14:16. Игра обновлена до версии 0.12.0.8.",
+            "update_date": "2026-07-08T14:16:00+03:00",
+            "formatted_update_date": "2026-07-08 14:16:00",
+            "scraped_at": "2026-07-10 16:21:15",
             "steam": {
                 "steam_appid": 1374490,
                 "match_score": 100,
@@ -98785,7 +98785,7 @@
                     },
                     {
                         "id": 18,
-                        "description": "Compat. parcial c/ comando"
+                        "description": "Compatibilidade parcial com comando"
                     },
                     {
                         "id": 23,

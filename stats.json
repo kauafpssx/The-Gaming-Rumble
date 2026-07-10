@@ -12,31 +12,24 @@
   "pages_scraped_target": 93,
   "pages_present_in_json": 91,
   "last_page_in_json": 91,
-  "new_games_found_this_run": 155,
-  "new_games_added_to_json_this_run": 1,
-  "latest_run_new_game_names": [
-    "Scamper"
-  ],
-  "updated_games_this_run": 10,
+  "new_games_found_this_run": 149,
+  "new_games_added_to_json_this_run": 0,
+  "latest_run_new_game_names": [],
+  "updated_games_this_run": 5,
   "latest_run_updated_game_names": [
     "Lies of P",
     "Cricket 26 The Official Game of the Ashes",
-    "ELDEN RING NIGHTREIGN",
-    "RuneScape Dragonwilds",
     "House Flipper 2",
-    "Warhammer 40 000 Rogue Trader",
-    "GUILTY GEAR STRIVE",
-    "Overcooked! All You Can Eat",
-    "7 Days To Die",
-    "Barotrauma"
+    "RuneScape Dragonwilds",
+    "7 Days To Die"
   ],
-  "processed_games_this_run": 11,
+  "processed_games_this_run": 5,
   "torrent_files_total": 1871,
   "json_entries_with_torrent": 1777,
   "games_with_providers": 807,
-  "last_scrape_at": "2026-07-09 16:31:40",
-  "last_scrape_at_display": "09/07/2026",
+  "last_scrape_at": "2026-07-10 16:22:43",
+  "last_scrape_at_display": "10/07/2026",
   "last_game_update": "2026-07-09T18:17:21+03:00",
-  "generated_at": "2026-07-09 16:31:46",
-  "generated_at_display": "09/07/2026"
+  "generated_at": "2026-07-10 16:22:54",
+  "generated_at_display": "10/07/2026"
 }

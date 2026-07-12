@@ -12,20 +12,18 @@
   "pages_scraped_target": 93,
   "pages_present_in_json": 91,
   "last_page_in_json": 91,
-  "new_games_found_this_run": 145,
+  "new_games_found_this_run": 144,
   "new_games_added_to_json_this_run": 0,
   "latest_run_new_game_names": [],
-  "updated_games_this_run": 1,
-  "latest_run_updated_game_names": [
-    "Cricket 26 The Official Game of the Ashes"
-  ],
-  "processed_games_this_run": 1,
+  "updated_games_this_run": 0,
+  "latest_run_updated_game_names": [],
+  "processed_games_this_run": 0,
   "torrent_files_total": 1871,
   "json_entries_with_torrent": 1777,
   "games_with_providers": 807,
   "last_scrape_at": "2026-07-11 15:53:43",
   "last_scrape_at_display": "11/07/2026",
   "last_game_update": "2026-07-09T18:17:21+03:00",
-  "generated_at": "2026-07-11 15:55:29",
-  "generated_at_display": "11/07/2026"
+  "generated_at": "2026-07-12 15:59:57",
+  "generated_at_display": "12/07/2026"
 }

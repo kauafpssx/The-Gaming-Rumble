@@ -1,5 +1,5 @@
 {
-    "total": 1777,
+    "total": 1783,
     "downloads": [
         {
             "title": "10 Miles to Safety",
@@ -16922,6 +16922,102 @@
                 {
                     "name": "Fix Repair/CS_Fix_Repair_Steam_Generic.rar",
                     "size": "4.16 MB"
+                }
+            ],
+            "comment": ""
+        },
+        {
+            "title": "Cat Mail Co.",
+            "page": 1,
+            "url": "https://online-fix.me/games/simulator/18162-cat-mail-co-po-seti.html",
+            "last_update": "2026-07-13T17:08:59+03:00",
+            "release_date": "09.07.2026",
+            "update_info": "",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-07-13 16:18:18",
+            "steam": {
+                "steam_appid": 4380490,
+                "match_score": 100,
+                "match_via": "canon",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4380490/9c206d8a7c8a6133230628b6326f4f08a683b40e/header.jpg?t=1783683473",
+                "short_description": "Administre uma aconchegante agência de correios para gatos. Separe e entregue as encomendas do barco diário, organizando tudo do seu jeito. À noite, a lua revela verdades ocultas sobre os pacotes. Limpe um acúmulo estranho, ajude os habitantes locais e desbloqueie novas habilidades e destinos.",
+                "short_description_native": "Run a cozy cat post office. Sort and deliver parcels from the daily boat, organizing everything your way. At night, the moon reveals hidden truths about packages. Clear a strange backlog, help locals, and unlock new abilities and destinations.",
+                "price_brl": "R$ 45,46",
+                "is_free": false,
+                "pc_requirements": {
+                    "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10 or Windows 11\n\nProcessador: Intel Core i5-3330 3.0 GHz, AMD FX-8300 3.3 GHz\n\nMemória: 8 GB de RAM\n\nPlaca gráfica: NVIDIA GeForce GTX 950 or Radeon HD 7970\n\nEspaço no disco: Requer 4 GB de espaço livre",
+                    "recommended": "Recomendados:\n\nRequer um sistema operativo e processador de 64 bits"
+                },
+                "controller_support": null,
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Um jogador"
+                    },
+                    {
+                        "id": 1,
+                        "description": "Multijogador"
+                    },
+                    {
+                        "id": 9,
+                        "description": "Co-op"
+                    },
+                    {
+                        "id": 38,
+                        "description": "Co-op online"
+                    },
+                    {
+                        "id": 22,
+                        "description": "Proezas Steam"
+                    },
+                    {
+                        "id": 68,
+                        "description": "Controlos de volume independentes"
+                    },
+                    {
+                        "id": 78,
+                        "description": "Dificuldade ajustável"
+                    },
+                    {
+                        "id": 74,
+                        "description": "Jogável sem necessitar de ações rápidas ou precisas"
+                    },
+                    {
+                        "id": 23,
+                        "description": "Steam Cloud"
+                    },
+                    {
+                        "id": 62,
+                        "description": "Partilha de Biblioteca"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "23",
+                        "description": "Indie"
+                    },
+                    {
+                        "id": "28",
+                        "description": "Simulação"
+                    }
+                ]
+            },
+            "hoster_links": null,
+            "unique_hash": "e01cb3141a247e63e805a7714fcdedfd8ed33943",
+            "fileSize": "289.35 MB",
+            "magnet": "magnet:?xt=urn:btih:e01cb3141a247e63e805a7714fcdedfd8ed33943&dn=Cat%20Mail%20Co&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_1/Cat.Mail.Co.Build.10072026-OFME.torrent",
+            "created_at": "2026-07-13 10:38:55",
+            "webdav_updated_at": "Unknown",
+            "files": [
+                {
+                    "name": "Cat.Mail.Co.Build.10072026-OFME.rar",
+                    "size": "278.26 MB"
+                },
+                {
+                    "name": "Fix Repair/CatMailCo_Fix_Repair_Steam_Generic.rar",
+                    "size": "11.09 MB"
                 }
             ],
             "comment": ""
@@ -42344,6 +42440,155 @@
                 {
                     "name": "Folklore.Hunter.v1.0.4-OFME.part2.rar",
                     "size": "1.78 GB"
+                }
+            ],
+            "comment": ""
+        },
+        {
+            "title": "Football Pitch Simulator",
+            "page": 1,
+            "url": "https://online-fix.me/games/simulator/18160-football-pitch-simulator-online.html",
+            "last_update": "2026-07-13T17:08:52+03:00",
+            "release_date": null,
+            "update_info": "",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-07-13 16:18:18",
+            "steam": {
+                "steam_appid": 3154800,
+                "match_score": 100,
+                "match_via": "canon",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3154800/deec16b0927a500a25459da720be8d40f8687f00/header.jpg?t=1771019395",
+                "short_description": "Crie o seu próprio complexo de futebol. Faça reparações, expanda as suas instalações e conquiste o interesse dos adeptos de futebol.",
+                "short_description_native": "Crie o seu próprio complexo de futebol. Faça reparações, expanda as suas instalações e conquiste o interesse dos adeptos de futebol.",
+                "price_brl": "R$ 32,99",
+                "is_free": false,
+                "pc_requirements": {
+                    "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows (64-bit) 10\n\nProcessador: Intel Core i5-2500 @ 3,3 GHz (4 CPUs)\n\nMemória: 8 GB de RAM\n\nPlaca gráfica: NVidia GeForce GTX 1050\n\nDirectX: Versão 11\n\nEspaço no disco: Requer 10 GB de espaço livre",
+                    "recommended": "Recomendados:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows (64-bit) 11\n\nProcessador: Intel Core i5-6500 @ 3,2 GHz (4 CPUs)\n\nMemória: 16 GB de RAM\n\nPlaca gráfica: NVidia GeForce GTX 1060\n\nDirectX: Versão 11\n\nEspaço no disco: Requer 10 GB de espaço livre"
+                },
+                "controller_support": null,
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Um jogador"
+                    },
+                    {
+                        "id": 1,
+                        "description": "Multijogador"
+                    },
+                    {
+                        "id": 9,
+                        "description": "Co-op"
+                    },
+                    {
+                        "id": 38,
+                        "description": "Co-op online"
+                    },
+                    {
+                        "id": 22,
+                        "description": "Proezas Steam"
+                    },
+                    {
+                        "id": 67,
+                        "description": "Conforto de câmara"
+                    },
+                    {
+                        "id": 68,
+                        "description": "Controlos de volume independentes"
+                    },
+                    {
+                        "id": 74,
+                        "description": "Jogável sem necessitar de ações rápidas ou precisas"
+                    },
+                    {
+                        "id": 23,
+                        "description": "Steam Cloud"
+                    },
+                    {
+                        "id": 62,
+                        "description": "Partilha de Biblioteca"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "4",
+                        "description": "Casual"
+                    },
+                    {
+                        "id": "23",
+                        "description": "Indie"
+                    },
+                    {
+                        "id": "28",
+                        "description": "Simulação"
+                    },
+                    {
+                        "id": "18",
+                        "description": "Desporto"
+                    },
+                    {
+                        "id": "70",
+                        "description": "Acesso Antecipado"
+                    }
+                ]
+            },
+            "hoster_links": {
+                "FileDitch": [
+                    {
+                        "file_name": "FootballPitchSimulator_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha15/60ce0f84fc078044c277/FootballPitchSimulator_Fix_Repair_Steam_Generic.rar"
+                    },
+                    {
+                        "file_name": "Football.Pitch.Simulator.Build.13022026-OFME.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha15/6e58257e4388b873b4ee/Football.Pitch.Simulator.Build.13022026-OFME.rar"
+                    }
+                ],
+                "Pixeldrain": [
+                    {
+                        "file_name": "FootballPitchSimulator_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://pixeldrain.com/u/ft6Q6bNq"
+                    },
+                    {
+                        "file_name": "Football.Pitch.Simulator.Build.13022026-OFME.rar",
+                        "direct_link": "https://pixeldrain.com/u/2mEVXvUi"
+                    }
+                ],
+                "Gofile": [
+                    {
+                        "file_name": "FootballPitchSimulator_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://gofile.io/d/2A1gkq"
+                    },
+                    {
+                        "file_name": "Football.Pitch.Simulator.Build.13022026-OFME.rar",
+                        "direct_link": "https://gofile.io/d/qSlXmz"
+                    }
+                ],
+                "VikingFile": [
+                    {
+                        "file_name": "FootballPitchSimulator_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://vikingfile.com/f/qP6gVD2yWW"
+                    },
+                    {
+                        "file_name": "Football.Pitch.Simulator.Build.13022026-OFME.rar",
+                        "direct_link": "https://vikingfile.com/f/lbyK2fhiJ5"
+                    }
+                ]
+            },
+            "unique_hash": "741598d766cfbd02817cd023d3144d7dd40a88fb",
+            "fileSize": "2.47 GB",
+            "magnet": "magnet:?xt=urn:btih:741598d766cfbd02817cd023d3144d7dd40a88fb&dn=Football%20Pitch%20Simulator&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_1/Football.Pitch.Simulator.Build.13022026-OFME.torrent",
+            "created_at": "2026-07-13 10:37:51",
+            "webdav_updated_at": "Unknown",
+            "files": [
+                {
+                    "name": "Fix Repair/FootballPitchSimulator_Fix_Repair_Steam_Generic.rar",
+                    "size": "11.09 MB"
+                },
+                {
+                    "name": "Football.Pitch.Simulator.Build.13022026-OFME.rar",
+                    "size": "2.46 GB"
                 }
             ],
             "comment": ""
@@ -83875,19 +84120,19 @@
         },
         {
             "title": "Oxygen Not Included",
-            "page": 32,
-            "url": "https://online-fix.me/games/strategy/17411-oxygen-not-included-po-seti.html",
+            "page": 36,
+            "url": "https://online-fix.me/games/survival/17411-oxygen-not-included-po-seti.html",
             "last_update": "2023-12-15T22:38:39+03:00",
             "release_date": "30.07.2019",
-            "update_info": "",
+            "update_info": "Обновлено Сегодня, 17:02. Игра обновлена до версии Build 07072026. Обновлён мод.",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-05-11 19:56:36",
+            "scraped_at": "2026-07-13 16:18:34",
             "steam": {
                 "steam_appid": 457140,
                 "match_score": 100,
                 "match_via": "canon",
-                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/457140/header.jpg?t=1777920664",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/457140/header.jpg?t=1783532487",
                 "short_description": "Oxygen Not Included é um jogo de simulação de colônia espacial. Nas profundezas de uma rocha espacial alienígena, sua diligente tripulação precisará dominar a ciência, superar novas formas de vida estranhas e aproveitar a incrível tecnologia espacial para sobreviver e, possivelmente, prosperar.",
                 "short_description_native": "Oxygen Not Included is a space-colony simulation game. Deep inside an alien space rock your industrious crew will need to master science, overcome strange new lifeforms, and harness incredible space tech to survive, and possibly, thrive.",
                 "price_brl": "R$ 45,99",
@@ -83896,23 +84141,88 @@
                     "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10 version 21H1 or later\n\nProcessador: Dual Core 2 GHz\n\nMemória: 8 GB de RAM\n\nPlaca gráfica: Intel HD 4600 (AMD or NVIDIA equivalent)\n\nDirectX: Versão 11\n\nEspaço no disco: Requer 3 GB de espaço livre",
                     "recommended": "Recomendados:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 11\n\nProcessador: Intel Core i7-8700K or equivalent\n\nMemória: 16 GB de RAM\n\nPlaca gráfica: Dedicated graphic card with 2GB VRAM\n\nDirectX: Versão 11\n\nEspaço no disco: Requer 3 GB de espaço livre"
                 },
-                "controller_support": null
+                "controller_support": null,
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Um jogador"
+                    },
+                    {
+                        "id": 29,
+                        "description": "Cartas Colecionáveis Steam"
+                    },
+                    {
+                        "id": 62,
+                        "description": "Partilha de Biblioteca"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "23",
+                        "description": "Indie"
+                    },
+                    {
+                        "id": "28",
+                        "description": "Simulação"
+                    }
+                ]
             },
-            "hoster_links": null,
-            "unique_hash": "aa113efa46799215834b727f3081c1565603d6ef",
-            "fileSize": "1.14 GB",
-            "magnet": "magnet:?xt=urn:btih:aa113efa46799215834b727f3081c1565603d6ef&dn=Oxygen%20Not%20Included&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//tracker.openbittorrent.com%3A6969",
-            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_32/Oxygen.Not.Included.Build.29112023-OFME.torrent",
-            "created_at": "2023-12-15 16:01:37",
+            "hoster_links": {
+                "FileDitch": [
+                    {
+                        "file_name": "OxygenNotIncluded_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha15/5d97ca820a8b294d03ca/OxygenNotIncluded_Fix_Repair_Steam_Generic.rar"
+                    },
+                    {
+                        "file_name": "Oxygen.Not.Included.Build.07072026-OFME.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha15/a0282affc4759d1c9acf/Oxygen.Not.Included.Build.07072026-OFME.rar"
+                    }
+                ],
+                "Pixeldrain": [
+                    {
+                        "file_name": "OxygenNotIncluded_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://pixeldrain.com/u/HRm8VoLM"
+                    },
+                    {
+                        "file_name": "Oxygen.Not.Included.Build.07072026-OFME.rar",
+                        "direct_link": "https://pixeldrain.com/u/hkEKPXFR"
+                    }
+                ],
+                "Gofile": [
+                    {
+                        "file_name": "OxygenNotIncluded_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://gofile.io/d/7KNIOL"
+                    },
+                    {
+                        "file_name": "Oxygen.Not.Included.Build.07072026-OFME.rar",
+                        "direct_link": "https://gofile.io/d/hdT9uh"
+                    }
+                ],
+                "VikingFile": [
+                    {
+                        "file_name": "OxygenNotIncluded_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://vikingfile.com/f/ViKxOYHHr1"
+                    },
+                    {
+                        "file_name": "Oxygen.Not.Included.Build.07072026-OFME.rar",
+                        "direct_link": "https://vikingfile.com/f/ZJFbBSz7ht"
+                    }
+                ]
+            },
+            "unique_hash": "47f37bb8b610281a811bc0d9486236aeb9394c7a",
+            "fileSize": "1.65 GB",
+            "magnet": "magnet:?xt=urn:btih:47f37bb8b610281a811bc0d9486236aeb9394c7a&dn=Oxygen%20Not%20Included&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_36/Oxygen.Not.Included.Build.07072026-OFME.torrent",
+            "created_at": "2026-07-13 10:39:19",
             "webdav_updated_at": "Unknown",
             "files": [
                 {
-                    "name": "Fix Repair/ONI_Fix_Repair_Steam_Generic.rar",
-                    "size": "9.30 MB"
+                    "name": "Fix Repair/OxygenNotIncluded_Fix_Repair_Steam_Generic.rar",
+                    "size": "15.23 MB"
                 },
                 {
-                    "name": "Oxygen.Not.Included.Build.29112023-OFME.rar",
-                    "size": "1.13 GB"
+                    "name": "Oxygen.Not.Included.Build.07072026-OFME.rar",
+                    "size": "1.63 GB"
                 }
             ],
             "comment": ""
@@ -86009,80 +86319,138 @@
         },
         {
             "title": "Palworld",
-            "page": 32,
+            "page": 35,
             "url": "https://online-fix.me/games/officialservers/17429-palworld-po-seti.html",
             "last_update": "2024-01-21T22:22:15+03:00",
-            "release_date": "19.01.2024",
-            "update_info": "Обновлено 9 апреля 2026, 18:51. Игра обновлена до версии 0.7.3.90464.",
-            "update_date": "2026-04-09T18:51:00+03:00",
-            "formatted_update_date": "2026-04-09 18:51:00",
-            "scraped_at": "2026-05-11 19:56:19",
+            "release_date": "10.07.2026",
+            "update_info": "Обновлено Сегодня, 16:59. Игра обновлена до версии до релизной версии.",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-07-13 16:18:34",
             "steam": {
                 "steam_appid": 1623730,
                 "match_score": 100,
                 "match_via": "canon",
-                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/058bd87dc17a7179e07c446aa64d0574ca43ab9d/header.jpg?t=1773936597",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/6912f19c43a95ff5fe514eedd35e68bf12335459/header.jpg?t=1783654507",
                 "short_description": "Lute, cultive, construa e trabalhe ao lado de criaturas misteriosas chamadas \"Pals\" neste jogo multijogador completamente novo de sobrevivência e criação em mundo aberto!",
                 "short_description_native": "Fight, farm, build and work alongside mysterious creatures called &quot;Pals&quot; in this completely new multiplayer, open world survival and crafting game!",
-                "price_brl": "R$ 88,99",
+                "price_brl": "R$ 62,29",
                 "is_free": false,
                 "pc_requirements": {
-                    "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10 or later (64-Bit)\n\nProcessador: i5-3570K 3.4 GHz 4 Core\n\nMemória: 16 GB de RAM\n\nPlaca gráfica: GeForce GTX 1050 (2GB)\n\nDirectX: Versão 11\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 40 GB de espaço livre\n\nNotas adicionais: Internet connection required for multiplayer. SSD required.",
-                    "recommended": "Recomendados:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10 or later (64-Bit)\n\nProcessador: i9-9900K 3.6 GHz 8 Core\n\nMemória: 32 GB de RAM\n\nPlaca gráfica: GeForce RTX 2070\n\nDirectX: Versão 11\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 40 GB de espaço livre\n\nNotas adicionais: Internet connection required for multiplayer. SSD required."
+                    "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10 (64-Bit)\n\nProcessador: Intel Core i5-9400F\n\nMemória: 16 GB de RAM\n\nPlaca gráfica: GeForce GTX 1660\n\nDirectX: Versão 11\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 40 GB de espaço livre\n\nNotas adicionais: SSD Required - Performance may vary depending on the amount of active Pals.",
+                    "recommended": "Recomendados:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 11 (64-Bit)\n\nProcessador: Intel Core i5-12400 / AMD Ryzen 5 5600X\n\nMemória: 32 GB de RAM\n\nPlaca gráfica: GeForce RTX 3060 Ti / Radeon RX 6700 XT\n\nDirectX: Versão 11\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 40 GB de espaço livre\n\nNotas adicionais: SSD Required - Performance may vary depending on the amount of active Pals."
                 },
-                "controller_support": "full"
-            },
-            "hoster_links": {
-                "Rootz": [
+                "controller_support": "full",
+                "categories": [
                     {
-                        "file_name": "Palworld.v0.7.3.90464-OFME.part1.rar",
-                        "direct_link": "https://rootz.so/d/1ys3fM"
+                        "id": 2,
+                        "description": "Um jogador"
                     },
                     {
-                        "file_name": "Palworld.v0.7.3.90464-OFME.part2.rar",
-                        "direct_link": "https://rootz.so/d/1uqCno"
+                        "id": 1,
+                        "description": "Multijogador"
                     },
                     {
-                        "file_name": "Palworld.v0.7.3.90464-OFME.part3.rar",
-                        "direct_link": "https://rootz.so/d/2HOIF6"
+                        "id": 9,
+                        "description": "Co-op"
                     },
                     {
-                        "file_name": "Palworld.v0.7.3.90464-OFME.part4.rar",
-                        "direct_link": "https://rootz.so/d/29Kaa8"
+                        "id": 38,
+                        "description": "Co-op online"
                     },
                     {
-                        "file_name": "Palworld.v0.7.3.90464-OFME.part5.rar",
-                        "direct_link": "https://rootz.so/d/25Ijia"
+                        "id": 27,
+                        "description": "Multijogador interplataformas"
                     },
                     {
-                        "file_name": "Palworld.v0.7.3.90464-OFME.part6.rar",
-                        "direct_link": "https://rootz.so/d/1tDB7w"
+                        "id": 22,
+                        "description": "Proezas Steam"
+                    },
+                    {
+                        "id": 28,
+                        "description": "Compatibilidade total com comando"
+                    },
+                    {
+                        "id": 29,
+                        "description": "Cartas Colecionáveis Steam"
+                    },
+                    {
+                        "id": 30,
+                        "description": "Steam Workshop"
+                    },
+                    {
+                        "id": 55,
+                        "description": "Compatibilidade com DUALSHOCK"
+                    },
+                    {
+                        "id": 56,
+                        "description": "Compatibilidade com DUALSHOCK"
+                    },
+                    {
+                        "id": 57,
+                        "description": "Compatibilidade com DualSense"
+                    },
+                    {
+                        "id": 58,
+                        "description": "Compatibilidade com DualSense"
+                    },
+                    {
+                        "id": 23,
+                        "description": "Steam Cloud"
+                    },
+                    {
+                        "id": 62,
+                        "description": "Partilha de Biblioteca"
                     }
                 ],
-                "VikingFile": [
+                "genres": [
                     {
-                        "file_name": "Palworld.v0.7.3.90464-OFME.part1.rar",
-                        "direct_link": "https://vikingfile.com/f/GGn9QGD0xd"
+                        "id": "1",
+                        "description": "Ação"
                     },
                     {
-                        "file_name": "Palworld.v0.7.3.90464-OFME.part2.rar",
-                        "direct_link": "https://vikingfile.com/f/HEP7ZytuTe"
+                        "id": "25",
+                        "description": "Aventura"
                     },
                     {
-                        "file_name": "Palworld.v0.7.3.90464-OFME.part3.rar",
-                        "direct_link": "https://vikingfile.com/f/43Mnc40qVQ"
+                        "id": "23",
+                        "description": "Indie"
                     },
                     {
-                        "file_name": "Palworld.v0.7.3.90464-OFME.part4.rar",
-                        "direct_link": "https://vikingfile.com/f/QESq0nByf8"
+                        "id": "3",
+                        "description": "RPG"
+                    }
+                ]
+            },
+            "hoster_links": {
+                "FileDitch": [
+                    {
+                        "file_name": "Palworld.v1.10.427.0-OFME.part1.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha15/2a89ce20a421f61dec31/Palworld.v1.10.427.0-OFME.part1.rar"
                     },
                     {
-                        "file_name": "Palworld.v0.7.3.90464-OFME.part5.rar",
-                        "direct_link": "https://vikingfile.com/f/xhPHpTnEOw"
+                        "file_name": "Palworld.v1.10.427.0-OFME.part2.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha15/5d14023ff86fe1e9ae56/Palworld.v1.10.427.0-OFME.part2.rar"
                     },
                     {
-                        "file_name": "Palworld.v0.7.3.90464-OFME.part6.rar",
-                        "direct_link": "https://vikingfile.com/f/nNFXMJZR0C"
+                        "file_name": "Palworld.v1.10.427.0-OFME.part3.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha15/2a3f0f99d0d0ddc1b7c8/Palworld.v1.10.427.0-OFME.part3.rar"
+                    },
+                    {
+                        "file_name": "Palworld.v1.10.427.0-OFME.part4.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha15/531616ae9532cb21d325/Palworld.v1.10.427.0-OFME.part4.rar"
+                    },
+                    {
+                        "file_name": "Palworld.v1.10.427.0-OFME.part5.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha15/493cd8d5bcd83224a5ff/Palworld.v1.10.427.0-OFME.part5.rar"
+                    },
+                    {
+                        "file_name": "Palworld.v1.10.427.0-OFME.part6.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha15/d97c9e70182bf03cbc02/Palworld.v1.10.427.0-OFME.part6.rar"
+                    },
+                    {
+                        "file_name": "Palworld.v1.10.427.0-OFME.part7.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha15/1aa118c579b3fea91678/Palworld.v1.10.427.0-OFME.part7.rar"
                     }
                 ],
                 "Pixeldrain": [
@@ -86091,54 +86459,32 @@
                         "direct_link": "https://pixeldrain.com/u/Kq8VZtDw"
                     },
                     {
-                        "file_name": "Palworld.v0.7.3.90464-OFME.part1.rar",
-                        "direct_link": "https://pixeldrain.com/u/55HwmdFE"
+                        "file_name": "Palworld.v1.10.427.0-OFME.part1.rar",
+                        "direct_link": "https://pixeldrain.com/u/YZTH8qzT"
                     },
                     {
-                        "file_name": "Palworld.v0.7.3.90464-OFME.part2.rar",
-                        "direct_link": "https://pixeldrain.com/u/kcChm2Ma"
+                        "file_name": "Palworld.v1.10.427.0-OFME.part2.rar",
+                        "direct_link": "https://pixeldrain.com/u/GGHnX1ps"
                     },
                     {
-                        "file_name": "Palworld.v0.7.3.90464-OFME.part3.rar",
-                        "direct_link": "https://pixeldrain.com/u/di3tDCbF"
+                        "file_name": "Palworld.v1.10.427.0-OFME.part3.rar",
+                        "direct_link": "https://pixeldrain.com/u/AR6ndWuh"
                     },
                     {
-                        "file_name": "Palworld.v0.7.3.90464-OFME.part4.rar",
-                        "direct_link": "https://pixeldrain.com/u/P1ZZ1VBx"
+                        "file_name": "Palworld.v1.10.427.0-OFME.part4.rar",
+                        "direct_link": "https://pixeldrain.com/u/WcJK8kf8"
                     },
                     {
-                        "file_name": "Palworld.v0.7.3.90464-OFME.part5.rar",
-                        "direct_link": "https://pixeldrain.com/u/KP8kd28w"
+                        "file_name": "Palworld.v1.10.427.0-OFME.part5.rar",
+                        "direct_link": "https://pixeldrain.com/u/Eadh7rde"
                     },
                     {
-                        "file_name": "Palworld.v0.7.3.90464-OFME.part6.rar",
-                        "direct_link": "https://pixeldrain.com/u/CeCESPZL"
-                    }
-                ],
-                "DataNodes": [
-                    {
-                        "file_name": "Palworld.v0.7.3.90464-OFME.part1.rar",
-                        "direct_link": "https://datanodes.to/874guiqmimw5"
+                        "file_name": "Palworld.v1.10.427.0-OFME.part6.rar",
+                        "direct_link": "https://pixeldrain.com/u/TWb29D1p"
                     },
                     {
-                        "file_name": "Palworld.v0.7.3.90464-OFME.part2.rar",
-                        "direct_link": "https://datanodes.to/yep4dy99zqqc"
-                    },
-                    {
-                        "file_name": "Palworld.v0.7.3.90464-OFME.part3.rar",
-                        "direct_link": "https://datanodes.to/x0ae5o490xyf"
-                    },
-                    {
-                        "file_name": "Palworld.v0.7.3.90464-OFME.part4.rar",
-                        "direct_link": "https://datanodes.to/7xtl6muejp4d"
-                    },
-                    {
-                        "file_name": "Palworld.v0.7.3.90464-OFME.part5.rar",
-                        "direct_link": "https://datanodes.to/rx6uycc5j8ew"
-                    },
-                    {
-                        "file_name": "Palworld.v0.7.3.90464-OFME.part6.rar",
-                        "direct_link": "https://datanodes.to/ggiir2lf42na"
+                        "file_name": "Palworld.v1.10.427.0-OFME.part7.rar",
+                        "direct_link": "https://pixeldrain.com/u/FDEehxvy"
                     }
                 ],
                 "Gofile": [
@@ -86147,36 +86493,70 @@
                         "direct_link": "https://gofile.io/d/ahXhVx"
                     },
                     {
-                        "file_name": "Palworld.v0.7.3.90464-OFME.part1.rar",
-                        "direct_link": "https://gofile.io/d/meiFst"
+                        "file_name": "Palworld.v1.10.427.0-OFME.part1.rar",
+                        "direct_link": "https://gofile.io/d/u4YUOR"
                     },
                     {
-                        "file_name": "Palworld.v0.7.3.90464-OFME.part2.rar",
-                        "direct_link": "https://gofile.io/d/GXjRsI"
+                        "file_name": "Palworld.v1.10.427.0-OFME.part2.rar",
+                        "direct_link": "https://gofile.io/d/yX6gJp"
                     },
                     {
-                        "file_name": "Palworld.v0.7.3.90464-OFME.part3.rar",
-                        "direct_link": "https://gofile.io/d/asmLJO"
+                        "file_name": "Palworld.v1.10.427.0-OFME.part3.rar",
+                        "direct_link": "https://gofile.io/d/MyWd33"
                     },
                     {
-                        "file_name": "Palworld.v0.7.3.90464-OFME.part4.rar",
-                        "direct_link": "https://gofile.io/d/2PbSzX"
+                        "file_name": "Palworld.v1.10.427.0-OFME.part4.rar",
+                        "direct_link": "https://gofile.io/d/2fFNdk"
                     },
                     {
-                        "file_name": "Palworld.v0.7.3.90464-OFME.part5.rar",
-                        "direct_link": "https://gofile.io/d/Yvu32r"
+                        "file_name": "Palworld.v1.10.427.0-OFME.part5.rar",
+                        "direct_link": "https://gofile.io/d/iFn1lq"
                     },
                     {
-                        "file_name": "Palworld.v0.7.3.90464-OFME.part6.rar",
-                        "direct_link": "https://gofile.io/d/BCTk6z"
+                        "file_name": "Palworld.v1.10.427.0-OFME.part6.rar",
+                        "direct_link": "https://gofile.io/d/MwRSeY"
+                    },
+                    {
+                        "file_name": "Palworld.v1.10.427.0-OFME.part7.rar",
+                        "direct_link": "https://gofile.io/d/OdHwgA"
+                    }
+                ],
+                "VikingFile": [
+                    {
+                        "file_name": "Palworld.v1.10.427.0-OFME.part1.rar",
+                        "direct_link": "https://vikingfile.com/f/tPtSUS9bfZ"
+                    },
+                    {
+                        "file_name": "Palworld.v1.10.427.0-OFME.part2.rar",
+                        "direct_link": "https://vikingfile.com/f/kUpvyXx6Tu"
+                    },
+                    {
+                        "file_name": "Palworld.v1.10.427.0-OFME.part3.rar",
+                        "direct_link": "https://vikingfile.com/f/9EcTBMaYT5"
+                    },
+                    {
+                        "file_name": "Palworld.v1.10.427.0-OFME.part4.rar",
+                        "direct_link": "https://vikingfile.com/f/5cQAO6uMp1"
+                    },
+                    {
+                        "file_name": "Palworld.v1.10.427.0-OFME.part5.rar",
+                        "direct_link": "https://vikingfile.com/f/l8icTmspoF"
+                    },
+                    {
+                        "file_name": "Palworld.v1.10.427.0-OFME.part6.rar",
+                        "direct_link": "https://vikingfile.com/f/gUsKADCU4i"
+                    },
+                    {
+                        "file_name": "Palworld.v1.10.427.0-OFME.part7.rar",
+                        "direct_link": "https://vikingfile.com/f/qBAcw0EmzF"
                     }
                 ]
             },
-            "unique_hash": "53cb4f2b8d8c33535ee491b300c662d1cff84365",
-            "fileSize": "25.38 GB",
-            "magnet": "magnet:?xt=urn:btih:53cb4f2b8d8c33535ee491b300c662d1cff84365&dn=Palworld&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
-            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_32/Palworld.v0.7.3.90464-OFME.torrent",
-            "created_at": "2026-04-09 12:49:12",
+            "unique_hash": "e3aa1e79ae89e016aecf546da319273a07b7789a",
+            "fileSize": "32.10 GB",
+            "magnet": "magnet:?xt=urn:btih:e3aa1e79ae89e016aecf546da319273a07b7789a&dn=Palworld&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_35/Palworld.v1.10.427.0-OFME.torrent",
+            "created_at": "2026-07-13 10:40:17",
             "webdav_updated_at": "Unknown",
             "files": [
                 {
@@ -86184,28 +86564,32 @@
                     "size": "8.11 MB"
                 },
                 {
-                    "name": "Palworld.v0.7.3.90464-OFME.part2.rar",
+                    "name": "Palworld.v1.10.427.0-OFME.part1.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "Palworld.v0.7.3.90464-OFME.part4.rar",
+                    "name": "Palworld.v1.10.427.0-OFME.part2.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "Palworld.v0.7.3.90464-OFME.part6.rar",
-                    "size": "378.33 MB"
-                },
-                {
-                    "name": "Palworld.v0.7.3.90464-OFME.part1.rar",
+                    "name": "Palworld.v1.10.427.0-OFME.part3.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "Palworld.v0.7.3.90464-OFME.part3.rar",
+                    "name": "Palworld.v1.10.427.0-OFME.part4.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "Palworld.v0.7.3.90464-OFME.part5.rar",
+                    "name": "Palworld.v1.10.427.0-OFME.part5.rar",
                     "size": "5.00 GB"
+                },
+                {
+                    "name": "Palworld.v1.10.427.0-OFME.part6.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Palworld.v1.10.427.0-OFME.part7.rar",
+                    "size": "2.09 GB"
                 }
             ],
             "comment": ""
@@ -91668,6 +92052,155 @@
                 {
                     "name": "Puzzle.Compound.Build.25062023-OFME.rar",
                     "size": "1.01 GB"
+                }
+            ],
+            "comment": ""
+        },
+        {
+            "title": "Pyramidion",
+            "page": 1,
+            "url": "https://online-fix.me/games/adventures/18158-pyramidion-online.html",
+            "last_update": "2026-07-13T17:08:57+03:00",
+            "release_date": null,
+            "update_info": "",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-07-13 16:18:18",
+            "steam": {
+                "steam_appid": 4024600,
+                "match_score": 100,
+                "match_via": "canon",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4024600/c95119865f21441535386af017872f90a6343a81/header.jpg?t=1780968306",
+                "short_description": "Um jogo co-op brutal de física para 2 jogadores. Escolham os vossos papéis (Trabalhador ou Capataz) e arrastem uma pedra colossal até ao topo da pirâmide. Um único erro, e rebolam pelo monte abaixo.",
+                "short_description_native": "Um jogo co-op brutal de física para 2 jogadores. Escolham os vossos papéis (Trabalhador ou Capataz) e arrastem uma pedra colossal até ao topo da pirâmide. Um único erro, e rebolam pelo monte abaixo.",
+                "price_brl": "R$ 19,49",
+                "is_free": false,
+                "pc_requirements": {
+                    "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10\n\nProcessador: i3\n\nMemória: 4 GB de RAM\n\nPlaca gráfica: GTX 1050\n\nDirectX: Versão 11\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 1 GB de espaço livre",
+                    "recommended": "Recomendados:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 11\n\nProcessador: i5\n\nMemória: 8 GB de RAM\n\nPlaca gráfica: Rtx 2060\n\nDirectX: Versão 12\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 2 GB de espaço livre"
+                },
+                "controller_support": null,
+                "categories": [
+                    {
+                        "id": 1,
+                        "description": "Multijogador"
+                    },
+                    {
+                        "id": 9,
+                        "description": "Co-op"
+                    },
+                    {
+                        "id": 38,
+                        "description": "Co-op online"
+                    },
+                    {
+                        "id": 48,
+                        "description": "Co-op em LAN"
+                    },
+                    {
+                        "id": 22,
+                        "description": "Proezas Steam"
+                    },
+                    {
+                        "id": 74,
+                        "description": "Jogável sem necessitar de ações rápidas ou precisas"
+                    },
+                    {
+                        "id": 69,
+                        "description": "Som estéreo"
+                    },
+                    {
+                        "id": 15,
+                        "description": "Estatísticas"
+                    },
+                    {
+                        "id": 25,
+                        "description": "Tabelas de liderança do Steam"
+                    },
+                    {
+                        "id": 62,
+                        "description": "Partilha de Biblioteca"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "1",
+                        "description": "Ação"
+                    },
+                    {
+                        "id": "25",
+                        "description": "Aventura"
+                    },
+                    {
+                        "id": "4",
+                        "description": "Casual"
+                    },
+                    {
+                        "id": "23",
+                        "description": "Indie"
+                    },
+                    {
+                        "id": "70",
+                        "description": "Acesso Antecipado"
+                    }
+                ]
+            },
+            "hoster_links": {
+                "FileDitch": [
+                    {
+                        "file_name": "Pyramidion_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha15/0b210ff8b4b7cbd437a7/Pyramidion_Fix_Repair_Steam_Generic.rar"
+                    },
+                    {
+                        "file_name": "Pyramidion.Build.11072026-OFME.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha15/facedfd9447f2bb28957/Pyramidion.Build.11072026-OFME.rar"
+                    }
+                ],
+                "Pixeldrain": [
+                    {
+                        "file_name": "Pyramidion_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://pixeldrain.com/u/U5KA9ZE5"
+                    },
+                    {
+                        "file_name": "Pyramidion.Build.11072026-OFME.rar",
+                        "direct_link": "https://pixeldrain.com/u/t76u3T8V"
+                    }
+                ],
+                "Gofile": [
+                    {
+                        "file_name": "Pyramidion_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://gofile.io/d/V3V5sw"
+                    },
+                    {
+                        "file_name": "Pyramidion.Build.11072026-OFME.rar",
+                        "direct_link": "https://gofile.io/d/1zaEpe"
+                    }
+                ],
+                "VikingFile": [
+                    {
+                        "file_name": "Pyramidion_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://vikingfile.com/f/yximuAEm1c"
+                    },
+                    {
+                        "file_name": "Pyramidion.Build.11072026-OFME.rar",
+                        "direct_link": "https://vikingfile.com/f/vhkhdUCGdk"
+                    }
+                ]
+            },
+            "unique_hash": "7cd5948f4d990c2f7e8b6764587bb8f3af7748f8",
+            "fileSize": "1.55 GB",
+            "magnet": "magnet:?xt=urn:btih:7cd5948f4d990c2f7e8b6764587bb8f3af7748f8&dn=Pyramidion&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_1/Pyramidion.Build.11072026-OFME.torrent",
+            "created_at": "2026-07-13 10:50:59",
+            "webdav_updated_at": "Unknown",
+            "files": [
+                {
+                    "name": "Fix Repair/Pyramidion_Fix_Repair_Steam_Generic.rar",
+                    "size": "11.04 MB"
+                },
+                {
+                    "name": "Pyramidion.Build.11072026-OFME.rar",
+                    "size": "1.54 GB"
                 }
             ],
             "comment": ""
@@ -105772,6 +106305,159 @@
                 {
                     "name": "SimplePlanes.2.v0.7.0.0-OFME.rar",
                     "size": "1.52 GB"
+                }
+            ],
+            "comment": ""
+        },
+        {
+            "title": "Sineus Arena Survivors",
+            "page": 1,
+            "url": "https://online-fix.me/games/adventures/18157-sineus-arena-survivors-online.html",
+            "last_update": "2026-07-13T17:08:55+03:00",
+            "release_date": null,
+            "update_info": "",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-07-13 16:18:19",
+            "steam": {
+                "steam_appid": 4227400,
+                "match_score": 100,
+                "match_via": "canon",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4227400/e17bd1d48cecb91e0d4fa6ccd5e3a4eb6b883791/header.jpg?t=1783710810",
+                "short_description": "Enfrente hordas e defenda a sua fortaleza num bullet heaven coop com tower defense. Ganhe melhorias a cada nível, recolha artefactos de baús e fique mais forte para derrotar o chefe e conquistar o topo das tabelas de liderança da Sineus Arena!",
+                "short_description_native": "Enfrente hordas e defenda a sua fortaleza num bullet heaven coop com tower defense. Ganhe melhorias a cada nível, recolha artefactos de baús e fique mais forte para derrotar o chefe e conquistar o topo das tabelas de liderança da Sineus Arena!",
+                "price_brl": "R$ 40,99",
+                "is_free": false,
+                "pc_requirements": {
+                    "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10 (64-bit) or newer\n\nProcessador: Intel i5-4590 or better\n\nMemória: 8 GB de RAM\n\nPlaca gráfica: Geforce GTX 1050 or better\n\nDirectX: Versão 11\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 2 GB de espaço livre",
+                    "recommended": "Recomendados:\n\nRequer um sistema operativo e processador de 64 bits\n\nRede: Ligação à Internet de banda larga"
+                },
+                "controller_support": null,
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Um jogador"
+                    },
+                    {
+                        "id": 1,
+                        "description": "Multijogador"
+                    },
+                    {
+                        "id": 9,
+                        "description": "Co-op"
+                    },
+                    {
+                        "id": 38,
+                        "description": "Co-op online"
+                    },
+                    {
+                        "id": 22,
+                        "description": "Proezas Steam"
+                    },
+                    {
+                        "id": 29,
+                        "description": "Cartas Colecionáveis Steam"
+                    },
+                    {
+                        "id": 68,
+                        "description": "Controlos de volume independentes"
+                    },
+                    {
+                        "id": 75,
+                        "description": "Opção de controlo só por teclado"
+                    },
+                    {
+                        "id": 74,
+                        "description": "Jogável sem necessitar de ações rápidas ou precisas"
+                    },
+                    {
+                        "id": 69,
+                        "description": "Som estéreo"
+                    },
+                    {
+                        "id": 70,
+                        "description": "Som surround"
+                    },
+                    {
+                        "id": 23,
+                        "description": "Steam Cloud"
+                    },
+                    {
+                        "id": 25,
+                        "description": "Tabelas de liderança do Steam"
+                    },
+                    {
+                        "id": 62,
+                        "description": "Partilha de Biblioteca"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "1",
+                        "description": "Ação"
+                    },
+                    {
+                        "id": "23",
+                        "description": "Indie"
+                    }
+                ]
+            },
+            "hoster_links": {
+                "FileDitch": [
+                    {
+                        "file_name": "SineusArenaSurvivors_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha15/28447bea7f4b82a9775d/SineusArenaSurvivors_Fix_Repair_Steam_Generic.rar"
+                    },
+                    {
+                        "file_name": "Sineus.Arena.Survivors.v1.08-OFME.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha15/54f7eb95ac681c43955a/Sineus.Arena.Survivors.v1.08-OFME.rar"
+                    }
+                ],
+                "Pixeldrain": [
+                    {
+                        "file_name": "SineusArenaSurvivors_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://pixeldrain.com/u/AWQwsgFw"
+                    },
+                    {
+                        "file_name": "Sineus.Arena.Survivors.v1.08-OFME.rar",
+                        "direct_link": "https://pixeldrain.com/u/bwb3vpgw"
+                    }
+                ],
+                "Gofile": [
+                    {
+                        "file_name": "SineusArenaSurvivors_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://gofile.io/d/PhcCT5"
+                    },
+                    {
+                        "file_name": "Sineus.Arena.Survivors.v1.08-OFME.rar",
+                        "direct_link": "https://gofile.io/d/GUuWTT"
+                    }
+                ],
+                "VikingFile": [
+                    {
+                        "file_name": "SineusArenaSurvivors_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://vikingfile.com/f/ETYYbk58c4"
+                    },
+                    {
+                        "file_name": "Sineus.Arena.Survivors.v1.08-OFME.rar",
+                        "direct_link": "https://vikingfile.com/f/VMDYvubleH"
+                    }
+                ]
+            },
+            "unique_hash": "e8f1b070461ecf23346ea2e1d8bfba7e049c1b42",
+            "fileSize": "488.77 MB",
+            "magnet": "magnet:?xt=urn:btih:e8f1b070461ecf23346ea2e1d8bfba7e049c1b42&dn=Sineus%20Arena%20Survivors&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_1/Sineus.Arena.Survivors.v1.08-OFME.torrent",
+            "created_at": "2026-07-13 10:51:39",
+            "webdav_updated_at": "Unknown",
+            "files": [
+                {
+                    "name": "Fix Repair/SineusArenaSurvivors_Fix_Repair_Steam_Generic.rar",
+                    "size": "11.09 MB"
+                },
+                {
+                    "name": "Sineus.Arena.Survivors.v1.08-OFME.rar",
+                    "size": "477.68 MB"
                 }
             ],
             "comment": ""
@@ -124219,6 +124905,155 @@
             "comment": ""
         },
         {
+            "title": "Ticket to Ride",
+            "page": 1,
+            "url": "https://online-fix.me/games/officialservers/18159-ticket-to-ride-online.html",
+            "last_update": "2026-07-13T17:08:54+03:00",
+            "release_date": null,
+            "update_info": "",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-07-13 16:18:18",
+            "steam": {
+                "steam_appid": 2477010,
+                "match_score": 100,
+                "match_via": "canon",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2477010/42c53022e75836c25de031db8af9ddb676baabbe/header_alt_assets_8_portuguese.jpg?t=1782568461",
+                "short_description": "Descubra uma nova adaptação do icônico e premiado jogo de tabuleiro. Jogue contra outros fãs de todo o mundo ou enfrente adversários de IA de última geração. Construa um império ferroviário, reivindique rotas e domine seus concorrentes nas tabelas de classificação neste clássico moderno favorito dos fãs!",
+                "short_description_native": "Discover a fresh adaptation of the iconic, multi-award-winning board game. Play against fellow fans around the world, or take on state-of-the-art AI opponents. Build a railway empire, claim routes and dominate your competitors on the leaderboards in this fan-favourite modern classic!",
+                "price_brl": "R$ 9,99",
+                "is_free": false,
+                "pc_requirements": {
+                    "minimum": "Mínimos:\n\nSistema Operativo: Windows 10 or above\n\nProcessador: 2 GHz single core processor\n\nMemória: 8 GB de RAM\n\nPlaca gráfica: DirectX 11 class GPU [1280 x 720]\n\nEspaço no disco: Requer 2 GB de espaço livre\n\nPlaca de som: Integrated sound card",
+                    "recommended": null
+                },
+                "controller_support": null,
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Um jogador"
+                    },
+                    {
+                        "id": 1,
+                        "description": "Multijogador"
+                    },
+                    {
+                        "id": 49,
+                        "description": "PvP"
+                    },
+                    {
+                        "id": 36,
+                        "description": "PvP online"
+                    },
+                    {
+                        "id": 37,
+                        "description": "PvP, ecrã partilhado/dividido"
+                    },
+                    {
+                        "id": 24,
+                        "description": "Ecrã partilhado/dividido"
+                    },
+                    {
+                        "id": 27,
+                        "description": "Multijogador interplataformas"
+                    },
+                    {
+                        "id": 22,
+                        "description": "Proezas Steam"
+                    },
+                    {
+                        "id": 35,
+                        "description": "Microtransações"
+                    },
+                    {
+                        "id": 23,
+                        "description": "Steam Cloud"
+                    },
+                    {
+                        "id": 15,
+                        "description": "Estatísticas"
+                    },
+                    {
+                        "id": 62,
+                        "description": "Partilha de Biblioteca"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "4",
+                        "description": "Casual"
+                    },
+                    {
+                        "id": "28",
+                        "description": "Simulação"
+                    },
+                    {
+                        "id": "2",
+                        "description": "Estratégia"
+                    }
+                ]
+            },
+            "hoster_links": {
+                "FileDitch": [
+                    {
+                        "file_name": "TicketToRide_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha15/91f7399d88ad07b68a25/TicketToRide_Fix_Repair_Steam_Generic.rar"
+                    },
+                    {
+                        "file_name": "Ticket.to.Ride.v1.11.0-OFME.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha15/b29e72e62109efddf137/Ticket.to.Ride.v1.11.0-OFME.rar"
+                    }
+                ],
+                "Pixeldrain": [
+                    {
+                        "file_name": "TicketToRide_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://pixeldrain.com/u/BGj9e1qM"
+                    },
+                    {
+                        "file_name": "Ticket.to.Ride.v1.11.0-OFME.rar",
+                        "direct_link": "https://pixeldrain.com/u/2dZTmYn4"
+                    }
+                ],
+                "Gofile": [
+                    {
+                        "file_name": "TicketToRide_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://gofile.io/d/4qilDL"
+                    },
+                    {
+                        "file_name": "Ticket.to.Ride.v1.11.0-OFME.rar",
+                        "direct_link": "https://gofile.io/d/4XMamg"
+                    }
+                ],
+                "VikingFile": [
+                    {
+                        "file_name": "TicketToRide_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://vikingfile.com/f/iJcGuFoGQa"
+                    },
+                    {
+                        "file_name": "Ticket.to.Ride.v1.11.0-OFME.rar",
+                        "direct_link": "https://vikingfile.com/f/Y6gOEm7Ymw"
+                    }
+                ]
+            },
+            "unique_hash": "a1b3009e84277a05f4114508a519d574e621ea20",
+            "fileSize": "854.97 MB",
+            "magnet": "magnet:?xt=urn:btih:a1b3009e84277a05f4114508a519d574e621ea20&dn=Ticket%20to%20Ride&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_1/Ticket.to.Ride.v1.11.0-OFME.torrent",
+            "created_at": "2026-07-13 10:52:00",
+            "webdav_updated_at": "Unknown",
+            "files": [
+                {
+                    "name": "Fix Repair/TicketToRide_Fix_Repair_Steam_Generic.rar",
+                    "size": "11.08 MB"
+                },
+                {
+                    "name": "Ticket.to.Ride.v1.11.0-OFME.rar",
+                    "size": "843.89 MB"
+                }
+            ],
+            "comment": ""
+        },
+        {
             "title": "Time Warpers",
             "page": 85,
             "url": "https://online-fix.me/games/shooter/16253-time-warpers-po-seti.html",
@@ -126408,6 +127243,163 @@
                 {
                     "name": "Trackline.Express.v1.1.0-OFME.rar",
                     "size": "126.69 MB"
+                }
+            ],
+            "comment": ""
+        },
+        {
+            "title": "Trail & Error",
+            "page": 1,
+            "url": "https://online-fix.me/games/adventures/18161-trail-and-error-po-seti.html",
+            "last_update": "2026-07-13T17:08:51+03:00",
+            "release_date": "16.06.2026",
+            "update_info": "",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-07-13 16:18:18",
+            "steam": {
+                "steam_appid": 4322960,
+                "match_score": 100,
+                "match_via": "canon",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4322960/81a851808036064147ef2db9b2c58a7e1f50b0e6/header.jpg?t=1783275716",
+                "short_description": "Um caótico jogo de sobrevivência cooperativo para 1 a 8 jogadores onde você viaja pela trilha, gerencia suprimentos, sobrevive a desastres e discute com amigos. Trabalhem juntos para manter a carroça em movimento, adaptem-se a eventos aleatórios e tentem chegar até o fim inteiros.",
+                "short_description_native": "A chaotic co-op survival game for 1–8 players where you travel the trail, manage supplies, survive disasters, and argue with friends. Work together to keep the wagon moving, adapt to random events, and try to make it to the end in one piece.",
+                "price_brl": "R$ 26,49",
+                "is_free": false,
+                "pc_requirements": {
+                    "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10\n\nProcessador: Core i7-3820 or equivalent\n\nMemória: 8 GB de RAM\n\nPlaca gráfica: GTX 1060 or RX 6600 XT\n\nDirectX: Versão 11\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 5 GB de espaço livre\n\nNotas adicionais: Microphone recommended for in game proximity chat",
+                    "recommended": "Recomendados:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 11\n\nProcessador: Ryzen 9 3900XT or equivalent\n\nMemória: 16 GB de RAM\n\nPlaca gráfica: RTX 3060 or equivalent\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 10 GB de espaço livre\n\nNotas adicionais: Microphone recommended for in game proximity chat"
+                },
+                "controller_support": null,
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Um jogador"
+                    },
+                    {
+                        "id": 1,
+                        "description": "Multijogador"
+                    },
+                    {
+                        "id": 9,
+                        "description": "Co-op"
+                    },
+                    {
+                        "id": 38,
+                        "description": "Co-op online"
+                    },
+                    {
+                        "id": 22,
+                        "description": "Proezas Steam"
+                    },
+                    {
+                        "id": 67,
+                        "description": "Conforto de câmara"
+                    },
+                    {
+                        "id": 68,
+                        "description": "Controlos de volume independentes"
+                    },
+                    {
+                        "id": 78,
+                        "description": "Dificuldade ajustável"
+                    },
+                    {
+                        "id": 74,
+                        "description": "Jogável sem necessitar de ações rápidas ou precisas"
+                    },
+                    {
+                        "id": 69,
+                        "description": "Som estéreo"
+                    },
+                    {
+                        "id": 70,
+                        "description": "Som surround"
+                    },
+                    {
+                        "id": 15,
+                        "description": "Estatísticas"
+                    },
+                    {
+                        "id": 62,
+                        "description": "Partilha de Biblioteca"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "1",
+                        "description": "Ação"
+                    },
+                    {
+                        "id": "25",
+                        "description": "Aventura"
+                    },
+                    {
+                        "id": "23",
+                        "description": "Indie"
+                    },
+                    {
+                        "id": "70",
+                        "description": "Acesso Antecipado"
+                    }
+                ]
+            },
+            "hoster_links": {
+                "FileDitch": [
+                    {
+                        "file_name": "Trail&Error_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha15/e6bd4b935c4a65e8811d/Trail"
+                    },
+                    {
+                        "file_name": "Trail.&.Error.Build.08072026-OFME.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha15/f43090ec179376146670/Trail."
+                    }
+                ],
+                "Pixeldrain": [
+                    {
+                        "file_name": "Trail&Error_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://pixeldrain.com/u/unHEDWDT"
+                    },
+                    {
+                        "file_name": "Trail.&.Error.Build.08072026-OFME.rar",
+                        "direct_link": "https://pixeldrain.com/u/hLxVgX9s"
+                    }
+                ],
+                "Gofile": [
+                    {
+                        "file_name": "Trail&Error_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://gofile.io/d/x8hNLZ"
+                    },
+                    {
+                        "file_name": "Trail.&.Error.Build.08072026-OFME.rar",
+                        "direct_link": "https://gofile.io/d/BUhne1"
+                    }
+                ],
+                "VikingFile": [
+                    {
+                        "file_name": "Trail&Error_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://vikingfile.com/f/fnIfZGGsjB"
+                    },
+                    {
+                        "file_name": "Trail.&.Error.Build.08072026-OFME.rar",
+                        "direct_link": "https://vikingfile.com/f/N6WMDMsYFW"
+                    }
+                ]
+            },
+            "unique_hash": "9152d2b088ba60b731c975f38cb1f3226c60ee5e",
+            "fileSize": "1.52 GB",
+            "magnet": "magnet:?xt=urn:btih:9152d2b088ba60b731c975f38cb1f3226c60ee5e&dn=Trail%20%26%20Error&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_1/Trail.%26.Error.Build.08072026-OFME.torrent",
+            "created_at": "2026-07-13 10:52:30",
+            "webdav_updated_at": "Unknown",
+            "files": [
+                {
+                    "name": "Fix Repair/Trail&Error_Fix_Repair_Steam_Generic.rar",
+                    "size": "11.17 MB"
+                },
+                {
+                    "name": "Trail.&.Error.Build.08072026-OFME.rar",
+                    "size": "1.50 GB"
                 }
             ],
             "comment": ""

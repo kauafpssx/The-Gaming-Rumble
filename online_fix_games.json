@@ -51521,19 +51521,19 @@
         },
         {
             "title": "Granblue Fantasy Relink",
-            "page": 31,
+            "page": 34,
             "url": "https://online-fix.me/games/adventures/17444-granblue-fantasy-relink-po-seti.html",
             "last_update": "2024-02-02T13:45:45+03:00",
             "release_date": "01.02.2024",
-            "update_info": "Обновлено 12 июня 2024, 13:22. Игра обновлена до версии 1.3.1.",
-            "update_date": "2024-06-12T13:22:00+03:00",
-            "formatted_update_date": "2024-06-12 13:22:00",
-            "scraped_at": "2026-05-11 19:56:08",
+            "update_info": "Обновлено Сегодня, 12:58. Комментарии закрыты.",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-07-14 16:11:06",
             "steam": {
                 "steam_appid": 881020,
                 "match_score": 100,
                 "match_via": "canon",
-                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881020/header.jpg?t=1777273361",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881020/header.jpg?t=1783524179",
                 "short_description": "Prepara-te para uma aventura épica pelos céus! Forma um grupo de quatro numa seleção de personagens distintas e dilacera, dispara ou amaldiçoa quem se meter pelo caminho. Enfrenta inimigos traiçoeiros e canta vitória neste RPG de ação. Faz missões a solo ou em grupos cooperativos até 4 jogadores!",
                 "short_description_native": "Prepara-te para uma aventura épica pelos céus! Forma um grupo de quatro numa seleção de personagens distintas e dilacera, dispara ou amaldiçoa quem se meter pelo caminho. Enfrenta inimigos traiçoeiros e canta vitória neste RPG de ação. Faz missões a solo ou em grupos cooperativos até 4 jogadores!",
                 "price_brl": "R$ 129,90",
@@ -51542,7 +51542,63 @@
                     "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows® 11 (necessário de 64 bits)\n\nProcessador: Intel® Core™ i3-9100 / AMD Ryzen™ 3 3200G\n\nMemória: 16 GB de RAM\n\nPlaca gráfica: NVIDIA® GeForce GTX™ 1060 6GB / AMD Radeon™ RX 580 8GB\n\nDirectX: Versão 11\n\nEspaço no disco: Requer 90 GB de espaço livre\n\nNotas adicionais: recomendada SSD (Capaz de reprodução a 1080p/30fps com os gráficos definidos como Padrão.)",
                     "recommended": "Recomendados:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows® 11 (necessário de 64 bits)\n\nProcessador: Intel® Core™ i7-8700 / AMD Ryzen™ 5 3600\n\nMemória: 16 GB de RAM\n\nPlaca gráfica: NVIDIA® GeForce RTX™ 2080 8GB / AMD Radeon™ RX 6700 XT 8GB\n\nDirectX: Versão 11\n\nEspaço no disco: Requer 90 GB de espaço livre\n\nNotas adicionais: recomendada SSD (Capaz de reprodução a 1080p/60fps com os gráficos definidos como Ultra.)"
                 },
-                "controller_support": null
+                "controller_support": null,
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Um jogador"
+                    },
+                    {
+                        "id": 1,
+                        "description": "Multijogador"
+                    },
+                    {
+                        "id": 9,
+                        "description": "Co-op"
+                    },
+                    {
+                        "id": 38,
+                        "description": "Co-op online"
+                    },
+                    {
+                        "id": 22,
+                        "description": "Proezas Steam"
+                    },
+                    {
+                        "id": 60,
+                        "description": "Comando recomendado"
+                    },
+                    {
+                        "id": 59,
+                        "description": "Compatibilidade com Steam Input"
+                    },
+                    {
+                        "id": 18,
+                        "description": "Compatibilidade parcial com comando"
+                    },
+                    {
+                        "id": 23,
+                        "description": "Steam Cloud"
+                    },
+                    {
+                        "id": 62,
+                        "description": "Partilha de Biblioteca"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "1",
+                        "description": "Ação"
+                    },
+                    {
+                        "id": "25",
+                        "description": "Aventura"
+                    },
+                    {
+                        "id": "3",
+                        "description": "RPG"
+                    }
+                ]
             },
             "hoster_links": {
                 "Pixeldrain": [
@@ -51617,7 +51673,7 @@
             "unique_hash": "1c1176b3a6f05cf0e578aa80f3fb8ecadaacdb48",
             "fileSize": "64.23 GB",
             "magnet": "magnet:?xt=urn:btih:1c1176b3a6f05cf0e578aa80f3fb8ecadaacdb48&dn=Granblue%20Fantasy%20Relink&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//tracker.openbittorrent.com%3A6969",
-            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_31/Granblue.Fantasy.Relink.v1.3.1-OFME.torrent",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_34/Granblue.Fantasy.Relink.v1.3.1-OFME.torrent",
             "created_at": "2024-06-12 07:12:33",
             "webdav_updated_at": "Unknown",
             "files": [
@@ -58540,14 +58596,14 @@
         },
         {
             "title": "INAZUMA ELEVEN Victory Road",
-            "page": 10,
+            "page": 11,
             "url": "https://online-fix.me/games/officialservers/17939-inazuma-eleven-victory-road-po-seti.html",
             "last_update": "2025-11-11T16:28:35+03:00",
             "release_date": "13.11.2025",
-            "update_info": "Обновлено 15 июня 2026, 17:03. Игра обновлена до версии 6.0.2. Добавлен Steam-Fix V2.",
-            "update_date": "2026-06-15T17:03:00+03:00",
-            "formatted_update_date": "2026-06-15 17:03:00",
-            "scraped_at": "2026-06-28 18:55:34",
+            "update_info": "Обновлено Сегодня, 15:13. Игра обновлена до версии 7.0.2.",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-07-14 16:10:53",
             "steam": {
                 "steam_appid": 2799860,
                 "match_score": 100,
@@ -58589,7 +58645,7 @@
                     },
                     {
                         "id": 28,
-                        "description": "Compat. total c/ comando"
+                        "description": "Compatibilidade total com comando"
                     },
                     {
                         "id": 29,
@@ -58601,15 +58657,15 @@
                     },
                     {
                         "id": 55,
-                        "description": "Compat. com DUALSHOCK"
+                        "description": "Compatibilidade com DUALSHOCK"
                     },
                     {
                         "id": 57,
-                        "description": "Compat. com DualSense"
+                        "description": "Compatibilidade com DualSense"
                     },
                     {
                         "id": 59,
-                        "description": "Compat. com Steam Input"
+                        "description": "Compatibilidade com Steam Input"
                     },
                     {
                         "id": 23,
@@ -58642,52 +58698,58 @@
                         "direct_link": "https://fileditchfiles.me/alpha8/ed5fc0edacfeaa5cecba/INAZUMAELEVENVictoryRoad_Fix_Repair_Steam_V2_Generic.rar"
                     },
                     {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part01.rar",
-                        "direct_link": "https://fileditchfiles.me/alpha8/f73b1534db56f1820f25/INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part01.rar"
+                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part01.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha15/e45129c5a4754222c121/INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part01.rar"
                     },
                     {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part02.rar",
-                        "direct_link": "https://fileditchfiles.me/alpha8/5ad9a8a04b5f9562b3d2/INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part02.rar"
+                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part02.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha15/4d75c45ef7d6ea717b24/INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part02.rar"
                     },
                     {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part03.rar",
-                        "direct_link": "https://fileditchfiles.me/alpha8/f9a358fb3bdcc4430cb1/INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part03.rar"
+                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part03.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha15/99f3d63cab839516372d/INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part03.rar"
                     },
                     {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part04.rar",
-                        "direct_link": "https://fileditchfiles.me/alpha8/384da8527f75b903937e/INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part04.rar"
+                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part04.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha15/efcb1be50045bd37203e/INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part04.rar"
                     },
                     {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part05.rar",
-                        "direct_link": "https://fileditchfiles.me/alpha8/5904125762213f0b885f/INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part05.rar"
+                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part05.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha15/b31c7cd3c08130b59e80/INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part05.rar"
                     },
                     {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part06.rar",
-                        "direct_link": "https://fileditchfiles.me/alpha8/19967833391a273b7fa5/INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part06.rar"
+                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part06.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha15/a26c4157f59340b7e8d3/INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part06.rar"
                     },
                     {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part07.rar",
-                        "direct_link": "https://fileditchfiles.me/alpha8/eeae1cf7e1b721024e7a/INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part07.rar"
+                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part07.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha15/7d0bb7c44eae47e50ce0/INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part07.rar"
                     },
                     {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part08.rar",
-                        "direct_link": "https://fileditchfiles.me/alpha8/99ff323a8dee502fb015/INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part08.rar"
+                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part08.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha15/393e10a5f40a9e0cffe2/INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part08.rar"
                     },
                     {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part09.rar",
-                        "direct_link": "https://fileditchfiles.me/alpha8/89d6fe0c133c06076f85/INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part09.rar"
+                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part09.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha15/ec1c69a163f491806462/INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part09.rar"
                     },
                     {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part10.rar",
-                        "direct_link": "https://fileditchfiles.me/alpha8/61e8b1e71d61849c7943/INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part10.rar"
+                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part10.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha15/3434b76f5f8ca5158df0/INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part10.rar"
                     },
                     {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part11.rar",
-                        "direct_link": "https://fileditchfiles.me/alpha8/00ba75abfb49e2134b2a/INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part11.rar"
+                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part11.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha15/ea18bc6d06e82893fd22/INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part11.rar"
                     },
                     {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part12.rar",
-                        "direct_link": "https://fileditchfiles.me/alpha8/bf68cb4c614112b62657/INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part12.rar"
+                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part12.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha15/85d5e3a9582564d8ae1d/INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part12.rar"
+                    }
+                ],
+                "Rootz": [
+                    {
+                        "file_name": "INAZUMAELEVENVictoryRoad_Fix_Repair_Steam_V2_Generic.rar",
+                        "direct_link": "https://rootz.so/d/1TSBGa"
                     }
                 ],
                 "Pixeldrain": [
@@ -58696,52 +58758,52 @@
                         "direct_link": "https://pixeldrain.com/u/xw5haJTA"
                     },
                     {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part01.rar",
-                        "direct_link": "https://pixeldrain.com/u/ZsgPJKE8"
+                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part01.rar",
+                        "direct_link": "https://pixeldrain.com/u/bBLkcGvw"
                     },
                     {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part02.rar",
-                        "direct_link": "https://pixeldrain.com/u/FkDzNHdB"
+                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part02.rar",
+                        "direct_link": "https://pixeldrain.com/u/6rbpFa3L"
                     },
                     {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part03.rar",
-                        "direct_link": "https://pixeldrain.com/u/dLiUriDY"
+                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part03.rar",
+                        "direct_link": "https://pixeldrain.com/u/LonnnPwt"
                     },
                     {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part04.rar",
-                        "direct_link": "https://pixeldrain.com/u/zvHXzJPS"
+                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part04.rar",
+                        "direct_link": "https://pixeldrain.com/u/9bnGb3hu"
                     },
                     {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part05.rar",
-                        "direct_link": "https://pixeldrain.com/u/6pGjWuL4"
+                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part05.rar",
+                        "direct_link": "https://pixeldrain.com/u/4GiimUGT"
                     },
                     {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part06.rar",
-                        "direct_link": "https://pixeldrain.com/u/uZc5ymWN"
+                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part06.rar",
+                        "direct_link": "https://pixeldrain.com/u/K5ugyhZr"
                     },
                     {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part07.rar",
-                        "direct_link": "https://pixeldrain.com/u/iu5TQm6E"
+                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part07.rar",
+                        "direct_link": "https://pixeldrain.com/u/sXp1SkYG"
                     },
                     {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part08.rar",
-                        "direct_link": "https://pixeldrain.com/u/ysq7Z6cm"
+                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part08.rar",
+                        "direct_link": "https://pixeldrain.com/u/7QNB783r"
                     },
                     {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part09.rar",
-                        "direct_link": "https://pixeldrain.com/u/Kbtwkdc7"
+                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part09.rar",
+                        "direct_link": "https://pixeldrain.com/u/EWgbUnU6"
                     },
                     {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part10.rar",
-                        "direct_link": "https://pixeldrain.com/u/X4XBPHna"
+                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part10.rar",
+                        "direct_link": "https://pixeldrain.com/u/cqqdQUBx"
                     },
                     {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part11.rar",
-                        "direct_link": "https://pixeldrain.com/u/2jBgPcu2"
+                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part11.rar",
+                        "direct_link": "https://pixeldrain.com/u/GyzqXAz5"
                     },
                     {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part12.rar",
-                        "direct_link": "https://pixeldrain.com/u/46ZisDqL"
+                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part12.rar",
+                        "direct_link": "https://pixeldrain.com/u/RqnyXAsH"
                     }
                 ],
                 "Gofile": [
@@ -58750,106 +58812,52 @@
                         "direct_link": "https://gofile.io/d/ODY6JE"
                     },
                     {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part01.rar",
-                        "direct_link": "https://gofile.io/d/TNRFVe"
+                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part01.rar",
+                        "direct_link": "https://gofile.io/d/uHN7IE"
                     },
                     {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part02.rar",
-                        "direct_link": "https://gofile.io/d/C7k5lC"
+                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part02.rar",
+                        "direct_link": "https://gofile.io/d/zJRga4"
                     },
                     {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part03.rar",
-                        "direct_link": "https://gofile.io/d/P2ghoo"
+                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part03.rar",
+                        "direct_link": "https://gofile.io/d/8VUJdQ"
                     },
                     {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part04.rar",
-                        "direct_link": "https://gofile.io/d/LmwOhi"
+                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part04.rar",
+                        "direct_link": "https://gofile.io/d/4yqTrO"
                     },
                     {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part05.rar",
-                        "direct_link": "https://gofile.io/d/ES77bw"
+                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part05.rar",
+                        "direct_link": "https://gofile.io/d/t78zsm"
                     },
                     {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part06.rar",
-                        "direct_link": "https://gofile.io/d/CiLKPI"
+                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part06.rar",
+                        "direct_link": "https://gofile.io/d/CWmeSZ"
                     },
                     {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part07.rar",
-                        "direct_link": "https://gofile.io/d/OBI4ge"
+                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part07.rar",
+                        "direct_link": "https://gofile.io/d/bqfj7U"
                     },
                     {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part08.rar",
-                        "direct_link": "https://gofile.io/d/bbJI6W"
+                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part08.rar",
+                        "direct_link": "https://gofile.io/d/AdJ1vt"
                     },
                     {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part09.rar",
-                        "direct_link": "https://gofile.io/d/VO3ChV"
+                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part09.rar",
+                        "direct_link": "https://gofile.io/d/QhzC3P"
                     },
                     {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part10.rar",
-                        "direct_link": "https://gofile.io/d/Ps7zIZ"
+                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part10.rar",
+                        "direct_link": "https://gofile.io/d/f8iumd"
                     },
                     {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part11.rar",
-                        "direct_link": "https://gofile.io/d/jNrxPj"
+                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part11.rar",
+                        "direct_link": "https://gofile.io/d/1uKlFa"
                     },
                     {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part12.rar",
-                        "direct_link": "https://gofile.io/d/Js35YS"
-                    }
-                ],
-                "Rootz": [
-                    {
-                        "file_name": "INAZUMAELEVENVictoryRoad_Fix_Repair_Steam_V2_Generic.rar",
-                        "direct_link": "https://rootz.so/d/1TSBGa"
-                    },
-                    {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part01.rar",
-                        "direct_link": "https://rootz.so/d/Of8uO"
-                    },
-                    {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part02.rar",
-                        "direct_link": "https://rootz.so/d/1bLNbc"
-                    },
-                    {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part03.rar",
-                        "direct_link": "https://rootz.so/d/1xdXCy"
-                    },
-                    {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part04.rar",
-                        "direct_link": "https://rootz.so/d/b0dGq"
-                    },
-                    {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part05.rar",
-                        "direct_link": "https://rootz.so/d/25hEw4"
-                    },
-                    {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part06.rar",
-                        "direct_link": "https://rootz.so/d/Ov4kK"
-                    },
-                    {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part07.rar",
-                        "direct_link": "https://rootz.so/d/2E0sV6"
-                    },
-                    {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part08.rar",
-                        "direct_link": "https://rootz.so/d/d9Wgi"
-                    },
-                    {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part09.rar",
-                        "direct_link": "https://rootz.so/d/2KhUSO"
-                    },
-                    {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part10.rar",
-                        "direct_link": "https://rootz.so/d/Lf1Si"
-                    },
-                    {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part11.rar",
-                        "direct_link": "https://rootz.so/d/vflGS"
-                    },
-                    {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part12.rar",
-                        "direct_link": "https://rootz.so/d/1BnAie"
+                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part12.rar",
+                        "direct_link": "https://gofile.io/d/aDuad8"
                     }
                 ],
                 "VikingFile": [
@@ -58858,60 +58866,60 @@
                         "direct_link": "https://vikingfile.com/f/o4FORaE97F"
                     },
                     {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part01.rar",
-                        "direct_link": "https://vikingfile.com/f/gy6CxbQZ2Z"
+                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part01.rar",
+                        "direct_link": "https://vikingfile.com/f/eiA4puau8k"
                     },
                     {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part02.rar",
-                        "direct_link": "https://vikingfile.com/f/DSbo29DLZB"
+                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part02.rar",
+                        "direct_link": "https://vikingfile.com/f/iEtuHOxsWC"
                     },
                     {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part03.rar",
-                        "direct_link": "https://vikingfile.com/f/58ngjc25Xs"
+                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part03.rar",
+                        "direct_link": "https://vikingfile.com/f/KSSS1DeTDj"
                     },
                     {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part04.rar",
-                        "direct_link": "https://vikingfile.com/f/1DI1cagMSQ"
+                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part04.rar",
+                        "direct_link": "https://vikingfile.com/f/TNAWbNdQGe"
                     },
                     {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part05.rar",
-                        "direct_link": "https://vikingfile.com/f/PBKCZKecfv"
+                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part05.rar",
+                        "direct_link": "https://vikingfile.com/f/HTBFuqCfgZ"
                     },
                     {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part06.rar",
-                        "direct_link": "https://vikingfile.com/f/QM0FUV4Uhj"
+                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part06.rar",
+                        "direct_link": "https://vikingfile.com/f/ICRxoz5XBx"
                     },
                     {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part07.rar",
-                        "direct_link": "https://vikingfile.com/f/ITPb6qijmw"
+                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part07.rar",
+                        "direct_link": "https://vikingfile.com/f/LuJs8mRzTf"
                     },
                     {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part08.rar",
-                        "direct_link": "https://vikingfile.com/f/wXd9bNlVi0"
+                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part08.rar",
+                        "direct_link": "https://vikingfile.com/f/20lUiHgM3B"
                     },
                     {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part09.rar",
-                        "direct_link": "https://vikingfile.com/f/5JdGWfsZJt"
+                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part09.rar",
+                        "direct_link": "https://vikingfile.com/f/s0rqJW4Jut"
                     },
                     {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part10.rar",
-                        "direct_link": "https://vikingfile.com/f/WRHXpQUXWD"
+                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part10.rar",
+                        "direct_link": "https://vikingfile.com/f/4ZurjTYtft"
                     },
                     {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part11.rar",
-                        "direct_link": "https://vikingfile.com/f/4EtUh1lKzx"
+                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part11.rar",
+                        "direct_link": "https://vikingfile.com/f/7GVAVpmnJR"
                     },
                     {
-                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part12.rar",
-                        "direct_link": "https://vikingfile.com/f/XFIaRzTXVF"
+                        "file_name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part12.rar",
+                        "direct_link": "https://vikingfile.com/f/ZfyeME24jx"
                     }
                 ]
             },
-            "unique_hash": "58b522a8445aeda822d75766e367817f41e09b77",
-            "fileSize": "58.96 GB",
-            "magnet": "magnet:?xt=urn:btih:58b522a8445aeda822d75766e367817f41e09b77&dn=INAZUMA%20ELEVEN%20Victory%20Road&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
-            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_10/INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.torrent",
-            "created_at": "2026-06-15 10:54:12",
+            "unique_hash": "3e49d420c38b864a0b6689c2777f17d3a450a747",
+            "fileSize": "59.17 GB",
+            "magnet": "magnet:?xt=urn:btih:3e49d420c38b864a0b6689c2777f17d3a450a747&dn=INAZUMA%20ELEVEN%20Victory%20Road&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_11/INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.torrent",
+            "created_at": "2026-07-14 09:09:35",
             "webdav_updated_at": "Unknown",
             "files": [
                 {
@@ -58919,51 +58927,51 @@
                     "size": "23.72 MB"
                 },
                 {
-                    "name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part01.rar",
+                    "name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part01.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part02.rar",
+                    "name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part02.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part03.rar",
+                    "name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part03.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part04.rar",
+                    "name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part04.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part10.rar",
+                    "name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part05.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part11.rar",
+                    "name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part12.rar",
+                    "size": "4.15 GB"
+                },
+                {
+                    "name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part06.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part12.rar",
-                    "size": "3.93 GB"
-                },
-                {
-                    "name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part05.rar",
+                    "name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part07.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part06.rar",
+                    "name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part08.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part07.rar",
+                    "name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part09.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part08.rar",
+                    "name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part10.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "INAZUMA.ELEVEN.Victory.Road.v6.0.2-OFME.part09.rar",
+                    "name": "INAZUMA.ELEVEN.Victory.Road.v7.0.2-OFME.part11.rar",
                     "size": "5.00 GB"
                 }
             ],
@@ -70092,14 +70100,14 @@
         },
         {
             "title": "Meccha Chameleon",
-            "page": 1,
+            "page": 2,
             "url": "https://online-fix.me/games/officialservers/18138-meccha-chameleon-po-seti.html",
             "last_update": "2026-06-10T18:31:51+03:00",
             "release_date": "10.06.2026",
-            "update_info": "Обновлено 1 июля 2026, 16:30. Игра обновлена до версии 2.3.0.",
-            "update_date": "2026-07-01T16:30:00+03:00",
-            "formatted_update_date": "2026-07-01 16:30:00",
-            "scraped_at": "2026-07-03 16:10:40",
+            "update_info": "Обновлено Сегодня, 15:13. Игра обновлена до версии 2.7.1.",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-07-14 16:10:58",
             "steam": {
                 "steam_appid": 4704690,
                 "match_score": 100,
@@ -70168,24 +70176,20 @@
                 ]
             },
             "hoster_links": {
-                "Rootz": [
-                    {
-                        "file_name": "MecchaChameleon_Fix_Repair_Steam_Generic.rar",
-                        "direct_link": "https://rootz.so/d/1NkMz2"
-                    },
-                    {
-                        "file_name": "MECCHA.CHAMELEON.v2.3.0-OFME.rar",
-                        "direct_link": "https://rootz.so/d/2IUQNM"
-                    }
-                ],
                 "FileDitch": [
                     {
                         "file_name": "MecchaChameleon_Fix_Repair_Steam_Generic.rar",
                         "direct_link": "https://fileditchfiles.me/alpha7/314054d191ac940aa154/MecchaChameleon_Fix_Repair_Steam_Generic.rar"
                     },
                     {
-                        "file_name": "MECCHA.CHAMELEON.v2.3.0-OFME.rar",
-                        "direct_link": "https://fileditchfiles.me/alpha11/ac4e814ba71c0fa73e08/MECCHA.CHAMELEON.v2.3.0-OFME.rar"
+                        "file_name": "MECCHA.CHAMELEON.v2.7.1-OFME.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha15/c0dc937c48311617741a/MECCHA.CHAMELEON.v2.7.1-OFME.rar"
+                    }
+                ],
+                "Rootz": [
+                    {
+                        "file_name": "MecchaChameleon_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://rootz.so/d/1NkMz2"
                     }
                 ],
                 "Pixeldrain": [
@@ -70194,8 +70198,8 @@
                         "direct_link": "https://pixeldrain.com/u/oUddCqfx"
                     },
                     {
-                        "file_name": "MECCHA.CHAMELEON.v2.3.0-OFME.rar",
-                        "direct_link": "https://pixeldrain.com/u/anjeSHgp"
+                        "file_name": "MECCHA.CHAMELEON.v2.7.1-OFME.rar",
+                        "direct_link": "https://pixeldrain.com/u/XJX4p8at"
                     }
                 ],
                 "Gofile": [
@@ -70204,8 +70208,8 @@
                         "direct_link": "https://gofile.io/d/PS0BYh"
                     },
                     {
-                        "file_name": "MECCHA.CHAMELEON.v2.3.0-OFME.rar",
-                        "direct_link": "https://gofile.io/d/ahEqYu"
+                        "file_name": "MECCHA.CHAMELEON.v2.7.1-OFME.rar",
+                        "direct_link": "https://gofile.io/d/CsyeJE"
                     }
                 ],
                 "VikingFile": [
@@ -70214,21 +70218,21 @@
                         "direct_link": "https://vikingfile.com/f/AVYUExoDYb"
                     },
                     {
-                        "file_name": "MECCHA.CHAMELEON.v2.3.0-OFME.rar",
-                        "direct_link": "https://vikingfile.com/f/jfR75qeNjT"
+                        "file_name": "MECCHA.CHAMELEON.v2.7.1-OFME.rar",
+                        "direct_link": "https://vikingfile.com/f/WqaIzKVwcB"
                     }
                 ]
             },
-            "unique_hash": "1b8960535ca6cb8773c1b5b8152737c3fcabf49f",
-            "fileSize": "2.46 GB",
-            "magnet": "magnet:?xt=urn:btih:1b8960535ca6cb8773c1b5b8152737c3fcabf49f&dn=Meccha%20Chameleon&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
-            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_1/MECCHA.CHAMELEON.v2.3.0-OFME.torrent",
-            "created_at": "2026-07-01 11:06:12",
+            "unique_hash": "6a5a71c17a72b78f87079f25c4eeca7a333c02f3",
+            "fileSize": "2.68 GB",
+            "magnet": "magnet:?xt=urn:btih:6a5a71c17a72b78f87079f25c4eeca7a333c02f3&dn=Meccha%20Chameleon&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_2/MECCHA.CHAMELEON.v2.7.1-OFME.torrent",
+            "created_at": "2026-07-14 09:32:58",
             "webdav_updated_at": "Unknown",
             "files": [
                 {
-                    "name": "MECCHA.CHAMELEON.v2.3.0-OFME.rar",
-                    "size": "2.44 GB"
+                    "name": "MECCHA.CHAMELEON.v2.7.1-OFME.rar",
+                    "size": "2.65 GB"
                 },
                 {
                     "name": "Fix Repair/MecchaChameleon_Fix_Repair_Steam_Generic.rar",
@@ -84124,10 +84128,10 @@
             "url": "https://online-fix.me/games/survival/17411-oxygen-not-included-po-seti.html",
             "last_update": "2023-12-15T22:38:39+03:00",
             "release_date": "30.07.2019",
-            "update_info": "Обновлено Сегодня, 17:02. Игра обновлена до версии Build 07072026. Обновлён мод.",
+            "update_info": "Обновлено Вчера, 17:02. Игра обновлена до версии Build 07072026. Обновлён мод.",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-07-13 16:18:34",
+            "scraped_at": "2026-07-14 16:11:07",
             "steam": {
                 "steam_appid": 457140,
                 "match_score": 100,
@@ -86323,10 +86327,10 @@
             "url": "https://online-fix.me/games/officialservers/17429-palworld-po-seti.html",
             "last_update": "2024-01-21T22:22:15+03:00",
             "release_date": "10.07.2026",
-            "update_info": "Обновлено Сегодня, 16:59. Игра обновлена до версии до релизной версии.",
+            "update_info": "Обновлено Вчера, 16:59. Игра обновлена до версии до релизной версии.",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-07-13 16:18:34",
+            "scraped_at": "2026-07-14 16:11:07",
             "steam": {
                 "steam_appid": 1623730,
                 "match_score": 100,
@@ -94331,14 +94335,14 @@
         },
         {
             "title": "Ratatan",
-            "page": 11,
+            "page": 14,
             "url": "https://online-fix.me/games/adventures/17884-ratatan-po-seti.html",
             "last_update": "2025-09-25T16:57:24+03:00",
             "release_date": "18.09.2025",
-            "update_info": "",
+            "update_info": "Обновлено Сегодня, 15:14. Игра обновлена до версии 0.7.14.",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-05-11 19:50:15",
+            "scraped_at": "2026-07-14 16:10:54",
             "steam": {
                 "steam_appid": 2949320,
                 "match_score": 100,
@@ -94352,64 +94356,128 @@
                     "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows® 10 64-bit\n\nProcessador: Dual Core 2.4 GHz\n\nMemória: 8 GB de RAM\n\nPlaca gráfica: GeForce GTX 950, Radeon R7 360, or Intel HD Graphics 630\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 10 GB de espaço livre\n\nNotas adicionais: É necessária uma ligação à Internet com um tipo de NAT não simétrico (por ex., aberto ou moderado) para jogar em modo cooperativo online.",
                     "recommended": "Recomendados:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows® 11 64-bit\n\nProcessador: Quad Core 2.4 GHz\n\nMemória: 16 GB de RAM\n\nPlaca gráfica: GeForce RTX 2060, Radeon RX 5600 XT o Intel Arc A580\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 10 GB de espaço livre\n\nNotas adicionais: É necessária uma ligação à Internet com um tipo de NAT não simétrico (por ex., aberto ou moderado) para jogar em modo cooperativo online."
                 },
-                "controller_support": "full"
-            },
-            "hoster_links": {
-                "DataNodes": [
+                "controller_support": "full",
+                "categories": [
                     {
-                        "file_name": "Ratatan_Fix_Repair_Steam_Generic.rar",
-                        "direct_link": "https://datanodes.to/hf45z9xd0tuj"
+                        "id": 2,
+                        "description": "Um jogador"
                     },
                     {
-                        "file_name": "Ratatan.v0.5.5-OFME.rar",
-                        "direct_link": "https://datanodes.to/i0ov9frqq4w7"
+                        "id": 1,
+                        "description": "Multijogador"
+                    },
+                    {
+                        "id": 9,
+                        "description": "Co-op"
+                    },
+                    {
+                        "id": 38,
+                        "description": "Co-op online"
+                    },
+                    {
+                        "id": 28,
+                        "description": "Compatibilidade total com comando"
+                    },
+                    {
+                        "id": 55,
+                        "description": "Compatibilidade com DUALSHOCK"
+                    },
+                    {
+                        "id": 57,
+                        "description": "Compatibilidade com DualSense"
+                    },
+                    {
+                        "id": 23,
+                        "description": "Steam Cloud"
+                    },
+                    {
+                        "id": 62,
+                        "description": "Partilha de Biblioteca"
                     }
                 ],
-                "VikingFile": [
+                "genres": [
                     {
-                        "file_name": "Ratatan_Fix_Repair_Steam_Generic.rar",
-                        "direct_link": "https://vikingfile.com/f/kZSQvjqJK5"
+                        "id": "1",
+                        "description": "Ação"
                     },
                     {
-                        "file_name": "Ratatan.v0.5.5-OFME.rar",
-                        "direct_link": "https://vikingfile.com/f/jPIOHXLMjb"
+                        "id": "25",
+                        "description": "Aventura"
+                    },
+                    {
+                        "id": "4",
+                        "description": "Casual"
+                    },
+                    {
+                        "id": "23",
+                        "description": "Indie"
+                    },
+                    {
+                        "id": "3",
+                        "description": "RPG"
+                    },
+                    {
+                        "id": "70",
+                        "description": "Acesso Antecipado"
+                    }
+                ]
+            },
+            "hoster_links": {
+                "FileDitch": [
+                    {
+                        "file_name": "Ratatan_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha15/b7eb5a08e04126fd97fe/Ratatan_Fix_Repair_Steam_Generic.rar"
+                    },
+                    {
+                        "file_name": "Ratatan.v0.7.14-OFME.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha15/306c198287438a2d5084/Ratatan.v0.7.14-OFME.rar"
                     }
                 ],
                 "Pixeldrain": [
                     {
                         "file_name": "Ratatan_Fix_Repair_Steam_Generic.rar",
-                        "direct_link": "https://pixeldrain.com/u/G2y2FKKf"
+                        "direct_link": "https://pixeldrain.com/u/L3VqyAFj"
                     },
                     {
-                        "file_name": "Ratatan.v0.5.5-OFME.rar",
-                        "direct_link": "https://pixeldrain.com/u/g7Jfoq69"
+                        "file_name": "Ratatan.v0.7.14-OFME.rar",
+                        "direct_link": "https://pixeldrain.com/u/Ljyy2XM3"
                     }
                 ],
                 "Gofile": [
                     {
                         "file_name": "Ratatan_Fix_Repair_Steam_Generic.rar",
-                        "direct_link": "https://gofile.io/d/QsfAwQ"
+                        "direct_link": "https://gofile.io/d/PrphXq"
                     },
                     {
-                        "file_name": "Ratatan.v0.5.5-OFME.rar",
-                        "direct_link": "https://gofile.io/d/HETJJ9"
+                        "file_name": "Ratatan.v0.7.14-OFME.rar",
+                        "direct_link": "https://gofile.io/d/CZrf7q"
+                    }
+                ],
+                "VikingFile": [
+                    {
+                        "file_name": "Ratatan_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://vikingfile.com/f/7iTCF0mU59"
+                    },
+                    {
+                        "file_name": "Ratatan.v0.7.14-OFME.rar",
+                        "direct_link": "https://vikingfile.com/f/Rg9JmWfgTA"
                     }
                 ]
             },
-            "unique_hash": "1e3726ee17c9c6359051647e4e7bc342ec2b5837",
-            "fileSize": "1.52 GB",
-            "magnet": "magnet:?xt=urn:btih:1e3726ee17c9c6359051647e4e7bc342ec2b5837&dn=Ratatan&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
-            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_11/Ratatan.v0.5.5-OFME.torrent",
-            "created_at": "2025-09-25 09:04:05",
+            "unique_hash": "994aa3f192d8e1bb8cf615ea9b36f95ca8c894c0",
+            "fileSize": "1.46 GB",
+            "magnet": "magnet:?xt=urn:btih:994aa3f192d8e1bb8cf615ea9b36f95ca8c894c0&dn=Ratatan&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_14/Ratatan.v0.7.14-OFME.torrent",
+            "created_at": "2026-07-14 09:33:31",
             "webdav_updated_at": "Unknown",
             "files": [
                 {
                     "name": "Fix Repair/Ratatan_Fix_Repair_Steam_Generic.rar",
-                    "size": "10.10 MB"
+                    "size": "11.08 MB"
                 },
                 {
-                    "name": "Ratatan.v0.5.5-OFME.rar",
-                    "size": "1.51 GB"
+                    "name": "Ratatan.v0.7.14-OFME.rar",
+                    "size": "1.45 GB"
                 }
             ],
             "comment": ""

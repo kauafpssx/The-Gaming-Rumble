@@ -12,28 +12,25 @@
   "pages_scraped_target": 93,
   "pages_present_in_json": 91,
   "last_page_in_json": 91,
-  "new_games_found_this_run": 152,
-  "new_games_added_to_json_this_run": 6,
-  "latest_run_new_game_names": [
-    "Football Pitch Simulator",
-    "Trail & Error",
-    "Ticket to Ride",
-    "Pyramidion",
-    "Cat Mail Co.",
-    "Sineus Arena Survivors"
-  ],
-  "updated_games_this_run": 2,
+  "new_games_found_this_run": 150,
+  "new_games_added_to_json_this_run": 0,
+  "latest_run_new_game_names": [],
+  "updated_games_this_run": 6,
   "latest_run_updated_game_names": [
+    "INAZUMA ELEVEN Victory Road",
+    "Ratatan",
+    "Meccha Chameleon",
+    "Granblue Fantasy Relink",
     "Palworld",
     "Oxygen Not Included"
   ],
-  "processed_games_this_run": 8,
-  "torrent_files_total": 1879,
+  "processed_games_this_run": 6,
+  "torrent_files_total": 1883,
   "json_entries_with_torrent": 1783,
   "games_with_providers": 813,
-  "last_scrape_at": "2026-07-13 16:18:34",
-  "last_scrape_at_display": "13/07/2026",
+  "last_scrape_at": "2026-07-14 16:11:07",
+  "last_scrape_at_display": "14/07/2026",
   "last_game_update": "2026-07-13T17:08:59+03:00",
-  "generated_at": "2026-07-13 16:20:07",
-  "generated_at_display": "13/07/2026"
+  "generated_at": "2026-07-14 16:12:47",
+  "generated_at_display": "14/07/2026"
 }

@@ -1,5 +1,5 @@
 {
-    "total": 1783,
+    "total": 1786,
     "downloads": [
         {
             "title": "10 Miles to Safety",
@@ -2600,19 +2600,19 @@
         },
         {
             "title": "Abyssus",
-            "page": 12,
+            "page": 15,
             "url": "https://online-fix.me/games/adventures/17847-abyssus-po-seti.html",
             "last_update": "2025-08-14T13:45:52+03:00",
             "release_date": "12.08.2025",
-            "update_info": "Обновлено 6 февраля 2026, 02:35. Игра обновлена до версии 1.2.56034. Добавлен Steam-Fix V2.",
-            "update_date": "2026-02-06T02:35:00+03:00",
-            "formatted_update_date": "2026-02-06 02:35:00",
-            "scraped_at": "2026-05-11 19:50:43",
+            "update_info": "Обновлено Сегодня, 13:52. Игра обновлена до версии 1.3.62055.",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-07-15 16:03:07",
             "steam": {
                 "steam_appid": 1721110,
                 "match_score": 100,
                 "match_via": "canon",
-                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1721110/ec646be95fc7565db6952ad4c42a687c3244cf76/header.jpg?t=1770917612",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1721110/ab3d426c24eafe0788925dcc81084109746be9b4/header_alt_assets_2.jpg?t=1782399113",
                 "short_description": "Escolhe o teu arsenal, abre caminho com explosões através dos habitantes corrompidos de uma antiga civilização subaquática e empunha os poderes divinos no Abyssus: um FPS dinâmico de 1 a 4 jogadores e uma aventura salmoura-punk roguelite.",
                 "short_description_native": "Escolhe o teu arsenal, abre caminho com explosões através dos habitantes corrompidos de uma antiga civilização subaquática e empunha os poderes divinos no Abyssus: um FPS dinâmico de 1 a 4 jogadores e uma aventura salmoura-punk roguelite.",
                 "price_brl": "R$ 73,99",
@@ -2621,74 +2621,132 @@
                     "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10\n\nProcessador: Intel Core i7-8700K or AMD Ryzen 5 1600X\n\nMemória: 8 GB de RAM\n\nPlaca gráfica: NVIDIA GeForce GTX 750 Ti, 2GB or AMD Radeon R7 360, 2GB\n\nDirectX: Versão 11\n\nEspaço no disco: Requer 10 GB de espaço livre\n\nNotas adicionais: Low 1080p @ 30 FPS",
                     "recommended": "Recomendados:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 11\n\nProcessador: Intel Core i7-11700K or AMD Ryzen 7 3700X\n\nMemória: 8 GB de RAM\n\nPlaca gráfica: NVIDIA GeForce GTX 1650 SUPER, 4GB or AMD Radeon RX 5600, 6GB\n\nDirectX: Versão 11\n\nEspaço no disco: Requer 10 GB de espaço livre\n\nNotas adicionais: High 1080p @ 60 FPS"
                 },
-                "controller_support": null
+                "controller_support": null,
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Um jogador"
+                    },
+                    {
+                        "id": 1,
+                        "description": "Multijogador"
+                    },
+                    {
+                        "id": 9,
+                        "description": "Co-op"
+                    },
+                    {
+                        "id": 38,
+                        "description": "Co-op online"
+                    },
+                    {
+                        "id": 22,
+                        "description": "Proezas Steam"
+                    },
+                    {
+                        "id": 68,
+                        "description": "Controlos de volume independentes"
+                    },
+                    {
+                        "id": 23,
+                        "description": "Steam Cloud"
+                    },
+                    {
+                        "id": 62,
+                        "description": "Partilha de Biblioteca"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "1",
+                        "description": "Ação"
+                    },
+                    {
+                        "id": "25",
+                        "description": "Aventura"
+                    },
+                    {
+                        "id": "23",
+                        "description": "Indie"
+                    }
+                ]
             },
             "hoster_links": {
-                "Rootz": [
+                "FileDitch": [
                     {
                         "file_name": "Abyssus_Fix_Repair_Steam_V2_Generic.rar",
-                        "direct_link": "https://www.rootz.so/d/1AgT1U"
+                        "direct_link": "https://fileditchfiles.st/alpha16/61807d22e8c6eeee22dd/Abyssus_Fix_Repair_Steam_V2_Generic.rar"
                     },
                     {
-                        "file_name": "Abyssus.v1.2.56034-OFME.rar",
-                        "direct_link": "https://www.rootz.so/d/1f2KLw"
-                    }
-                ],
-                "VikingFile": [
-                    {
-                        "file_name": "Abyssus_Fix_Repair_Steam_V2_Generic.rar",
-                        "direct_link": "https://vikingfile.com/f/JsrMY00wuw"
+                        "file_name": "Abyssus.v1.3.62055-OFME.part1.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha16/960b6b376857e217a4c5/Abyssus.v1.3.62055-OFME.part1.rar"
                     },
                     {
-                        "file_name": "Abyssus.v1.2.56034-OFME.rar",
-                        "direct_link": "https://vikingfile.com/f/D1Ceg6v9H0"
-                    }
-                ],
-                "Gofile": [
-                    {
-                        "file_name": "Abyssus_Fix_Repair_Steam_V2_Generic.rar",
-                        "direct_link": "https://gofile.io/d/TUvU0P"
-                    },
-                    {
-                        "file_name": "Abyssus.v1.2.56034-OFME.rar",
-                        "direct_link": "https://gofile.io/d/7DHCYL"
+                        "file_name": "Abyssus.v1.3.62055-OFME.part2.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha16/20d909e1161299f0dbd6/Abyssus.v1.3.62055-OFME.part2.rar"
                     }
                 ],
                 "Pixeldrain": [
                     {
                         "file_name": "Abyssus_Fix_Repair_Steam_V2_Generic.rar",
-                        "direct_link": "https://pixeldrain.com/u/zmpYyRSa"
+                        "direct_link": "https://pixeldrain.com/u/uA6vUFfk"
                     },
                     {
-                        "file_name": "Abyssus.v1.2.56034-OFME.rar",
-                        "direct_link": "https://pixeldrain.com/u/MtNEGsfo"
+                        "file_name": "Abyssus.v1.3.62055-OFME.part1.rar",
+                        "direct_link": "https://pixeldrain.com/u/zsuXeNtx"
+                    },
+                    {
+                        "file_name": "Abyssus.v1.3.62055-OFME.part2.rar",
+                        "direct_link": "https://pixeldrain.com/u/hFNMHQAn"
                     }
                 ],
-                "DataNodes": [
+                "Gofile": [
                     {
                         "file_name": "Abyssus_Fix_Repair_Steam_V2_Generic.rar",
-                        "direct_link": "https://datanodes.to/rxxj66a4vcxq"
+                        "direct_link": "https://gofile.io/d/XGumVE"
                     },
                     {
-                        "file_name": "Abyssus.v1.2.56034-OFME.rar",
-                        "direct_link": "https://datanodes.to/er4p3nen0oge"
+                        "file_name": "Abyssus.v1.3.62055-OFME.part1.rar",
+                        "direct_link": "https://gofile.io/d/L3Sib8"
+                    },
+                    {
+                        "file_name": "Abyssus.v1.3.62055-OFME.part2.rar",
+                        "direct_link": "https://gofile.io/d/IwnPXA"
+                    }
+                ],
+                "VikingFile": [
+                    {
+                        "file_name": "Abyssus_Fix_Repair_Steam_V2_Generic.rar",
+                        "direct_link": "https://vikingfile.com/f/x2Lz4bHIPO"
+                    },
+                    {
+                        "file_name": "Abyssus.v1.3.62055-OFME.part1.rar",
+                        "direct_link": "https://vikingfile.com/f/4KbKqP2Mly"
+                    },
+                    {
+                        "file_name": "Abyssus.v1.3.62055-OFME.part2.rar",
+                        "direct_link": "https://vikingfile.com/f/enBeCoYvyl"
                     }
                 ]
             },
-            "unique_hash": "513314547caea8138ff136edb7b8209d1f3b67e2",
-            "fileSize": "4.65 GB",
-            "magnet": "magnet:?xt=urn:btih:513314547caea8138ff136edb7b8209d1f3b67e2&dn=Abyssus&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
-            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_12/Abyssus.v1.2.56034-OFME.torrent",
-            "created_at": "2026-02-05 20:32:19",
+            "unique_hash": "fc20cf2e631167e1de622cc15c6c75eeca67a0a8",
+            "fileSize": "5.41 GB",
+            "magnet": "magnet:?xt=urn:btih:fc20cf2e631167e1de622cc15c6c75eeca67a0a8&dn=Abyssus&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_15/Abyssus.v1.3.62055-OFME.torrent",
+            "created_at": "2026-07-15 07:47:36",
             "webdav_updated_at": "Unknown",
             "files": [
                 {
-                    "name": "Abyssus.v1.2.56034-OFME.rar",
-                    "size": "4.63 GB"
+                    "name": "Abyssus.v1.3.62055-OFME.part1.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Abyssus.v1.3.62055-OFME.part2.rar",
+                    "size": "391.32 MB"
                 },
                 {
                     "name": "Fix Repair/Abyssus_Fix_Repair_Steam_V2_Generic.rar",
-                    "size": "22.69 MB"
+                    "size": "23.75 MB"
                 }
             ],
             "comment": ""
@@ -42991,6 +43049,175 @@
             "comment": ""
         },
         {
+            "title": "Forest Escape Last Train",
+            "page": 1,
+            "url": "https://online-fix.me/games/officialservers/18163-forest-escape-last-train-po-seti.html",
+            "last_update": "2026-07-15T13:53:47+03:00",
+            "release_date": "10.07.2026",
+            "update_info": "",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-07-15 16:02:56",
+            "steam": {
+                "steam_appid": 4090360,
+                "match_score": 100,
+                "match_via": "canon",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4090360/5a5b369294e9cb25caa6e0b6eb0f579ba2f2b4f0/header_alt_assets_2.jpg?t=1783936600",
+                "short_description": "Forest Escape: Last Train é um jogo de terror surreal cooperativo para 1–4 jogadores. Explore locais bizarros de pesadelo, recolha recursos, resolva os puzzles retorcidos do Guardião enlouquecido e mantenha a sua locomotiva em funcionamento enquanto luta para escapar do seu mundo desequilibrado.",
+                "short_description_native": "Forest Escape: Last Train é um jogo de terror surreal cooperativo para 1–4 jogadores. Explore locais bizarros de pesadelo, recolha recursos, resolva os puzzles retorcidos do Guardião enlouquecido e mantenha a sua locomotiva em funcionamento enquanto luta para escapar do seu mundo desequilibrado.",
+                "price_brl": "R$ 29,99",
+                "is_free": false,
+                "pc_requirements": {
+                    "minimum": "Mínimos:\n\nSistema Operativo: Windows 10\n\nProcessador: Intel Core i5 8400\n\nMemória: 16 GB de RAM\n\nPlaca gráfica: NVIDIA GeForce GTX 1050\n\nDirectX: Versão 12\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 6 GB de espaço livre",
+                    "recommended": null
+                },
+                "controller_support": null,
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Um jogador"
+                    },
+                    {
+                        "id": 1,
+                        "description": "Multijogador"
+                    },
+                    {
+                        "id": 9,
+                        "description": "Co-op"
+                    },
+                    {
+                        "id": 38,
+                        "description": "Co-op online"
+                    },
+                    {
+                        "id": 27,
+                        "description": "Multijogador interplataformas"
+                    },
+                    {
+                        "id": 22,
+                        "description": "Proezas Steam"
+                    },
+                    {
+                        "id": 68,
+                        "description": "Controlos de volume independentes"
+                    },
+                    {
+                        "id": 74,
+                        "description": "Jogável sem necessitar de ações rápidas ou precisas"
+                    },
+                    {
+                        "id": 18,
+                        "description": "Compatibilidade parcial com comando"
+                    },
+                    {
+                        "id": 23,
+                        "description": "Steam Cloud"
+                    },
+                    {
+                        "id": 62,
+                        "description": "Partilha de Biblioteca"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "1",
+                        "description": "Ação"
+                    },
+                    {
+                        "id": "25",
+                        "description": "Aventura"
+                    },
+                    {
+                        "id": "23",
+                        "description": "Indie"
+                    },
+                    {
+                        "id": "70",
+                        "description": "Acesso Antecipado"
+                    }
+                ]
+            },
+            "hoster_links": {
+                "FileDitch": [
+                    {
+                        "file_name": "ForestEscapeLastTrain_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha16/a93aded87a5320e3e887/ForestEscapeLastTrain_Fix_Repair_Steam_Generic.rar"
+                    },
+                    {
+                        "file_name": "Forest.Escape.Last.Train.v0.48-OFME.part1.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha16/f828e1fc494cf74e3b06/Forest.Escape.Last.Train.v0.48-OFME.part1.rar"
+                    },
+                    {
+                        "file_name": "Forest.Escape.Last.Train.v0.48-OFME.part2.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha16/f6af8fb956b53423caa5/Forest.Escape.Last.Train.v0.48-OFME.part2.rar"
+                    }
+                ],
+                "Pixeldrain": [
+                    {
+                        "file_name": "ForestEscapeLastTrain_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://pixeldrain.com/u/91M8Hc4X"
+                    },
+                    {
+                        "file_name": "Forest.Escape.Last.Train.v0.48-OFME.part1.rar",
+                        "direct_link": "https://pixeldrain.com/u/Uw67QVXo"
+                    },
+                    {
+                        "file_name": "Forest.Escape.Last.Train.v0.48-OFME.part2.rar",
+                        "direct_link": "https://pixeldrain.com/u/F5PcFnjf"
+                    }
+                ],
+                "Gofile": [
+                    {
+                        "file_name": "ForestEscapeLastTrain_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://gofile.io/d/gvtjll"
+                    },
+                    {
+                        "file_name": "Forest.Escape.Last.Train.v0.48-OFME.part1.rar",
+                        "direct_link": "https://gofile.io/d/HsEj7r"
+                    },
+                    {
+                        "file_name": "Forest.Escape.Last.Train.v0.48-OFME.part2.rar",
+                        "direct_link": "https://gofile.io/d/ljO8cC"
+                    }
+                ],
+                "VikingFile": [
+                    {
+                        "file_name": "ForestEscapeLastTrain_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://vikingfile.com/f/16UFbuKhxY"
+                    },
+                    {
+                        "file_name": "Forest.Escape.Last.Train.v0.48-OFME.part1.rar",
+                        "direct_link": "https://vikingfile.com/f/bTkZQzmSzp"
+                    },
+                    {
+                        "file_name": "Forest.Escape.Last.Train.v0.48-OFME.part2.rar",
+                        "direct_link": "https://vikingfile.com/f/RlY2FVtn4k"
+                    }
+                ]
+            },
+            "unique_hash": "627abd8c37b05b004b8639c9461f69938a4eb6dc",
+            "fileSize": "6.62 GB",
+            "magnet": "magnet:?xt=urn:btih:627abd8c37b05b004b8639c9461f69938a4eb6dc&dn=Forest%20Escape%20Last%20Train&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_1/Forest.Escape.Last.Train.v0.48-OFME.torrent",
+            "created_at": "2026-07-15 08:52:40",
+            "webdav_updated_at": "Unknown",
+            "files": [
+                {
+                    "name": "Fix Repair/ForestEscapeLastTrain_Fix_Repair_Steam_Generic.rar",
+                    "size": "23.33 MB"
+                },
+                {
+                    "name": "Forest.Escape.Last.Train.v0.48-OFME.part1.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Forest.Escape.Last.Train.v0.48-OFME.part2.rar",
+                    "size": "1.60 GB"
+                }
+            ],
+            "comment": ""
+        },
+        {
             "title": "Forever Skies",
             "page": 21,
             "url": "https://online-fix.me/games/survival/17651-forever-skies-po-seti.html",
@@ -43967,15 +44194,15 @@
             "url": "https://online-fix.me/games/officialservers/18099-forza-horizon-6-po-seti.html",
             "last_update": "2026-05-15T07:00:32+03:00",
             "release_date": "13.05.2026",
-            "update_info": "Обновлено 1 июля 2026, 16:29. Добавлено обновление 382.893. Добавлен Steam-Fix V2.",
-            "update_date": "2026-07-01T16:29:00+03:00",
-            "formatted_update_date": "2026-07-01 16:29:00",
-            "scraped_at": "2026-07-03 16:10:40",
+            "update_info": "Обновлено Сегодня, 13:51. Добавлено обновление 398.092.",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-07-15 16:03:01",
             "steam": {
                 "steam_appid": 2483190,
                 "match_score": 100,
                 "match_via": "canon",
-                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/744a52b2f79bb03825dea2c0fcfa29e330bb2f1e/header_alt_assets_1.jpg?t=1782238812",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/99ff2e08356158cc0aacb4cf192298fc4c45f215/header_alt_assets_2.jpg?t=1784139833",
                 "short_description": "Descobre as paisagens deslumbrantes do Japão em mais de 550 carros do mundo real e torna-te uma Lenda das corridas na maior aventura automobilística de sempre do Forza Horizon em mundo aberto.",
                 "short_description_native": "Descobre as paisagens deslumbrantes do Japão em mais de 550 carros do mundo real e torna-te uma Lenda das corridas na maior aventura automobilística de sempre do Forza Horizon em mundo aberto.",
                 "price_brl": "R$ 299,00",
@@ -44016,7 +44243,7 @@
                     },
                     {
                         "id": 28,
-                        "description": "Compat. total c/ comando"
+                        "description": "Compatibilidade total com comando"
                     },
                     {
                         "id": 29,
@@ -44083,14 +44310,20 @@
                 ]
             },
             "hoster_links": {
+                "FileDitch": [
+                    {
+                        "file_name": "ForzaHorizon6_Fix_Repair_Steam_V2_Generic.rar",
+                        "direct_link": "https://fileditchfiles.me/alpha11/0b369c5a2d6a0b917ec5/ForzaHorizon6_Fix_Repair_Steam_V2_Generic.rar"
+                    },
+                    {
+                        "file_name": "01-Forza.Horizon.6.Update.v354.221.to.v398.092.AiO-OFME.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha16/c43f49faec22658ab9a0/01-Forza.Horizon.6.Update.v354.221.to.v398.092.AiO-OFME.rar"
+                    }
+                ],
                 "Rootz": [
                     {
                         "file_name": "ForzaHorizon6_Fix_Repair_Steam_V2_Generic.rar",
                         "direct_link": "https://rootz.so/d/2ESZVo"
-                    },
-                    {
-                        "file_name": "01-Forza.Horizon.6.Update.v354.221.to.v382.893.AiO-OFME.rar",
-                        "direct_link": "https://rootz.so/d/mAn6O"
                     },
                     {
                         "file_name": "Forza.Horizon.6.v354.221-OFME.part01.rar",
@@ -44213,24 +44446,14 @@
                         "direct_link": "https://rootz.so/d/2NSPQ"
                     }
                 ],
-                "FileDitch": [
-                    {
-                        "file_name": "ForzaHorizon6_Fix_Repair_Steam_V2_Generic.rar",
-                        "direct_link": "https://fileditchfiles.me/alpha11/0b369c5a2d6a0b917ec5/ForzaHorizon6_Fix_Repair_Steam_V2_Generic.rar"
-                    },
-                    {
-                        "file_name": "01-Forza.Horizon.6.Update.v354.221.to.v382.893.AiO-OFME.rar",
-                        "direct_link": "https://fileditchfiles.me/alpha11/6fe4211c66f77357d969/01-Forza.Horizon.6.Update.v354.221.to.v382.893.AiO-OFME.rar"
-                    }
-                ],
                 "Pixeldrain": [
                     {
                         "file_name": "ForzaHorizon6_Fix_Repair_Steam_V2_Generic.rar",
                         "direct_link": "https://pixeldrain.com/u/SZrPdXr7"
                     },
                     {
-                        "file_name": "01-Forza.Horizon.6.Update.v354.221.to.v382.893.AiO-OFME.rar",
-                        "direct_link": "https://pixeldrain.com/u/BqtAn3Eo"
+                        "file_name": "01-Forza.Horizon.6.Update.v354.221.to.v398.092.AiO-OFME.rar",
+                        "direct_link": "https://pixeldrain.com/u/pbakYoqc"
                     },
                     {
                         "file_name": "Forza.Horizon.6.v354.221-OFME.part01.rar",
@@ -44359,8 +44582,8 @@
                         "direct_link": "https://gofile.io/d/yhjDor"
                     },
                     {
-                        "file_name": "01-Forza.Horizon.6.Update.v354.221.to.v382.893.AiO-OFME.rar",
-                        "direct_link": "https://gofile.io/d/bQoeBO"
+                        "file_name": "01-Forza.Horizon.6.Update.v354.221.to.v398.092.AiO-OFME.rar",
+                        "direct_link": "https://gofile.io/d/qkta9m"
                     },
                     {
                         "file_name": "Forza.Horizon.6.v354.221-OFME.part01.rar",
@@ -44489,8 +44712,8 @@
                         "direct_link": "https://vikingfile.com/f/ZkdwhSFOz6"
                     },
                     {
-                        "file_name": "01-Forza.Horizon.6.Update.v354.221.to.v382.893.AiO-OFME.rar",
-                        "direct_link": "https://vikingfile.com/f/x7Z3GCQoug"
+                        "file_name": "01-Forza.Horizon.6.Update.v354.221.to.v398.092.AiO-OFME.rar",
+                        "direct_link": "https://vikingfile.com/f/u3TD5B1VIt"
                     },
                     {
                         "file_name": "Forza.Horizon.6.v354.221-OFME.part01.rar",
@@ -44614,11 +44837,11 @@
                     }
                 ]
             },
-            "unique_hash": "d034f82de9b45cb93d8dfc0a89eab4a26975f322",
-            "fileSize": "151.05 GB",
-            "magnet": "magnet:?xt=urn:btih:d034f82de9b45cb93d8dfc0a89eab4a26975f322&dn=Forza%20Horizon%206&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "unique_hash": "ed8ffc0f5cc9216f1ee1db944da4d24b6d9a4e55",
+            "fileSize": "166.09 GB",
+            "magnet": "magnet:?xt=urn:btih:ed8ffc0f5cc9216f1ee1db944da4d24b6d9a4e55&dn=Forza%20Horizon%206&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
             "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_3/Forza.Horizon.6.v354.221-OFME.torrent",
-            "created_at": "2026-07-01 10:16:27",
+            "created_at": "2026-07-15 07:48:50",
             "webdav_updated_at": "Unknown",
             "files": [
                 {
@@ -44690,8 +44913,8 @@
                     "size": "1.58 GB"
                 },
                 {
-                    "name": "Updates/01-Forza.Horizon.6.Update.v354.221.to.v382.893.AiO-OFME.rar",
-                    "size": "4.46 GB"
+                    "name": "Updates/01-Forza.Horizon.6.Update.v354.221.to.v398.092.AiO-OFME.rar",
+                    "size": "19.49 GB"
                 },
                 {
                     "name": "Forza.Horizon.6.v354.221-OFME.part03.rar",
@@ -51525,10 +51748,10 @@
             "url": "https://online-fix.me/games/adventures/17444-granblue-fantasy-relink-po-seti.html",
             "last_update": "2024-02-02T13:45:45+03:00",
             "release_date": "01.02.2024",
-            "update_info": "Обновлено Сегодня, 12:58. Комментарии закрыты.",
+            "update_info": "Обновлено Вчера, 12:58. Комментарии закрыты.",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-07-14 16:11:06",
+            "scraped_at": "2026-07-15 16:03:22",
             "steam": {
                 "steam_appid": 881020,
                 "match_score": 100,
@@ -58600,10 +58823,10 @@
             "url": "https://online-fix.me/games/officialservers/17939-inazuma-eleven-victory-road-po-seti.html",
             "last_update": "2025-11-11T16:28:35+03:00",
             "release_date": "13.11.2025",
-            "update_info": "Обновлено Сегодня, 15:13. Игра обновлена до версии 7.0.2.",
+            "update_info": "Обновлено Вчера, 15:13. Игра обновлена до версии 7.0.2.",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-07-14 16:10:53",
+            "scraped_at": "2026-07-15 16:03:02",
             "steam": {
                 "steam_appid": 2799860,
                 "match_score": 100,
@@ -58611,7 +58834,7 @@
                 "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2799860/d7e5240b6182e4a085a365503b22aefd2e6ae6cf/header.jpg?t=1764296831",
                 "short_description": "Este novo jogo de futebol hiperdimensional vai incendiar o mundo!",
                 "short_description_native": "Este novo jogo de futebol hiperdimensional vai incendiar o mundo!",
-                "price_brl": "R$ 374,90",
+                "price_brl": "R$ 262,43",
                 "is_free": false,
                 "pc_requirements": {
                     "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 11 64bit\n\nProcessador: Intel Core i5-8400 / AMD Ryzen 3 3100\n\nMemória: 8 GB de RAM\n\nPlaca gráfica: GeForce GTX 750(2GB) /AMD Radeon R7 370(2GB)\n\nDirectX: Versão 11\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 75 GB de espaço livre\n\nPlaca de som: DirectX 11 sound device\n\nNotas adicionais: Estimated performance: 1920x1080@30fps with graphics preset settings at &quot;Low&quot;.",
@@ -70104,10 +70327,10 @@
             "url": "https://online-fix.me/games/officialservers/18138-meccha-chameleon-po-seti.html",
             "last_update": "2026-06-10T18:31:51+03:00",
             "release_date": "10.06.2026",
-            "update_info": "Обновлено Сегодня, 15:13. Игра обновлена до версии 2.7.1.",
+            "update_info": "Обновлено Вчера, 15:13. Игра обновлена до версии 2.7.1.",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-07-14 16:10:58",
+            "scraped_at": "2026-07-15 16:02:55",
             "steam": {
                 "steam_appid": 4704690,
                 "match_score": 100,
@@ -84128,10 +84351,10 @@
             "url": "https://online-fix.me/games/survival/17411-oxygen-not-included-po-seti.html",
             "last_update": "2023-12-15T22:38:39+03:00",
             "release_date": "30.07.2019",
-            "update_info": "Обновлено Вчера, 17:02. Игра обновлена до версии Build 07072026. Обновлён мод.",
-            "update_date": null,
-            "formatted_update_date": null,
-            "scraped_at": "2026-07-14 16:11:07",
+            "update_info": "Обновлено 13 июля 2026, 17:02. Игра обновлена до версии Build 07072026. Обновлён мод.",
+            "update_date": "2026-07-13T17:02:00+03:00",
+            "formatted_update_date": "2026-07-13 17:02:00",
+            "scraped_at": "2026-07-15 16:03:21",
             "steam": {
                 "steam_appid": 457140,
                 "match_score": 100,
@@ -84951,266 +85174,336 @@
         },
         {
             "title": "PAYDAY 3",
-            "page": 36,
+            "page": 39,
             "url": "https://online-fix.me/games/shooter/17335-payday-3-po-seti.html",
             "last_update": "2023-09-19T00:29:34+03:00",
             "release_date": "21.09.2023",
-            "update_info": "Обновлено 5 мая 2026, 19:11. Игра обновлена до версии 1.0.0.0.941010.",
-            "update_date": "2026-05-05T19:11:00+03:00",
-            "formatted_update_date": "2026-05-05 19:11:00",
-            "scraped_at": "2026-05-11 19:57:27",
+            "update_info": "Обновлено Сегодня, 13:52. Игра обновлена до версии 1.0.0.0.965392.",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-07-15 16:03:31",
             "steam": {
                 "steam_appid": 1272080,
                 "match_score": 100,
                 "match_via": "canon",
-                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1272080/d2f9d9bb92bda9eb6a451488d4ddeae460da9366/header.jpg?t=1776766718",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1272080/d2f9d9bb92bda9eb6a451488d4ddeae460da9366/header.jpg?t=1783416228",
                 "short_description": "PAYDAY 3 é o maior de todos os FPS de crime e fantasia. Trabalha sozinho ou conspira em modo cooperativo, escolhe a tua abordagem entre furtiva ou ruidosa, monta um arsenal mortífero e faz o assalto perfeito.",
                 "short_description_native": "PAYDAY 3 é o maior de todos os FPS de crime e fantasia. Trabalha sozinho ou conspira em modo cooperativo, escolhe a tua abordagem entre furtiva ou ruidosa, monta um arsenal mortífero e faz o assalto perfeito.",
-                "price_brl": "R$ 89,99",
+                "price_brl": "R$ 44,99",
                 "is_free": false,
                 "pc_requirements": {
-                    "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10\n\nProcessador: Intel Core i5-9400F\n\nMemória: 16 GB de RAM\n\nPlaca gráfica: Nvidia GTX 1650 (4 GB) or AMD Radeon RX 580 (4GB)\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 65 GB de espaço livre\n\nNotas adicionais: DirectX11, DirectX12 supported",
-                    "recommended": "Recomendados:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10\n\nProcessador: Intel Core i7-9700K\n\nMemória: 16 GB de RAM\n\nPlaca gráfica: Nvidia GTX 1080 (8GB) or AMD RX VEGA 56\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 65 GB de espaço livre\n\nNotas adicionais: DirectX11, DirectX12 supported"
+                    "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10\n\nProcessador: Intel Core i5-9400F\n\nMemória: 16 GB de RAM\n\nPlaca gráfica: Nvidia GTX 1650 (4 GB) or AMD Radeon RX 580 (4GB)\n\nDirectX: Versão 11\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 65 GB de espaço livre",
+                    "recommended": "Recomendados:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10\n\nProcessador: Intel Core i7-9700K\n\nMemória: 16 GB de RAM\n\nPlaca gráfica: Nvidia GTX 1080 (8GB) or AMD RX VEGA 56\n\nDirectX: Versão 12\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 65 GB de espaço livre"
                 },
-                "controller_support": null
+                "controller_support": null,
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Um jogador"
+                    },
+                    {
+                        "id": 1,
+                        "description": "Multijogador"
+                    },
+                    {
+                        "id": 9,
+                        "description": "Co-op"
+                    },
+                    {
+                        "id": 38,
+                        "description": "Co-op online"
+                    },
+                    {
+                        "id": 27,
+                        "description": "Multijogador interplataformas"
+                    },
+                    {
+                        "id": 22,
+                        "description": "Proezas Steam"
+                    },
+                    {
+                        "id": 29,
+                        "description": "Cartas Colecionáveis Steam"
+                    },
+                    {
+                        "id": 35,
+                        "description": "Microtransações"
+                    },
+                    {
+                        "id": 67,
+                        "description": "Conforto de câmara"
+                    },
+                    {
+                        "id": 68,
+                        "description": "Controlos de volume independentes"
+                    },
+                    {
+                        "id": 78,
+                        "description": "Dificuldade ajustável"
+                    },
+                    {
+                        "id": 55,
+                        "description": "Compatibilidade com DUALSHOCK"
+                    },
+                    {
+                        "id": 56,
+                        "description": "Compatibilidade com DUALSHOCK"
+                    },
+                    {
+                        "id": 57,
+                        "description": "Compatibilidade com DualSense"
+                    },
+                    {
+                        "id": 58,
+                        "description": "Compatibilidade com DualSense"
+                    },
+                    {
+                        "id": 69,
+                        "description": "Som estéreo"
+                    },
+                    {
+                        "id": 65,
+                        "description": "Opções de legendas"
+                    },
+                    {
+                        "id": 70,
+                        "description": "Som surround"
+                    },
+                    {
+                        "id": 18,
+                        "description": "Compatibilidade parcial com comando"
+                    },
+                    {
+                        "id": 23,
+                        "description": "Steam Cloud"
+                    },
+                    {
+                        "id": 62,
+                        "description": "Partilha de Biblioteca"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "1",
+                        "description": "Ação"
+                    },
+                    {
+                        "id": "25",
+                        "description": "Aventura"
+                    },
+                    {
+                        "id": "3",
+                        "description": "RPG"
+                    }
+                ]
             },
             "hoster_links": {
-                "Rootz": [
+                "FileDitch": [
                     {
-                        "file_name": "PAYDAY3_Fix_Repair_Steam_V10_Generic (1).rar",
-                        "direct_link": "https://rootz.so/d/pRRwm"
+                        "file_name": "PAYDAY3_Fix_Repair_Steam_V10_Generic.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha15/a3fc8f12f7e72bfc7b3e/PAYDAY3_Fix_Repair_Steam_V10_Generic.rar"
                     },
                     {
-                        "file_name": "PAYDAY.3.v1.0.0.0.941010-OFME.part01.rar",
-                        "direct_link": "https://rootz.so/d/tTIoK"
+                        "file_name": "PAYDAY.3.v1.0.0.0.965392-OFME.part01.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha15/60f41f3c5ab189c6f683/PAYDAY.3.v1.0.0.0.965392-OFME.part01.rar"
                     },
                     {
-                        "file_name": "PAYDAY.3.v1.0.0.0.941010-OFME.part02.rar",
-                        "direct_link": "https://rootz.so/d/227gi8"
+                        "file_name": "PAYDAY.3.v1.0.0.0.965392-OFME.part02.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha15/b96e8b35ad123a54db80/PAYDAY.3.v1.0.0.0.965392-OFME.part02.rar"
                     },
                     {
-                        "file_name": "PAYDAY.3.v1.0.0.0.941010-OFME.part03.rar",
-                        "direct_link": "https://rootz.so/d/2ABON6"
+                        "file_name": "PAYDAY.3.v1.0.0.0.965392-OFME.part03.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha15/ef002604c7a72e551479/PAYDAY.3.v1.0.0.0.965392-OFME.part03.rar"
                     },
                     {
-                        "file_name": "PAYDAY.3.v1.0.0.0.941010-OFME.part04.rar",
-                        "direct_link": "https://rootz.so/d/1NpA8m"
+                        "file_name": "PAYDAY.3.v1.0.0.0.965392-OFME.part04.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha15/be1dd7dc6903bdc08ca0/PAYDAY.3.v1.0.0.0.965392-OFME.part04.rar"
                     },
                     {
-                        "file_name": "PAYDAY.3.v1.0.0.0.941010-OFME.part05.rar",
-                        "direct_link": "https://rootz.so/d/FAmJ6"
+                        "file_name": "PAYDAY.3.v1.0.0.0.965392-OFME.part05.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha16/c2e0b5366331247a718b/PAYDAY.3.v1.0.0.0.965392-OFME.part05.rar"
                     },
                     {
-                        "file_name": "PAYDAY.3.v1.0.0.0.941010-OFME.part06.rar",
-                        "direct_link": "https://rootz.so/d/2IF66C"
+                        "file_name": "PAYDAY.3.v1.0.0.0.965392-OFME.part06.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha15/129300ec63eb2338b485/PAYDAY.3.v1.0.0.0.965392-OFME.part06.rar"
                     },
                     {
-                        "file_name": "PAYDAY.3.v1.0.0.0.941010-OFME.part07.rar",
-                        "direct_link": "https://rootz.so/d/wKMi"
+                        "file_name": "PAYDAY.3.v1.0.0.0.965392-OFME.part07.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha16/433d2a80ee31ef6fd6cb/PAYDAY.3.v1.0.0.0.965392-OFME.part07.rar"
                     },
                     {
-                        "file_name": "PAYDAY.3.v1.0.0.0.941010-OFME.part08.rar",
-                        "direct_link": "https://rootz.so/d/hNkHo"
+                        "file_name": "PAYDAY.3.v1.0.0.0.965392-OFME.part08.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha16/9e29e2a2fa15c07e2eac/PAYDAY.3.v1.0.0.0.965392-OFME.part08.rar"
                     },
                     {
-                        "file_name": "PAYDAY.3.v1.0.0.0.941010-OFME.part09.rar",
-                        "direct_link": "https://rootz.so/d/ZK2Yi"
+                        "file_name": "PAYDAY.3.v1.0.0.0.965392-OFME.part09.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha16/c52ccdf669d320017b77/PAYDAY.3.v1.0.0.0.965392-OFME.part09.rar"
                     },
                     {
-                        "file_name": "PAYDAY.3.v1.0.0.0.941010-OFME.part10.rar",
-                        "direct_link": "https://rootz.so/d/1m0HFw"
+                        "file_name": "PAYDAY.3.v1.0.0.0.965392-OFME.part10.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha16/e109af8a4aacdd389de0/PAYDAY.3.v1.0.0.0.965392-OFME.part10.rar"
+                    },
+                    {
+                        "file_name": "PAYDAY.3.v1.0.0.0.965392-OFME.part11.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha16/5b35440a8e9bec4dbbd2/PAYDAY.3.v1.0.0.0.965392-OFME.part11.rar"
                     }
                 ],
                 "Pixeldrain": [
                     {
-                        "file_name": "PAYDAY3_Fix_Repair_Steam_V10_Generic (1).rar",
-                        "direct_link": "https://pixeldrain.com/u/qa3FQjW2"
+                        "file_name": "PAYDAY3_Fix_Repair_Steam_V10_Generic.rar",
+                        "direct_link": "https://pixeldrain.com/u/bpdPNQQV"
                     },
                     {
-                        "file_name": "PAYDAY.3.v1.0.0.0.941010-OFME.part01.rar",
-                        "direct_link": "https://pixeldrain.com/u/pw5f7QYq"
+                        "file_name": "PAYDAY.3.v1.0.0.0.965392-OFME.part01.rar",
+                        "direct_link": "https://pixeldrain.com/u/96wkoF6T"
                     },
                     {
-                        "file_name": "PAYDAY.3.v1.0.0.0.941010-OFME.part02.rar",
-                        "direct_link": "https://pixeldrain.com/u/6ud3kSh5"
+                        "file_name": "PAYDAY.3.v1.0.0.0.965392-OFME.part02.rar",
+                        "direct_link": "https://pixeldrain.com/u/S3oU1zhS"
                     },
                     {
-                        "file_name": "PAYDAY.3.v1.0.0.0.941010-OFME.part03.rar",
-                        "direct_link": "https://pixeldrain.com/u/qs9Wt9i3"
+                        "file_name": "PAYDAY.3.v1.0.0.0.965392-OFME.part03.rar",
+                        "direct_link": "https://pixeldrain.com/u/Y65k2dLy"
                     },
                     {
-                        "file_name": "PAYDAY.3.v1.0.0.0.941010-OFME.part04.rar",
-                        "direct_link": "https://pixeldrain.com/u/s9r5uVdt"
+                        "file_name": "PAYDAY.3.v1.0.0.0.965392-OFME.part04.rar",
+                        "direct_link": "https://pixeldrain.com/u/NxJrMA1d"
                     },
                     {
-                        "file_name": "PAYDAY.3.v1.0.0.0.941010-OFME.part05.rar",
-                        "direct_link": "https://pixeldrain.com/u/C5LYZ75Z"
+                        "file_name": "PAYDAY.3.v1.0.0.0.965392-OFME.part05.rar",
+                        "direct_link": "https://pixeldrain.com/u/LDbhJcP1"
                     },
                     {
-                        "file_name": "PAYDAY.3.v1.0.0.0.941010-OFME.part06.rar",
-                        "direct_link": "https://pixeldrain.com/u/F73yKTX8"
+                        "file_name": "PAYDAY.3.v1.0.0.0.965392-OFME.part06.rar",
+                        "direct_link": "https://pixeldrain.com/u/4C8SsGMF"
                     },
                     {
-                        "file_name": "PAYDAY.3.v1.0.0.0.941010-OFME.part07.rar",
-                        "direct_link": "https://pixeldrain.com/u/tHRANLCq"
+                        "file_name": "PAYDAY.3.v1.0.0.0.965392-OFME.part07.rar",
+                        "direct_link": "https://pixeldrain.com/u/V5gXWeTf"
                     },
                     {
-                        "file_name": "PAYDAY.3.v1.0.0.0.941010-OFME.part08.rar",
-                        "direct_link": "https://pixeldrain.com/u/bJ6RvGob"
+                        "file_name": "PAYDAY.3.v1.0.0.0.965392-OFME.part08.rar",
+                        "direct_link": "https://pixeldrain.com/u/ZAAU3iXD"
                     },
                     {
-                        "file_name": "PAYDAY.3.v1.0.0.0.941010-OFME.part09.rar",
-                        "direct_link": "https://pixeldrain.com/u/SXPY6ucS"
+                        "file_name": "PAYDAY.3.v1.0.0.0.965392-OFME.part09.rar",
+                        "direct_link": "https://pixeldrain.com/u/b63z4qFv"
                     },
                     {
-                        "file_name": "PAYDAY.3.v1.0.0.0.941010-OFME.part10.rar",
-                        "direct_link": "https://pixeldrain.com/u/ngCBn4Cz"
-                    }
-                ],
-                "VikingFile": [
-                    {
-                        "file_name": "PAYDAY3_Fix_Repair_Steam_V10_Generic (1).rar",
-                        "direct_link": "https://vikingfile.com/f/YMFV6YMjy5"
+                        "file_name": "PAYDAY.3.v1.0.0.0.965392-OFME.part10.rar",
+                        "direct_link": "https://pixeldrain.com/u/K2ahus9W"
                     },
                     {
-                        "file_name": "PAYDAY.3.v1.0.0.0.941010-OFME.part01.rar",
-                        "direct_link": "https://vikingfile.com/f/UmD8bvJVCH"
-                    },
-                    {
-                        "file_name": "PAYDAY.3.v1.0.0.0.941010-OFME.part02.rar",
-                        "direct_link": "https://vikingfile.com/f/Ss3cJBmvH1"
-                    },
-                    {
-                        "file_name": "PAYDAY.3.v1.0.0.0.941010-OFME.part03.rar",
-                        "direct_link": "https://vikingfile.com/f/FxxfdCYAhq"
-                    },
-                    {
-                        "file_name": "PAYDAY.3.v1.0.0.0.941010-OFME.part04.rar",
-                        "direct_link": "https://vikingfile.com/f/76DG6Yli0d"
-                    },
-                    {
-                        "file_name": "PAYDAY.3.v1.0.0.0.941010-OFME.part05.rar",
-                        "direct_link": "https://vikingfile.com/f/yBxlhzKyFi"
-                    },
-                    {
-                        "file_name": "PAYDAY.3.v1.0.0.0.941010-OFME.part06.rar",
-                        "direct_link": "https://vikingfile.com/f/L25yCmTkJx"
-                    },
-                    {
-                        "file_name": "PAYDAY.3.v1.0.0.0.941010-OFME.part07.rar",
-                        "direct_link": "https://vikingfile.com/f/u7k1GJpud9"
-                    },
-                    {
-                        "file_name": "PAYDAY.3.v1.0.0.0.941010-OFME.part08.rar",
-                        "direct_link": "https://vikingfile.com/f/fdfLwY5Nx7"
-                    },
-                    {
-                        "file_name": "PAYDAY.3.v1.0.0.0.941010-OFME.part09.rar",
-                        "direct_link": "https://vikingfile.com/f/bs2KFdhget"
-                    },
-                    {
-                        "file_name": "PAYDAY.3.v1.0.0.0.941010-OFME.part10.rar",
-                        "direct_link": "https://vikingfile.com/f/oIwo7yfKqv"
+                        "file_name": "PAYDAY.3.v1.0.0.0.965392-OFME.part11.rar",
+                        "direct_link": "https://pixeldrain.com/u/qByAtqbw"
                     }
                 ],
                 "Gofile": [
                     {
-                        "file_name": "PAYDAY3_Fix_Repair_Steam_V10_Generic (1).rar",
-                        "direct_link": "https://gofile.io/d/pOYKWJ"
+                        "file_name": "PAYDAY3_Fix_Repair_Steam_V10_Generic.rar",
+                        "direct_link": "https://gofile.io/d/aHDxMj"
                     },
                     {
-                        "file_name": "PAYDAY.3.v1.0.0.0.941010-OFME.part01.rar",
-                        "direct_link": "https://gofile.io/d/BdVcqa"
+                        "file_name": "PAYDAY.3.v1.0.0.0.965392-OFME.part01.rar",
+                        "direct_link": "https://gofile.io/d/BXGcJt"
                     },
                     {
-                        "file_name": "PAYDAY.3.v1.0.0.0.941010-OFME.part02.rar",
-                        "direct_link": "https://gofile.io/d/iFAD1n"
+                        "file_name": "PAYDAY.3.v1.0.0.0.965392-OFME.part02.rar",
+                        "direct_link": "https://gofile.io/d/BvhWEE"
                     },
                     {
-                        "file_name": "PAYDAY.3.v1.0.0.0.941010-OFME.part03.rar",
-                        "direct_link": "https://gofile.io/d/BmlSq9"
+                        "file_name": "PAYDAY.3.v1.0.0.0.965392-OFME.part03.rar",
+                        "direct_link": "https://gofile.io/d/qMz0wb"
                     },
                     {
-                        "file_name": "PAYDAY.3.v1.0.0.0.941010-OFME.part04.rar",
-                        "direct_link": "https://gofile.io/d/CpKuql"
+                        "file_name": "PAYDAY.3.v1.0.0.0.965392-OFME.part04.rar",
+                        "direct_link": "https://gofile.io/d/vR9gMj"
                     },
                     {
-                        "file_name": "PAYDAY.3.v1.0.0.0.941010-OFME.part05.rar",
-                        "direct_link": "https://gofile.io/d/dx7b3S"
+                        "file_name": "PAYDAY.3.v1.0.0.0.965392-OFME.part05.rar",
+                        "direct_link": "https://gofile.io/d/XyCx6o"
                     },
                     {
-                        "file_name": "PAYDAY.3.v1.0.0.0.941010-OFME.part06.rar",
-                        "direct_link": "https://gofile.io/d/XLk4Hl"
+                        "file_name": "PAYDAY.3.v1.0.0.0.965392-OFME.part06.rar",
+                        "direct_link": "https://gofile.io/d/8doSGB"
                     },
                     {
-                        "file_name": "PAYDAY.3.v1.0.0.0.941010-OFME.part07.rar",
-                        "direct_link": "https://gofile.io/d/ulPx5g"
+                        "file_name": "PAYDAY.3.v1.0.0.0.965392-OFME.part07.rar",
+                        "direct_link": "https://gofile.io/d/qge1Em"
                     },
                     {
-                        "file_name": "PAYDAY.3.v1.0.0.0.941010-OFME.part08.rar",
-                        "direct_link": "https://gofile.io/d/U2akb2"
+                        "file_name": "PAYDAY.3.v1.0.0.0.965392-OFME.part08.rar",
+                        "direct_link": "https://gofile.io/d/7Pr8Hv"
                     },
                     {
-                        "file_name": "PAYDAY.3.v1.0.0.0.941010-OFME.part09.rar",
-                        "direct_link": "https://gofile.io/d/7RDynC"
+                        "file_name": "PAYDAY.3.v1.0.0.0.965392-OFME.part09.rar",
+                        "direct_link": "https://gofile.io/d/nIQsnZ"
                     },
                     {
-                        "file_name": "PAYDAY.3.v1.0.0.0.941010-OFME.part10.rar",
-                        "direct_link": "https://gofile.io/d/5n2Rm9"
+                        "file_name": "PAYDAY.3.v1.0.0.0.965392-OFME.part10.rar",
+                        "direct_link": "https://gofile.io/d/8t9vyJ"
+                    },
+                    {
+                        "file_name": "PAYDAY.3.v1.0.0.0.965392-OFME.part11.rar",
+                        "direct_link": "https://gofile.io/d/TUdP3M"
                     }
                 ],
-                "DataNodes": [
+                "VikingFile": [
                     {
-                        "file_name": "PAYDAY3_Fix_Repair_Steam_V10_Generic (1).rar",
-                        "direct_link": "https://datanodes.to/e685nyyv0dhs"
+                        "file_name": "PAYDAY3_Fix_Repair_Steam_V10_Generic.rar",
+                        "direct_link": "https://vikingfile.com/f/NiCvKd1UNX"
                     },
                     {
-                        "file_name": "PAYDAY.3.v1.0.0.0.941010-OFME.part01.rar",
-                        "direct_link": "https://datanodes.to/wllzrqzm9p2j"
+                        "file_name": "PAYDAY.3.v1.0.0.0.965392-OFME.part01.rar",
+                        "direct_link": "https://vikingfile.com/f/vhCGoUW6F8"
                     },
                     {
-                        "file_name": "PAYDAY.3.v1.0.0.0.941010-OFME.part02.rar",
-                        "direct_link": "https://datanodes.to/6m95v3vi6365"
+                        "file_name": "PAYDAY.3.v1.0.0.0.965392-OFME.part02.rar",
+                        "direct_link": "https://vikingfile.com/f/jUjbdpv4sv"
                     },
                     {
-                        "file_name": "PAYDAY.3.v1.0.0.0.941010-OFME.part03.rar",
-                        "direct_link": "https://datanodes.to/2hx34mcm6lay"
+                        "file_name": "PAYDAY.3.v1.0.0.0.965392-OFME.part03.rar",
+                        "direct_link": "https://vikingfile.com/f/ipnflY6zNM"
                     },
                     {
-                        "file_name": "PAYDAY.3.v1.0.0.0.941010-OFME.part04.rar",
-                        "direct_link": "https://datanodes.to/7dpkun08oaxy"
+                        "file_name": "PAYDAY.3.v1.0.0.0.965392-OFME.part04.rar",
+                        "direct_link": "https://vikingfile.com/f/9iStBfkaXM"
                     },
                     {
-                        "file_name": "PAYDAY.3.v1.0.0.0.941010-OFME.part05.rar",
-                        "direct_link": "https://datanodes.to/z0w9pqud0ihj"
+                        "file_name": "PAYDAY.3.v1.0.0.0.965392-OFME.part05.rar",
+                        "direct_link": "https://vikingfile.com/f/NmRf3iA9S6"
                     },
                     {
-                        "file_name": "PAYDAY.3.v1.0.0.0.941010-OFME.part06.rar",
-                        "direct_link": "https://datanodes.to/b15a34iyneai"
+                        "file_name": "PAYDAY.3.v1.0.0.0.965392-OFME.part06.rar",
+                        "direct_link": "https://vikingfile.com/f/UqtFr58YgF"
                     },
                     {
-                        "file_name": "PAYDAY.3.v1.0.0.0.941010-OFME.part07.rar",
-                        "direct_link": "https://datanodes.to/juxqc0swf19l"
+                        "file_name": "PAYDAY.3.v1.0.0.0.965392-OFME.part07.rar",
+                        "direct_link": "https://vikingfile.com/f/XqYt6n5rai"
                     },
                     {
-                        "file_name": "PAYDAY.3.v1.0.0.0.941010-OFME.part08.rar",
-                        "direct_link": "https://datanodes.to/itzkxicn0o0v"
+                        "file_name": "PAYDAY.3.v1.0.0.0.965392-OFME.part08.rar",
+                        "direct_link": "https://vikingfile.com/f/0vb5W3Fyxb"
                     },
                     {
-                        "file_name": "PAYDAY.3.v1.0.0.0.941010-OFME.part09.rar",
-                        "direct_link": "https://datanodes.to/ucxqaoy5u5hq"
+                        "file_name": "PAYDAY.3.v1.0.0.0.965392-OFME.part09.rar",
+                        "direct_link": "https://vikingfile.com/f/tZRWcOG6hR"
                     },
                     {
-                        "file_name": "PAYDAY.3.v1.0.0.0.941010-OFME.part10.rar",
-                        "direct_link": "https://datanodes.to/apmmx7bgl653"
+                        "file_name": "PAYDAY.3.v1.0.0.0.965392-OFME.part10.rar",
+                        "direct_link": "https://vikingfile.com/f/WHW1U6pruJ"
+                    },
+                    {
+                        "file_name": "PAYDAY.3.v1.0.0.0.965392-OFME.part11.rar",
+                        "direct_link": "https://vikingfile.com/f/SMfLBBlaw7"
                     }
                 ]
             },
-            "unique_hash": "776378cd774096fa641c12bd814030bc860663ef",
-            "fileSize": "48.99 GB",
-            "magnet": "magnet:?xt=urn:btih:776378cd774096fa641c12bd814030bc860663ef&dn=PAYDAY%203&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
-            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_36/PAYDAY.3.v1.0.0.0.941010-OFME.torrent",
-            "created_at": "2026-05-05 13:12:58",
+            "unique_hash": "80573c6475bfdb8c442daea9c2ebb2528bf35ab4",
+            "fileSize": "51.24 GB",
+            "magnet": "magnet:?xt=urn:btih:80573c6475bfdb8c442daea9c2ebb2528bf35ab4&dn=PAYDAY%203&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_39/PAYDAY.3.v1.0.0.0.965392-OFME.torrent",
+            "created_at": "2026-07-15 08:41:09",
             "webdav_updated_at": "Unknown",
             "files": [
                 {
@@ -85218,44 +85511,48 @@
                     "size": "38.45 MB"
                 },
                 {
-                    "name": "PAYDAY.3.v1.0.0.0.941010-OFME.part02.rar",
+                    "name": "PAYDAY.3.v1.0.0.0.965392-OFME.part01.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "PAYDAY.3.v1.0.0.0.941010-OFME.part03.rar",
+                    "name": "PAYDAY.3.v1.0.0.0.965392-OFME.part02.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "PAYDAY.3.v1.0.0.0.941010-OFME.part04.rar",
+                    "name": "PAYDAY.3.v1.0.0.0.965392-OFME.part08.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "PAYDAY.3.v1.0.0.0.941010-OFME.part10.rar",
-                    "size": "3.95 GB"
-                },
-                {
-                    "name": "PAYDAY.3.v1.0.0.0.941010-OFME.part01.rar",
+                    "name": "PAYDAY.3.v1.0.0.0.965392-OFME.part09.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "PAYDAY.3.v1.0.0.0.941010-OFME.part05.rar",
+                    "name": "PAYDAY.3.v1.0.0.0.965392-OFME.part10.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "PAYDAY.3.v1.0.0.0.941010-OFME.part06.rar",
+                    "name": "PAYDAY.3.v1.0.0.0.965392-OFME.part03.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "PAYDAY.3.v1.0.0.0.941010-OFME.part07.rar",
+                    "name": "PAYDAY.3.v1.0.0.0.965392-OFME.part04.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "PAYDAY.3.v1.0.0.0.941010-OFME.part08.rar",
+                    "name": "PAYDAY.3.v1.0.0.0.965392-OFME.part05.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "PAYDAY.3.v1.0.0.0.941010-OFME.part09.rar",
+                    "name": "PAYDAY.3.v1.0.0.0.965392-OFME.part06.rar",
                     "size": "5.00 GB"
+                },
+                {
+                    "name": "PAYDAY.3.v1.0.0.0.965392-OFME.part07.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "PAYDAY.3.v1.0.0.0.965392-OFME.part11.rar",
+                    "size": "1.21 GB"
                 }
             ],
             "comment": ""
@@ -86327,10 +86624,10 @@
             "url": "https://online-fix.me/games/officialservers/17429-palworld-po-seti.html",
             "last_update": "2024-01-21T22:22:15+03:00",
             "release_date": "10.07.2026",
-            "update_info": "Обновлено Вчера, 16:59. Игра обновлена до версии до релизной версии.",
-            "update_date": null,
-            "formatted_update_date": null,
-            "scraped_at": "2026-07-14 16:11:07",
+            "update_info": "Обновлено 13 июля 2026, 16:59. Игра обновлена до версии до релизной версии.",
+            "update_date": "2026-07-13T16:59:00+03:00",
+            "formatted_update_date": "2026-07-13 16:59:00",
+            "scraped_at": "2026-07-15 16:03:26",
             "steam": {
                 "steam_appid": 1623730,
                 "match_score": 100,
@@ -87481,14 +87778,14 @@
         },
         {
             "title": "Phasmophobia",
-            "page": 77,
+            "page": 78,
             "url": "https://online-fix.me/games/vr/16481-phasmophobia-po-seti.html",
             "last_update": "2020-09-23T04:49:45+03:00",
             "release_date": "18.09.2020",
-            "update_info": "Обновлено 27 мая 2026, 15:38. Игра обновлена до версии 0.17.1.3.",
-            "update_date": "2026-05-27T15:38:00+03:00",
-            "formatted_update_date": "2026-05-27 15:38:00",
-            "scraped_at": "2026-06-28 18:57:42",
+            "update_info": "Обновлено Сегодня, 13:52. Игра обновлена до версии 0.17.1.5.",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-07-15 16:04:41",
             "steam": {
                 "steam_appid": 739630,
                 "match_score": 100,
@@ -87496,7 +87793,7 @@
                 "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/c227a2855aba60f3657bc0c3a46515b8c41fb2b6/header.jpg?t=1782311537",
                 "short_description": "Phasmophobia é um terror psicológico cooperativo online para 4 jogadores. A atividade paranormal está aumentando e cabe a você e sua equipe usar todo o equipamento de caça aos fantasmas à sua disposição para reunir o máximo de evidências possível.",
                 "short_description_native": "Phasmophobia is a 4 player online co-op psychological horror. Paranormal activity is on the rise and it’s up to you and your team to use all the ghost-hunting equipment at your disposal in order to gather as much evidence as you can.",
-                "price_brl": "R$ 41,99",
+                "price_brl": "R$ 59,99",
                 "is_free": false,
                 "pc_requirements": {
                     "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10 64Bit\n\nProcessador: Intel Core i5-4590 / AMD Ryzen 5 2600\n\nMemória: 8 GB de RAM\n\nPlaca gráfica: NVIDIA GTX 970 / AMD Radeon R9 390\n\nDirectX: Versão 11\n\nEspaço no disco: Requer 21 GB de espaço livre\n\nCompatibilidade com R.V.: OpenXR\n\nNotas adicionais: Minimum Specs are for VR, lower specs may work for Non-VR.",
@@ -87526,11 +87823,11 @@
                     },
                     {
                         "id": 28,
-                        "description": "Compat. total c/ comando"
+                        "description": "Compatibilidade total com comando"
                     },
                     {
                         "id": 52,
-                        "description": "Compat. comandos deteção"
+                        "description": "Compatibilidade com comandos de deteção"
                     },
                     {
                         "id": 53,
@@ -87554,19 +87851,19 @@
                     },
                     {
                         "id": 55,
-                        "description": "Compat. com DUALSHOCK"
+                        "description": "Compatibilidade com DUALSHOCK"
                     },
                     {
                         "id": 56,
-                        "description": "Compat. com DUALSHOCK"
+                        "description": "Compatibilidade com DUALSHOCK"
                     },
                     {
                         "id": 57,
-                        "description": "Compat. com DualSense"
+                        "description": "Compatibilidade com DualSense"
                     },
                     {
                         "id": 58,
-                        "description": "Compat. com DualSense"
+                        "description": "Compatibilidade com DualSense"
                     },
                     {
                         "id": 69,
@@ -87609,26 +87906,44 @@
                 ]
             },
             "hoster_links": {
+                "FileDitch": [
+                    {
+                        "file_name": "Phasmophobia.v0.17.1.5-OFME.part1.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha15/d6fa937af7158d88f511/Phasmophobia.v0.17.1.5-OFME.part1.rar"
+                    },
+                    {
+                        "file_name": "Phasmophobia.v0.17.1.5-OFME.part2.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha15/044bf6540a6689e71146/Phasmophobia.v0.17.1.5-OFME.part2.rar"
+                    },
+                    {
+                        "file_name": "Phasmophobia.v0.17.1.5-OFME.part3.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha15/96f091d6a42386c8f184/Phasmophobia.v0.17.1.5-OFME.part3.rar"
+                    },
+                    {
+                        "file_name": "Phasmophobia.v0.17.1.5-OFME.part4.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha15/bcd7ea17bcf7cf785cce/Phasmophobia.v0.17.1.5-OFME.part4.rar"
+                    }
+                ],
                 "Pixeldrain": [
                     {
                         "file_name": "Phasmophobia_Fix_Repair_Steam_V2_Generic.rar",
                         "direct_link": "https://pixeldrain.com/u/B1uxiKUS"
                     },
                     {
-                        "file_name": "Phasmophobia.v0.17.1.3-OFME.part1.rar",
-                        "direct_link": "https://pixeldrain.com/u/eMZVKKhx"
+                        "file_name": "Phasmophobia.v0.17.1.5-OFME.part1.rar",
+                        "direct_link": "https://pixeldrain.com/u/5DDG34aD"
                     },
                     {
-                        "file_name": "Phasmophobia.v0.17.1.3-OFME.part2.rar",
-                        "direct_link": "https://pixeldrain.com/u/8yrKWPED"
+                        "file_name": "Phasmophobia.v0.17.1.5-OFME.part2.rar",
+                        "direct_link": "https://pixeldrain.com/u/HBFfqq9w"
                     },
                     {
-                        "file_name": "Phasmophobia.v0.17.1.3-OFME.part3.rar",
-                        "direct_link": "https://pixeldrain.com/u/6d1jycCq"
+                        "file_name": "Phasmophobia.v0.17.1.5-OFME.part3.rar",
+                        "direct_link": "https://pixeldrain.com/u/6rT6vDSv"
                     },
                     {
-                        "file_name": "Phasmophobia.v0.17.1.3-OFME.part4.rar",
-                        "direct_link": "https://pixeldrain.com/u/qst8DodY"
+                        "file_name": "Phasmophobia.v0.17.1.5-OFME.part4.rar",
+                        "direct_link": "https://pixeldrain.com/u/97oaNHqt"
                     }
                 ],
                 "Gofile": [
@@ -87637,64 +87952,46 @@
                         "direct_link": "https://gofile.io/d/Uv9Iyg"
                     },
                     {
-                        "file_name": "Phasmophobia.v0.17.1.3-OFME.part1.rar",
-                        "direct_link": "https://gofile.io/d/f86Qfc"
+                        "file_name": "Phasmophobia.v0.17.1.5-OFME.part1.rar",
+                        "direct_link": "https://gofile.io/d/5kXbW9"
                     },
                     {
-                        "file_name": "Phasmophobia.v0.17.1.3-OFME.part2.rar",
-                        "direct_link": "https://gofile.io/d/i6DRpG"
+                        "file_name": "Phasmophobia.v0.17.1.5-OFME.part2.rar",
+                        "direct_link": "https://gofile.io/d/0o1wLY"
                     },
                     {
-                        "file_name": "Phasmophobia.v0.17.1.3-OFME.part3.rar",
-                        "direct_link": "https://gofile.io/d/JkmYoH"
+                        "file_name": "Phasmophobia.v0.17.1.5-OFME.part3.rar",
+                        "direct_link": "https://gofile.io/d/yaHa27"
                     },
                     {
-                        "file_name": "Phasmophobia.v0.17.1.3-OFME.part4.rar",
-                        "direct_link": "https://gofile.io/d/PlAnm2"
-                    }
-                ],
-                "Rootz": [
-                    {
-                        "file_name": "Phasmophobia.v0.17.1.3-OFME.part1.rar",
-                        "direct_link": "https://rootz.so/d/wkGIq"
-                    },
-                    {
-                        "file_name": "Phasmophobia.v0.17.1.3-OFME.part2.rar",
-                        "direct_link": "https://rootz.so/d/2DSLrc"
-                    },
-                    {
-                        "file_name": "Phasmophobia.v0.17.1.3-OFME.part3.rar",
-                        "direct_link": "https://rootz.so/d/18potU"
-                    },
-                    {
-                        "file_name": "Phasmophobia.v0.17.1.3-OFME.part4.rar",
-                        "direct_link": "https://rootz.so/d/1OxEHY"
+                        "file_name": "Phasmophobia.v0.17.1.5-OFME.part4.rar",
+                        "direct_link": "https://gofile.io/d/uL0fwx"
                     }
                 ],
                 "VikingFile": [
                     {
-                        "file_name": "Phasmophobia.v0.17.1.3-OFME.part1.rar",
-                        "direct_link": "https://vikingfile.com/f/eS86TeHcVX"
+                        "file_name": "Phasmophobia.v0.17.1.5-OFME.part1.rar",
+                        "direct_link": "https://vikingfile.com/f/r75eHoK06V"
                     },
                     {
-                        "file_name": "Phasmophobia.v0.17.1.3-OFME.part2.rar",
-                        "direct_link": "https://vikingfile.com/f/Rj73qRstjd"
+                        "file_name": "Phasmophobia.v0.17.1.5-OFME.part2.rar",
+                        "direct_link": "https://vikingfile.com/f/5txihh4RcZ"
                     },
                     {
-                        "file_name": "Phasmophobia.v0.17.1.3-OFME.part3.rar",
-                        "direct_link": "https://vikingfile.com/f/8CF5ImO6Fz"
+                        "file_name": "Phasmophobia.v0.17.1.5-OFME.part3.rar",
+                        "direct_link": "https://vikingfile.com/f/7HEoXCNT3g"
                     },
                     {
-                        "file_name": "Phasmophobia.v0.17.1.3-OFME.part4.rar",
-                        "direct_link": "https://vikingfile.com/f/JH9Q314JDF"
+                        "file_name": "Phasmophobia.v0.17.1.5-OFME.part4.rar",
+                        "direct_link": "https://vikingfile.com/f/MR48OHQkm4"
                     }
                 ]
             },
-            "unique_hash": "5b75ea7b4e126783de89719026d11d496db787d2",
-            "fileSize": "17.43 GB",
-            "magnet": "magnet:?xt=urn:btih:5b75ea7b4e126783de89719026d11d496db787d2&dn=Phasmophobia&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
-            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_77/Phasmophobia.v0.17.1.3-OFME.torrent",
-            "created_at": "2026-05-27 09:42:45",
+            "unique_hash": "4390f9dbcdcd14af4552c76044318c0d2b49948a",
+            "fileSize": "17.41 GB",
+            "magnet": "magnet:?xt=urn:btih:4390f9dbcdcd14af4552c76044318c0d2b49948a&dn=Phasmophobia&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_78/Phasmophobia.v0.17.1.5-OFME.torrent",
+            "created_at": "2026-07-15 08:48:40",
             "webdav_updated_at": "Unknown",
             "files": [
                 {
@@ -87702,20 +87999,20 @@
                     "size": "27.47 MB"
                 },
                 {
-                    "name": "Phasmophobia.v0.17.1.3-OFME.part1.rar",
+                    "name": "Phasmophobia.v0.17.1.5-OFME.part4.rar",
+                    "size": "2.38 GB"
+                },
+                {
+                    "name": "Phasmophobia.v0.17.1.5-OFME.part1.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "Phasmophobia.v0.17.1.3-OFME.part2.rar",
+                    "name": "Phasmophobia.v0.17.1.5-OFME.part2.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "Phasmophobia.v0.17.1.3-OFME.part3.rar",
+                    "name": "Phasmophobia.v0.17.1.5-OFME.part3.rar",
                     "size": "5.00 GB"
-                },
-                {
-                    "name": "Phasmophobia.v0.17.1.3-OFME.part4.rar",
-                    "size": "2.41 GB"
                 }
             ],
             "comment": ""
@@ -94339,10 +94636,10 @@
             "url": "https://online-fix.me/games/adventures/17884-ratatan-po-seti.html",
             "last_update": "2025-09-25T16:57:24+03:00",
             "release_date": "18.09.2025",
-            "update_info": "Обновлено Сегодня, 15:14. Игра обновлена до версии 0.7.14.",
+            "update_info": "Обновлено Вчера, 15:14. Игра обновлена до версии 0.7.14.",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-07-14 16:10:54",
+            "scraped_at": "2026-07-15 16:03:05",
             "steam": {
                 "steam_appid": 2949320,
                 "match_score": 100,
@@ -123204,6 +123501,259 @@
             "comment": ""
         },
         {
+            "title": "The Mound Omen of Cthulhu",
+            "page": 1,
+            "url": "https://online-fix.me/games/officialservers/18165-the-mound-omen-of-cthulhu-po-seti.html",
+            "last_update": "2026-07-15T13:54:03+03:00",
+            "release_date": "15.07.2026",
+            "update_info": "",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-07-15 16:02:56",
+            "steam": {
+                "steam_appid": 2569760,
+                "match_score": 100,
+                "match_via": "canon",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2569760/0a3d1867d5781f18cb4fd0b1151729605e892c6b/header.jpg?t=1784110925",
+                "short_description": "Forma um grupo cooperativo de até quatro exploradores em busca de tesouros. Nesta selva maldita, o perigo espreita em todos os cantos, e criaturas monstruosas alteram a realidade. Mantém a calma para domar a selva antes que ela te devore...",
+                "short_description_native": "Forma um grupo cooperativo de até quatro exploradores em busca de tesouros. Nesta selva maldita, o perigo espreita em todos os cantos, e criaturas monstruosas alteram a realidade. Mantém a calma para domar a selva antes que ela te devore...",
+                "price_brl": "R$ 95,99",
+                "is_free": false,
+                "pc_requirements": {
+                    "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10/11 64-bit\n\nProcessador: Intel Core i7-8700k or AMD Ryzen 5 1600x\n\nMemória: 16 GB de RAM\n\nPlaca gráfica: Nvidia GTX 1660 SUPER 6GB or AMD Radeon RX 5600 XT 6GB or Intel Arc A770 16GB\n\nDirectX: Versão 12\n\nEspaço no disco: Requer 23 GB de espaço livre\n\nNotas adicionais: Please note that these informations aren't final and may be subject to change until the launch of the game.",
+                    "recommended": "Recomendados:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10/11 64-bit\n\nProcessador: Intel Core i7-11700k or AMD Ryzen 5 5500\n\nMemória: 16 GB de RAM\n\nPlaca gráfica: Nvidia RTX 3070 8GB or AMD Radeon RX 6750 XT 12GB\n\nDirectX: Versão 12\n\nEspaço no disco: Requer 23 GB de espaço livre\n\nNotas adicionais: Please note that these informations aren't final and may be subject to change until the launch of the game."
+                },
+                "controller_support": "full",
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Um jogador"
+                    },
+                    {
+                        "id": 1,
+                        "description": "Multijogador"
+                    },
+                    {
+                        "id": 9,
+                        "description": "Co-op"
+                    },
+                    {
+                        "id": 38,
+                        "description": "Co-op online"
+                    },
+                    {
+                        "id": 22,
+                        "description": "Proezas Steam"
+                    },
+                    {
+                        "id": 28,
+                        "description": "Compatibilidade total com comando"
+                    },
+                    {
+                        "id": 29,
+                        "description": "Cartas Colecionáveis Steam"
+                    },
+                    {
+                        "id": 67,
+                        "description": "Conforto de câmara"
+                    },
+                    {
+                        "id": 68,
+                        "description": "Controlos de volume independentes"
+                    },
+                    {
+                        "id": 74,
+                        "description": "Jogável sem necessitar de ações rápidas ou precisas"
+                    },
+                    {
+                        "id": 55,
+                        "description": "Compatibilidade com DUALSHOCK"
+                    },
+                    {
+                        "id": 56,
+                        "description": "Compatibilidade com DUALSHOCK"
+                    },
+                    {
+                        "id": 57,
+                        "description": "Compatibilidade com DualSense"
+                    },
+                    {
+                        "id": 58,
+                        "description": "Compatibilidade com DualSense"
+                    },
+                    {
+                        "id": 69,
+                        "description": "Som estéreo"
+                    },
+                    {
+                        "id": 65,
+                        "description": "Opções de legendas"
+                    },
+                    {
+                        "id": 70,
+                        "description": "Som surround"
+                    },
+                    {
+                        "id": 23,
+                        "description": "Steam Cloud"
+                    },
+                    {
+                        "id": 62,
+                        "description": "Partilha de Biblioteca"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "1",
+                        "description": "Ação"
+                    },
+                    {
+                        "id": "25",
+                        "description": "Aventura"
+                    }
+                ]
+            },
+            "hoster_links": {
+                "FileDitch": [
+                    {
+                        "file_name": "TheMoundOmenOfCthulhu_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha16/ba775a77346359af22e2/TheMoundOmenOfCthulhu_Fix_Repair_Steam_Generic.rar"
+                    },
+                    {
+                        "file_name": "The.Mound.Omen.of.Cthulhu.Build.14072026-OFME.part1.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha16/35953cb2336ccdd34833/The.Mound.Omen.of.Cthulhu.Build.14072026-OFME.part1.rar"
+                    },
+                    {
+                        "file_name": "The.Mound.Omen.of.Cthulhu.Build.14072026-OFME.part2.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha16/6ad779afeb65b5a0157d/The.Mound.Omen.of.Cthulhu.Build.14072026-OFME.part2.rar"
+                    },
+                    {
+                        "file_name": "The.Mound.Omen.of.Cthulhu.Build.14072026-OFME.part3.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha16/f069d7f6712c1b55f621/The.Mound.Omen.of.Cthulhu.Build.14072026-OFME.part3.rar"
+                    },
+                    {
+                        "file_name": "The.Mound.Omen.of.Cthulhu.Build.14072026-OFME.part4.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha16/10e2d18652ece6314067/The.Mound.Omen.of.Cthulhu.Build.14072026-OFME.part4.rar"
+                    },
+                    {
+                        "file_name": "The.Mound.Omen.of.Cthulhu.Build.14072026-OFME.part5.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha16/b48f29299bfb5e9ceacd/The.Mound.Omen.of.Cthulhu.Build.14072026-OFME.part5.rar"
+                    }
+                ],
+                "Pixeldrain": [
+                    {
+                        "file_name": "TheMoundOmenOfCthulhu_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://pixeldrain.com/u/UGTHc3up"
+                    },
+                    {
+                        "file_name": "The.Mound.Omen.of.Cthulhu.Build.14072026-OFME.part1.rar",
+                        "direct_link": "https://pixeldrain.com/u/Z9PgbMA1"
+                    },
+                    {
+                        "file_name": "The.Mound.Omen.of.Cthulhu.Build.14072026-OFME.part2.rar",
+                        "direct_link": "https://pixeldrain.com/u/wwPHaNE1"
+                    },
+                    {
+                        "file_name": "The.Mound.Omen.of.Cthulhu.Build.14072026-OFME.part3.rar",
+                        "direct_link": "https://pixeldrain.com/u/resaVtiu"
+                    },
+                    {
+                        "file_name": "The.Mound.Omen.of.Cthulhu.Build.14072026-OFME.part4.rar",
+                        "direct_link": "https://pixeldrain.com/u/EMeWsC9u"
+                    },
+                    {
+                        "file_name": "The.Mound.Omen.of.Cthulhu.Build.14072026-OFME.part5.rar",
+                        "direct_link": "https://pixeldrain.com/u/319cogF1"
+                    }
+                ],
+                "Gofile": [
+                    {
+                        "file_name": "TheMoundOmenOfCthulhu_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://gofile.io/d/ODuMyX"
+                    },
+                    {
+                        "file_name": "The.Mound.Omen.of.Cthulhu.Build.14072026-OFME.part1.rar",
+                        "direct_link": "https://gofile.io/d/GJO8El"
+                    },
+                    {
+                        "file_name": "The.Mound.Omen.of.Cthulhu.Build.14072026-OFME.part2.rar",
+                        "direct_link": "https://gofile.io/d/0TjqlP"
+                    },
+                    {
+                        "file_name": "The.Mound.Omen.of.Cthulhu.Build.14072026-OFME.part3.rar",
+                        "direct_link": "https://gofile.io/d/3B3AZX"
+                    },
+                    {
+                        "file_name": "The.Mound.Omen.of.Cthulhu.Build.14072026-OFME.part4.rar",
+                        "direct_link": "https://gofile.io/d/2zoMbn"
+                    },
+                    {
+                        "file_name": "The.Mound.Omen.of.Cthulhu.Build.14072026-OFME.part5.rar",
+                        "direct_link": "https://gofile.io/d/S0j02m"
+                    }
+                ],
+                "VikingFile": [
+                    {
+                        "file_name": "TheMoundOmenOfCthulhu_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://vikingfile.com/f/okuaXextxP"
+                    },
+                    {
+                        "file_name": "The.Mound.Omen.of.Cthulhu.Build.14072026-OFME.part1.rar",
+                        "direct_link": "https://vikingfile.com/f/apJU3QUK99"
+                    },
+                    {
+                        "file_name": "The.Mound.Omen.of.Cthulhu.Build.14072026-OFME.part2.rar",
+                        "direct_link": "https://vikingfile.com/f/QGrH7EpnXl"
+                    },
+                    {
+                        "file_name": "The.Mound.Omen.of.Cthulhu.Build.14072026-OFME.part3.rar",
+                        "direct_link": "https://vikingfile.com/f/y7IBEHRNbv"
+                    },
+                    {
+                        "file_name": "The.Mound.Omen.of.Cthulhu.Build.14072026-OFME.part4.rar",
+                        "direct_link": "https://vikingfile.com/f/Ensp5sepX8"
+                    },
+                    {
+                        "file_name": "The.Mound.Omen.of.Cthulhu.Build.14072026-OFME.part5.rar",
+                        "direct_link": "https://vikingfile.com/f/eWF4D6AdB7"
+                    }
+                ]
+            },
+            "unique_hash": "4c94edcebd4a5d6e6b18885203ca8eb2d26cbcfe",
+            "fileSize": "23.30 GB",
+            "magnet": "magnet:?xt=urn:btih:4c94edcebd4a5d6e6b18885203ca8eb2d26cbcfe&dn=The%20Mound%20Omen%20of%20Cthulhu&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_1/The.Mound.Omen.of.Cthulhu.Build.14072026-OFME.torrent",
+            "created_at": "2026-07-15 08:54:11",
+            "webdav_updated_at": "Unknown",
+            "files": [
+                {
+                    "name": "Fix Repair/TheMoundOmenOfCthulhu_Fix_Repair_Steam_Generic.rar",
+                    "size": "23.38 MB"
+                },
+                {
+                    "name": "The.Mound.Omen.of.Cthulhu.Build.14072026-OFME.part1.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "The.Mound.Omen.of.Cthulhu.Build.14072026-OFME.part2.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "The.Mound.Omen.of.Cthulhu.Build.14072026-OFME.part3.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "The.Mound.Omen.of.Cthulhu.Build.14072026-OFME.part4.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "The.Mound.Omen.of.Cthulhu.Build.14072026-OFME.part5.rar",
+                    "size": "3.27 GB"
+                }
+            ],
+            "comment": ""
+        },
+        {
             "title": "The Other Side",
             "page": 8,
             "url": "https://online-fix.me/games/horror/17927-the-other-side-po-seti.html",
@@ -131439,6 +131989,159 @@
                 {
                     "name": "Victoria.3.v1.10.4-OFME.part2.rar",
                     "size": "3.90 GB"
+                }
+            ],
+            "comment": ""
+        },
+        {
+            "title": "Viractal Will You Trust Your Party",
+            "page": 1,
+            "url": "https://online-fix.me/games/strategy/18164-viractal-will-you-trust-your-party-po-seti.html",
+            "last_update": "2026-07-15T13:53:49+03:00",
+            "release_date": "26.01.2026",
+            "update_info": "",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-07-15 16:02:56",
+            "steam": {
+                "steam_appid": 2909580,
+                "match_score": 100,
+                "match_via": "canon",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909580/3be0683f48f4db94e0f0ae6b74ab7ad22f3e57a1/header.jpg?t=1781746970",
+                "short_description": "Embarque em uma aventura estratégica de jogo de tabuleiro através de um encantador mundo em miniatura! Jogue os dados, colete cartas e construa seu próprio baralho para superar inimigos e eventos. Cada movimento conta e cada corrida é única. Sua jornada começa agora – elaborada por suas escolhas e um pouco de sorte.",
+                "short_description_native": "Embark on a strategic board game adventure through a charming miniature world! Roll the dice, collect cards, and build your own deck to overcome enemies and events. Every move counts, and every run is unique. Your journey begins now—crafted by your choices and a bit of luck.",
+                "price_brl": "R$ 104,99",
+                "is_free": false,
+                "pc_requirements": {
+                    "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows10 64bit\n\nProcessador: Intel Core i5 4690 / AMD FX-6300\n\nMemória: 8 GB de RAM\n\nPlaca gráfica: GTX 960 / Radeon R7 370\n\nDirectX: Versão 11\n\nEspaço no disco: Requer 3 GB de espaço livre",
+                    "recommended": "Recomendados:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows11\n\nProcessador: Intel Core i7 8700 / AMD Ryzen 5 3600\n\nMemória: 16 GB de RAM\n\nPlaca gráfica: RTX2070 / Radeon RX 5700XT\n\nDirectX: Versão 12\n\nEspaço no disco: Requer 4 GB de espaço livre"
+                },
+                "controller_support": null,
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Um jogador"
+                    },
+                    {
+                        "id": 1,
+                        "description": "Multijogador"
+                    },
+                    {
+                        "id": 9,
+                        "description": "Co-op"
+                    },
+                    {
+                        "id": 38,
+                        "description": "Co-op online"
+                    },
+                    {
+                        "id": 48,
+                        "description": "Co-op em LAN"
+                    },
+                    {
+                        "id": 39,
+                        "description": "Co-op, ecrã partilhado/dividido"
+                    },
+                    {
+                        "id": 24,
+                        "description": "Ecrã partilhado/dividido"
+                    },
+                    {
+                        "id": 22,
+                        "description": "Proezas Steam"
+                    },
+                    {
+                        "id": 18,
+                        "description": "Compatibilidade parcial com comando"
+                    },
+                    {
+                        "id": 44,
+                        "description": "Remote Play Together"
+                    },
+                    {
+                        "id": 62,
+                        "description": "Partilha de Biblioteca"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "25",
+                        "description": "Aventura"
+                    },
+                    {
+                        "id": "4",
+                        "description": "Casual"
+                    },
+                    {
+                        "id": "23",
+                        "description": "Indie"
+                    },
+                    {
+                        "id": "3",
+                        "description": "RPG"
+                    },
+                    {
+                        "id": "2",
+                        "description": "Estratégia"
+                    }
+                ]
+            },
+            "hoster_links": {
+                "FileDitch": [
+                    {
+                        "file_name": "ViractalWillYouTrustYourParty_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha16/55737cd4832c455ece04/ViractalWillYouTrustYourParty_Fix_Repair_Steam_Generic.rar"
+                    },
+                    {
+                        "file_name": "Viractal.Will.You.Trust.Your.Party.v1.3.0-OFME.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha16/e242881cf9385500fe1d/Viractal.Will.You.Trust.Your.Party.v1.3.0-OFME.rar"
+                    }
+                ],
+                "Pixeldrain": [
+                    {
+                        "file_name": "ViractalWillYouTrustYourParty_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://pixeldrain.com/u/hP2CyHSo"
+                    },
+                    {
+                        "file_name": "Viractal.Will.You.Trust.Your.Party.v1.3.0-OFME.rar",
+                        "direct_link": "https://pixeldrain.com/u/KQEYnh6T"
+                    }
+                ],
+                "Gofile": [
+                    {
+                        "file_name": "ViractalWillYouTrustYourParty_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://gofile.io/d/FnJ8cA"
+                    },
+                    {
+                        "file_name": "Viractal.Will.You.Trust.Your.Party.v1.3.0-OFME.rar",
+                        "direct_link": "https://gofile.io/d/YzqUaw"
+                    }
+                ],
+                "VikingFile": [
+                    {
+                        "file_name": "ViractalWillYouTrustYourParty_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://vikingfile.com/f/LTbpEk0srG"
+                    },
+                    {
+                        "file_name": "Viractal.Will.You.Trust.Your.Party.v1.3.0-OFME.rar",
+                        "direct_link": "https://vikingfile.com/f/OpN7fGSkQD"
+                    }
+                ]
+            },
+            "unique_hash": "46cd2fedb83e23389208fbfaea5df5287ebe08d4",
+            "fileSize": "1.69 GB",
+            "magnet": "magnet:?xt=urn:btih:46cd2fedb83e23389208fbfaea5df5287ebe08d4&dn=Viractal%20Will%20You%20Trust%20Your%20Party&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_1/Viractal.Will.You.Trust.Your.Party.v1.3.0-OFME.torrent",
+            "created_at": "2026-07-15 09:02:43",
+            "webdav_updated_at": "Unknown",
+            "files": [
+                {
+                    "name": "Fix Repair/ViractalWillYouTrustYourParty_Fix_Repair_Steam_Generic.rar",
+                    "size": "11.09 MB"
+                },
+                {
+                    "name": "Viractal.Will.You.Trust.Your.Party.v1.3.0-OFME.rar",
+                    "size": "1.68 GB"
                 }
             ],
             "comment": ""

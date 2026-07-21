@@ -1,5 +1,5 @@
 {
-    "total": 1789,
+    "total": 1790,
     "downloads": [
         {
             "title": "10 Miles to Safety",
@@ -693,15 +693,15 @@
             "url": "https://online-fix.me/games/officialservers/16429-7-days-to-die-po-seti.html",
             "last_update": "2020-07-25T19:32:51+03:00",
             "release_date": "25.07.2024",
-            "update_info": "Обновлено Сегодня, 16:14. Игра обновлена до версии 3.0.1.B4.",
+            "update_info": "Обновлено Вчера, 16:14. Игра обновлена до версии 3.0.1.B4.",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-07-20 16:39:21",
+            "scraped_at": "2026-07-21 16:12:54",
             "steam": {
                 "steam_appid": 251570,
                 "match_score": 100,
                 "match_via": "canon",
-                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251570/header.jpg?t=1784567901",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251570/header.jpg?t=1784654880",
                 "short_description": "7 Days to Die é um jogo de mundo aberto que é uma combinação única de tiro em primeira pessoa, terror de sobrevivência, defesa de torre e jogos de RPG. Jogue o RPG sandbox definitivo de sobrevivência de zumbis que veio primeiro. Navezgane espera!",
                 "short_description_native": "7 Days to Die is an open-world game that is a unique combination of first-person shooter, survival horror, tower defense, and role-playing games. Play the definitive zombie survival sandbox RPG that came first. Navezgane awaits!",
                 "price_brl": "R$ 121,99",
@@ -36798,22 +36798,22 @@
         },
         {
             "title": "Escape the Backrooms",
-            "page": 50,
+            "page": 51,
             "url": "https://online-fix.me/games/officialservers/17070-escape-the-backrooms-po-seti.html",
             "last_update": "2022-08-16T17:47:31+03:00",
             "release_date": "23.10.2025",
-            "update_info": "Обновлено 4 июня 2026, 17:36. Игра обновлена до версии 1.3.0. Добавлен Steam-Fix V2.",
-            "update_date": "2026-06-04T17:36:00+03:00",
-            "formatted_update_date": "2026-06-04 17:36:00",
-            "scraped_at": "2026-06-28 18:56:30",
+            "update_info": "Обновлено Сегодня, 15:04. Игра обновлена до версии 1.3.2.",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-07-21 16:12:24",
             "steam": {
                 "steam_appid": 1943950,
                 "match_score": 100,
                 "match_via": "canon",
-                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943950/f3dac53a5d3e68a4bb67786872b4693260049b26/header.jpg?t=1782122172",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943950/f3dac53a5d3e68a4bb67786872b4693260049b26/header.jpg?t=1784563663",
                 "short_description": "Escape the Backrooms é um jogo cooperativo de exploração e terror para 1 a 4 jogadores. Percorre as mais de 30 backrooms sombrias, e evita entidades e outros perigos. Podes e deves tentar escapar, mas cuidado: não tomes a sobrevivência por garantida.",
                 "short_description_native": "Escape the Backrooms é um jogo cooperativo de exploração e terror para 1 a 4 jogadores. Percorre as mais de 30 backrooms sombrias, e evita entidades e outros perigos. Podes e deves tentar escapar, mas cuidado: não tomes a sobrevivência por garantida.",
-                "price_brl": "R$ 20,79",
+                "price_brl": "R$ 25,99",
                 "is_free": false,
                 "pc_requirements": {
                     "minimum": "Mínimos:\n\nSistema Operativo: Windows 10/11 64-bit\n\nProcessador:  Quad-core Intel or AMD 2.5 GHz or superior\n\nMemória: 8 GB de RAM\n\nPlaca gráfica: Any DirectX 11 or 12 compatible card \n\nDirectX: Versão 11\n\nEspaço no disco: Requer 25 GB de espaço livre\n\nPlaca de som: Any\n\nNotas adicionais:",
@@ -36863,7 +36863,7 @@
                     },
                     {
                         "id": 18,
-                        "description": "Compat. parcial c/ comando"
+                        "description": "Compatibilidade parcial com comando"
                     },
                     {
                         "id": 23,
@@ -36892,88 +36892,28 @@
                         "direct_link": "https://fileditchfiles.me/file.php?f=/alpha6/ba6ef265fea57db048ff/EscapeTheBackrooms_Fix_Repair_Steam_V2_Generic.rar"
                     },
                     {
-                        "file_name": "Escape.the.Backrooms.v1.3.0-OFME.part1.rar",
-                        "direct_link": "https://fileditchfiles.me/file.php?f=/alpha6/07439fa2d79434ef5daa/Escape.the.Backrooms.v1.3.0-OFME.part1.rar"
+                        "file_name": "Escape.The.Backrooms.v1.3.2-OFME.part1.rar",
+                        "direct_link": "https://fileditchfiles.st/beta16/27d9f2d4e42477b88c9e/Escape.The.Backrooms.v1.3.2-OFME.part1.rar"
                     },
                     {
-                        "file_name": "Escape.the.Backrooms.v1.3.0-OFME.part2.rar",
-                        "direct_link": "https://fileditchfiles.me/file.php?f=/alpha6/6ae4b26d45bcdc475311/Escape.the.Backrooms.v1.3.0-OFME.part2.rar"
+                        "file_name": "Escape.The.Backrooms.v1.3.2-OFME.part2.rar",
+                        "direct_link": "https://fileditchfiles.st/beta16/55ad5308f6b590b8893d/Escape.The.Backrooms.v1.3.2-OFME.part2.rar"
                     },
                     {
-                        "file_name": "Escape.the.Backrooms.v1.3.0-OFME.part3.rar",
-                        "direct_link": "https://fileditchfiles.me/file.php?f=/alpha6/a7a954b691586f28a22a/Escape.the.Backrooms.v1.3.0-OFME.part3.rar"
+                        "file_name": "Escape.The.Backrooms.v1.3.2-OFME.part3.rar",
+                        "direct_link": "https://fileditchfiles.st/beta16/19781592cf24a2951c27/Escape.The.Backrooms.v1.3.2-OFME.part3.rar"
                     },
                     {
-                        "file_name": "Escape.the.Backrooms.v1.3.0-OFME.part4.rar",
-                        "direct_link": "https://fileditchfiles.me/file.php?f=/alpha6/9ca4adbc34c952cc3a63/Escape.the.Backrooms.v1.3.0-OFME.part4.rar"
+                        "file_name": "Escape.The.Backrooms.v1.3.2-OFME.part4.rar",
+                        "direct_link": "https://fileditchfiles.st/beta16/c97e8b1134fbcd223d31/Escape.The.Backrooms.v1.3.2-OFME.part4.rar"
                     },
                     {
-                        "file_name": "Escape.the.Backrooms.v1.3.0-OFME.part5.rar",
-                        "direct_link": "https://fileditchfiles.me/file.php?f=/alpha6/e304bd7f7f1717cc0b94/Escape.the.Backrooms.v1.3.0-OFME.part5.rar"
+                        "file_name": "Escape.The.Backrooms.v1.3.2-OFME.part5.rar",
+                        "direct_link": "https://fileditchfiles.st/beta16/b89bd7abb0e8cbfdb264/Escape.The.Backrooms.v1.3.2-OFME.part5.rar"
                     },
                     {
-                        "file_name": "Escape.the.Backrooms.v1.3.0-OFME.part6.rar",
-                        "direct_link": "https://fileditchfiles.me/file.php?f=/alpha6/c947ff8fed310edcbc2b/Escape.the.Backrooms.v1.3.0-OFME.part6.rar"
-                    }
-                ],
-                "Pixeldrain": [
-                    {
-                        "file_name": "EscapeTheBackrooms_Fix_Repair_Steam_V2_Generic.rar",
-                        "direct_link": "https://pixeldrain.com/u/7rfhMeKM"
-                    },
-                    {
-                        "file_name": "Escape.the.Backrooms.v1.3.0-OFME.part1.rar",
-                        "direct_link": "https://pixeldrain.com/u/VHNUDdKK"
-                    },
-                    {
-                        "file_name": "Escape.the.Backrooms.v1.3.0-OFME.part2.rar",
-                        "direct_link": "https://pixeldrain.com/u/C9hHbRWZ"
-                    },
-                    {
-                        "file_name": "Escape.the.Backrooms.v1.3.0-OFME.part3.rar",
-                        "direct_link": "https://pixeldrain.com/u/dJW9qCRQ"
-                    },
-                    {
-                        "file_name": "Escape.the.Backrooms.v1.3.0-OFME.part4.rar",
-                        "direct_link": "https://pixeldrain.com/u/y575VBMY"
-                    },
-                    {
-                        "file_name": "Escape.the.Backrooms.v1.3.0-OFME.part5.rar",
-                        "direct_link": "https://pixeldrain.com/u/pyzciKCi"
-                    },
-                    {
-                        "file_name": "Escape.the.Backrooms.v1.3.0-OFME.part6.rar",
-                        "direct_link": "https://pixeldrain.com/u/kM2sdC7Y"
-                    }
-                ],
-                "Gofile": [
-                    {
-                        "file_name": "EscapeTheBackrooms_Fix_Repair_Steam_V2_Generic.rar",
-                        "direct_link": "https://gofile.io/d/I9CL7Z"
-                    },
-                    {
-                        "file_name": "Escape.the.Backrooms.v1.3.0-OFME.part1.rar",
-                        "direct_link": "https://gofile.io/d/atqX5u"
-                    },
-                    {
-                        "file_name": "Escape.the.Backrooms.v1.3.0-OFME.part2.rar",
-                        "direct_link": "https://gofile.io/d/YDWpHm"
-                    },
-                    {
-                        "file_name": "Escape.the.Backrooms.v1.3.0-OFME.part3.rar",
-                        "direct_link": "https://gofile.io/d/LuVnNd"
-                    },
-                    {
-                        "file_name": "Escape.the.Backrooms.v1.3.0-OFME.part4.rar",
-                        "direct_link": "https://gofile.io/d/t4CYG2"
-                    },
-                    {
-                        "file_name": "Escape.the.Backrooms.v1.3.0-OFME.part5.rar",
-                        "direct_link": "https://gofile.io/d/xxlWMo"
-                    },
-                    {
-                        "file_name": "Escape.the.Backrooms.v1.3.0-OFME.part6.rar",
-                        "direct_link": "https://gofile.io/d/2ADNKW"
+                        "file_name": "Escape.The.Backrooms.v1.3.2-OFME.part6.rar",
+                        "direct_link": "https://fileditchfiles.st/beta16/73aef636c29b5ff31f86/Escape.The.Backrooms.v1.3.2-OFME.part6.rar"
                     }
                 ],
                 "Rootz": [
@@ -36982,28 +36922,88 @@
                         "direct_link": "https://rootz.so/d/16NSGe"
                     },
                     {
-                        "file_name": "Escape.the.Backrooms.v1.3.0-OFME.part1.rar",
-                        "direct_link": "https://rootz.so/d/1Odl4a"
+                        "file_name": "Escape.The.Backrooms.v1.3.2-OFME.part1.rar",
+                        "direct_link": "https://rootz.so/d/l8Hrs"
                     },
                     {
-                        "file_name": "Escape.the.Backrooms.v1.3.0-OFME.part2.rar",
-                        "direct_link": "https://rootz.so/d/2FndkO"
+                        "file_name": "Escape.The.Backrooms.v1.3.2-OFME.part2.rar",
+                        "direct_link": "https://rootz.so/d/h6R4S"
                     },
                     {
-                        "file_name": "Escape.the.Backrooms.v1.3.0-OFME.part3.rar",
-                        "direct_link": "https://rootz.so/d/1Ga3LU"
+                        "file_name": "Escape.The.Backrooms.v1.3.2-OFME.part3.rar",
+                        "direct_link": "https://rootz.so/d/21qNUm"
                     },
                     {
-                        "file_name": "Escape.the.Backrooms.v1.3.0-OFME.part4.rar",
-                        "direct_link": "https://rootz.so/d/YlXii"
+                        "file_name": "Escape.The.Backrooms.v1.3.2-OFME.part4.rar",
+                        "direct_link": "https://rootz.so/d/pA8jQ"
                     },
                     {
-                        "file_name": "Escape.the.Backrooms.v1.3.0-OFME.part5.rar",
-                        "direct_link": "https://rootz.so/d/UjgrA"
+                        "file_name": "Escape.The.Backrooms.v1.3.2-OFME.part5.rar",
+                        "direct_link": "https://rootz.so/d/1BSIOu"
                     },
                     {
-                        "file_name": "Escape.the.Backrooms.v1.3.0-OFME.part6.rar",
-                        "direct_link": "https://rootz.so/d/2LCaNk"
+                        "file_name": "Escape.The.Backrooms.v1.3.2-OFME.part6.rar",
+                        "direct_link": "https://rootz.so/d/1pkou8"
+                    }
+                ],
+                "Pixeldrain": [
+                    {
+                        "file_name": "EscapeTheBackrooms_Fix_Repair_Steam_V2_Generic.rar",
+                        "direct_link": "https://pixeldrain.com/u/7rfhMeKM"
+                    },
+                    {
+                        "file_name": "Escape.The.Backrooms.v1.3.2-OFME.part1.rar",
+                        "direct_link": "https://pixeldrain.com/u/yrJUuubS"
+                    },
+                    {
+                        "file_name": "Escape.The.Backrooms.v1.3.2-OFME.part2.rar",
+                        "direct_link": "https://pixeldrain.com/u/zsrkUUfG"
+                    },
+                    {
+                        "file_name": "Escape.The.Backrooms.v1.3.2-OFME.part3.rar",
+                        "direct_link": "https://pixeldrain.com/u/bTPvQCzw"
+                    },
+                    {
+                        "file_name": "Escape.The.Backrooms.v1.3.2-OFME.part4.rar",
+                        "direct_link": "https://pixeldrain.com/u/nj8kHUWQ"
+                    },
+                    {
+                        "file_name": "Escape.The.Backrooms.v1.3.2-OFME.part5.rar",
+                        "direct_link": "https://pixeldrain.com/u/PYar8U7K"
+                    },
+                    {
+                        "file_name": "Escape.The.Backrooms.v1.3.2-OFME.part6.rar",
+                        "direct_link": "https://pixeldrain.com/u/LWQyDZMU"
+                    }
+                ],
+                "Gofile": [
+                    {
+                        "file_name": "EscapeTheBackrooms_Fix_Repair_Steam_V2_Generic.rar",
+                        "direct_link": "https://gofile.io/d/I9CL7Z"
+                    },
+                    {
+                        "file_name": "Escape.The.Backrooms.v1.3.2-OFME.part1.rar",
+                        "direct_link": "https://gofile.io/d/tVjFih"
+                    },
+                    {
+                        "file_name": "Escape.The.Backrooms.v1.3.2-OFME.part2.rar",
+                        "direct_link": "https://gofile.io/d/IqayFL"
+                    },
+                    {
+                        "file_name": "Escape.The.Backrooms.v1.3.2-OFME.part3.rar",
+                        "direct_link": "https://gofile.io/d/PJRXtm"
+                    },
+                    {
+                        "file_name": "Escape.The.Backrooms.v1.3.2-OFME.part4.rar",
+                        "direct_link": "https://gofile.io/d/40owFj"
+                    },
+                    {
+                        "file_name": "Escape.The.Backrooms.v1.3.2-OFME.part5.rar",
+                        "direct_link": "https://gofile.io/d/OenMMq"
+                    },
+                    {
+                        "file_name": "Escape.The.Backrooms.v1.3.2-OFME.part6.rar",
+                        "direct_link": "https://gofile.io/d/04af6t"
                     }
                 ],
                 "VikingFile": [
@@ -37012,65 +37012,65 @@
                         "direct_link": "https://vikingfile.com/f/WC0zH6Xbio"
                     },
                     {
-                        "file_name": "Escape.the.Backrooms.v1.3.0-OFME.part1.rar",
-                        "direct_link": "https://vikingfile.com/f/3ZK077dkXk"
+                        "file_name": "Escape.The.Backrooms.v1.3.2-OFME.part1.rar",
+                        "direct_link": "https://vikingfile.com/f/EyPDv6GLVK"
                     },
                     {
-                        "file_name": "Escape.the.Backrooms.v1.3.0-OFME.part2.rar",
-                        "direct_link": "https://vikingfile.com/f/tBkqXauhKR"
+                        "file_name": "Escape.The.Backrooms.v1.3.2-OFME.part2.rar",
+                        "direct_link": "https://vikingfile.com/f/mAXmWH67lO"
                     },
                     {
-                        "file_name": "Escape.the.Backrooms.v1.3.0-OFME.part3.rar",
-                        "direct_link": "https://vikingfile.com/f/lmU8aeXyVZ"
+                        "file_name": "Escape.The.Backrooms.v1.3.2-OFME.part3.rar",
+                        "direct_link": "https://vikingfile.com/f/8Ou3RDDqvG"
                     },
                     {
-                        "file_name": "Escape.the.Backrooms.v1.3.0-OFME.part4.rar",
-                        "direct_link": "https://vikingfile.com/f/XeQGL4iVgv"
+                        "file_name": "Escape.The.Backrooms.v1.3.2-OFME.part4.rar",
+                        "direct_link": "https://vikingfile.com/f/NjY4HFZEqh"
                     },
                     {
-                        "file_name": "Escape.the.Backrooms.v1.3.0-OFME.part5.rar",
-                        "direct_link": "https://vikingfile.com/f/yyKxj0FMYf"
+                        "file_name": "Escape.The.Backrooms.v1.3.2-OFME.part5.rar",
+                        "direct_link": "https://vikingfile.com/f/6EwWNSvF3W"
                     },
                     {
-                        "file_name": "Escape.the.Backrooms.v1.3.0-OFME.part6.rar",
-                        "direct_link": "https://vikingfile.com/f/qOqZqxYWvJ"
+                        "file_name": "Escape.The.Backrooms.v1.3.2-OFME.part6.rar",
+                        "direct_link": "https://vikingfile.com/f/lkmEJlG4ua"
                     }
                 ]
             },
-            "unique_hash": "faa667f0f8ee14a8a36917a0dbd0a0ca3a0566e7",
-            "fileSize": "26.08 GB",
-            "magnet": "magnet:?xt=urn:btih:faa667f0f8ee14a8a36917a0dbd0a0ca3a0566e7&dn=Escape%20the%20Backrooms&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
-            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_50/Escape.the.Backrooms.v1.3.0-OFME.torrent",
-            "created_at": "2026-06-04 11:34:22",
+            "unique_hash": "fccb9f43043601bccca6e36c312aa6b3941d10cd",
+            "fileSize": "26.06 GB",
+            "magnet": "magnet:?xt=urn:btih:fccb9f43043601bccca6e36c312aa6b3941d10cd&dn=Escape%20the%20Backrooms&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_51/Escape.The.Backrooms.v1.3.2-OFME.torrent",
+            "created_at": "2026-07-21 08:51:34",
             "webdav_updated_at": "Unknown",
             "files": [
                 {
-                    "name": "Escape.the.Backrooms.v1.3.0-OFME.part6.rar",
-                    "size": "1.06 GB"
+                    "name": "Escape.The.Backrooms.v1.3.2-OFME.part1.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Escape.The.Backrooms.v1.3.2-OFME.part2.rar",
+                    "size": "5.00 GB"
                 },
                 {
                     "name": "Fix Repair/EscapeTheBackrooms_Fix_Repair_Steam_V2_Generic.rar",
                     "size": "22.99 MB"
                 },
                 {
-                    "name": "Escape.the.Backrooms.v1.3.0-OFME.part1.rar",
+                    "name": "Escape.The.Backrooms.v1.3.2-OFME.part3.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "Escape.the.Backrooms.v1.3.0-OFME.part2.rar",
+                    "name": "Escape.The.Backrooms.v1.3.2-OFME.part4.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "Escape.the.Backrooms.v1.3.0-OFME.part3.rar",
+                    "name": "Escape.The.Backrooms.v1.3.2-OFME.part5.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "Escape.the.Backrooms.v1.3.0-OFME.part4.rar",
-                    "size": "5.00 GB"
-                },
-                {
-                    "name": "Escape.the.Backrooms.v1.3.0-OFME.part5.rar",
-                    "size": "5.00 GB"
+                    "name": "Escape.The.Backrooms.v1.3.2-OFME.part6.rar",
+                    "size": "1.04 GB"
                 }
             ],
             "comment": ""
@@ -44357,19 +44357,19 @@
         },
         {
             "title": "Forza Horizon 6",
-            "page": 3,
+            "page": 4,
             "url": "https://online-fix.me/games/officialservers/18099-forza-horizon-6-po-seti.html",
             "last_update": "2026-05-15T07:00:32+03:00",
             "release_date": "13.05.2026",
-            "update_info": "Обновлено 15 июля 2026, 13:51. Добавлено обновление 398.092.",
-            "update_date": "2026-07-15T13:51:00+03:00",
-            "formatted_update_date": "2026-07-15 13:51:00",
-            "scraped_at": "2026-07-17 16:00:02",
+            "update_info": "Обновлено Сегодня, 15:04. Добавлено обновление 403.798.",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-07-21 16:11:09",
             "steam": {
                 "steam_appid": 2483190,
                 "match_score": 100,
                 "match_via": "canon",
-                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/99ff2e08356158cc0aacb4cf192298fc4c45f215/header_alt_assets_2.jpg?t=1784139833",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/99ff2e08356158cc0aacb4cf192298fc4c45f215/header_alt_assets_2.jpg?t=1784324016",
                 "short_description": "Descobre as paisagens deslumbrantes do Japão em mais de 550 carros do mundo real e torna-te uma Lenda das corridas na maior aventura automobilística de sempre do Forza Horizon em mundo aberto.",
                 "short_description_native": "Descobre as paisagens deslumbrantes do Japão em mais de 550 carros do mundo real e torna-te uma Lenda das corridas na maior aventura automobilística de sempre do Forza Horizon em mundo aberto.",
                 "price_brl": "R$ 299,00",
@@ -44481,16 +44481,16 @@
                     {
                         "file_name": "ForzaHorizon6_Fix_Repair_Steam_V2_Generic.rar",
                         "direct_link": "https://fileditchfiles.me/alpha11/0b369c5a2d6a0b917ec5/ForzaHorizon6_Fix_Repair_Steam_V2_Generic.rar"
-                    },
-                    {
-                        "file_name": "01-Forza.Horizon.6.Update.v354.221.to.v398.092.AiO-OFME.rar",
-                        "direct_link": "https://fileditchfiles.st/alpha16/c43f49faec22658ab9a0/01-Forza.Horizon.6.Update.v354.221.to.v398.092.AiO-OFME.rar"
                     }
                 ],
                 "Rootz": [
                     {
                         "file_name": "ForzaHorizon6_Fix_Repair_Steam_V2_Generic.rar",
                         "direct_link": "https://rootz.so/d/2ESZVo"
+                    },
+                    {
+                        "file_name": "01-Forza.Horizon.6.Update.v354.221.to.v403.798.AiO-OFME.rar",
+                        "direct_link": "https://rootz.so/d/2CIuPY"
                     },
                     {
                         "file_name": "Forza.Horizon.6.v354.221-OFME.part01.rar",
@@ -44619,8 +44619,8 @@
                         "direct_link": "https://pixeldrain.com/u/SZrPdXr7"
                     },
                     {
-                        "file_name": "01-Forza.Horizon.6.Update.v354.221.to.v398.092.AiO-OFME.rar",
-                        "direct_link": "https://pixeldrain.com/u/pbakYoqc"
+                        "file_name": "01-Forza.Horizon.6.Update.v354.221.to.v403.798.AiO-OFME.rar",
+                        "direct_link": "https://pixeldrain.com/u/Tv6ZGY4S"
                     },
                     {
                         "file_name": "Forza.Horizon.6.v354.221-OFME.part01.rar",
@@ -44749,8 +44749,8 @@
                         "direct_link": "https://gofile.io/d/yhjDor"
                     },
                     {
-                        "file_name": "01-Forza.Horizon.6.Update.v354.221.to.v398.092.AiO-OFME.rar",
-                        "direct_link": "https://gofile.io/d/qkta9m"
+                        "file_name": "01-Forza.Horizon.6.Update.v354.221.to.v403.798.AiO-OFME.rar",
+                        "direct_link": "https://gofile.io/d/Phv0Hj"
                     },
                     {
                         "file_name": "Forza.Horizon.6.v354.221-OFME.part01.rar",
@@ -44879,8 +44879,8 @@
                         "direct_link": "https://vikingfile.com/f/ZkdwhSFOz6"
                     },
                     {
-                        "file_name": "01-Forza.Horizon.6.Update.v354.221.to.v398.092.AiO-OFME.rar",
-                        "direct_link": "https://vikingfile.com/f/u3TD5B1VIt"
+                        "file_name": "01-Forza.Horizon.6.Update.v354.221.to.v403.798.AiO-OFME.rar",
+                        "direct_link": "https://vikingfile.com/f/PXwXUsyhpP"
                     },
                     {
                         "file_name": "Forza.Horizon.6.v354.221-OFME.part01.rar",
@@ -45004,11 +45004,11 @@
                     }
                 ]
             },
-            "unique_hash": "ed8ffc0f5cc9216f1ee1db944da4d24b6d9a4e55",
-            "fileSize": "166.09 GB",
-            "magnet": "magnet:?xt=urn:btih:ed8ffc0f5cc9216f1ee1db944da4d24b6d9a4e55&dn=Forza%20Horizon%206&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
-            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_3/Forza.Horizon.6.v354.221-OFME.torrent",
-            "created_at": "2026-07-15 07:48:50",
+            "unique_hash": "13fd47bd131bfd7456ea14b172404ebdd6571ac3",
+            "fileSize": "166.04 GB",
+            "magnet": "magnet:?xt=urn:btih:13fd47bd131bfd7456ea14b172404ebdd6571ac3&dn=Forza%20Horizon%206&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_4/Forza.Horizon.6.v354.221-OFME.torrent",
+            "created_at": "2026-07-21 08:58:45",
             "webdav_updated_at": "Unknown",
             "files": [
                 {
@@ -45080,8 +45080,8 @@
                     "size": "1.58 GB"
                 },
                 {
-                    "name": "Updates/01-Forza.Horizon.6.Update.v354.221.to.v398.092.AiO-OFME.rar",
-                    "size": "19.49 GB"
+                    "name": "Updates/01-Forza.Horizon.6.Update.v354.221.to.v403.798.AiO-OFME.rar",
+                    "size": "19.45 GB"
                 },
                 {
                     "name": "Forza.Horizon.6.v354.221-OFME.part03.rar",
@@ -54873,6 +54873,106 @@
             "comment": ""
         },
         {
+            "title": "Happys Humble Burger Cult",
+            "page": 1,
+            "url": "https://online-fix.me/games/simulator/18169-happys-humble-burger-cult-online.html",
+            "last_update": "2026-07-21T15:16:49+03:00",
+            "release_date": null,
+            "update_info": "",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-07-21 16:11:07",
+            "steam": {
+                "steam_appid": 3453910,
+                "match_score": 100,
+                "match_via": "canon",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3453910/9cc27ec2c690ca34d4440b9ca8eb03e15b963fb1/header.jpg?t=1784365074",
+                "short_description": "O terror culinário original retorna em uma experiência cooperativa desequilibrada para 1 a 4 jogadores. Grelhe hambúrgueres, sirva clientes e atinja sua cota antes que a cozinha se transforme em um pesadelo. Quando Asset Joy começar sua caçada, tente escapar com vida e extrair seu suado dinheiro para sobreviver a outro turno.",
+                "short_description_native": "The original cooking horror returns in an unhinged co-op experience for 1-4 players. Grill burgers, serve customers, and hit your quota before the kitchen turns into a nightmare. When Asset Joy begins her hunt, try to escape alive and extract your hard-earned cash to survive another shift.",
+                "price_brl": "R$ 29,99",
+                "is_free": false,
+                "pc_requirements": {
+                    "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10\n\nProcessador: Core i7-3820 or equivalent\n\nMemória: 8 GB de RAM\n\nPlaca gráfica: NVidia 1070 or equivalent\n\nDirectX: Versão 11\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 10 GB de espaço livre\n\nNotas adicionais: Friends to play with",
+                    "recommended": "Recomendados:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 11\n\nProcessador: Ryzen 9 3900XT or equivalent\n\nMemória: 16 GB de RAM\n\nPlaca gráfica: NVidia 3060 or equivalent\n\nDirectX: Versão 11\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 10 GB de espaço livre\n\nNotas adicionais: Microphone to communicate with your friends"
+                },
+                "controller_support": "full",
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Um jogador"
+                    },
+                    {
+                        "id": 1,
+                        "description": "Multijogador"
+                    },
+                    {
+                        "id": 9,
+                        "description": "Co-op"
+                    },
+                    {
+                        "id": 38,
+                        "description": "Co-op online"
+                    },
+                    {
+                        "id": 22,
+                        "description": "Proezas Steam"
+                    },
+                    {
+                        "id": 28,
+                        "description": "Compatibilidade total com comando"
+                    },
+                    {
+                        "id": 55,
+                        "description": "Compatibilidade com DUALSHOCK"
+                    },
+                    {
+                        "id": 57,
+                        "description": "Compatibilidade com DualSense"
+                    },
+                    {
+                        "id": 62,
+                        "description": "Partilha de Biblioteca"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "1",
+                        "description": "Ação"
+                    },
+                    {
+                        "id": "23",
+                        "description": "Indie"
+                    },
+                    {
+                        "id": "28",
+                        "description": "Simulação"
+                    }
+                ]
+            },
+            "hoster_links": null,
+            "unique_hash": "d4623de45dee1c374dddbd9095c731670f45da6d",
+            "fileSize": "8.21 GB",
+            "magnet": "magnet:?xt=urn:btih:d4623de45dee1c374dddbd9095c731670f45da6d&dn=Happy%27s%20Humble%20Burger%20Cult&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_1/Happys.Humble.Burger.Cult.v1.0.25-OFME.torrent",
+            "created_at": "2026-07-21 10:12:42",
+            "webdav_updated_at": "Unknown",
+            "files": [
+                {
+                    "name": "Fix Repair/HappysHumbleBurgerCult_Fix_Repair_Steam_Generic.rar",
+                    "size": "11.09 MB"
+                },
+                {
+                    "name": "Happys.Humble.Burger.Cult.v1.0.25-OFME.part1.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Happys.Humble.Burger.Cult.v1.0.25-OFME.part2.rar",
+                    "size": "3.20 GB"
+                }
+            ],
+            "comment": ""
+        },
+        {
             "title": "Hardware Store Simulator",
             "page": 1,
             "url": "https://online-fix.me/games/simulator/18142-hardware-store-simulator-online.html",
@@ -55508,14 +55608,14 @@
         },
         {
             "title": "Hearts of Iron IV",
-            "page": 86,
+            "page": 87,
             "url": "https://online-fix.me/games/strategy/16290-hearts-of-iron-iv-po-seti.html",
             "last_update": "2020-03-28T00:29:51+03:00",
             "release_date": "06.06.2016",
-            "update_info": "Обновлено Сегодня, 16:14. Игра обновлена до версии 1.19.2.0.",
+            "update_info": "Обновлено Вчера, 16:14. Игра обновлена до версии 1.19.2.0.",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-07-20 16:39:27",
+            "scraped_at": "2026-07-21 16:13:10",
             "steam": {
                 "steam_appid": 394360,
                 "match_score": 100,
@@ -55658,7 +55758,7 @@
             "unique_hash": "26fa1d9a1ae2f1c6968429e285eef8e8a470574e",
             "fileSize": "6.76 GB",
             "magnet": "magnet:?xt=urn:btih:26fa1d9a1ae2f1c6968429e285eef8e8a470574e&dn=Hearts%20of%20Iron%20IV&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
-            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_86/Hearts.of.Iron.IV.1.19.2.0-OFME.torrent",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_87/Hearts.of.Iron.IV.1.19.2.0-OFME.torrent",
             "created_at": "2026-07-20 10:18:20",
             "webdav_updated_at": "Unknown",
             "files": [
@@ -58659,19 +58759,19 @@
         },
         {
             "title": "ICARUS",
-            "page": 39,
+            "page": 42,
             "url": "https://online-fix.me/games/sandbox/17268-icarus-po-seti.html",
             "last_update": "2023-06-09T13:15:24+03:00",
             "release_date": "03.12.2021",
-            "update_info": "Обновлено 9 марта 2026, 18:26. Игра обновлена до версии Build 07032026.",
-            "update_date": "2026-03-09T18:26:00+03:00",
-            "formatted_update_date": "2026-03-09 18:26:00",
-            "scraped_at": "2026-05-11 19:58:27",
+            "update_info": "Обновлено Сегодня, 15:05. Игра обновлена до версии Build 17072026.",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-07-21 16:11:28",
             "steam": {
                 "steam_appid": 1149460,
                 "match_score": 100,
                 "match_via": "canon",
-                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149460/header.jpg?t=1772745915",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149460/header.jpg?t=1781662495",
                 "short_description": "ICARUS é um jogo de sobrevivência PvE solo ou multijogador. Explore uma região selvagem após uma terraformação que deu errado. Complete missões narrativas como operações de mundo aberto ou missões individuais. Explore, construa, crie e cace enquanto busca fortuna e prospecta materiais exóticos.",
                 "short_description_native": "ICARUS is a solo or multiplayer PvE survival game. Explore a savage wilderness in the aftermath of terraforming gone wrong. Complete narrative quests as either Open World operations or Individual Missions. Explore, build, craft and hunt while seeking your fortune and prospecting for exotic matter.",
                 "price_brl": "R$ 101,99",
@@ -58680,99 +58780,147 @@
                     "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10 (64-bit versions)\n\nProcessador: Intel i5 8400\n\nMemória: 16 GB de RAM\n\nPlaca gráfica: Nvidia GTX 1060 6GB\n\nDirectX: Versão 11\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 70 GB de espaço livre",
                     "recommended": "Recomendados:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10 (64-bit versions)\n\nProcessador: Intel i7-9700\n\nMemória: 32 GB de RAM\n\nPlaca gráfica: NVIDIA RTX 3060ti\n\nDirectX: Versão 11\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 70 GB de espaço livre"
                 },
-                "controller_support": null
-            },
-            "hoster_links": {
-                "Rootz": [
+                "controller_support": null,
+                "categories": [
                     {
-                        "file_name": "ICARUS.Build.07032026-OFME.part01.rar",
-                        "direct_link": "https://rootz.so/d/xIMy"
+                        "id": 2,
+                        "description": "Um jogador"
                     },
                     {
-                        "file_name": "ICARUS.Build.07032026-OFME.part02.rar",
-                        "direct_link": "https://rootz.so/d/4z9EW"
+                        "id": 1,
+                        "description": "Multijogador"
                     },
                     {
-                        "file_name": "ICARUS.Build.07032026-OFME.part03.rar",
-                        "direct_link": "https://rootz.so/d/1XmnNw"
+                        "id": 9,
+                        "description": "Co-op"
                     },
                     {
-                        "file_name": "ICARUS.Build.07032026-OFME.part04.rar",
-                        "direct_link": "https://rootz.so/d/H4hl2"
+                        "id": 38,
+                        "description": "Co-op online"
                     },
                     {
-                        "file_name": "ICARUS.Build.07032026-OFME.part05.rar",
-                        "direct_link": "https://rootz.so/d/1boeFU"
+                        "id": 22,
+                        "description": "Proezas Steam"
                     },
                     {
-                        "file_name": "ICARUS.Build.07032026-OFME.part06.rar",
-                        "direct_link": "https://rootz.so/d/1m1FGC"
+                        "id": 29,
+                        "description": "Cartas Colecionáveis Steam"
                     },
                     {
-                        "file_name": "ICARUS.Build.07032026-OFME.part07.rar",
-                        "direct_link": "https://rootz.so/d/1FmQPw"
+                        "id": 23,
+                        "description": "Steam Cloud"
                     },
                     {
-                        "file_name": "ICARUS.Build.07032026-OFME.part08.rar",
-                        "direct_link": "https://rootz.so/d/JDb6m"
-                    },
-                    {
-                        "file_name": "ICARUS.Build.07032026-OFME.part09.rar",
-                        "direct_link": "https://rootz.so/d/1Pj5eq"
-                    },
-                    {
-                        "file_name": "ICARUS.Dedicated.Server.Build.07032026-OFME.part1.rar",
-                        "direct_link": "https://rootz.so/d/L6Yca"
-                    },
-                    {
-                        "file_name": "ICARUS.Dedicated.Server.Build.07032026-OFME.part2.rar",
-                        "direct_link": "https://rootz.so/d/19bgGm"
+                        "id": 62,
+                        "description": "Partilha de Biblioteca"
                     }
                 ],
-                "VikingFile": [
+                "genres": [
                     {
-                        "file_name": "ICARUS.Build.07032026-OFME.part01.rar",
-                        "direct_link": "https://vikingfile.com/f/9FSqy2xoNE"
+                        "id": "1",
+                        "description": "Ação"
                     },
                     {
-                        "file_name": "ICARUS.Build.07032026-OFME.part02.rar",
-                        "direct_link": "https://vikingfile.com/f/lgxYWqjQzY"
+                        "id": "25",
+                        "description": "Aventura"
                     },
                     {
-                        "file_name": "ICARUS.Build.07032026-OFME.part03.rar",
-                        "direct_link": "https://vikingfile.com/f/hXdM5GJn3t"
+                        "id": "28",
+                        "description": "Simulação"
+                    }
+                ]
+            },
+            "hoster_links": {
+                "FileDitch": [
+                    {
+                        "file_name": "ICARUS.Build.17072026-OFME.part01.rar",
+                        "direct_link": "https://fileditchfiles.st/beta16/072d087697a8481b171d/ICARUS.Build.17072026-OFME.part01.rar"
                     },
                     {
-                        "file_name": "ICARUS.Build.07032026-OFME.part04.rar",
-                        "direct_link": "https://vikingfile.com/f/6oR3trsBbT"
+                        "file_name": "ICARUS.Build.17072026-OFME.part02.rar",
+                        "direct_link": "https://fileditchfiles.st/beta16/d16481a1c57dff27ea96/ICARUS.Build.17072026-OFME.part02.rar"
                     },
                     {
-                        "file_name": "ICARUS.Build.07032026-OFME.part05.rar",
-                        "direct_link": "https://vikingfile.com/f/Aw1aktf2tw"
+                        "file_name": "ICARUS.Build.17072026-OFME.part03.rar",
+                        "direct_link": "https://fileditchfiles.st/beta16/bceb5558aabe5c50eda1/ICARUS.Build.17072026-OFME.part03.rar"
                     },
                     {
-                        "file_name": "ICARUS.Build.07032026-OFME.part06.rar",
-                        "direct_link": "https://vikingfile.com/f/3NxzDLgvQW"
+                        "file_name": "ICARUS.Build.17072026-OFME.part04.rar",
+                        "direct_link": "https://fileditchfiles.st/beta16/8fe3628e62f96d67a1c1/ICARUS.Build.17072026-OFME.part04.rar"
                     },
                     {
-                        "file_name": "ICARUS.Build.07032026-OFME.part07.rar",
-                        "direct_link": "https://vikingfile.com/f/Y0KSPrOpWv"
+                        "file_name": "ICARUS.Build.17072026-OFME.part05.rar",
+                        "direct_link": "https://fileditchfiles.st/beta16/7ef98985a380a1591619/ICARUS.Build.17072026-OFME.part05.rar"
                     },
                     {
-                        "file_name": "ICARUS.Build.07032026-OFME.part08.rar",
-                        "direct_link": "https://vikingfile.com/f/OTyieIVKkk"
+                        "file_name": "ICARUS.Build.17072026-OFME.part06.rar",
+                        "direct_link": "https://fileditchfiles.st/beta16/d40cbb25d04dbbffc53c/ICARUS.Build.17072026-OFME.part06.rar"
                     },
                     {
-                        "file_name": "ICARUS.Build.07032026-OFME.part09.rar",
-                        "direct_link": "https://vikingfile.com/f/YdAq0lngN7"
+                        "file_name": "ICARUS.Build.17072026-OFME.part07.rar",
+                        "direct_link": "https://fileditchfiles.st/beta16/8b44f3a3b2ed32750d32/ICARUS.Build.17072026-OFME.part07.rar"
                     },
                     {
-                        "file_name": "ICARUS.Dedicated.Server.Build.07032026-OFME.part1.rar",
-                        "direct_link": "https://vikingfile.com/f/kQrU2ItkM9"
+                        "file_name": "ICARUS.Build.17072026-OFME.part08.rar",
+                        "direct_link": "https://fileditchfiles.st/beta16/d0df1c61d8391f58963f/ICARUS.Build.17072026-OFME.part08.rar"
                     },
                     {
-                        "file_name": "ICARUS.Dedicated.Server.Build.07032026-OFME.part2.rar",
-                        "direct_link": "https://vikingfile.com/f/ycjci8dvqc"
+                        "file_name": "ICARUS.Build.17072026-OFME.part09.rar",
+                        "direct_link": "https://fileditchfiles.st/beta16/ba736f006d545232e07f/ICARUS.Build.17072026-OFME.part09.rar"
+                    },
+                    {
+                        "file_name": "ICARUS.Dedicated.Server.Build.17072026-OFME.part1.rar",
+                        "direct_link": "https://fileditchfiles.st/beta16/e06e286501e1bb697dc7/ICARUS.Dedicated.Server.Build.17072026-OFME.part1.rar"
+                    },
+                    {
+                        "file_name": "ICARUS.Dedicated.Server.Build.17072026-OFME.part2.rar",
+                        "direct_link": "https://fileditchfiles.st/beta16/3a503c348171ae998723/ICARUS.Dedicated.Server.Build.17072026-OFME.part2.rar"
+                    }
+                ],
+                "Rootz": [
+                    {
+                        "file_name": "ICARUS.Build.17072026-OFME.part01.rar",
+                        "direct_link": "https://rootz.so/d/1VbYeW"
+                    },
+                    {
+                        "file_name": "ICARUS.Build.17072026-OFME.part02.rar",
+                        "direct_link": "https://rootz.so/d/1NXqvQ"
+                    },
+                    {
+                        "file_name": "ICARUS.Build.17072026-OFME.part03.rar",
+                        "direct_link": "https://rootz.so/d/27lBo0"
+                    },
+                    {
+                        "file_name": "ICARUS.Build.17072026-OFME.part04.rar",
+                        "direct_link": "https://rootz.so/d/ksM1w"
+                    },
+                    {
+                        "file_name": "ICARUS.Build.17072026-OFME.part05.rar",
+                        "direct_link": "https://rootz.so/d/gqVAO"
+                    },
+                    {
+                        "file_name": "ICARUS.Build.17072026-OFME.part06.rar",
+                        "direct_link": "https://rootz.so/d/1tWjvk"
+                    },
+                    {
+                        "file_name": "ICARUS.Build.17072026-OFME.part07.rar",
+                        "direct_link": "https://rootz.so/d/10zlQ0"
+                    },
+                    {
+                        "file_name": "ICARUS.Build.17072026-OFME.part08.rar",
+                        "direct_link": "https://rootz.so/d/151cHY"
+                    },
+                    {
+                        "file_name": "ICARUS.Build.17072026-OFME.part09.rar",
+                        "direct_link": "https://rootz.so/d/1xYanI"
+                    },
+                    {
+                        "file_name": "ICARUS.Dedicated.Server.Build.17072026-OFME.part1.rar",
+                        "direct_link": "https://rootz.so/d/2K6gEa"
+                    },
+                    {
+                        "file_name": "ICARUS.Dedicated.Server.Build.17072026-OFME.part2.rar",
+                        "direct_link": "https://rootz.so/d/1xoWdE"
                     }
                 ],
                 "Pixeldrain": [
@@ -58781,94 +58929,48 @@
                         "direct_link": "https://pixeldrain.com/u/yeppEMW4"
                     },
                     {
-                        "file_name": "ICARUS.Build.07032026-OFME.part01.rar",
-                        "direct_link": "https://pixeldrain.com/u/jAftFijk"
+                        "file_name": "ICARUS.Build.17072026-OFME.part01.rar",
+                        "direct_link": "https://pixeldrain.com/u/Zawwdeun"
                     },
                     {
-                        "file_name": "ICARUS.Build.07032026-OFME.part02.rar",
-                        "direct_link": "https://pixeldrain.com/u/1jrwTrD2"
+                        "file_name": "ICARUS.Build.17072026-OFME.part02.rar",
+                        "direct_link": "https://pixeldrain.com/u/63J1j8EF"
                     },
                     {
-                        "file_name": "ICARUS.Build.07032026-OFME.part03.rar",
-                        "direct_link": "https://pixeldrain.com/u/br7fZKmq"
+                        "file_name": "ICARUS.Build.17072026-OFME.part03.rar",
+                        "direct_link": "https://pixeldrain.com/u/LjX7X19N"
                     },
                     {
-                        "file_name": "ICARUS.Build.07032026-OFME.part04.rar",
-                        "direct_link": "https://pixeldrain.com/u/E9Dsd2UH"
+                        "file_name": "ICARUS.Build.17072026-OFME.part04.rar",
+                        "direct_link": "https://pixeldrain.com/u/LzpVtx5U"
                     },
                     {
-                        "file_name": "ICARUS.Build.07032026-OFME.part05.rar",
-                        "direct_link": "https://pixeldrain.com/u/K1GCz2SQ"
+                        "file_name": "ICARUS.Build.17072026-OFME.part05.rar",
+                        "direct_link": "https://pixeldrain.com/u/1Xg6iPQz"
                     },
                     {
-                        "file_name": "ICARUS.Build.07032026-OFME.part06.rar",
-                        "direct_link": "https://pixeldrain.com/u/rDDx2f9i"
+                        "file_name": "ICARUS.Build.17072026-OFME.part06.rar",
+                        "direct_link": "https://pixeldrain.com/u/8TDK117e"
                     },
                     {
-                        "file_name": "ICARUS.Build.07032026-OFME.part07.rar",
-                        "direct_link": "https://pixeldrain.com/u/w4wWX3xv"
+                        "file_name": "ICARUS.Build.17072026-OFME.part07.rar",
+                        "direct_link": "https://pixeldrain.com/u/FqhKweCo"
                     },
                     {
-                        "file_name": "ICARUS.Build.07032026-OFME.part08.rar",
-                        "direct_link": "https://pixeldrain.com/u/tBJdzdEQ"
+                        "file_name": "ICARUS.Build.17072026-OFME.part08.rar",
+                        "direct_link": "https://pixeldrain.com/u/qZQ5MUwS"
                     },
                     {
-                        "file_name": "ICARUS.Build.07032026-OFME.part09.rar",
-                        "direct_link": "https://pixeldrain.com/u/f4rsn6L3"
+                        "file_name": "ICARUS.Build.17072026-OFME.part09.rar",
+                        "direct_link": "https://pixeldrain.com/u/4kJ756gz"
                     },
                     {
-                        "file_name": "ICARUS.Dedicated.Server.Build.07032026-OFME.part1.rar",
-                        "direct_link": "https://pixeldrain.com/u/EGokVVn1"
+                        "file_name": "ICARUS.Dedicated.Server.Build.17072026-OFME.part1.rar",
+                        "direct_link": "https://pixeldrain.com/u/kgW4BQRA"
                     },
                     {
-                        "file_name": "ICARUS.Dedicated.Server.Build.07032026-OFME.part2.rar",
-                        "direct_link": "https://pixeldrain.com/u/XwdY1pdN"
-                    }
-                ],
-                "DataNodes": [
-                    {
-                        "file_name": "ICARUS.Build.07032026-OFME.part01.rar",
-                        "direct_link": "https://datanodes.to/rhbc4hktzcdg"
-                    },
-                    {
-                        "file_name": "ICARUS.Build.07032026-OFME.part02.rar",
-                        "direct_link": "https://datanodes.to/rb9r1wqs9f6b"
-                    },
-                    {
-                        "file_name": "ICARUS.Build.07032026-OFME.part03.rar",
-                        "direct_link": "https://datanodes.to/a2aw6pgbx7dh"
-                    },
-                    {
-                        "file_name": "ICARUS.Build.07032026-OFME.part04.rar",
-                        "direct_link": "https://datanodes.to/w9fedpnaqjir"
-                    },
-                    {
-                        "file_name": "ICARUS.Build.07032026-OFME.part05.rar",
-                        "direct_link": "https://datanodes.to/5yty5l1b90sm"
-                    },
-                    {
-                        "file_name": "ICARUS.Build.07032026-OFME.part06.rar",
-                        "direct_link": "https://datanodes.to/ulwag9r57uek"
-                    },
-                    {
-                        "file_name": "ICARUS.Build.07032026-OFME.part07.rar",
-                        "direct_link": "https://datanodes.to/mhn7kxieg2bm"
-                    },
-                    {
-                        "file_name": "ICARUS.Build.07032026-OFME.part08.rar",
-                        "direct_link": "https://datanodes.to/sbxgr0n8z88u"
-                    },
-                    {
-                        "file_name": "ICARUS.Build.07032026-OFME.part09.rar",
-                        "direct_link": "https://datanodes.to/noehus0cxrn4"
-                    },
-                    {
-                        "file_name": "ICARUS.Dedicated.Server.Build.07032026-OFME.part1.rar",
-                        "direct_link": "https://datanodes.to/b035kytocy1s"
-                    },
-                    {
-                        "file_name": "ICARUS.Dedicated.Server.Build.07032026-OFME.part2.rar",
-                        "direct_link": "https://datanodes.to/tpxex5f6kuse"
+                        "file_name": "ICARUS.Dedicated.Server.Build.17072026-OFME.part2.rar",
+                        "direct_link": "https://pixeldrain.com/u/yAV3A4cQ"
                     }
                 ],
                 "Gofile": [
@@ -58877,65 +58979,111 @@
                         "direct_link": "https://gofile.io/d/HNJ792"
                     },
                     {
-                        "file_name": "ICARUS.Build.07032026-OFME.part01.rar",
-                        "direct_link": "https://gofile.io/d/Jb3Smr"
+                        "file_name": "ICARUS.Build.17072026-OFME.part01.rar",
+                        "direct_link": "https://gofile.io/d/5GOJka"
                     },
                     {
-                        "file_name": "ICARUS.Build.07032026-OFME.part02.rar",
-                        "direct_link": "https://gofile.io/d/rRLjYb"
+                        "file_name": "ICARUS.Build.17072026-OFME.part02.rar",
+                        "direct_link": "https://gofile.io/d/07TsPU"
                     },
                     {
-                        "file_name": "ICARUS.Build.07032026-OFME.part03.rar",
-                        "direct_link": "https://gofile.io/d/5mtFAQ"
+                        "file_name": "ICARUS.Build.17072026-OFME.part03.rar",
+                        "direct_link": "https://gofile.io/d/6IT4tY"
                     },
                     {
-                        "file_name": "ICARUS.Build.07032026-OFME.part04.rar",
-                        "direct_link": "https://gofile.io/d/cMD5bB"
+                        "file_name": "ICARUS.Build.17072026-OFME.part04.rar",
+                        "direct_link": "https://gofile.io/d/JWoQXi"
                     },
                     {
-                        "file_name": "ICARUS.Build.07032026-OFME.part05.rar",
-                        "direct_link": "https://gofile.io/d/VfZg58"
+                        "file_name": "ICARUS.Build.17072026-OFME.part05.rar",
+                        "direct_link": "https://gofile.io/d/pNBxgc"
                     },
                     {
-                        "file_name": "ICARUS.Build.07032026-OFME.part06.rar",
-                        "direct_link": "https://gofile.io/d/8UAVeK"
+                        "file_name": "ICARUS.Build.17072026-OFME.part06.rar",
+                        "direct_link": "https://gofile.io/d/HZefOs"
                     },
                     {
-                        "file_name": "ICARUS.Build.07032026-OFME.part07.rar",
-                        "direct_link": "https://gofile.io/d/TdsQOI"
+                        "file_name": "ICARUS.Build.17072026-OFME.part07.rar",
+                        "direct_link": "https://gofile.io/d/EHpUix"
                     },
                     {
-                        "file_name": "ICARUS.Build.07032026-OFME.part08.rar",
-                        "direct_link": "https://gofile.io/d/hsBV8E"
+                        "file_name": "ICARUS.Build.17072026-OFME.part08.rar",
+                        "direct_link": "https://gofile.io/d/GMwbtT"
                     },
                     {
-                        "file_name": "ICARUS.Build.07032026-OFME.part09.rar",
-                        "direct_link": "https://gofile.io/d/BRcLtV"
+                        "file_name": "ICARUS.Build.17072026-OFME.part09.rar",
+                        "direct_link": "https://gofile.io/d/Hop9H9"
                     },
                     {
-                        "file_name": "ICARUS.Dedicated.Server.Build.07032026-OFME.part1.rar",
-                        "direct_link": "https://gofile.io/d/se98EN"
+                        "file_name": "ICARUS.Dedicated.Server.Build.17072026-OFME.part1.rar",
+                        "direct_link": "https://gofile.io/d/vlcUPC"
                     },
                     {
-                        "file_name": "ICARUS.Dedicated.Server.Build.07032026-OFME.part2.rar",
-                        "direct_link": "https://gofile.io/d/aTeN2T"
+                        "file_name": "ICARUS.Dedicated.Server.Build.17072026-OFME.part2.rar",
+                        "direct_link": "https://gofile.io/d/8fKhsB"
+                    }
+                ],
+                "VikingFile": [
+                    {
+                        "file_name": "ICARUS.Build.17072026-OFME.part01.rar",
+                        "direct_link": "https://vikingfile.com/f/eIrQkFIo33"
+                    },
+                    {
+                        "file_name": "ICARUS.Build.17072026-OFME.part02.rar",
+                        "direct_link": "https://vikingfile.com/f/UV7DXGCXoL"
+                    },
+                    {
+                        "file_name": "ICARUS.Build.17072026-OFME.part03.rar",
+                        "direct_link": "https://vikingfile.com/f/CUrpUMWqYF"
+                    },
+                    {
+                        "file_name": "ICARUS.Build.17072026-OFME.part04.rar",
+                        "direct_link": "https://vikingfile.com/f/kqXlyH4ZhA"
+                    },
+                    {
+                        "file_name": "ICARUS.Build.17072026-OFME.part05.rar",
+                        "direct_link": "https://vikingfile.com/f/rzjC0VsfVL"
+                    },
+                    {
+                        "file_name": "ICARUS.Build.17072026-OFME.part06.rar",
+                        "direct_link": "https://vikingfile.com/f/MjaoghwMVQ"
+                    },
+                    {
+                        "file_name": "ICARUS.Build.17072026-OFME.part07.rar",
+                        "direct_link": "https://vikingfile.com/f/3WiHbT8AXl"
+                    },
+                    {
+                        "file_name": "ICARUS.Build.17072026-OFME.part08.rar",
+                        "direct_link": "https://vikingfile.com/f/1BLA5rJG0G"
+                    },
+                    {
+                        "file_name": "ICARUS.Build.17072026-OFME.part09.rar",
+                        "direct_link": "https://vikingfile.com/f/bC3R3MWy92"
+                    },
+                    {
+                        "file_name": "ICARUS.Dedicated.Server.Build.17072026-OFME.part1.rar",
+                        "direct_link": "https://vikingfile.com/f/dhAd2Jqx5R"
+                    },
+                    {
+                        "file_name": "ICARUS.Dedicated.Server.Build.17072026-OFME.part2.rar",
+                        "direct_link": "https://vikingfile.com/f/boxrQR0HlQ"
                     }
                 ]
             },
-            "unique_hash": "812e1345b173341ab3264b28bd02c4685c09d948",
-            "fileSize": "48.46 GB",
-            "magnet": "magnet:?xt=urn:btih:812e1345b173341ab3264b28bd02c4685c09d948&dn=ICARUS&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
-            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_39/ICARUS.Dedicated.Server.Build.07032026-OFME.torrent",
-            "created_at": "2026-03-09 12:16:44",
+            "unique_hash": "682d99240213b9afbc66e9b48b435e393856c999",
+            "fileSize": "46.89 GB",
+            "magnet": "magnet:?xt=urn:btih:682d99240213b9afbc66e9b48b435e393856c999&dn=ICARUS&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_42/ICARUS.Dedicated.Server.Build.17072026-OFME.torrent",
+            "created_at": "2026-07-21 09:53:32",
             "webdav_updated_at": "Unknown",
             "files": [
                 {
-                    "name": "Dedicated Server/ICARUS.Dedicated.Server.Build.07032026-OFME.part1.rar",
+                    "name": "Dedicated Server/ICARUS.Dedicated.Server.Build.17072026-OFME.part1.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "Dedicated Server/ICARUS.Dedicated.Server.Build.07032026-OFME.part2.rar",
-                    "size": "2.56 GB"
+                    "name": "Dedicated Server/ICARUS.Dedicated.Server.Build.17072026-OFME.part2.rar",
+                    "size": "1.33 GB"
                 },
                 {
                     "name": "Fix Repair/ICARUSDedicatedServer_Fix_Repair_Steam_Generic.rar",
@@ -58946,40 +59094,40 @@
                     "size": "9.81 MB"
                 },
                 {
-                    "name": "ICARUS.Build.07032026-OFME.part01.rar",
+                    "name": "ICARUS.Build.17072026-OFME.part01.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "ICARUS.Build.07032026-OFME.part02.rar",
+                    "name": "ICARUS.Build.17072026-OFME.part02.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "ICARUS.Build.07032026-OFME.part03.rar",
+                    "name": "ICARUS.Build.17072026-OFME.part03.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "ICARUS.Build.07032026-OFME.part04.rar",
+                    "name": "ICARUS.Build.17072026-OFME.part04.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "ICARUS.Build.07032026-OFME.part09.rar",
-                    "size": "905.73 MB"
-                },
-                {
-                    "name": "ICARUS.Build.07032026-OFME.part05.rar",
+                    "name": "ICARUS.Build.17072026-OFME.part05.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "ICARUS.Build.07032026-OFME.part06.rar",
+                    "name": "ICARUS.Build.17072026-OFME.part06.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "ICARUS.Build.07032026-OFME.part07.rar",
+                    "name": "ICARUS.Build.17072026-OFME.part07.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "ICARUS.Build.07032026-OFME.part08.rar",
+                    "name": "ICARUS.Build.17072026-OFME.part08.rar",
                     "size": "5.00 GB"
+                },
+                {
+                    "name": "ICARUS.Build.17072026-OFME.part09.rar",
+                    "size": "566.02 MB"
                 }
             ],
             "comment": ""
@@ -62811,19 +62959,19 @@
         },
         {
             "title": "Kebab Chefs! Restaurant Simulator",
-            "page": 32,
+            "page": 35,
             "url": "https://online-fix.me/games/simulator/17430-kebab-chefs-restaurant-simulator-po-seti.html",
             "last_update": "2024-01-22T19:26:43+03:00",
-            "release_date": "19.01.2024",
-            "update_info": "Обновлено 24 июня 2025, 16:22. Игра обновлена до версии 0.4. Добавлен Steam-Fix V3.",
-            "update_date": "2025-06-24T16:22:00+03:00",
-            "formatted_update_date": "2025-06-24 16:22:00",
-            "scraped_at": "2026-05-11 19:56:18",
+            "release_date": "11.06.2026",
+            "update_info": "Обновлено Сегодня, 15:09. Игра обновлена до релизной версии.",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-07-21 16:11:23",
             "steam": {
                 "steam_appid": 1001270,
                 "match_score": 100,
                 "match_via": "canon",
-                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1001270/d4892df74e7b232804b9939e0d74346f69369c47/header.jpg?t=1778333555",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1001270/3d8e0e5bf2397090502df0ba3601d8009b386cb4/header_alt_assets_4.jpg?t=1784207976",
                 "short_description": "Kebab Chefs! é um jogo de Co-Op, culinária e gerenciamento de restaurante que pode ser jogado por até 4 jogadores. Projete seu próprio restaurante. Cozinhe comidas deliciosas, preencha seu cardápio com várias receitas, alimente os clientes e torne-se o maior restaurante de kebab da cidade!",
                 "short_description_native": "Kebab Chefs! é um jogo de Co-Op, culinária e gerenciamento de restaurante que pode ser jogado por até 4 jogadores. Projete seu próprio restaurante. Cozinhe comidas deliciosas, preencha seu cardápio com várias receitas, alimente os clientes e torne-se o maior restaurante de kebab da cidade!",
                 "price_brl": "R$ 54,99",
@@ -62832,54 +62980,134 @@
                     "minimum": "Mínimos:\n\nSistema Operativo *: Windows 7 x64\n\nProcessador: i5-2500 / FX-8350\n\nMemória: 4 GB de RAM\n\nPlaca gráfica: NVIDIA GeForce GTX 680 or AMD Radeon R7 Series\n\nDirectX: Versão 11\n\nEspaço no disco: Requer 6 GB de espaço livre",
                     "recommended": "Recomendados:\n\nSistema Operativo: Windows 10 x64\n\nProcessador: i5-4460 / Ryzen 7 1700x\n\nMemória: 8 GB de RAM\n\nPlaca gráfica: NVIDIA GeForce GTX 770\n\nDirectX: Versão 11\n\nEspaço no disco: Requer 6 GB de espaço livre"
                 },
-                "controller_support": "full"
-            },
-            "hoster_links": {
-                "VikingFile": [
+                "controller_support": "full",
+                "categories": [
                     {
-                        "file_name": "KCRS_Fix_Repair_Steam_V3_Generic.rar",
-                        "direct_link": "https://vikingfile.com/f/TQEuUgenpF"
+                        "id": 2,
+                        "description": "Um jogador"
                     },
                     {
-                        "file_name": "Kebab.Chefs!.Restaurant.Simulator.v0.4-OFME.rar",
-                        "direct_link": "https://vikingfile.com/f/VHfFwW7dO5"
+                        "id": 1,
+                        "description": "Multijogador"
+                    },
+                    {
+                        "id": 9,
+                        "description": "Co-op"
+                    },
+                    {
+                        "id": 38,
+                        "description": "Co-op online"
+                    },
+                    {
+                        "id": 22,
+                        "description": "Proezas Steam"
+                    },
+                    {
+                        "id": 28,
+                        "description": "Compatibilidade total com comando"
+                    },
+                    {
+                        "id": 29,
+                        "description": "Cartas Colecionáveis Steam"
+                    },
+                    {
+                        "id": 55,
+                        "description": "Compatibilidade com DUALSHOCK"
+                    },
+                    {
+                        "id": 56,
+                        "description": "Compatibilidade com DUALSHOCK"
+                    },
+                    {
+                        "id": 57,
+                        "description": "Compatibilidade com DualSense"
+                    },
+                    {
+                        "id": 58,
+                        "description": "Compatibilidade com DualSense"
+                    },
+                    {
+                        "id": 23,
+                        "description": "Steam Cloud"
+                    },
+                    {
+                        "id": 62,
+                        "description": "Partilha de Biblioteca"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "28",
+                        "description": "Simulação"
+                    }
+                ]
+            },
+            "hoster_links": {
+                "FileDitch": [
+                    {
+                        "file_name": "KebabChefsRestaurantSimulator_Fix_Repair_Steam_V4_Generic.rar",
+                        "direct_link": "https://fileditchfiles.st/beta16/8dcf02e74136ee7110a3/KebabChefsRestaurantSimulator_Fix_Repair_Steam_V4_Generic.rar"
+                    },
+                    {
+                        "file_name": "Kebab.Chefs!.-.Restaurant.Simulator.Build.04072026-OFME.rar",
+                        "direct_link": "https://fileditchfiles.st/beta16/0536bbd50c39aeb648ee/Kebab.Chefs_.-.Restaurant.Simulator.Build.04072026-OFME.rar"
+                    }
+                ],
+                "Rootz": [
+                    {
+                        "file_name": "KebabChefsRestaurantSimulator_Fix_Repair_Steam_V4_Generic.rar",
+                        "direct_link": "https://rootz.so/d/21aRai"
+                    },
+                    {
+                        "file_name": "Kebab.Chefs!.-.Restaurant.Simulator.Build.04072026-OFME.rar",
+                        "direct_link": "https://rootz.so/d/sw3l2"
                     }
                 ],
                 "Pixeldrain": [
                     {
-                        "file_name": "KCRS_Fix_Repair_Steam_V3_Generic.rar",
-                        "direct_link": "https://pixeldrain.com/u/gRbBbtE8"
+                        "file_name": "KebabChefsRestaurantSimulator_Fix_Repair_Steam_V4_Generic.rar",
+                        "direct_link": "https://pixeldrain.com/u/dyVyThQ9"
                     },
                     {
-                        "file_name": "Kebab.Chefs!.Restaurant.Simulator.v0.4-OFME.rar",
-                        "direct_link": "https://pixeldrain.com/u/sJVQAorx"
+                        "file_name": "Kebab.Chefs!.-.Restaurant.Simulator.Build.04072026-OFME.rar",
+                        "direct_link": "https://pixeldrain.com/u/zDqRJDRj"
                     }
                 ],
                 "Gofile": [
                     {
-                        "file_name": "KCRS_Fix_Repair_Steam_V3_Generic.rar",
-                        "direct_link": "https://gofile.io/d/VPgIei"
+                        "file_name": "KebabChefsRestaurantSimulator_Fix_Repair_Steam_V4_Generic.rar",
+                        "direct_link": "https://gofile.io/d/gmM7o2"
                     },
                     {
-                        "file_name": "Kebab.Chefs!.Restaurant.Simulator.v0.4-OFME.rar",
-                        "direct_link": "https://gofile.io/d/Irur9J"
+                        "file_name": "Kebab.Chefs!.-.Restaurant.Simulator.Build.04072026-OFME.rar",
+                        "direct_link": "https://gofile.io/d/qxAlrL"
+                    }
+                ],
+                "VikingFile": [
+                    {
+                        "file_name": "KebabChefsRestaurantSimulator_Fix_Repair_Steam_V4_Generic.rar",
+                        "direct_link": "https://vikingfile.com/f/ilIljSpV3V"
+                    },
+                    {
+                        "file_name": "Kebab.Chefs!.-.Restaurant.Simulator.Build.04072026-OFME.rar",
+                        "direct_link": "https://vikingfile.com/f/mu9NOPc6Mr"
                     }
                 ]
             },
-            "unique_hash": "226efe3d03fe0683c262e72c0b664a4fc7f6c0d8",
-            "fileSize": "2.08 GB",
-            "magnet": "magnet:?xt=urn:btih:226efe3d03fe0683c262e72c0b664a4fc7f6c0d8&dn=Kebab%20Chefs%21%20Restaurant%20Simulator&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
-            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_32/Kebab.Chefs%21.Restaurant.Simulator.v0.4-OFME.torrent",
-            "created_at": "2025-06-24 10:20:41",
+            "unique_hash": "8445c0c30be3e3c47b5f40b05508a0a7c8df2f74",
+            "fileSize": "3.22 GB",
+            "magnet": "magnet:?xt=urn:btih:8445c0c30be3e3c47b5f40b05508a0a7c8df2f74&dn=Kebab%20Chefs%21%20Restaurant%20Simulator&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_35/Kebab.Chefs%21.-.Restaurant.Simulator.Build.04072026-OFME.torrent",
+            "created_at": "2026-07-21 10:08:18",
             "webdav_updated_at": "Unknown",
             "files": [
                 {
-                    "name": "Fix Repair/KCRS_Fix_Repair_Steam_V3_Generic.rar",
-                    "size": "19.99 MB"
+                    "name": "Fix Repair/KebabChefsRestaurantSimulator_Fix_Repair_Steam_V4_Generic.rar",
+                    "size": "11.07 MB"
                 },
                 {
-                    "name": "Kebab.Chefs!.Restaurant.Simulator.v0.4-OFME.rar",
-                    "size": "2.06 GB"
+                    "name": "Kebab.Chefs!.-.Restaurant.Simulator.Build.04072026-OFME.rar",
+                    "size": "3.21 GB"
                 }
             ],
             "comment": ""
@@ -72518,10 +72746,10 @@
             "url": "https://online-fix.me/games/officialservers/17478-microsoft-flight-simulator-po-seti.html",
             "last_update": "2024-03-26T16:34:16+03:00",
             "release_date": "18.08.2020",
-            "update_info": "Обновлено Сегодня, 16:15. Игра обновлена до версии 1.39.12.0.",
+            "update_info": "Обновлено Вчера, 16:15. Игра обновлена до версии 1.39.12.0.",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-07-20 16:37:54",
+            "scraped_at": "2026-07-21 16:11:20",
             "steam": {
                 "not_found": true,
                 "reason": "low_confidence",
@@ -83386,15 +83614,15 @@
             "url": "https://online-fix.me/games/simulator/18167-ore-factory-squad-online.html",
             "last_update": "2026-07-20T16:24:48+03:00",
             "release_date": null,
-            "update_info": "",
+            "update_info": "Обновлено Сегодня, 15:05. Игра обновлена до версии 1.0.4. Добавлен Steam-Fix V2. Пропатчена проверка версии.",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-07-20 16:37:42",
+            "scraped_at": "2026-07-21 16:11:07",
             "steam": {
                 "steam_appid": 4210580,
                 "match_score": 100,
                 "match_via": "canon",
-                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4210580/b305646840dc9db685bc40596da7bdaea388c694/header.jpg?t=1784286903",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4210580/b305646840dc9db685bc40596da7bdaea388c694/header.jpg?t=1784656230",
                 "short_description": "Ore Factory Squad é um jogo cooperativo de mineração e construção de fábricas com mineração procedural e diversão no seu núcleo! Jogue sozinho ou com amigos, compre propriedades, cave fundo em busca de recursos valiosos, complete contratos, atualize e automatize linhas de produção e faça sua fábrica crescer do zero até a indústria!",
                 "short_description_native": "Ore Factory Squad é um jogo cooperativo de mineração e construção de fábricas com mineração procedural e diversão no seu núcleo! Jogue sozinho ou com amigos, compre propriedades, cave fundo em busca de recursos valiosos, complete contratos, atualize e automatize linhas de produção e faça sua fábrica crescer do zero até a indústria!",
                 "price_brl": "R$ 35,99",
@@ -83488,93 +83716,93 @@
             "hoster_links": {
                 "FileDitch": [
                     {
-                        "file_name": "OreFactorySquad_Fix_Repair_Steam_Generic.rar",
-                        "direct_link": "https://fileditchfiles.st/alpha17/9a314fc28911ad68a32d/OreFactorySquad_Fix_Repair_Steam_Generic.rar"
+                        "file_name": "OreFactorySquad_Fix_Repair_Steam_V2_Generic.rar",
+                        "direct_link": "https://fileditchfiles.st/beta16/a597f9cc70d9d8f4c3b2/OreFactorySquad_Fix_Repair_Steam_V2_Generic.rar"
                     },
                     {
-                        "file_name": "Ore.Factory.Squad.v1.0.2-OFME.part1.rar",
-                        "direct_link": "https://fileditchfiles.st/alpha17/f992e2ce9be8da67d618/Ore.Factory.Squad.v1.0.2-OFME.part1.rar"
+                        "file_name": "Ore.Factory.Squad.v1.0.4-OFME.part1.rar",
+                        "direct_link": "https://fileditchfiles.st/beta16/8f791a41726109404a4b/Ore.Factory.Squad.v1.0.4-OFME.part1.rar"
                     },
                     {
-                        "file_name": "Ore.Factory.Squad.v1.0.2-OFME.part2.rar",
-                        "direct_link": "https://fileditchfiles.st/alpha17/ffb6f7771e9f5a3cfc24/Ore.Factory.Squad.v1.0.2-OFME.part2.rar"
+                        "file_name": "Ore.Factory.Squad.v1.0.4-OFME.part2.rar",
+                        "direct_link": "https://fileditchfiles.st/beta16/71a589ebdee4a2cf4281/Ore.Factory.Squad.v1.0.4-OFME.part2.rar"
                     }
                 ],
                 "Rootz": [
                     {
-                        "file_name": "OreFactorySquad_Fix_Repair_Steam_Generic.rar",
-                        "direct_link": "https://rootz.so/d/gLKa0"
+                        "file_name": "OreFactorySquad_Fix_Repair_Steam_V2_Generic.rar",
+                        "direct_link": "https://rootz.so/d/25cISG"
                     },
                     {
-                        "file_name": "Ore.Factory.Squad.v1.0.2-OFME.part1.rar",
-                        "direct_link": "https://rootz.so/d/cJTiS"
+                        "file_name": "Ore.Factory.Squad.v1.0.4-OFME.part1.rar",
+                        "direct_link": "https://rootz.so/d/2XyfA"
                     },
                     {
-                        "file_name": "Ore.Factory.Squad.v1.0.2-OFME.part2.rar",
-                        "direct_link": "https://rootz.so/d/kNBRY"
+                        "file_name": "Ore.Factory.Squad.v1.0.4-OFME.part2.rar",
+                        "direct_link": "https://rootz.so/d/29e9Jo"
                     }
                 ],
                 "Pixeldrain": [
                     {
-                        "file_name": "OreFactorySquad_Fix_Repair_Steam_Generic.rar",
-                        "direct_link": "https://pixeldrain.com/u/6WZN2BWi"
+                        "file_name": "OreFactorySquad_Fix_Repair_Steam_V2_Generic.rar",
+                        "direct_link": "https://pixeldrain.com/u/iNBcguLz"
                     },
                     {
-                        "file_name": "Ore.Factory.Squad.v1.0.2-OFME.part1.rar",
-                        "direct_link": "https://pixeldrain.com/u/c1gj1zbQ"
+                        "file_name": "Ore.Factory.Squad.v1.0.4-OFME.part1.rar",
+                        "direct_link": "https://pixeldrain.com/u/Ptxfmsgd"
                     },
                     {
-                        "file_name": "Ore.Factory.Squad.v1.0.2-OFME.part2.rar",
-                        "direct_link": "https://pixeldrain.com/u/z6NMGnp5"
+                        "file_name": "Ore.Factory.Squad.v1.0.4-OFME.part2.rar",
+                        "direct_link": "https://pixeldrain.com/u/bU1mCvi7"
                     }
                 ],
                 "Gofile": [
                     {
-                        "file_name": "OreFactorySquad_Fix_Repair_Steam_Generic.rar",
-                        "direct_link": "https://gofile.io/d/dscaKU"
+                        "file_name": "OreFactorySquad_Fix_Repair_Steam_V2_Generic.rar",
+                        "direct_link": "https://gofile.io/d/EiX7l4"
                     },
                     {
-                        "file_name": "Ore.Factory.Squad.v1.0.2-OFME.part1.rar",
-                        "direct_link": "https://gofile.io/d/bq7ekR"
+                        "file_name": "Ore.Factory.Squad.v1.0.4-OFME.part1.rar",
+                        "direct_link": "https://gofile.io/d/fVB9MB"
                     },
                     {
-                        "file_name": "Ore.Factory.Squad.v1.0.2-OFME.part2.rar",
-                        "direct_link": "https://gofile.io/d/5din6a"
+                        "file_name": "Ore.Factory.Squad.v1.0.4-OFME.part2.rar",
+                        "direct_link": "https://gofile.io/d/miG2ak"
                     }
                 ],
                 "VikingFile": [
                     {
-                        "file_name": "OreFactorySquad_Fix_Repair_Steam_Generic.rar",
-                        "direct_link": "https://vikingfile.com/f/xtlPnFFyQM"
+                        "file_name": "OreFactorySquad_Fix_Repair_Steam_V2_Generic.rar",
+                        "direct_link": "https://vikingfile.com/f/sSLbPi8FuZ"
                     },
                     {
-                        "file_name": "Ore.Factory.Squad.v1.0.2-OFME.part1.rar",
-                        "direct_link": "https://vikingfile.com/f/mpcWMRpbuI"
+                        "file_name": "Ore.Factory.Squad.v1.0.4-OFME.part1.rar",
+                        "direct_link": "https://vikingfile.com/f/gLMlfkAyN7"
                     },
                     {
-                        "file_name": "Ore.Factory.Squad.v1.0.2-OFME.part2.rar",
-                        "direct_link": "https://vikingfile.com/f/YdGWoZJavy"
+                        "file_name": "Ore.Factory.Squad.v1.0.4-OFME.part2.rar",
+                        "direct_link": "https://vikingfile.com/f/RHHi3sNJT5"
                     }
                 ]
             },
-            "unique_hash": "d58f844adea69d0c4c23eeabab1fbd2a3b12c2cf",
-            "fileSize": "5.58 GB",
-            "magnet": "magnet:?xt=urn:btih:d58f844adea69d0c4c23eeabab1fbd2a3b12c2cf&dn=Ore%20Factory%20Squad&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
-            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_1/Ore.Factory.Squad.v1.0.2-OFME.torrent",
-            "created_at": "2026-07-20 10:21:46",
+            "unique_hash": "7bb85dd78a8f39ba99a013e51aa63072352b4fdd",
+            "fileSize": "5.60 GB",
+            "magnet": "magnet:?xt=urn:btih:7bb85dd78a8f39ba99a013e51aa63072352b4fdd&dn=Ore%20Factory%20Squad&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_1/Ore.Factory.Squad.v1.0.4-OFME.torrent",
+            "created_at": "2026-07-21 10:09:52",
             "webdav_updated_at": "Unknown",
             "files": [
                 {
-                    "name": "Fix Repair/OreFactorySquad_Fix_Repair_Steam_Generic.rar",
-                    "size": "11.08 MB"
+                    "name": "Fix Repair/OreFactorySquad_Fix_Repair_Steam_V2_Generic.rar",
+                    "size": "20.21 MB"
                 },
                 {
-                    "name": "Ore.Factory.Squad.v1.0.2-OFME.part1.rar",
+                    "name": "Ore.Factory.Squad.v1.0.4-OFME.part2.rar",
+                    "size": "593.80 MB"
+                },
+                {
+                    "name": "Ore.Factory.Squad.v1.0.4-OFME.part1.rar",
                     "size": "5.00 GB"
-                },
-                {
-                    "name": "Ore.Factory.Squad.v1.0.2-OFME.part2.rar",
-                    "size": "583.32 MB"
                 }
             ],
             "comment": ""
@@ -86239,14 +86467,14 @@
         },
         {
             "title": "PEAK",
-            "page": 14,
+            "page": 18,
             "url": "https://online-fix.me/games/adventures/17801-peak-po-seti.html",
             "last_update": "2025-06-17T13:05:29+03:00",
             "release_date": "16.06.2025",
-            "update_info": "Обновлено 14 апреля 2026, 15:29. Игра обновлена до версии 1.61.a.",
-            "update_date": "2026-04-14T15:29:00+03:00",
-            "formatted_update_date": "2026-04-14 15:29:00",
-            "scraped_at": "2026-05-11 20:23:45",
+            "update_info": "Обновлено Сегодня, 15:06. Игра обновлена до версии 1.64.a.",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-07-21 16:11:15",
             "steam": {
                 "steam_appid": 3527290,
                 "match_score": 100,
@@ -86260,43 +86488,83 @@
                     "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Win 10\n\nProcessador: Intel Core i5 @ 2.5 GHz or equivalent\n\nMemória: 8 GB de RAM\n\nPlaca gráfica: GTX 1060 or RX 6600 XT\n\nDirectX: Versão 12\n\nEspaço no disco: Requer 4 GB de espaço livre\n\nNotas adicionais: Requires a 64-bit processor and operating system",
                     "recommended": "Recomendados:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Win 11\n\nProcessador:  Intel Core i5 @ 3.0 GHz or AMD Ryzen 5 or equivalent\n\nMemória: 16 GB de RAM\n\nPlaca gráfica: RTX 2060 or RX 7600xt or equivalent\n\nDirectX: Versão 12\n\nEspaço no disco: Requer 6 GB de espaço livre\n\nNotas adicionais: Requires a 64-bit processor and operating system"
                 },
-                "controller_support": "full"
+                "controller_support": "full",
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Um jogador"
+                    },
+                    {
+                        "id": 1,
+                        "description": "Multijogador"
+                    },
+                    {
+                        "id": 9,
+                        "description": "Co-op"
+                    },
+                    {
+                        "id": 38,
+                        "description": "Co-op online"
+                    },
+                    {
+                        "id": 22,
+                        "description": "Proezas Steam"
+                    },
+                    {
+                        "id": 28,
+                        "description": "Compatibilidade total com comando"
+                    },
+                    {
+                        "id": 29,
+                        "description": "Cartas Colecionáveis Steam"
+                    },
+                    {
+                        "id": 55,
+                        "description": "Compatibilidade com DUALSHOCK"
+                    },
+                    {
+                        "id": 56,
+                        "description": "Compatibilidade com DUALSHOCK"
+                    },
+                    {
+                        "id": 57,
+                        "description": "Compatibilidade com DualSense"
+                    },
+                    {
+                        "id": 58,
+                        "description": "Compatibilidade com DualSense"
+                    },
+                    {
+                        "id": 62,
+                        "description": "Partilha de Biblioteca"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "1",
+                        "description": "Ação"
+                    },
+                    {
+                        "id": "25",
+                        "description": "Aventura"
+                    },
+                    {
+                        "id": "23",
+                        "description": "Indie"
+                    }
+                ]
             },
             "hoster_links": {
+                "FileDitch": [
+                    {
+                        "file_name": "PEAK.v1.64.a-OFME.rar",
+                        "direct_link": "https://fileditchfiles.st/beta16/fbd57b4d7a532205726c/PEAK.v1.64.a-OFME.rar"
+                    }
+                ],
                 "Rootz": [
                     {
-                        "file_name": "PEAK.v1.61.a-OFME.rar",
-                        "direct_link": "https://rootz.so/d/drplA"
-                    }
-                ],
-                "VikingFile": [
-                    {
-                        "file_name": "PEAK_Fix_Repair_Steam_V4_Generic.rar",
-                        "direct_link": "https://vikingfile.com/f/nZrgSDxmu2"
-                    },
-                    {
-                        "file_name": "PEAK.v1.61.a-OFME.rar",
-                        "direct_link": "https://vikingfile.com/f/zoq0rzPFEf"
-                    }
-                ],
-                "Gofile": [
-                    {
-                        "file_name": "PEAK_Fix_Repair_Steam_V4_Generic.rar",
-                        "direct_link": "https://gofile.io/d/6yPbUV"
-                    },
-                    {
-                        "file_name": "PEAK.v1.61.a-OFME.rar",
-                        "direct_link": "https://gofile.io/d/vPtzcf"
-                    }
-                ],
-                "DataNodes": [
-                    {
-                        "file_name": "PEAK_Fix_Repair_Steam_V4_Generic.rar",
-                        "direct_link": "https://datanodes.to/cd8rnnbb5tjg"
-                    },
-                    {
-                        "file_name": "PEAK.v1.61.a-OFME.rar",
-                        "direct_link": "https://datanodes.to/8hdehnoqngys"
+                        "file_name": "PEAK.v1.64.a-OFME.rar",
+                        "direct_link": "https://rootz.so/d/ouCtU"
                     }
                 ],
                 "Pixeldrain": [
@@ -86305,16 +86573,36 @@
                         "direct_link": "https://pixeldrain.com/u/jQeTpXrh"
                     },
                     {
-                        "file_name": "PEAK.v1.61.a-OFME.rar",
-                        "direct_link": "https://pixeldrain.com/u/PKwh4qdE"
+                        "file_name": "PEAK.v1.64.a-OFME.rar",
+                        "direct_link": "https://pixeldrain.com/u/ZRFFRpKa"
+                    }
+                ],
+                "Gofile": [
+                    {
+                        "file_name": "PEAK_Fix_Repair_Steam_V4_Generic.rar",
+                        "direct_link": "https://gofile.io/d/6yPbUV"
+                    },
+                    {
+                        "file_name": "PEAK.v1.64.a-OFME.rar",
+                        "direct_link": "https://gofile.io/d/WqHjy7"
+                    }
+                ],
+                "VikingFile": [
+                    {
+                        "file_name": "PEAK_Fix_Repair_Steam_V4_Generic.rar",
+                        "direct_link": "https://vikingfile.com/f/nZrgSDxmu2"
+                    },
+                    {
+                        "file_name": "PEAK.v1.64.a-OFME.rar",
+                        "direct_link": "https://vikingfile.com/f/lq0Cnp6Hzz"
                     }
                 ]
             },
-            "unique_hash": "513a74e0ce2b2b4a8393300ed156c79275b7d1d9",
-            "fileSize": "1.98 GB",
-            "magnet": "magnet:?xt=urn:btih:513a74e0ce2b2b4a8393300ed156c79275b7d1d9&dn=PEAK&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
-            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_14/PEAK.v1.61.a-OFME.torrent",
-            "created_at": "2026-04-14 09:28:24",
+            "unique_hash": "87ff54d997f80f3b7bfb466e5e6bf4761ebd3d80",
+            "fileSize": "1.99 GB",
+            "magnet": "magnet:?xt=urn:btih:87ff54d997f80f3b7bfb466e5e6bf4761ebd3d80&dn=PEAK&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_18/PEAK.v1.64.a-OFME.torrent",
+            "created_at": "2026-07-21 10:12:09",
             "webdav_updated_at": "Unknown",
             "files": [
                 {
@@ -86322,8 +86610,8 @@
                     "size": "10.71 MB"
                 },
                 {
-                    "name": "PEAK.v1.61.a-OFME.rar",
-                    "size": "1.97 GB"
+                    "name": "PEAK.v1.64.a-OFME.rar",
+                    "size": "1.98 GB"
                 }
             ],
             "comment": ""

@@ -1,5 +1,5 @@
 {
-    "total": 1790,
+    "total": 1792,
     "downloads": [
         {
             "title": "10 Miles to Safety",
@@ -693,10 +693,10 @@
             "url": "https://online-fix.me/games/officialservers/16429-7-days-to-die-po-seti.html",
             "last_update": "2020-07-25T19:32:51+03:00",
             "release_date": "25.07.2024",
-            "update_info": "Обновлено Вчера, 16:14. Игра обновлена до версии 3.0.1.B4.",
-            "update_date": null,
-            "formatted_update_date": null,
-            "scraped_at": "2026-07-21 16:12:54",
+            "update_info": "Обновлено 20 июля 2026, 16:14. Игра обновлена до версии 3.0.1.B4.",
+            "update_date": "2026-07-20T16:14:00+03:00",
+            "formatted_update_date": "2026-07-20 16:14:00",
+            "scraped_at": "2026-07-22 16:06:33",
             "steam": {
                 "steam_appid": 251570,
                 "match_score": 100,
@@ -839,24 +839,6 @@
                         "direct_link": "https://fileditchfiles.st/alpha17/3e0ba05a37ac60e8af82/7.Days.To.Die.v3.0.1.B4-OFME.part4.rar"
                     }
                 ],
-                "Rootz": [
-                    {
-                        "file_name": "7.Days.To.Die.v3.0.1.B4-OFME.part1.rar",
-                        "direct_link": "https://rootz.so/d/qXveq"
-                    },
-                    {
-                        "file_name": "7.Days.To.Die.v3.0.1.B4-OFME.part2.rar",
-                        "direct_link": "https://rootz.so/d/215H0K"
-                    },
-                    {
-                        "file_name": "7.Days.To.Die.v3.0.1.B4-OFME.part3.rar",
-                        "direct_link": "https://rootz.so/d/298yjQ"
-                    },
-                    {
-                        "file_name": "7.Days.To.Die.v3.0.1.B4-OFME.part4.rar",
-                        "direct_link": "https://rootz.so/d/fOg2C"
-                    }
-                ],
                 "Pixeldrain": [
                     {
                         "file_name": "7DaysToDie_Fix_Repair_GDK_Generic.rar",
@@ -921,6 +903,24 @@
                     {
                         "file_name": "7.Days.To.Die.v3.0.1.B4-OFME.part4.rar",
                         "direct_link": "https://vikingfile.com/f/dWO4mMMheW"
+                    }
+                ],
+                "Rootz": [
+                    {
+                        "file_name": "7.Days.To.Die.v3.0.1.B4-OFME.part1.rar",
+                        "direct_link": "https://rootz.so/d/qXveq"
+                    },
+                    {
+                        "file_name": "7.Days.To.Die.v3.0.1.B4-OFME.part2.rar",
+                        "direct_link": "https://rootz.so/d/215H0K"
+                    },
+                    {
+                        "file_name": "7.Days.To.Die.v3.0.1.B4-OFME.part3.rar",
+                        "direct_link": "https://rootz.so/d/298yjQ"
+                    },
+                    {
+                        "file_name": "7.Days.To.Die.v3.0.1.B4-OFME.part4.rar",
+                        "direct_link": "https://rootz.so/d/fOg2C"
                     }
                 ]
             },
@@ -36802,10 +36802,10 @@
             "url": "https://online-fix.me/games/officialservers/17070-escape-the-backrooms-po-seti.html",
             "last_update": "2022-08-16T17:47:31+03:00",
             "release_date": "23.10.2025",
-            "update_info": "Обновлено Сегодня, 15:04. Игра обновлена до версии 1.3.2.",
+            "update_info": "Обновлено Вчера, 15:04. Игра обновлена до версии 1.3.2.",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-07-21 16:12:24",
+            "scraped_at": "2026-07-22 16:05:20",
             "steam": {
                 "steam_appid": 1943950,
                 "match_score": 100,
@@ -36916,36 +36916,6 @@
                         "direct_link": "https://fileditchfiles.st/beta16/73aef636c29b5ff31f86/Escape.The.Backrooms.v1.3.2-OFME.part6.rar"
                     }
                 ],
-                "Rootz": [
-                    {
-                        "file_name": "EscapeTheBackrooms_Fix_Repair_Steam_V2_Generic.rar",
-                        "direct_link": "https://rootz.so/d/16NSGe"
-                    },
-                    {
-                        "file_name": "Escape.The.Backrooms.v1.3.2-OFME.part1.rar",
-                        "direct_link": "https://rootz.so/d/l8Hrs"
-                    },
-                    {
-                        "file_name": "Escape.The.Backrooms.v1.3.2-OFME.part2.rar",
-                        "direct_link": "https://rootz.so/d/h6R4S"
-                    },
-                    {
-                        "file_name": "Escape.The.Backrooms.v1.3.2-OFME.part3.rar",
-                        "direct_link": "https://rootz.so/d/21qNUm"
-                    },
-                    {
-                        "file_name": "Escape.The.Backrooms.v1.3.2-OFME.part4.rar",
-                        "direct_link": "https://rootz.so/d/pA8jQ"
-                    },
-                    {
-                        "file_name": "Escape.The.Backrooms.v1.3.2-OFME.part5.rar",
-                        "direct_link": "https://rootz.so/d/1BSIOu"
-                    },
-                    {
-                        "file_name": "Escape.The.Backrooms.v1.3.2-OFME.part6.rar",
-                        "direct_link": "https://rootz.so/d/1pkou8"
-                    }
-                ],
                 "Pixeldrain": [
                     {
                         "file_name": "EscapeTheBackrooms_Fix_Repair_Steam_V2_Generic.rar",
@@ -37034,6 +37004,36 @@
                     {
                         "file_name": "Escape.The.Backrooms.v1.3.2-OFME.part6.rar",
                         "direct_link": "https://vikingfile.com/f/lkmEJlG4ua"
+                    }
+                ],
+                "Rootz": [
+                    {
+                        "file_name": "EscapeTheBackrooms_Fix_Repair_Steam_V2_Generic.rar",
+                        "direct_link": "https://rootz.so/d/16NSGe"
+                    },
+                    {
+                        "file_name": "Escape.The.Backrooms.v1.3.2-OFME.part1.rar",
+                        "direct_link": "https://rootz.so/d/l8Hrs"
+                    },
+                    {
+                        "file_name": "Escape.The.Backrooms.v1.3.2-OFME.part2.rar",
+                        "direct_link": "https://rootz.so/d/h6R4S"
+                    },
+                    {
+                        "file_name": "Escape.The.Backrooms.v1.3.2-OFME.part3.rar",
+                        "direct_link": "https://rootz.so/d/21qNUm"
+                    },
+                    {
+                        "file_name": "Escape.The.Backrooms.v1.3.2-OFME.part4.rar",
+                        "direct_link": "https://rootz.so/d/pA8jQ"
+                    },
+                    {
+                        "file_name": "Escape.The.Backrooms.v1.3.2-OFME.part5.rar",
+                        "direct_link": "https://rootz.so/d/1BSIOu"
+                    },
+                    {
+                        "file_name": "Escape.The.Backrooms.v1.3.2-OFME.part6.rar",
+                        "direct_link": "https://rootz.so/d/1pkou8"
                     }
                 ]
             },
@@ -44361,10 +44361,10 @@
             "url": "https://online-fix.me/games/officialservers/18099-forza-horizon-6-po-seti.html",
             "last_update": "2026-05-15T07:00:32+03:00",
             "release_date": "13.05.2026",
-            "update_info": "Обновлено Сегодня, 15:04. Добавлено обновление 403.798.",
+            "update_info": "Обновлено Вчера, 15:04. Добавлено обновление 403.798.",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-07-21 16:11:09",
+            "scraped_at": "2026-07-22 16:04:54",
             "steam": {
                 "steam_appid": 2483190,
                 "match_score": 100,
@@ -44481,136 +44481,10 @@
                     {
                         "file_name": "ForzaHorizon6_Fix_Repair_Steam_V2_Generic.rar",
                         "direct_link": "https://fileditchfiles.me/alpha11/0b369c5a2d6a0b917ec5/ForzaHorizon6_Fix_Repair_Steam_V2_Generic.rar"
-                    }
-                ],
-                "Rootz": [
-                    {
-                        "file_name": "ForzaHorizon6_Fix_Repair_Steam_V2_Generic.rar",
-                        "direct_link": "https://rootz.so/d/2ESZVo"
                     },
                     {
                         "file_name": "01-Forza.Horizon.6.Update.v354.221.to.v403.798.AiO-OFME.rar",
-                        "direct_link": "https://rootz.so/d/2CIuPY"
-                    },
-                    {
-                        "file_name": "Forza.Horizon.6.v354.221-OFME.part01.rar",
-                        "direct_link": "https://rootz.so/d/2L3Jui"
-                    },
-                    {
-                        "file_name": "Forza.Horizon.6.v354.221-OFME.part02.rar",
-                        "direct_link": "https://rootz.so/d/14LEHo"
-                    },
-                    {
-                        "file_name": "Forza.Horizon.6.v354.221-OFME.part03.rar",
-                        "direct_link": "https://rootz.so/d/3kYBE"
-                    },
-                    {
-                        "file_name": "Forza.Horizon.6.v354.221-OFME.part04.rar",
-                        "direct_link": "https://rootz.so/d/18N59M"
-                    },
-                    {
-                        "file_name": "Forza.Horizon.6.v354.221-OFME.part05.rar",
-                        "direct_link": "https://rootz.so/d/7mOye"
-                    },
-                    {
-                        "file_name": "Forza.Horizon.6.v354.221-OFME.part06.rar",
-                        "direct_link": "https://rootz.so/d/1KSdk0"
-                    },
-                    {
-                        "file_name": "Forza.Horizon.6.v354.221-OFME.part07.rar",
-                        "direct_link": "https://rootz.so/d/wnOIi"
-                    },
-                    {
-                        "file_name": "Forza.Horizon.6.v354.221-OFME.part08.rar",
-                        "direct_link": "https://rootz.so/d/Fq6hk"
-                    },
-                    {
-                        "file_name": "Forza.Horizon.6.v354.221-OFME.part09.rar",
-                        "direct_link": "https://rootz.so/d/1OUUbY"
-                    },
-                    {
-                        "file_name": "Forza.Horizon.6.v354.221-OFME.part10.rar",
-                        "direct_link": "https://rootz.so/d/8IGie"
-                    },
-                    {
-                        "file_name": "Forza.Horizon.6.v354.221-OFME.part11.rar",
-                        "direct_link": "https://rootz.so/d/29Td44"
-                    },
-                    {
-                        "file_name": "Forza.Horizon.6.v354.221-OFME.part12.rar",
-                        "direct_link": "https://rootz.so/d/EYzY"
-                    },
-                    {
-                        "file_name": "Forza.Horizon.6.v354.221-OFME.part13.rar",
-                        "direct_link": "https://rootz.so/d/CK7aC"
-                    },
-                    {
-                        "file_name": "Forza.Horizon.6.v354.221-OFME.part14.rar",
-                        "direct_link": "https://rootz.so/d/1P0MHQ"
-                    },
-                    {
-                        "file_name": "Forza.Horizon.6.v354.221-OFME.part15.rar",
-                        "direct_link": "https://rootz.so/d/1hGf5M"
-                    },
-                    {
-                        "file_name": "Forza.Horizon.6.v354.221-OFME.part16.rar",
-                        "direct_link": "https://rootz.so/d/UaQK0"
-                    },
-                    {
-                        "file_name": "Forza.Horizon.6.v354.221-OFME.part17.rar",
-                        "direct_link": "https://rootz.so/d/1lIVwu"
-                    },
-                    {
-                        "file_name": "Forza.Horizon.6.v354.221-OFME.part18.rar",
-                        "direct_link": "https://rootz.so/d/gfyue"
-                    },
-                    {
-                        "file_name": "Forza.Horizon.6.v354.221-OFME.part19.rar",
-                        "direct_link": "https://rootz.so/d/1xO4TQ"
-                    },
-                    {
-                        "file_name": "Forza.Horizon.6.v354.221-OFME.part20.rar",
-                        "direct_link": "https://rootz.so/d/21PvKy"
-                    },
-                    {
-                        "file_name": "Forza.Horizon.6.v354.221-OFME.part21.rar",
-                        "direct_link": "https://rootz.so/d/25RmCW"
-                    },
-                    {
-                        "file_name": "Forza.Horizon.6.v354.221-OFME.part22.rar",
-                        "direct_link": "https://rootz.so/d/16zzNY"
-                    },
-                    {
-                        "file_name": "Forza.Horizon.6.v354.221-OFME.part23.rar",
-                        "direct_link": "https://rootz.so/d/2FeNHM"
-                    },
-                    {
-                        "file_name": "Forza.Horizon.6.v354.221-OFME.part24.rar",
-                        "direct_link": "https://rootz.so/d/1B1qF6"
-                    },
-                    {
-                        "file_name": "Forza.Horizon.6.v354.221-OFME.part25.rar",
-                        "direct_link": "https://rootz.so/d/2JgE8u"
-                    },
-                    {
-                        "file_name": "Forza.Horizon.6.v354.221-OFME.part26.rar",
-                        "direct_link": "https://rootz.so/d/1R9FdA"
-                    },
-                    {
-                        "file_name": "Forza.Horizon.6.v354.221-OFME.part27.rar",
-                        "direct_link": "https://rootz.so/d/1N7Opk"
-                    },
-                    {
-                        "file_name": "Forza.Horizon.6.v354.221-OFME.part28.rar",
-                        "direct_link": "https://rootz.so/d/mqj7w"
-                    },
-                    {
-                        "file_name": "Forza.Horizon.6.v354.221-OFME.part29.rar",
-                        "direct_link": "https://rootz.so/d/oTkjg"
-                    },
-                    {
-                        "file_name": "Forza.Horizon.6.v354.221-OFME.part30.rar",
-                        "direct_link": "https://rootz.so/d/2NSPQ"
+                        "direct_link": "https://fileditchfiles.st/alpha18/90fee5de7ef8430a9886/01-Forza.Horizon.6.Update.v354.221.to.v403.798.AiO-OFME.rar"
                     }
                 ],
                 "Pixeldrain": [
@@ -45001,6 +44875,136 @@
                     {
                         "file_name": "Forza.Horizon.6.v354.221-OFME.part30.rar",
                         "direct_link": "https://vikingfile.com/f/5eQYBJJGxW"
+                    }
+                ],
+                "Rootz": [
+                    {
+                        "file_name": "ForzaHorizon6_Fix_Repair_Steam_V2_Generic.rar",
+                        "direct_link": "https://rootz.so/d/2ESZVo"
+                    },
+                    {
+                        "file_name": "01-Forza.Horizon.6.Update.v354.221.to.v403.798.AiO-OFME.rar",
+                        "direct_link": "https://rootz.so/d/2CIuPY"
+                    },
+                    {
+                        "file_name": "Forza.Horizon.6.v354.221-OFME.part01.rar",
+                        "direct_link": "https://rootz.so/d/2L3Jui"
+                    },
+                    {
+                        "file_name": "Forza.Horizon.6.v354.221-OFME.part02.rar",
+                        "direct_link": "https://rootz.so/d/14LEHo"
+                    },
+                    {
+                        "file_name": "Forza.Horizon.6.v354.221-OFME.part03.rar",
+                        "direct_link": "https://rootz.so/d/3kYBE"
+                    },
+                    {
+                        "file_name": "Forza.Horizon.6.v354.221-OFME.part04.rar",
+                        "direct_link": "https://rootz.so/d/18N59M"
+                    },
+                    {
+                        "file_name": "Forza.Horizon.6.v354.221-OFME.part05.rar",
+                        "direct_link": "https://rootz.so/d/7mOye"
+                    },
+                    {
+                        "file_name": "Forza.Horizon.6.v354.221-OFME.part06.rar",
+                        "direct_link": "https://rootz.so/d/1KSdk0"
+                    },
+                    {
+                        "file_name": "Forza.Horizon.6.v354.221-OFME.part07.rar",
+                        "direct_link": "https://rootz.so/d/wnOIi"
+                    },
+                    {
+                        "file_name": "Forza.Horizon.6.v354.221-OFME.part08.rar",
+                        "direct_link": "https://rootz.so/d/Fq6hk"
+                    },
+                    {
+                        "file_name": "Forza.Horizon.6.v354.221-OFME.part09.rar",
+                        "direct_link": "https://rootz.so/d/1OUUbY"
+                    },
+                    {
+                        "file_name": "Forza.Horizon.6.v354.221-OFME.part10.rar",
+                        "direct_link": "https://rootz.so/d/8IGie"
+                    },
+                    {
+                        "file_name": "Forza.Horizon.6.v354.221-OFME.part11.rar",
+                        "direct_link": "https://rootz.so/d/29Td44"
+                    },
+                    {
+                        "file_name": "Forza.Horizon.6.v354.221-OFME.part12.rar",
+                        "direct_link": "https://rootz.so/d/EYzY"
+                    },
+                    {
+                        "file_name": "Forza.Horizon.6.v354.221-OFME.part13.rar",
+                        "direct_link": "https://rootz.so/d/CK7aC"
+                    },
+                    {
+                        "file_name": "Forza.Horizon.6.v354.221-OFME.part14.rar",
+                        "direct_link": "https://rootz.so/d/1P0MHQ"
+                    },
+                    {
+                        "file_name": "Forza.Horizon.6.v354.221-OFME.part15.rar",
+                        "direct_link": "https://rootz.so/d/1hGf5M"
+                    },
+                    {
+                        "file_name": "Forza.Horizon.6.v354.221-OFME.part16.rar",
+                        "direct_link": "https://rootz.so/d/UaQK0"
+                    },
+                    {
+                        "file_name": "Forza.Horizon.6.v354.221-OFME.part17.rar",
+                        "direct_link": "https://rootz.so/d/1lIVwu"
+                    },
+                    {
+                        "file_name": "Forza.Horizon.6.v354.221-OFME.part18.rar",
+                        "direct_link": "https://rootz.so/d/gfyue"
+                    },
+                    {
+                        "file_name": "Forza.Horizon.6.v354.221-OFME.part19.rar",
+                        "direct_link": "https://rootz.so/d/1xO4TQ"
+                    },
+                    {
+                        "file_name": "Forza.Horizon.6.v354.221-OFME.part20.rar",
+                        "direct_link": "https://rootz.so/d/21PvKy"
+                    },
+                    {
+                        "file_name": "Forza.Horizon.6.v354.221-OFME.part21.rar",
+                        "direct_link": "https://rootz.so/d/25RmCW"
+                    },
+                    {
+                        "file_name": "Forza.Horizon.6.v354.221-OFME.part22.rar",
+                        "direct_link": "https://rootz.so/d/16zzNY"
+                    },
+                    {
+                        "file_name": "Forza.Horizon.6.v354.221-OFME.part23.rar",
+                        "direct_link": "https://rootz.so/d/2FeNHM"
+                    },
+                    {
+                        "file_name": "Forza.Horizon.6.v354.221-OFME.part24.rar",
+                        "direct_link": "https://rootz.so/d/1B1qF6"
+                    },
+                    {
+                        "file_name": "Forza.Horizon.6.v354.221-OFME.part25.rar",
+                        "direct_link": "https://rootz.so/d/2JgE8u"
+                    },
+                    {
+                        "file_name": "Forza.Horizon.6.v354.221-OFME.part26.rar",
+                        "direct_link": "https://rootz.so/d/1R9FdA"
+                    },
+                    {
+                        "file_name": "Forza.Horizon.6.v354.221-OFME.part27.rar",
+                        "direct_link": "https://rootz.so/d/1N7Opk"
+                    },
+                    {
+                        "file_name": "Forza.Horizon.6.v354.221-OFME.part28.rar",
+                        "direct_link": "https://rootz.so/d/mqj7w"
+                    },
+                    {
+                        "file_name": "Forza.Horizon.6.v354.221-OFME.part29.rar",
+                        "direct_link": "https://rootz.so/d/oTkjg"
+                    },
+                    {
+                        "file_name": "Forza.Horizon.6.v354.221-OFME.part30.rar",
+                        "direct_link": "https://rootz.so/d/2NSPQ"
                     }
                 ]
             },
@@ -46847,6 +46851,261 @@
                 {
                     "name": "GENSOU.Skydrift.v2.090-OFME.rar",
                     "size": "727.17 MB"
+                }
+            ],
+            "comment": ""
+        },
+        {
+            "title": "GERONIMO",
+            "page": 1,
+            "url": "https://online-fix.me/games/vr/18171-geronimo-po-seti.html",
+            "last_update": "2026-07-22T14:27:06+03:00",
+            "release_date": "10.07.2026",
+            "update_info": "",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-07-22 16:04:53",
+            "steam": {
+                "steam_appid": 2019620,
+                "match_score": 100,
+                "match_via": "canon",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2019620/c18168bcea25a3fa7d835319ddc4aadb2281e997/header.jpg?t=1784199023",
+                "short_description": "GERONIMO é um jogo de tiro CQB tático e envolvente construído para Realidade Virtual que retrata um mundo moderno no qual operadores de Nível 1 são chamados para implementar operações não convencionais como membros de equipes de elite. Invasão, personalização detalhada de personagens e armas e muito mais! \"Quem ousa, vence\"",
+                "short_description_native": "GERONIMO is an immersive, tactical CQB shooter built for Virtual Reality that depicts a modern-day world in which Tier 1 operators are called to implement unconventional operations as members of elite teams. Breaching, in-depth character and weapon customization and more! &quot;Who Dares, Wins&quot;",
+                "price_brl": "R$ 109,99",
+                "is_free": false,
+                "pc_requirements": {
+                    "minimum": "Mínimos:\n\nSistema Operativo: Windows 10\n\nProcessador: Intel i5-6400K 2.7GHz\n\nMemória: 8 GB de RAM\n\nPlaca gráfica: NVIDIA GTX 1070\n\nEspaço no disco: Requer 25 GB de espaço livre\n\nCompatibilidade com R.V.: OpenXR on SteamVR with Index, WMR HP Reverb G2, and Meta Quest 2/3; or OpenXR on Meta with Meta Quest 2/3. Standing only",
+                    "recommended": "Recomendados:\n\nSistema Operativo: Windows 11\n\nProcessador: Intel i7-4790 3.6 GHz\n\nMemória: 16 GB de RAM\n\nPlaca gráfica: NVIDIA RTX 3060\n\nEspaço no disco: Requer 25 GB de espaço livre\n\nCompatibilidade com R.V.: OpenXR on SteamVR with Index, WMR HP Reverb G2, and Meta Quest 2/3; or OpenXR on Meta with Meta Quest 2/3. Standing only"
+                },
+                "controller_support": null,
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Um jogador"
+                    },
+                    {
+                        "id": 1,
+                        "description": "Multijogador"
+                    },
+                    {
+                        "id": 9,
+                        "description": "Co-op"
+                    },
+                    {
+                        "id": 38,
+                        "description": "Co-op online"
+                    },
+                    {
+                        "id": 52,
+                        "description": "Compatibilidade com comandos de deteção"
+                    },
+                    {
+                        "id": 54,
+                        "description": "Só em R.V."
+                    },
+                    {
+                        "id": 62,
+                        "description": "Partilha de Biblioteca"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "1",
+                        "description": "Ação"
+                    },
+                    {
+                        "id": "70",
+                        "description": "Acesso Antecipado"
+                    }
+                ]
+            },
+            "hoster_links": {
+                "FileDitch": [
+                    {
+                        "file_name": "GERONIMO_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha18/0521c3acedb14c198d8b/GERONIMO_Fix_Repair_Steam_Generic.rar"
+                    },
+                    {
+                        "file_name": "GERONIMO.Build.12072026-OFME.part1.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha18/17035ee6b82c0d8571e7/GERONIMO.Build.12072026-OFME.part1.rar"
+                    },
+                    {
+                        "file_name": "GERONIMO.Build.12072026-OFME.part2.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha18/79c4643edebb04af96e0/GERONIMO.Build.12072026-OFME.part2.rar"
+                    },
+                    {
+                        "file_name": "GERONIMO.Build.12072026-OFME.part3.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha18/be2568a143ae96bf983b/GERONIMO.Build.12072026-OFME.part3.rar"
+                    },
+                    {
+                        "file_name": "GERONIMO.Build.12072026-OFME.part4.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha18/118dde40d9c4bfbacdf6/GERONIMO.Build.12072026-OFME.part4.rar"
+                    },
+                    {
+                        "file_name": "GERONIMO.Build.12072026-OFME.part5.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha18/55161e85e99aeb879f9d/GERONIMO.Build.12072026-OFME.part5.rar"
+                    },
+                    {
+                        "file_name": "GERONIMO.Build.12072026-OFME.part6.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha18/991f9144d55e18c0c95c/GERONIMO.Build.12072026-OFME.part6.rar"
+                    }
+                ],
+                "Pixeldrain": [
+                    {
+                        "file_name": "GERONIMO_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://pixeldrain.com/u/XLXGXEex"
+                    },
+                    {
+                        "file_name": "GERONIMO.Build.12072026-OFME.part1.rar",
+                        "direct_link": "https://pixeldrain.com/u/rPMwHzUT"
+                    },
+                    {
+                        "file_name": "GERONIMO.Build.12072026-OFME.part2.rar",
+                        "direct_link": "https://pixeldrain.com/u/RoboAxN9"
+                    },
+                    {
+                        "file_name": "GERONIMO.Build.12072026-OFME.part3.rar",
+                        "direct_link": "https://pixeldrain.com/u/F9gbzgEA"
+                    },
+                    {
+                        "file_name": "GERONIMO.Build.12072026-OFME.part4.rar",
+                        "direct_link": "https://pixeldrain.com/u/ZCPobzRo"
+                    },
+                    {
+                        "file_name": "GERONIMO.Build.12072026-OFME.part5.rar",
+                        "direct_link": "https://pixeldrain.com/u/wLGgJ4K5"
+                    },
+                    {
+                        "file_name": "GERONIMO.Build.12072026-OFME.part6.rar",
+                        "direct_link": "https://pixeldrain.com/u/6aHweZTN"
+                    }
+                ],
+                "Gofile": [
+                    {
+                        "file_name": "GERONIMO_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://gofile.io/d/9cUVyX"
+                    },
+                    {
+                        "file_name": "GERONIMO.Build.12072026-OFME.part1.rar",
+                        "direct_link": "https://gofile.io/d/wtzGLb"
+                    },
+                    {
+                        "file_name": "GERONIMO.Build.12072026-OFME.part2.rar",
+                        "direct_link": "https://gofile.io/d/trpxa9"
+                    },
+                    {
+                        "file_name": "GERONIMO.Build.12072026-OFME.part3.rar",
+                        "direct_link": "https://gofile.io/d/puEDrJ"
+                    },
+                    {
+                        "file_name": "GERONIMO.Build.12072026-OFME.part4.rar",
+                        "direct_link": "https://gofile.io/d/eosbWM"
+                    },
+                    {
+                        "file_name": "GERONIMO.Build.12072026-OFME.part5.rar",
+                        "direct_link": "https://gofile.io/d/3uHTBi"
+                    },
+                    {
+                        "file_name": "GERONIMO.Build.12072026-OFME.part6.rar",
+                        "direct_link": "https://gofile.io/d/qfqtcX"
+                    }
+                ],
+                "VikingFile": [
+                    {
+                        "file_name": "GERONIMO_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://vikingfile.com/f/EClSeQkQSW"
+                    },
+                    {
+                        "file_name": "GERONIMO.Build.12072026-OFME.part1.rar",
+                        "direct_link": "https://vikingfile.com/f/3j11hYLL0X"
+                    },
+                    {
+                        "file_name": "GERONIMO.Build.12072026-OFME.part2.rar",
+                        "direct_link": "https://vikingfile.com/f/PE4xvqLtYJ"
+                    },
+                    {
+                        "file_name": "GERONIMO.Build.12072026-OFME.part3.rar",
+                        "direct_link": "https://vikingfile.com/f/thVwa3Pr8W"
+                    },
+                    {
+                        "file_name": "GERONIMO.Build.12072026-OFME.part4.rar",
+                        "direct_link": "https://vikingfile.com/f/a8TJUGXLox"
+                    },
+                    {
+                        "file_name": "GERONIMO.Build.12072026-OFME.part5.rar",
+                        "direct_link": "https://vikingfile.com/f/xmASsXJk2j"
+                    },
+                    {
+                        "file_name": "GERONIMO.Build.12072026-OFME.part6.rar",
+                        "direct_link": "https://vikingfile.com/f/GchqHSuo6t"
+                    }
+                ],
+                "Rootz": [
+                    {
+                        "file_name": "GERONIMO_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://rootz.so/d/3PCgy"
+                    },
+                    {
+                        "file_name": "GERONIMO.Build.12072026-OFME.part1.rar",
+                        "direct_link": "https://rootz.so/d/tnHmq"
+                    },
+                    {
+                        "file_name": "GERONIMO.Build.12072026-OFME.part2.rar",
+                        "direct_link": "https://rootz.so/d/JWc52"
+                    },
+                    {
+                        "file_name": "GERONIMO.Build.12072026-OFME.part3.rar",
+                        "direct_link": "https://rootz.so/d/1O997I"
+                    },
+                    {
+                        "file_name": "GERONIMO.Build.12072026-OFME.part4.rar",
+                        "direct_link": "https://rootz.so/d/1wWrJI"
+                    },
+                    {
+                        "file_name": "GERONIMO.Build.12072026-OFME.part5.rar",
+                        "direct_link": "https://rootz.so/d/ruKH2"
+                    },
+                    {
+                        "file_name": "GERONIMO.Build.12072026-OFME.part6.rar",
+                        "direct_link": "https://rootz.so/d/1G5RSK"
+                    }
+                ]
+            },
+            "unique_hash": "74e4b97fa67414c725538b6ddb3e8c12f1159528",
+            "fileSize": "27.32 GB",
+            "magnet": "magnet:?xt=urn:btih:74e4b97fa67414c725538b6ddb3e8c12f1159528&dn=GERONIMO&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_1/GERONIMO.Build.12072026-OFME.torrent",
+            "created_at": "2026-07-22 08:20:10",
+            "webdav_updated_at": "Unknown",
+            "files": [
+                {
+                    "name": "Fix Repair/GERONIMO_Fix_Repair_Steam_Generic.rar",
+                    "size": "11.04 MB"
+                },
+                {
+                    "name": "GERONIMO.Build.12072026-OFME.part1.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "GERONIMO.Build.12072026-OFME.part2.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "GERONIMO.Build.12072026-OFME.part3.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "GERONIMO.Build.12072026-OFME.part4.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "GERONIMO.Build.12072026-OFME.part5.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "GERONIMO.Build.12072026-OFME.part6.rar",
+                    "size": "2.31 GB"
                 }
             ],
             "comment": ""
@@ -55612,10 +55871,10 @@
             "url": "https://online-fix.me/games/strategy/16290-hearts-of-iron-iv-po-seti.html",
             "last_update": "2020-03-28T00:29:51+03:00",
             "release_date": "06.06.2016",
-            "update_info": "Обновлено Вчера, 16:14. Игра обновлена до версии 1.19.2.0.",
-            "update_date": null,
-            "formatted_update_date": null,
-            "scraped_at": "2026-07-21 16:13:10",
+            "update_info": "Обновлено 20 июля 2026, 16:14. Игра обновлена до версии 1.19.2.0.",
+            "update_date": "2026-07-20T16:14:00+03:00",
+            "formatted_update_date": "2026-07-20 16:14:00",
+            "scraped_at": "2026-07-22 16:06:39",
             "steam": {
                 "steam_appid": 394360,
                 "match_score": 100,
@@ -55698,20 +55957,6 @@
                         "direct_link": "https://fileditchfiles.st/alpha17/5f3dc56a186680c2bade/Hearts.of.Iron.IV.1.19.2.0-OFME.part2.rar"
                     }
                 ],
-                "Rootz": [
-                    {
-                        "file_name": "HOIIV_Fix_Repair_Steam_V4_Generic.rar",
-                        "direct_link": "https://rootz.so/d/bMpAe"
-                    },
-                    {
-                        "file_name": "Hearts.of.Iron.IV.1.19.2.0-OFME.part1.rar",
-                        "direct_link": "https://rootz.so/d/2577rs"
-                    },
-                    {
-                        "file_name": "Hearts.of.Iron.IV.1.19.2.0-OFME.part2.rar",
-                        "direct_link": "https://rootz.so/d/1s4unY"
-                    }
-                ],
                 "Pixeldrain": [
                     {
                         "file_name": "HOIIV_Fix_Repair_Steam_V4_Generic.rar",
@@ -55752,6 +55997,20 @@
                     {
                         "file_name": "Hearts.of.Iron.IV.1.19.2.0-OFME.part2.rar",
                         "direct_link": "https://vikingfile.com/f/QDH5KNXs8t"
+                    }
+                ],
+                "Rootz": [
+                    {
+                        "file_name": "HOIIV_Fix_Repair_Steam_V4_Generic.rar",
+                        "direct_link": "https://rootz.so/d/bMpAe"
+                    },
+                    {
+                        "file_name": "Hearts.of.Iron.IV.1.19.2.0-OFME.part1.rar",
+                        "direct_link": "https://rootz.so/d/2577rs"
+                    },
+                    {
+                        "file_name": "Hearts.of.Iron.IV.1.19.2.0-OFME.part2.rar",
+                        "direct_link": "https://rootz.so/d/1s4unY"
                     }
                 ]
             },
@@ -58763,15 +59022,15 @@
             "url": "https://online-fix.me/games/sandbox/17268-icarus-po-seti.html",
             "last_update": "2023-06-09T13:15:24+03:00",
             "release_date": "03.12.2021",
-            "update_info": "Обновлено Сегодня, 15:05. Игра обновлена до версии Build 17072026.",
+            "update_info": "Обновлено Вчера, 15:05. Игра обновлена до версии Build 17072026.",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-07-21 16:11:28",
+            "scraped_at": "2026-07-22 16:05:13",
             "steam": {
                 "steam_appid": 1149460,
                 "match_score": 100,
                 "match_via": "canon",
-                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149460/header.jpg?t=1781662495",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149460/header.jpg?t=1784744651",
                 "short_description": "ICARUS é um jogo de sobrevivência PvE solo ou multijogador. Explore uma região selvagem após uma terraformação que deu errado. Complete missões narrativas como operações de mundo aberto ou missões individuais. Explore, construa, crie e cace enquanto busca fortuna e prospecta materiais exóticos.",
                 "short_description_native": "ICARUS is a solo or multiplayer PvE survival game. Explore a savage wilderness in the aftermath of terraforming gone wrong. Complete narrative quests as either Open World operations or Individual Missions. Explore, build, craft and hunt while seeking your fortune and prospecting for exotic matter.",
                 "price_brl": "R$ 101,99",
@@ -58875,52 +59134,6 @@
                     {
                         "file_name": "ICARUS.Dedicated.Server.Build.17072026-OFME.part2.rar",
                         "direct_link": "https://fileditchfiles.st/beta16/3a503c348171ae998723/ICARUS.Dedicated.Server.Build.17072026-OFME.part2.rar"
-                    }
-                ],
-                "Rootz": [
-                    {
-                        "file_name": "ICARUS.Build.17072026-OFME.part01.rar",
-                        "direct_link": "https://rootz.so/d/1VbYeW"
-                    },
-                    {
-                        "file_name": "ICARUS.Build.17072026-OFME.part02.rar",
-                        "direct_link": "https://rootz.so/d/1NXqvQ"
-                    },
-                    {
-                        "file_name": "ICARUS.Build.17072026-OFME.part03.rar",
-                        "direct_link": "https://rootz.so/d/27lBo0"
-                    },
-                    {
-                        "file_name": "ICARUS.Build.17072026-OFME.part04.rar",
-                        "direct_link": "https://rootz.so/d/ksM1w"
-                    },
-                    {
-                        "file_name": "ICARUS.Build.17072026-OFME.part05.rar",
-                        "direct_link": "https://rootz.so/d/gqVAO"
-                    },
-                    {
-                        "file_name": "ICARUS.Build.17072026-OFME.part06.rar",
-                        "direct_link": "https://rootz.so/d/1tWjvk"
-                    },
-                    {
-                        "file_name": "ICARUS.Build.17072026-OFME.part07.rar",
-                        "direct_link": "https://rootz.so/d/10zlQ0"
-                    },
-                    {
-                        "file_name": "ICARUS.Build.17072026-OFME.part08.rar",
-                        "direct_link": "https://rootz.so/d/151cHY"
-                    },
-                    {
-                        "file_name": "ICARUS.Build.17072026-OFME.part09.rar",
-                        "direct_link": "https://rootz.so/d/1xYanI"
-                    },
-                    {
-                        "file_name": "ICARUS.Dedicated.Server.Build.17072026-OFME.part1.rar",
-                        "direct_link": "https://rootz.so/d/2K6gEa"
-                    },
-                    {
-                        "file_name": "ICARUS.Dedicated.Server.Build.17072026-OFME.part2.rar",
-                        "direct_link": "https://rootz.so/d/1xoWdE"
                     }
                 ],
                 "Pixeldrain": [
@@ -59067,6 +59280,52 @@
                     {
                         "file_name": "ICARUS.Dedicated.Server.Build.17072026-OFME.part2.rar",
                         "direct_link": "https://vikingfile.com/f/boxrQR0HlQ"
+                    }
+                ],
+                "Rootz": [
+                    {
+                        "file_name": "ICARUS.Build.17072026-OFME.part01.rar",
+                        "direct_link": "https://rootz.so/d/1VbYeW"
+                    },
+                    {
+                        "file_name": "ICARUS.Build.17072026-OFME.part02.rar",
+                        "direct_link": "https://rootz.so/d/1NXqvQ"
+                    },
+                    {
+                        "file_name": "ICARUS.Build.17072026-OFME.part03.rar",
+                        "direct_link": "https://rootz.so/d/27lBo0"
+                    },
+                    {
+                        "file_name": "ICARUS.Build.17072026-OFME.part04.rar",
+                        "direct_link": "https://rootz.so/d/ksM1w"
+                    },
+                    {
+                        "file_name": "ICARUS.Build.17072026-OFME.part05.rar",
+                        "direct_link": "https://rootz.so/d/gqVAO"
+                    },
+                    {
+                        "file_name": "ICARUS.Build.17072026-OFME.part06.rar",
+                        "direct_link": "https://rootz.so/d/1tWjvk"
+                    },
+                    {
+                        "file_name": "ICARUS.Build.17072026-OFME.part07.rar",
+                        "direct_link": "https://rootz.so/d/10zlQ0"
+                    },
+                    {
+                        "file_name": "ICARUS.Build.17072026-OFME.part08.rar",
+                        "direct_link": "https://rootz.so/d/151cHY"
+                    },
+                    {
+                        "file_name": "ICARUS.Build.17072026-OFME.part09.rar",
+                        "direct_link": "https://rootz.so/d/1xYanI"
+                    },
+                    {
+                        "file_name": "ICARUS.Dedicated.Server.Build.17072026-OFME.part1.rar",
+                        "direct_link": "https://rootz.so/d/2K6gEa"
+                    },
+                    {
+                        "file_name": "ICARUS.Dedicated.Server.Build.17072026-OFME.part2.rar",
+                        "direct_link": "https://rootz.so/d/1xoWdE"
                     }
                 ]
             },
@@ -62963,10 +63222,10 @@
             "url": "https://online-fix.me/games/simulator/17430-kebab-chefs-restaurant-simulator-po-seti.html",
             "last_update": "2024-01-22T19:26:43+03:00",
             "release_date": "11.06.2026",
-            "update_info": "Обновлено Сегодня, 15:09. Игра обновлена до релизной версии.",
+            "update_info": "Обновлено Вчера, 15:09. Игра обновлена до релизной версии.",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-07-21 16:11:23",
+            "scraped_at": "2026-07-22 16:05:09",
             "steam": {
                 "steam_appid": 1001270,
                 "match_score": 100,
@@ -63053,16 +63312,6 @@
                         "direct_link": "https://fileditchfiles.st/beta16/0536bbd50c39aeb648ee/Kebab.Chefs_.-.Restaurant.Simulator.Build.04072026-OFME.rar"
                     }
                 ],
-                "Rootz": [
-                    {
-                        "file_name": "KebabChefsRestaurantSimulator_Fix_Repair_Steam_V4_Generic.rar",
-                        "direct_link": "https://rootz.so/d/21aRai"
-                    },
-                    {
-                        "file_name": "Kebab.Chefs!.-.Restaurant.Simulator.Build.04072026-OFME.rar",
-                        "direct_link": "https://rootz.so/d/sw3l2"
-                    }
-                ],
                 "Pixeldrain": [
                     {
                         "file_name": "KebabChefsRestaurantSimulator_Fix_Repair_Steam_V4_Generic.rar",
@@ -63091,6 +63340,16 @@
                     {
                         "file_name": "Kebab.Chefs!.-.Restaurant.Simulator.Build.04072026-OFME.rar",
                         "direct_link": "https://vikingfile.com/f/mu9NOPc6Mr"
+                    }
+                ],
+                "Rootz": [
+                    {
+                        "file_name": "KebabChefsRestaurantSimulator_Fix_Repair_Steam_V4_Generic.rar",
+                        "direct_link": "https://rootz.so/d/21aRai"
+                    },
+                    {
+                        "file_name": "Kebab.Chefs!.-.Restaurant.Simulator.Build.04072026-OFME.rar",
+                        "direct_link": "https://rootz.so/d/sw3l2"
                     }
                 ]
             },
@@ -72746,10 +73005,10 @@
             "url": "https://online-fix.me/games/officialservers/17478-microsoft-flight-simulator-po-seti.html",
             "last_update": "2024-03-26T16:34:16+03:00",
             "release_date": "18.08.2020",
-            "update_info": "Обновлено Вчера, 16:15. Игра обновлена до версии 1.39.12.0.",
-            "update_date": null,
-            "formatted_update_date": null,
-            "scraped_at": "2026-07-21 16:11:20",
+            "update_info": "Обновлено 20 июля 2026, 16:15. Игра обновлена до версии 1.39.12.0.",
+            "update_date": "2026-07-20T16:15:00+03:00",
+            "formatted_update_date": "2026-07-20 16:15:00",
+            "scraped_at": "2026-07-22 16:05:07",
             "steam": {
                 "not_found": true,
                 "reason": "low_confidence",
@@ -72760,12 +73019,6 @@
                     {
                         "file_name": "Microsoft.Flight.Simulator.v1.39.12.0-OFME.rar",
                         "direct_link": "https://fileditchfiles.st/alpha17/bbbb451f08e5a57cf507/Microsoft.Flight.Simulator.v1.39.12.0-OFME.rar"
-                    }
-                ],
-                "Rootz": [
-                    {
-                        "file_name": "Microsoft.Flight.Simulator.v1.39.12.0-OFME.rar",
-                        "direct_link": "https://rootz.so/d/oP2J6"
                     }
                 ],
                 "Pixeldrain": [
@@ -72792,6 +73045,12 @@
                     {
                         "file_name": "Microsoft.Flight.Simulator.v1.39.12.0-OFME.rar",
                         "direct_link": "https://vikingfile.com/f/8CmdbzJNCT"
+                    }
+                ],
+                "Rootz": [
+                    {
+                        "file_name": "Microsoft.Flight.Simulator.v1.39.12.0-OFME.rar",
+                        "direct_link": "https://rootz.so/d/oP2J6"
                     }
                 ]
             },
@@ -83614,10 +83873,10 @@
             "url": "https://online-fix.me/games/simulator/18167-ore-factory-squad-online.html",
             "last_update": "2026-07-20T16:24:48+03:00",
             "release_date": null,
-            "update_info": "Обновлено Сегодня, 15:05. Игра обновлена до версии 1.0.4. Добавлен Steam-Fix V2. Пропатчена проверка версии.",
+            "update_info": "Обновлено Вчера, 15:05. Игра обновлена до версии 1.0.4. Добавлен Steam-Fix V2. Пропатчена проверка версии.",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-07-21 16:11:07",
+            "scraped_at": "2026-07-22 16:04:52",
             "steam": {
                 "steam_appid": 4210580,
                 "match_score": 100,
@@ -83728,20 +83987,6 @@
                         "direct_link": "https://fileditchfiles.st/beta16/71a589ebdee4a2cf4281/Ore.Factory.Squad.v1.0.4-OFME.part2.rar"
                     }
                 ],
-                "Rootz": [
-                    {
-                        "file_name": "OreFactorySquad_Fix_Repair_Steam_V2_Generic.rar",
-                        "direct_link": "https://rootz.so/d/25cISG"
-                    },
-                    {
-                        "file_name": "Ore.Factory.Squad.v1.0.4-OFME.part1.rar",
-                        "direct_link": "https://rootz.so/d/2XyfA"
-                    },
-                    {
-                        "file_name": "Ore.Factory.Squad.v1.0.4-OFME.part2.rar",
-                        "direct_link": "https://rootz.so/d/29e9Jo"
-                    }
-                ],
                 "Pixeldrain": [
                     {
                         "file_name": "OreFactorySquad_Fix_Repair_Steam_V2_Generic.rar",
@@ -83782,6 +84027,20 @@
                     {
                         "file_name": "Ore.Factory.Squad.v1.0.4-OFME.part2.rar",
                         "direct_link": "https://vikingfile.com/f/RHHi3sNJT5"
+                    }
+                ],
+                "Rootz": [
+                    {
+                        "file_name": "OreFactorySquad_Fix_Repair_Steam_V2_Generic.rar",
+                        "direct_link": "https://rootz.so/d/25cISG"
+                    },
+                    {
+                        "file_name": "Ore.Factory.Squad.v1.0.4-OFME.part1.rar",
+                        "direct_link": "https://rootz.so/d/2XyfA"
+                    },
+                    {
+                        "file_name": "Ore.Factory.Squad.v1.0.4-OFME.part2.rar",
+                        "direct_link": "https://rootz.so/d/29e9Jo"
                     }
                 ]
             },
@@ -86471,10 +86730,10 @@
             "url": "https://online-fix.me/games/adventures/17801-peak-po-seti.html",
             "last_update": "2025-06-17T13:05:29+03:00",
             "release_date": "16.06.2025",
-            "update_info": "Обновлено Сегодня, 15:06. Игра обновлена до версии 1.64.a.",
+            "update_info": "Обновлено Вчера, 15:06. Игра обновлена до версии 1.64.a.",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-07-21 16:11:15",
+            "scraped_at": "2026-07-22 16:05:01",
             "steam": {
                 "steam_appid": 3527290,
                 "match_score": 100,
@@ -86561,12 +86820,6 @@
                         "direct_link": "https://fileditchfiles.st/beta16/fbd57b4d7a532205726c/PEAK.v1.64.a-OFME.rar"
                     }
                 ],
-                "Rootz": [
-                    {
-                        "file_name": "PEAK.v1.64.a-OFME.rar",
-                        "direct_link": "https://rootz.so/d/ouCtU"
-                    }
-                ],
                 "Pixeldrain": [
                     {
                         "file_name": "PEAK_Fix_Repair_Steam_V4_Generic.rar",
@@ -86595,6 +86848,12 @@
                     {
                         "file_name": "PEAK.v1.64.a-OFME.rar",
                         "direct_link": "https://vikingfile.com/f/lq0Cnp6Hzz"
+                    }
+                ],
+                "Rootz": [
+                    {
+                        "file_name": "PEAK.v1.64.a-OFME.rar",
+                        "direct_link": "https://rootz.so/d/ouCtU"
                     }
                 ]
             },
@@ -93854,6 +94113,169 @@
                 {
                     "name": "REANIMAL.Build.24042026-OFME.part3.rar",
                     "size": "2.29 GB"
+                }
+            ],
+            "comment": ""
+        },
+        {
+            "title": "RED FLAG",
+            "page": 1,
+            "url": "https://online-fix.me/games/adventures/18170-red-flag-po-seti.html",
+            "last_update": "2026-07-22T14:27:04+03:00",
+            "release_date": "13.07.2026",
+            "update_info": "",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-07-22 16:04:54",
+            "steam": {
+                "steam_appid": 4601770,
+                "match_score": 100,
+                "match_via": "canon",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4601770/f9fbea0b2e78d00ef193f94b09a81a03a9db7590/header.jpg?t=1784110963",
+                "short_description": "Uma catástrofe global atingiu o mundo. Um pequeno grupo de sobreviventes está preso num abrigo isolado com recursos demasiado escassos para todos. Sente-se à mesa e convença os outros de que você merece ficar. Minta, pressione, manipule – e decida quem será expulso!",
+                "short_description_native": "A global catastrophe has struck the world. A small group of survivors is trapped in an isolated shelter with resources too scarce for everyone. Take your seat at the table, convince the others you deserve to stay. Lie, pressure, manipulate – and decide who gets thrown out!",
+                "price_brl": "R$ 19,49",
+                "is_free": false,
+                "pc_requirements": {
+                    "minimum": "Mínimos:\n\nSistema Operativo: Windows 10/11\n\nProcessador: Intel Core i3-9300\n\nMemória: 8 GB de RAM\n\nPlaca gráfica: Nvidia GTX 960 4GB\n\nDirectX: Versão 11\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 3 GB de espaço livre",
+                    "recommended": "Recomendados:\n\nSistema Operativo: Windows 10/11\n\nProcessador: Intel Core i5-10400\n\nMemória: 16 GB de RAM\n\nPlaca gráfica: Nvidia GTX 1070 8GB\n\nDirectX: Versão 12\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 3 GB de espaço livre"
+                },
+                "controller_support": null,
+                "categories": [
+                    {
+                        "id": 1,
+                        "description": "Multijogador"
+                    },
+                    {
+                        "id": 49,
+                        "description": "PvP"
+                    },
+                    {
+                        "id": 36,
+                        "description": "PvP online"
+                    },
+                    {
+                        "id": 22,
+                        "description": "Proezas Steam"
+                    },
+                    {
+                        "id": 67,
+                        "description": "Conforto de câmara"
+                    },
+                    {
+                        "id": 68,
+                        "description": "Controlos de volume independentes"
+                    },
+                    {
+                        "id": 74,
+                        "description": "Jogável sem necessitar de ações rápidas ou precisas"
+                    },
+                    {
+                        "id": 69,
+                        "description": "Som estéreo"
+                    },
+                    {
+                        "id": 70,
+                        "description": "Som surround"
+                    },
+                    {
+                        "id": 62,
+                        "description": "Partilha de Biblioteca"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "4",
+                        "description": "Casual"
+                    },
+                    {
+                        "id": "23",
+                        "description": "Indie"
+                    },
+                    {
+                        "id": "3",
+                        "description": "RPG"
+                    },
+                    {
+                        "id": "28",
+                        "description": "Simulação"
+                    },
+                    {
+                        "id": "2",
+                        "description": "Estratégia"
+                    },
+                    {
+                        "id": "70",
+                        "description": "Acesso Antecipado"
+                    }
+                ]
+            },
+            "hoster_links": {
+                "FileDitch": [
+                    {
+                        "file_name": "REDFLAG_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha18/3904c2799b16b0844d82/REDFLAG_Fix_Repair_Steam_Generic.rar"
+                    },
+                    {
+                        "file_name": "RED.FLAG.v0.1.2-OFME.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha18/cc2f66e4caf18b740a0d/RED.FLAG.v0.1.2-OFME.rar"
+                    }
+                ],
+                "Pixeldrain": [
+                    {
+                        "file_name": "REDFLAG_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://pixeldrain.com/u/pTbB9iiq"
+                    },
+                    {
+                        "file_name": "RED.FLAG.v0.1.2-OFME.rar",
+                        "direct_link": "https://pixeldrain.com/u/TTeeRwPN"
+                    }
+                ],
+                "Gofile": [
+                    {
+                        "file_name": "REDFLAG_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://gofile.io/d/TmZEbV"
+                    },
+                    {
+                        "file_name": "RED.FLAG.v0.1.2-OFME.rar",
+                        "direct_link": "https://gofile.io/d/YKHUiS"
+                    }
+                ],
+                "VikingFile": [
+                    {
+                        "file_name": "REDFLAG_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://vikingfile.com/f/ErIGNZV7I1"
+                    },
+                    {
+                        "file_name": "RED.FLAG.v0.1.2-OFME.rar",
+                        "direct_link": "https://vikingfile.com/f/pjqNf4LQd5"
+                    }
+                ],
+                "Rootz": [
+                    {
+                        "file_name": "REDFLAG_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://rootz.so/d/7R3YW"
+                    },
+                    {
+                        "file_name": "RED.FLAG.v0.1.2-OFME.rar",
+                        "direct_link": "https://rootz.so/d/FUlHc"
+                    }
+                ]
+            },
+            "unique_hash": "1f791115230bd06a331fd17a113436a81589300e",
+            "fileSize": "1.39 GB",
+            "magnet": "magnet:?xt=urn:btih:1f791115230bd06a331fd17a113436a81589300e&dn=RED%20FLAG&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_1/RED.FLAG.v0.1.2-OFME.torrent",
+            "created_at": "2026-07-22 08:19:26",
+            "webdav_updated_at": "Unknown",
+            "files": [
+                {
+                    "name": "RED.FLAG.v0.1.2-OFME.rar",
+                    "size": "1.38 GB"
+                },
+                {
+                    "name": "Fix Repair/REDFLAG_Fix_Repair_Steam_Generic.rar",
+                    "size": "11.04 MB"
                 }
             ],
             "comment": ""
@@ -103830,14 +104252,14 @@
         },
         {
             "title": "Satisfactory",
-            "page": 27,
+            "page": 28,
             "url": "https://online-fix.me/games/sandbox/16137-satisfactory-po-seti.html",
             "last_update": "2024-09-10T18:34:29+03:00",
             "release_date": "10.09.2024",
-            "update_info": "Обновлено 9 июня 2026, 14:38. Игра обновлена до версии Build 02062026. Добавлен Steam-Fix V3.",
-            "update_date": "2026-06-09T14:38:00+03:00",
-            "formatted_update_date": "2026-06-09 14:38:00",
-            "scraped_at": "2026-06-28 18:55:57",
+            "update_info": "Обновлено Сегодня, 14:26. Игра обновлена до версии Build 24062026.",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-07-22 16:05:05",
             "steam": {
                 "steam_appid": 526870,
                 "match_score": 100,
@@ -103903,19 +104325,19 @@
                     },
                     {
                         "id": 55,
-                        "description": "Compat. com DUALSHOCK"
+                        "description": "Compatibilidade com DUALSHOCK"
                     },
                     {
                         "id": 56,
-                        "description": "Compat. com DUALSHOCK"
+                        "description": "Compatibilidade com DUALSHOCK"
                     },
                     {
                         "id": 57,
-                        "description": "Compat. com DualSense"
+                        "description": "Compatibilidade com DualSense"
                     },
                     {
                         "id": 58,
-                        "description": "Compat. com DualSense"
+                        "description": "Compatibilidade com DualSense"
                     },
                     {
                         "id": 79,
@@ -103931,7 +104353,7 @@
                     },
                     {
                         "id": 18,
-                        "description": "Compat. parcial c/ comando"
+                        "description": "Compatibilidade parcial com comando"
                     },
                     {
                         "id": 23,
@@ -103972,16 +104394,16 @@
                         "direct_link": "https://fileditchfiles.me/alpha7/1c5c35bf7eee9f1ff380/Satisfactory_Fix_Repair_Steam_V3_Generic.rar"
                     },
                     {
-                        "file_name": "Satisfactory.Build.02062026-OFME.part1.rar",
-                        "direct_link": "https://fileditchfiles.me/alpha7/3f115151387dae240817/Satisfactory.Build.02062026-OFME.part1.rar"
+                        "file_name": "Satisfactory.Build.24062026-OFME.part1.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha18/665e6aec4017c8177994/Satisfactory.Build.24062026-OFME.part1.rar"
                     },
                     {
-                        "file_name": "Satisfactory.Build.02062026-OFME.part2.rar",
-                        "direct_link": "https://fileditchfiles.me/alpha7/e75034605dbae75d8ac0/Satisfactory.Build.02062026-OFME.part2.rar"
+                        "file_name": "Satisfactory.Build.24062026-OFME.part2.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha18/802da64910e5b68f8b54/Satisfactory.Build.24062026-OFME.part2.rar"
                     },
                     {
-                        "file_name": "Satisfactory.Build.02062026-OFME.part3.rar",
-                        "direct_link": "https://fileditchfiles.me/alpha7/e872d14ab7f2f08fd6c6/Satisfactory.Build.02062026-OFME.part3.rar"
+                        "file_name": "Satisfactory.Build.24062026-OFME.part3.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha18/de0c028f844bd6d1cc81/Satisfactory.Build.24062026-OFME.part3.rar"
                     }
                 ],
                 "Pixeldrain": [
@@ -103990,16 +104412,16 @@
                         "direct_link": "https://pixeldrain.com/u/edhAD16a"
                     },
                     {
-                        "file_name": "Satisfactory.Build.02062026-OFME.part1.rar",
-                        "direct_link": "https://pixeldrain.com/u/gDrjhkNK"
+                        "file_name": "Satisfactory.Build.24062026-OFME.part1.rar",
+                        "direct_link": "https://pixeldrain.com/u/uJ8BPpYG"
                     },
                     {
-                        "file_name": "Satisfactory.Build.02062026-OFME.part2.rar",
-                        "direct_link": "https://pixeldrain.com/u/MFuSfNs1"
+                        "file_name": "Satisfactory.Build.24062026-OFME.part2.rar",
+                        "direct_link": "https://pixeldrain.com/u/34uPw72o"
                     },
                     {
-                        "file_name": "Satisfactory.Build.02062026-OFME.part3.rar",
-                        "direct_link": "https://pixeldrain.com/u/VHnRLvhS"
+                        "file_name": "Satisfactory.Build.24062026-OFME.part3.rar",
+                        "direct_link": "https://pixeldrain.com/u/djxJ8bwg"
                     }
                 ],
                 "Gofile": [
@@ -104008,34 +104430,16 @@
                         "direct_link": "https://gofile.io/d/Ju5TOA"
                     },
                     {
-                        "file_name": "Satisfactory.Build.02062026-OFME.part1.rar",
-                        "direct_link": "https://gofile.io/d/HgYkHj"
+                        "file_name": "Satisfactory.Build.24062026-OFME.part1.rar",
+                        "direct_link": "https://gofile.io/d/0se9f7"
                     },
                     {
-                        "file_name": "Satisfactory.Build.02062026-OFME.part2.rar",
-                        "direct_link": "https://gofile.io/d/0Fpjfy"
+                        "file_name": "Satisfactory.Build.24062026-OFME.part2.rar",
+                        "direct_link": "https://gofile.io/d/FFQrom"
                     },
                     {
-                        "file_name": "Satisfactory.Build.02062026-OFME.part3.rar",
-                        "direct_link": "https://gofile.io/d/HtgiVm"
-                    }
-                ],
-                "Rootz": [
-                    {
-                        "file_name": "Satisfactory_Fix_Repair_Steam_V3_Generic.rar",
-                        "direct_link": "https://rootz.so/d/1WFD5k"
-                    },
-                    {
-                        "file_name": "Satisfactory.Build.02062026-OFME.part1.rar",
-                        "direct_link": "https://rootz.so/d/11CydE"
-                    },
-                    {
-                        "file_name": "Satisfactory.Build.02062026-OFME.part2.rar",
-                        "direct_link": "https://rootz.so/d/1fVVCa"
-                    },
-                    {
-                        "file_name": "Satisfactory.Build.02062026-OFME.part3.rar",
-                        "direct_link": "https://rootz.so/d/1TPwbw"
+                        "file_name": "Satisfactory.Build.24062026-OFME.part3.rar",
+                        "direct_link": "https://gofile.io/d/58dj6C"
                     }
                 ],
                 "VikingFile": [
@@ -104044,24 +104448,42 @@
                         "direct_link": "https://vikingfile.com/f/6jPSHGdUA1"
                     },
                     {
-                        "file_name": "Satisfactory.Build.02062026-OFME.part1.rar",
-                        "direct_link": "https://vikingfile.com/f/wcL8Lj6Xq0"
+                        "file_name": "Satisfactory.Build.24062026-OFME.part1.rar",
+                        "direct_link": "https://vikingfile.com/f/Xf26K2nMdZ"
                     },
                     {
-                        "file_name": "Satisfactory.Build.02062026-OFME.part2.rar",
-                        "direct_link": "https://vikingfile.com/f/TslevUX55v"
+                        "file_name": "Satisfactory.Build.24062026-OFME.part2.rar",
+                        "direct_link": "https://vikingfile.com/f/vL3cG1UhC7"
                     },
                     {
-                        "file_name": "Satisfactory.Build.02062026-OFME.part3.rar",
-                        "direct_link": "https://vikingfile.com/f/9vIGVaKHEf"
+                        "file_name": "Satisfactory.Build.24062026-OFME.part3.rar",
+                        "direct_link": "https://vikingfile.com/f/OiIdBVlQf1"
+                    }
+                ],
+                "Rootz": [
+                    {
+                        "file_name": "Satisfactory_Fix_Repair_Steam_V3_Generic.rar",
+                        "direct_link": "https://rootz.so/d/1WFD5k"
+                    },
+                    {
+                        "file_name": "Satisfactory.Build.24062026-OFME.part1.rar",
+                        "direct_link": "https://rootz.so/d/181jjE"
+                    },
+                    {
+                        "file_name": "Satisfactory.Build.24062026-OFME.part2.rar",
+                        "direct_link": "https://rootz.so/d/xp8eO"
+                    },
+                    {
+                        "file_name": "Satisfactory.Build.24062026-OFME.part3.rar",
+                        "direct_link": "https://rootz.so/d/1yPop6"
                     }
                 ]
             },
-            "unique_hash": "ef94bc531b2bfbce96598a5bcaa9e0b282ac5b23",
+            "unique_hash": "0b6a184fe1cf4f09ae692e8eb4c5955d06a010e5",
             "fileSize": "12.93 GB",
-            "magnet": "magnet:?xt=urn:btih:ef94bc531b2bfbce96598a5bcaa9e0b282ac5b23&dn=Satisfactory&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
-            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_27/Satisfactory.Build.02062026-OFME.torrent",
-            "created_at": "2026-06-09 09:00:41",
+            "magnet": "magnet:?xt=urn:btih:0b6a184fe1cf4f09ae692e8eb4c5955d06a010e5&dn=Satisfactory&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_28/Satisfactory.Build.24062026-OFME.torrent",
+            "created_at": "2026-07-22 08:37:36",
             "webdav_updated_at": "Unknown",
             "files": [
                 {
@@ -104069,15 +104491,15 @@
                     "size": "23.33 MB"
                 },
                 {
-                    "name": "Satisfactory.Build.02062026-OFME.part1.rar",
+                    "name": "Satisfactory.Build.24062026-OFME.part1.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "Satisfactory.Build.02062026-OFME.part2.rar",
+                    "name": "Satisfactory.Build.24062026-OFME.part2.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "Satisfactory.Build.02062026-OFME.part3.rar",
+                    "name": "Satisfactory.Build.24062026-OFME.part3.rar",
                     "size": "2.91 GB"
                 }
             ],

@@ -2,9 +2,9 @@
   "repo": "kauafpssx/The-Gaming-Rumble",
   "branch": "games",
   "raw_base_url": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/",
-  "total_games": 1792,
-  "online_fix_total": 1792,
-  "steam_with_metadata": 1683,
+  "total_games": 1794,
+  "online_fix_total": 1794,
+  "steam_with_metadata": 1685,
   "steam_without_metadata": 109,
   "match_rate": 93.92,
   "success_rate": 93.92,
@@ -15,29 +15,28 @@
   "new_games_found_this_run": 156,
   "new_games_added_to_json_this_run": 2,
   "latest_run_new_game_names": [
-    "GERONIMO",
-    "RED FLAG"
+    "Dirty Business",
+    "Shift At Midnight"
   ],
-  "updated_games_this_run": 10,
+  "updated_games_this_run": 9,
   "latest_run_updated_game_names": [
     "Ore Factory Squad",
     "Forza Horizon 6",
     "PEAK",
+    "Unrailed 2 Back on Track",
     "Satisfactory",
-    "Microsoft Flight Simulator",
+    "Abiotic Factor",
     "Kebab Chefs! Restaurant Simulator",
     "ICARUS",
-    "Escape the Backrooms",
-    "7 Days To Die",
-    "Hearts of Iron IV"
+    "Escape the Backrooms"
   ],
-  "processed_games_this_run": 12,
-  "torrent_files_total": 1907,
-  "json_entries_with_torrent": 1792,
-  "games_with_providers": 821,
-  "last_scrape_at": "2026-07-22 16:06:39",
-  "last_scrape_at_display": "22/07/2026",
-  "last_game_update": "2026-07-22T14:27:06+03:00",
-  "generated_at": "2026-07-22 16:06:44",
-  "generated_at_display": "22/07/2026"
+  "processed_games_this_run": 11,
+  "torrent_files_total": 1911,
+  "json_entries_with_torrent": 1794,
+  "games_with_providers": 823,
+  "last_scrape_at": "2026-07-23 16:06:55",
+  "last_scrape_at_display": "23/07/2026",
+  "last_game_update": "2026-07-23T13:31:14+03:00",
+  "generated_at": "2026-07-23 16:08:12",
+  "generated_at_display": "23/07/2026"
 }

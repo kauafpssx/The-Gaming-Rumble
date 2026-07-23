@@ -1,5 +1,5 @@
 {
-    "total": 1792,
+    "total": 1794,
     "downloads": [
         {
             "title": "10 Miles to Safety",
@@ -2389,22 +2389,22 @@
         },
         {
             "title": "Abiotic Factor",
-            "page": 31,
+            "page": 32,
             "url": "https://online-fix.me/games/survival/17505-abiotic-factor-po-seti.html",
             "last_update": "2024-05-02T20:37:12+03:00",
             "release_date": "22.07.2025",
-            "update_info": "Обновлено 11 мая 2026, 16:12. Игра обновлена до версии 1.3.0.25870.",
-            "update_date": "2026-05-11T16:12:00+03:00",
-            "formatted_update_date": "2026-05-11 16:12:00",
-            "scraped_at": "2026-06-28 18:56:04",
+            "update_info": "Обновлено Сегодня, 13:27. Игра обновлена до версии 1.4.0.27939.",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-07-23 16:06:37",
             "steam": {
                 "steam_appid": 427410,
                 "match_score": 100,
                 "match_via": "canon",
-                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427410/502a2f8680203a0dda18a46ba7f732ff737d54b7/header_alt_assets_6.jpg?t=1780862501",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427410/afe0e6c04aaa67d511a7fffe630aa8a54788c3b3/header.jpg?t=1783962710",
                 "short_description": "Cooperação, sobrevivência e fabrico (1-6 jogadores) numas instalações de investigação controladas por ameaças paranormais. Sendo os maiores cientistas da Terra, têm de se unir, fabricar armas e ferramentas engenhosas, e sobreviver da única forma que conhecem: matá-los com ciência!",
                 "short_description_native": "Cooperação, sobrevivência e fabrico (1-6 jogadores) numas instalações de investigação controladas por ameaças paranormais. Sendo os maiores cientistas da Terra, têm de se unir, fabricar armas e ferramentas engenhosas, e sobreviver da única forma que conhecem: matá-los com ciência!",
-                "price_brl": "R$ 81,59",
+                "price_brl": "R$ 101,99",
                 "is_free": false,
                 "pc_requirements": {
                     "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10 or later\n\nProcessador: i5-9th Gen CPU or similar\n\nMemória: 8 GB de RAM\n\nPlaca gráfica: GeForce GTX 1660 or AMD Radeon RX 5600 XT\n\nDirectX: Versão 11\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 10 GB de espaço livre\n\nNotas adicionais: There are slightly higher CPU requirements if you are the Host in a multiplayer session, especially with several players. Abiotic Factor runs on Unreal Engine 5. In spite of the art style, this will probably not run on your PC from 1997.",
@@ -2442,7 +2442,7 @@
                     },
                     {
                         "id": 28,
-                        "description": "Compat. total c/ comando"
+                        "description": "Compatibilidade total com comando"
                     },
                     {
                         "id": 29,
@@ -2470,19 +2470,19 @@
                     },
                     {
                         "id": 55,
-                        "description": "Compat. com DUALSHOCK"
+                        "description": "Compatibilidade com DUALSHOCK"
                     },
                     {
                         "id": 56,
-                        "description": "Compat. com DUALSHOCK"
+                        "description": "Compatibilidade com DUALSHOCK"
                     },
                     {
                         "id": 57,
-                        "description": "Compat. com DualSense"
+                        "description": "Compatibilidade com DualSense"
                     },
                     {
                         "id": 58,
-                        "description": "Compat. com DualSense"
+                        "description": "Compatibilidade com DualSense"
                     },
                     {
                         "id": 79,
@@ -2525,57 +2525,61 @@
                 ]
             },
             "hoster_links": {
-                "Pixeldrain": [
+                "FileDitch": [
                     {
-                        "file_name": "AbioticFactor_Fix_Repair_Steam_V2_Generic.rar",
-                        "direct_link": "https://pixeldrain.com/u/sspHrNgm"
+                        "file_name": "AbioticFactor_Fix_Repair_Steam_V2_Generic (1).rar",
+                        "direct_link": "https://fileditchfiles.st/alpha18/d377d04fad523c4354ee/AbioticFactor_Fix_Repair_Steam_V2_Generic_%281%29.rar"
                     },
                     {
-                        "file_name": "Abiotic.Factor.v1.3.0.25870-OFME.rar",
-                        "direct_link": "https://pixeldrain.com/u/inTBWjXi"
+                        "file_name": "Abiotic.Factor.v1.4.0.27939-OFME.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha18/496c28a91c27a037cbb7/Abiotic.Factor.v1.4.0.27939-OFME.rar"
+                    }
+                ],
+                "Pixeldrain": [
+                    {
+                        "file_name": "AbioticFactor_Fix_Repair_Steam_V2_Generic (1).rar",
+                        "direct_link": "https://pixeldrain.com/u/XpqJjAjd"
+                    },
+                    {
+                        "file_name": "Abiotic.Factor.v1.4.0.27939-OFME.rar",
+                        "direct_link": "https://pixeldrain.com/u/iNmTnA3B"
                     }
                 ],
                 "Gofile": [
                     {
-                        "file_name": "AbioticFactor_Fix_Repair_Steam_V2_Generic.rar",
-                        "direct_link": "https://gofile.io/d/LZjgnE"
+                        "file_name": "AbioticFactor_Fix_Repair_Steam_V2_Generic (1).rar",
+                        "direct_link": "https://gofile.io/d/TixrfM"
                     },
                     {
-                        "file_name": "Abiotic.Factor.v1.3.0.25870-OFME.rar",
-                        "direct_link": "https://gofile.io/d/WplvPA"
-                    }
-                ],
-                "Rootz": [
-                    {
-                        "file_name": "Abiotic.Factor.v1.3.0.25870-OFME.rar",
-                        "direct_link": "https://rootz.so/d/1zc2lM"
+                        "file_name": "Abiotic.Factor.v1.4.0.27939-OFME.rar",
+                        "direct_link": "https://gofile.io/d/s7QJJj"
                     }
                 ],
                 "VikingFile": [
                     {
-                        "file_name": "AbioticFactor_Fix_Repair_Steam_V2_Generic.rar",
-                        "direct_link": "https://vikingfile.com/f/210RKjgCQV"
+                        "file_name": "AbioticFactor_Fix_Repair_Steam_V2_Generic (1).rar",
+                        "direct_link": "https://vikingfile.com/f/WJXHbGjkx1"
                     },
                     {
-                        "file_name": "Abiotic.Factor.v1.3.0.25870-OFME.rar",
-                        "direct_link": "https://vikingfile.com/f/Q1WOPE7Shf"
+                        "file_name": "Abiotic.Factor.v1.4.0.27939-OFME.rar",
+                        "direct_link": "https://vikingfile.com/f/dhsDfYqchT"
                     }
                 ]
             },
-            "unique_hash": "d59e40f972e3c1e89b24cb303bc207f8d32d6a15",
-            "fileSize": "2.48 GB",
-            "magnet": "magnet:?xt=urn:btih:d59e40f972e3c1e89b24cb303bc207f8d32d6a15&dn=Abiotic%20Factor&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
-            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_31/Abiotic.Factor.v1.3.0.25870-OFME.torrent",
-            "created_at": "2026-05-11 09:44:19",
+            "unique_hash": "bf1ce659ddf8216c6f78047a56e6481ddfe17dcd",
+            "fileSize": "2.66 GB",
+            "magnet": "magnet:?xt=urn:btih:bf1ce659ddf8216c6f78047a56e6481ddfe17dcd&dn=Abiotic%20Factor&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_32/Abiotic.Factor.v1.4.0.27939-OFME.torrent",
+            "created_at": "2026-07-23 07:23:45",
             "webdav_updated_at": "Unknown",
             "files": [
                 {
-                    "name": "Fix Repair/AbioticFactor_Fix_Repair_Steam_V2_Generic.rar",
-                    "size": "22.38 MB"
+                    "name": "Abiotic.Factor.v1.4.0.27939-OFME.rar",
+                    "size": "2.64 GB"
                 },
                 {
-                    "name": "Abiotic.Factor.v1.3.0.25870-OFME.rar",
-                    "size": "2.46 GB"
+                    "name": "Fix Repair/AbioticFactor_Fix_Repair_Steam_V2_Generic.rar",
+                    "size": "22.38 MB"
                 }
             ],
             "comment": ""
@@ -29546,6 +29550,175 @@
             "comment": ""
         },
         {
+            "title": "Dirty Business",
+            "page": 1,
+            "url": "https://online-fix.me/games/simulator/18172-dirty-business-po-seti.html",
+            "last_update": "2026-07-23T13:31:12+03:00",
+            "release_date": "22.07.2026",
+            "update_info": "",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-07-23 16:06:21",
+            "steam": {
+                "steam_appid": 4324480,
+                "match_score": 100,
+                "match_via": "canon",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4324480/0bf41369aa9d8f70fd5b1dfcf9b71b0a5b1074f3/header.jpg?t=1784806503",
+                "short_description": "Constrói um império criminoso num hangar subterrâneo escondido. Produz drogas, fabrica armas, imprime dinheiro falso, opera a pista de aterragem do cartel e mais. Contrata trabalhadores, expande a tua gangue, melhora a tua base e controla a distribuição na cidade a solo ou em coop.",
+                "short_description_native": "Constrói um império criminoso num hangar subterrâneo escondido. Produz drogas, fabrica armas, imprime dinheiro falso, opera a pista de aterragem do cartel e mais. Contrata trabalhadores, expande a tua gangue, melhora a tua base e controla a distribuição na cidade a solo ou em coop.",
+                "price_brl": "R$ 42,79",
+                "is_free": false,
+                "pc_requirements": {
+                    "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10 64-bit\n\nProcessador: 3GHz 4-Core or Similar\n\nMemória: 8 GB de RAM\n\nPlaca gráfica: Nvidia GeForce GTX 1060 or AMD Radeon RX 580\n\nDirectX: Versão 11\n\nEspaço no disco: Requer 9 GB de espaço livre\n\nNotas adicionais: Internet connection required for Online CO-OP",
+                    "recommended": "Recomendados:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 11 64-bit\n\nProcessador: 3.3GHz 4-Core/6-Core or Equivalent\n\nMemória: 16 GB de RAM\n\nPlaca gráfica: Nvidia GeForce RTX 3060 or AMD Radeon RX 5700 XT\n\nDirectX: Versão 12\n\nEspaço no disco: Requer 9 GB de espaço livre\n\nNotas adicionais: Internet connection required for Online CO-OP"
+                },
+                "controller_support": "full",
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Um jogador"
+                    },
+                    {
+                        "id": 1,
+                        "description": "Multijogador"
+                    },
+                    {
+                        "id": 9,
+                        "description": "Co-op"
+                    },
+                    {
+                        "id": 38,
+                        "description": "Co-op online"
+                    },
+                    {
+                        "id": 22,
+                        "description": "Proezas Steam"
+                    },
+                    {
+                        "id": 28,
+                        "description": "Compatibilidade total com comando"
+                    },
+                    {
+                        "id": 67,
+                        "description": "Conforto de câmara"
+                    },
+                    {
+                        "id": 68,
+                        "description": "Controlos de volume independentes"
+                    },
+                    {
+                        "id": 78,
+                        "description": "Dificuldade ajustável"
+                    },
+                    {
+                        "id": 74,
+                        "description": "Jogável sem necessitar de ações rápidas ou precisas"
+                    },
+                    {
+                        "id": 55,
+                        "description": "Compatibilidade com DUALSHOCK"
+                    },
+                    {
+                        "id": 56,
+                        "description": "Compatibilidade com DUALSHOCK"
+                    },
+                    {
+                        "id": 57,
+                        "description": "Compatibilidade com DualSense"
+                    },
+                    {
+                        "id": 58,
+                        "description": "Compatibilidade com DualSense"
+                    },
+                    {
+                        "id": 79,
+                        "description": "Guardar progresso a qualquer momento"
+                    },
+                    {
+                        "id": 69,
+                        "description": "Som estéreo"
+                    },
+                    {
+                        "id": 23,
+                        "description": "Steam Cloud"
+                    },
+                    {
+                        "id": 62,
+                        "description": "Partilha de Biblioteca"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "28",
+                        "description": "Simulação"
+                    },
+                    {
+                        "id": "70",
+                        "description": "Acesso Antecipado"
+                    }
+                ]
+            },
+            "hoster_links": {
+                "FileDitch": [
+                    {
+                        "file_name": "DirtyBusiness_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha18/0a77f074ee0a422de0a6/DirtyBusiness_Fix_Repair_Steam_Generic.rar"
+                    },
+                    {
+                        "file_name": "Dirty.Business.Build.22072026-OFME.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha18/b1eedfba10d0c1e1f488/Dirty.Business.Build.22072026-OFME.rar"
+                    }
+                ],
+                "Pixeldrain": [
+                    {
+                        "file_name": "DirtyBusiness_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://pixeldrain.com/u/Ltn1nTR7"
+                    },
+                    {
+                        "file_name": "Dirty.Business.Build.22072026-OFME.rar",
+                        "direct_link": "https://pixeldrain.com/u/aabuG9jw"
+                    }
+                ],
+                "Gofile": [
+                    {
+                        "file_name": "DirtyBusiness_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://gofile.io/d/jncPtM"
+                    },
+                    {
+                        "file_name": "Dirty.Business.Build.22072026-OFME.rar",
+                        "direct_link": "https://gofile.io/d/qbMy1l"
+                    }
+                ],
+                "VikingFile": [
+                    {
+                        "file_name": "DirtyBusiness_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://vikingfile.com/f/gn8NSuESgU"
+                    },
+                    {
+                        "file_name": "Dirty.Business.Build.22072026-OFME.rar",
+                        "direct_link": "https://vikingfile.com/f/VaN405mfAQ"
+                    }
+                ]
+            },
+            "unique_hash": "00c4cf2639d7a08f32db1d914172fe0c69e0fc0c",
+            "fileSize": "4.03 GB",
+            "magnet": "magnet:?xt=urn:btih:00c4cf2639d7a08f32db1d914172fe0c69e0fc0c&dn=Dirty%20Business&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_1/Dirty.Business.Build.22072026-OFME.torrent",
+            "created_at": "2026-07-23 07:24:00",
+            "webdav_updated_at": "Unknown",
+            "files": [
+                {
+                    "name": "Dirty.Business.Build.22072026-OFME.rar",
+                    "size": "4.02 GB"
+                },
+                {
+                    "name": "Fix Repair/DirtyBusiness_Fix_Repair_Steam_Generic.rar",
+                    "size": "11.08 MB"
+                }
+            ],
+            "comment": ""
+        },
+        {
             "title": "Disciples Liberation",
             "page": 60,
             "url": "https://online-fix.me/games/rpg/16791-disciples-liberation-po-seti.html",
@@ -36802,10 +36975,10 @@
             "url": "https://online-fix.me/games/officialservers/17070-escape-the-backrooms-po-seti.html",
             "last_update": "2022-08-16T17:47:31+03:00",
             "release_date": "23.10.2025",
-            "update_info": "Обновлено Вчера, 15:04. Игра обновлена до версии 1.3.2.",
-            "update_date": null,
-            "formatted_update_date": null,
-            "scraped_at": "2026-07-22 16:05:20",
+            "update_info": "Обновлено 21 июля 2026, 15:04. Игра обновлена до версии 1.3.2.",
+            "update_date": "2026-07-21T15:04:00+03:00",
+            "formatted_update_date": "2026-07-21 15:04:00",
+            "scraped_at": "2026-07-23 16:06:55",
             "steam": {
                 "steam_appid": 1943950,
                 "match_score": 100,
@@ -44361,15 +44534,15 @@
             "url": "https://online-fix.me/games/officialservers/18099-forza-horizon-6-po-seti.html",
             "last_update": "2026-05-15T07:00:32+03:00",
             "release_date": "13.05.2026",
-            "update_info": "Обновлено Вчера, 15:04. Добавлено обновление 403.798.",
-            "update_date": null,
-            "formatted_update_date": null,
-            "scraped_at": "2026-07-22 16:04:54",
+            "update_info": "Обновлено 21 июля 2026, 15:04. Добавлено обновление 403.798.",
+            "update_date": "2026-07-21T15:04:00+03:00",
+            "formatted_update_date": "2026-07-21 15:04:00",
+            "scraped_at": "2026-07-23 16:06:23",
             "steam": {
                 "steam_appid": 2483190,
                 "match_score": 100,
                 "match_via": "canon",
-                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/99ff2e08356158cc0aacb4cf192298fc4c45f215/header_alt_assets_2.jpg?t=1784324016",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/99ff2e08356158cc0aacb4cf192298fc4c45f215/header_alt_assets_2.jpg?t=1784819352",
                 "short_description": "Descobre as paisagens deslumbrantes do Japão em mais de 550 carros do mundo real e torna-te uma Lenda das corridas na maior aventura automobilística de sempre do Forza Horizon em mundo aberto.",
                 "short_description_native": "Descobre as paisagens deslumbrantes do Japão em mais de 550 carros do mundo real e torna-te uma Lenda das corridas na maior aventura automobilística de sempre do Forza Horizon em mundo aberto.",
                 "price_brl": "R$ 299,00",
@@ -59022,10 +59195,10 @@
             "url": "https://online-fix.me/games/sandbox/17268-icarus-po-seti.html",
             "last_update": "2023-06-09T13:15:24+03:00",
             "release_date": "03.12.2021",
-            "update_info": "Обновлено Вчера, 15:05. Игра обновлена до версии Build 17072026.",
-            "update_date": null,
-            "formatted_update_date": null,
-            "scraped_at": "2026-07-22 16:05:13",
+            "update_info": "Обновлено 21 июля 2026, 15:05. Игра обновлена до версии Build 17072026.",
+            "update_date": "2026-07-21T15:05:00+03:00",
+            "formatted_update_date": "2026-07-21 15:05:00",
+            "scraped_at": "2026-07-23 16:06:43",
             "steam": {
                 "steam_appid": 1149460,
                 "match_score": 100,
@@ -59033,7 +59206,7 @@
                 "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149460/header.jpg?t=1784744651",
                 "short_description": "ICARUS é um jogo de sobrevivência PvE solo ou multijogador. Explore uma região selvagem após uma terraformação que deu errado. Complete missões narrativas como operações de mundo aberto ou missões individuais. Explore, construa, crie e cace enquanto busca fortuna e prospecta materiais exóticos.",
                 "short_description_native": "ICARUS is a solo or multiplayer PvE survival game. Explore a savage wilderness in the aftermath of terraforming gone wrong. Complete narrative quests as either Open World operations or Individual Missions. Explore, build, craft and hunt while seeking your fortune and prospecting for exotic matter.",
-                "price_brl": "R$ 101,99",
+                "price_brl": "R$ 20,39",
                 "is_free": false,
                 "pc_requirements": {
                     "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10 (64-bit versions)\n\nProcessador: Intel i5 8400\n\nMemória: 16 GB de RAM\n\nPlaca gráfica: Nvidia GTX 1060 6GB\n\nDirectX: Versão 11\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 70 GB de espaço livre",
@@ -63222,18 +63395,18 @@
             "url": "https://online-fix.me/games/simulator/17430-kebab-chefs-restaurant-simulator-po-seti.html",
             "last_update": "2024-01-22T19:26:43+03:00",
             "release_date": "11.06.2026",
-            "update_info": "Обновлено Вчера, 15:09. Игра обновлена до релизной версии.",
-            "update_date": null,
-            "formatted_update_date": null,
-            "scraped_at": "2026-07-22 16:05:09",
+            "update_info": "Обновлено 21 июля 2026, 15:09. Игра обновлена до релизной версии.",
+            "update_date": "2026-07-21T15:09:00+03:00",
+            "formatted_update_date": "2026-07-21 15:09:00",
+            "scraped_at": "2026-07-23 16:06:38",
             "steam": {
                 "steam_appid": 1001270,
                 "match_score": 100,
                 "match_via": "canon",
-                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1001270/3d8e0e5bf2397090502df0ba3601d8009b386cb4/header_alt_assets_4.jpg?t=1784207976",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1001270/3d8e0e5bf2397090502df0ba3601d8009b386cb4/header_alt_assets_4.jpg?t=1784826282",
                 "short_description": "Kebab Chefs! é um jogo de Co-Op, culinária e gerenciamento de restaurante que pode ser jogado por até 4 jogadores. Projete seu próprio restaurante. Cozinhe comidas deliciosas, preencha seu cardápio com várias receitas, alimente os clientes e torne-se o maior restaurante de kebab da cidade!",
                 "short_description_native": "Kebab Chefs! é um jogo de Co-Op, culinária e gerenciamento de restaurante que pode ser jogado por até 4 jogadores. Projete seu próprio restaurante. Cozinhe comidas deliciosas, preencha seu cardápio com várias receitas, alimente os clientes e torne-se o maior restaurante de kebab da cidade!",
-                "price_brl": "R$ 54,99",
+                "price_brl": "R$ 32,99",
                 "is_free": false,
                 "pc_requirements": {
                     "minimum": "Mínimos:\n\nSistema Operativo *: Windows 7 x64\n\nProcessador: i5-2500 / FX-8350\n\nMemória: 4 GB de RAM\n\nPlaca gráfica: NVIDIA GeForce GTX 680 or AMD Radeon R7 Series\n\nDirectX: Versão 11\n\nEspaço no disco: Requer 6 GB de espaço livre",
@@ -83873,15 +84046,15 @@
             "url": "https://online-fix.me/games/simulator/18167-ore-factory-squad-online.html",
             "last_update": "2026-07-20T16:24:48+03:00",
             "release_date": null,
-            "update_info": "Обновлено Вчера, 15:05. Игра обновлена до версии 1.0.4. Добавлен Steam-Fix V2. Пропатчена проверка версии.",
-            "update_date": null,
-            "formatted_update_date": null,
-            "scraped_at": "2026-07-22 16:04:52",
+            "update_info": "Обновлено 21 июля 2026, 15:05. Игра обновлена до версии 1.0.4. Добавлен Steam-Fix V2. Пропатчена проверка версии.",
+            "update_date": "2026-07-21T15:05:00+03:00",
+            "formatted_update_date": "2026-07-21 15:05:00",
+            "scraped_at": "2026-07-23 16:06:22",
             "steam": {
                 "steam_appid": 4210580,
                 "match_score": 100,
                 "match_via": "canon",
-                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4210580/b305646840dc9db685bc40596da7bdaea388c694/header.jpg?t=1784656230",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4210580/b305646840dc9db685bc40596da7bdaea388c694/header.jpg?t=1784818442",
                 "short_description": "Ore Factory Squad é um jogo cooperativo de mineração e construção de fábricas com mineração procedural e diversão no seu núcleo! Jogue sozinho ou com amigos, compre propriedades, cave fundo em busca de recursos valiosos, complete contratos, atualize e automatize linhas de produção e faça sua fábrica crescer do zero até a indústria!",
                 "short_description_native": "Ore Factory Squad é um jogo cooperativo de mineração e construção de fábricas com mineração procedural e diversão no seu núcleo! Jogue sozinho ou com amigos, compre propriedades, cave fundo em busca de recursos valiosos, complete contratos, atualize e automatize linhas de produção e faça sua fábrica crescer do zero até a indústria!",
                 "price_brl": "R$ 35,99",
@@ -86730,10 +86903,10 @@
             "url": "https://online-fix.me/games/adventures/17801-peak-po-seti.html",
             "last_update": "2025-06-17T13:05:29+03:00",
             "release_date": "16.06.2025",
-            "update_info": "Обновлено Вчера, 15:06. Игра обновлена до версии 1.64.a.",
-            "update_date": null,
-            "formatted_update_date": null,
-            "scraped_at": "2026-07-22 16:05:01",
+            "update_info": "Обновлено 21 июля 2026, 15:06. Игра обновлена до версии 1.64.a.",
+            "update_date": "2026-07-21T15:06:00+03:00",
+            "formatted_update_date": "2026-07-21 15:06:00",
+            "scraped_at": "2026-07-23 16:06:30",
             "steam": {
                 "steam_appid": 3527290,
                 "match_score": 100,
@@ -104256,10 +104429,10 @@
             "url": "https://online-fix.me/games/sandbox/16137-satisfactory-po-seti.html",
             "last_update": "2024-09-10T18:34:29+03:00",
             "release_date": "10.09.2024",
-            "update_info": "Обновлено Сегодня, 14:26. Игра обновлена до версии Build 24062026.",
+            "update_info": "Обновлено Вчера, 14:26. Игра обновлена до версии Build 24062026.",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-07-22 16:05:05",
+            "scraped_at": "2026-07-23 16:06:34",
             "steam": {
                 "steam_appid": 526870,
                 "match_score": 100,
@@ -107013,6 +107186,139 @@
                 {
                     "name": "Shieldwall.v1.1.0-OFME.rar",
                     "size": "3.22 GB"
+                }
+            ],
+            "comment": ""
+        },
+        {
+            "title": "Shift At Midnight",
+            "page": 1,
+            "url": "https://online-fix.me/games/simulator/18173-shift-at-midnight-online.html",
+            "last_update": "2026-07-23T13:31:14+03:00",
+            "release_date": null,
+            "update_info": "",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-07-23 16:06:22",
+            "steam": {
+                "steam_appid": 3722330,
+                "match_score": 100,
+                "match_via": "canon",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3722330/759ecea2ffe1ad3819aefdda79e265b8b332bf8f/header.jpg?t=1784799421",
+                "short_description": "Um terror de detetive cooperativo online para até 3 jogadores. Trabalhe em conjunto em turnos gerados aleatoriamente para investigar seus clientes, já que alguns estão apenas fingindo ser humanos. Cometa um erro e você será forçado a montar armadilhas e se esconder.",
+                "short_description_native": "An online co-op detective horror for up to 3 players. Work together across randomly generated shifts to investigate your customers, as some are only pretending to be human. Make one mistake, and you’ll be forced to board up, set traps, and hide.",
+                "price_brl": "R$ 33,74",
+                "is_free": false,
+                "pc_requirements": {
+                    "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10/11 (64-bit)\n\nProcessador: Intel Core i5-10400F or Equivalent\n\nMemória: 8 GB de RAM\n\nPlaca gráfica: NVIDIA GeForce GTX 1050 Ti or Equivalent\n\nDirectX: Versão 11\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 3 GB de espaço livre",
+                    "recommended": "Recomendados:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 11 (64-bit)\n\nProcessador: Intel Core i5-10400 / AMD Ryzen 7 5800X or Equivalent\n\nMemória: 16 GB de RAM\n\nPlaca gráfica: NVIDIA GeForce GTX 1660 Ti (6GB) or Equivalent\n\nDirectX: Versão 12\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 3 GB de espaço livre"
+                },
+                "controller_support": null,
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Um jogador"
+                    },
+                    {
+                        "id": 1,
+                        "description": "Multijogador"
+                    },
+                    {
+                        "id": 9,
+                        "description": "Co-op"
+                    },
+                    {
+                        "id": 38,
+                        "description": "Co-op online"
+                    },
+                    {
+                        "id": 22,
+                        "description": "Proezas Steam"
+                    },
+                    {
+                        "id": 64,
+                        "description": "Tamanho do texto ajustável"
+                    },
+                    {
+                        "id": 68,
+                        "description": "Controlos de volume independentes"
+                    },
+                    {
+                        "id": 69,
+                        "description": "Som estéreo"
+                    },
+                    {
+                        "id": 62,
+                        "description": "Partilha de Biblioteca"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "23",
+                        "description": "Indie"
+                    },
+                    {
+                        "id": "28",
+                        "description": "Simulação"
+                    }
+                ]
+            },
+            "hoster_links": {
+                "FileDitch": [
+                    {
+                        "file_name": "ShiftAtMidnight_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha18/cc46be77992f67081af5/ShiftAtMidnight_Fix_Repair_Steam_Generic.rar"
+                    },
+                    {
+                        "file_name": "Shift.At.Midnight.v1.0.1.0717.2216-OFME.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha18/4f8425bd62eee4fd68bd/Shift.At.Midnight.v1.0.1.0717.2216-OFME.rar"
+                    }
+                ],
+                "Pixeldrain": [
+                    {
+                        "file_name": "ShiftAtMidnight_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://pixeldrain.com/u/FNqsYDFk"
+                    },
+                    {
+                        "file_name": "Shift.At.Midnight.v1.0.1.0717.2216-OFME.rar",
+                        "direct_link": "https://pixeldrain.com/u/qskvACqv"
+                    }
+                ],
+                "Gofile": [
+                    {
+                        "file_name": "ShiftAtMidnight_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://gofile.io/d/LR3o37"
+                    },
+                    {
+                        "file_name": "Shift.At.Midnight.v1.0.1.0717.2216-OFME.rar",
+                        "direct_link": "https://gofile.io/d/MIimsa"
+                    }
+                ],
+                "VikingFile": [
+                    {
+                        "file_name": "ShiftAtMidnight_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://vikingfile.com/f/GVaKBzykc3"
+                    },
+                    {
+                        "file_name": "Shift.At.Midnight.v1.0.1.0717.2216-OFME.rar",
+                        "direct_link": "https://vikingfile.com/f/T39iNumDlE"
+                    }
+                ]
+            },
+            "unique_hash": "bd369d5a5ba8993113b74a3982df5c357182ed1d",
+            "fileSize": "404.16 MB",
+            "magnet": "magnet:?xt=urn:btih:bd369d5a5ba8993113b74a3982df5c357182ed1d&dn=Shift%20At%20Midnight&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_1/Shift.At.Midnight.v1.0.1.0717.2216-OFME.torrent",
+            "created_at": "2026-07-23 07:24:17",
+            "webdav_updated_at": "Unknown",
+            "files": [
+                {
+                    "name": "Fix Repair/ShiftAtMidnight_Fix_Repair_Steam_Generic.rar",
+                    "size": "11.09 MB"
+                },
+                {
+                    "name": "Shift.At.Midnight.v1.0.1.0717.2216-OFME.rar",
+                    "size": "393.07 MB"
                 }
             ],
             "comment": ""
@@ -131876,65 +132182,193 @@
         },
         {
             "title": "Unrailed 2 Back on Track",
-            "page": 22,
+            "page": 26,
             "url": "https://online-fix.me/games/officialservers/17626-unrailed-2-back-on-track-po-seti.html",
             "last_update": "2024-11-08T19:10:38+03:00",
-            "release_date": "07.11.2024",
-            "update_info": "Обновлено 27 декабря 2024, 17:21. Обновлён фикс, исправлена ошибка во время запуска.",
-            "update_date": "2024-12-27T17:21:00+03:00",
-            "formatted_update_date": "2024-12-27 17:21:00",
-            "scraped_at": "2026-05-11 19:53:41",
+            "release_date": "11.06.2026",
+            "update_info": "Обновлено Сегодня, 13:29. Игра обновлена до релизной версии. Обновлён фикс.",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-07-23 16:06:32",
             "steam": {
                 "steam_appid": 2211170,
                 "match_score": 100,
                 "match_via": "canon",
-                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2211170/5ecb46b7200946fb0783cff472459d176b949eef/header.jpg?t=1775745645",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2211170/516ea21340db7e6c7a8935beb473f0ee6002ef00/header_alt_assets_7.jpg?t=1784826504",
                 "short_description": "Unrailed voltou, com mais caos ferroviário cooperativo! Escolhe o teu caminho num novo mundo cheio de biomas e bosses inovadores. Melhora a tua personagem, os teus motores e cria e partilhar os teus próprios níveis. Só não deixes o comboio descarrilar!",
                 "short_description_native": "Unrailed voltou, com mais caos ferroviário cooperativo! Escolhe o teu caminho num novo mundo cheio de biomas e bosses inovadores. Melhora a tua personagem, os teus motores e cria e partilhar os teus próprios níveis. Só não deixes o comboio descarrilar!",
-                "price_brl": "R$ 63,00",
+                "price_brl": "R$ 37,80",
                 "is_free": false,
                 "pc_requirements": {
-                    "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10\n\nProcessador: Intel i5-6200U or equivalent\n\nMemória: 8 GB de RAM\n\nPlaca gráfica: Intel HD Graphics 520 or equivalent\n\nEspaço no disco: Requer 1 GB de espaço livre",
+                    "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10\n\nProcessador: Intel i5-6200U or equivalent\n\nMemória: 8 GB de RAM\n\nPlaca gráfica: Intel HD Graphics 520 or equivalent\n\nEspaço no disco: Requer 2 GB de espaço livre",
                     "recommended": "Recomendados:\n\nRequer um sistema operativo e processador de 64 bits"
                 },
-                "controller_support": "full"
-            },
-            "hoster_links": {
-                "Pixeldrain": [
+                "controller_support": "full",
+                "categories": [
                     {
-                        "file_name": "U2BoT_Fix_Repair_Steam.rar",
-                        "direct_link": "https://pixeldrain.com/u/WfGMyVje"
+                        "id": 2,
+                        "description": "Um jogador"
                     },
                     {
-                        "file_name": "Unrailed!.2.Back.on.Track.Build.18112024-OFME.rar",
-                        "direct_link": "https://pixeldrain.com/u/gXkQ6q4h"
+                        "id": 1,
+                        "description": "Multijogador"
+                    },
+                    {
+                        "id": 49,
+                        "description": "PvP"
+                    },
+                    {
+                        "id": 36,
+                        "description": "PvP online"
+                    },
+                    {
+                        "id": 37,
+                        "description": "PvP, ecrã partilhado/dividido"
+                    },
+                    {
+                        "id": 9,
+                        "description": "Co-op"
+                    },
+                    {
+                        "id": 38,
+                        "description": "Co-op online"
+                    },
+                    {
+                        "id": 39,
+                        "description": "Co-op, ecrã partilhado/dividido"
+                    },
+                    {
+                        "id": 24,
+                        "description": "Ecrã partilhado/dividido"
+                    },
+                    {
+                        "id": 27,
+                        "description": "Multijogador interplataformas"
+                    },
+                    {
+                        "id": 22,
+                        "description": "Proezas Steam"
+                    },
+                    {
+                        "id": 28,
+                        "description": "Compatibilidade total com comando"
+                    },
+                    {
+                        "id": 29,
+                        "description": "Cartas Colecionáveis Steam"
+                    },
+                    {
+                        "id": 60,
+                        "description": "Comando recomendado"
+                    },
+                    {
+                        "id": 55,
+                        "description": "Compatibilidade com DUALSHOCK"
+                    },
+                    {
+                        "id": 56,
+                        "description": "Compatibilidade com DUALSHOCK"
+                    },
+                    {
+                        "id": 57,
+                        "description": "Compatibilidade com DualSense"
+                    },
+                    {
+                        "id": 58,
+                        "description": "Compatibilidade com DualSense"
+                    },
+                    {
+                        "id": 23,
+                        "description": "Steam Cloud"
+                    },
+                    {
+                        "id": 44,
+                        "description": "Remote Play Together"
+                    },
+                    {
+                        "id": 62,
+                        "description": "Partilha de Biblioteca"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "1",
+                        "description": "Ação"
+                    },
+                    {
+                        "id": "4",
+                        "description": "Casual"
+                    },
+                    {
+                        "id": "23",
+                        "description": "Indie"
+                    },
+                    {
+                        "id": "28",
+                        "description": "Simulação"
+                    },
+                    {
+                        "id": "2",
+                        "description": "Estratégia"
+                    }
+                ]
+            },
+            "hoster_links": {
+                "FileDitch": [
+                    {
+                        "file_name": "Unrailed2BackOnTrack_Fix_Repair_Steam.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha18/e52c1c3d7de6542cf31c/Unrailed2BackOnTrack_Fix_Repair_Steam.rar"
+                    },
+                    {
+                        "file_name": "Unrailed!.2.Back.on.Track.Build.13072026-OFME.rar",
+                        "direct_link": "https://fileditchfiles.st/alpha18/62498ad55d80df1e6740/Unrailed_.2.Back.on.Track.Build.13072026-OFME.rar"
+                    }
+                ],
+                "Pixeldrain": [
+                    {
+                        "file_name": "Unrailed2BackOnTrack_Fix_Repair_Steam.rar",
+                        "direct_link": "https://pixeldrain.com/u/J7QRY6uq"
+                    },
+                    {
+                        "file_name": "Unrailed!.2.Back.on.Track.Build.13072026-OFME.rar",
+                        "direct_link": "https://pixeldrain.com/u/Qhj7rPaE"
                     }
                 ],
                 "Gofile": [
                     {
-                        "file_name": "U2BoT_Fix_Repair_Steam.rar",
-                        "direct_link": "https://gofile.io/d/P05Ynd"
+                        "file_name": "Unrailed2BackOnTrack_Fix_Repair_Steam.rar",
+                        "direct_link": "https://gofile.io/d/49omJD"
                     },
                     {
-                        "file_name": "Unrailed!.2.Back.on.Track.Build.18112024-OFME.rar",
-                        "direct_link": "https://gofile.io/d/ApLyrv"
+                        "file_name": "Unrailed!.2.Back.on.Track.Build.13072026-OFME.rar",
+                        "direct_link": "https://gofile.io/d/b4Z2LY"
+                    }
+                ],
+                "VikingFile": [
+                    {
+                        "file_name": "Unrailed2BackOnTrack_Fix_Repair_Steam.rar",
+                        "direct_link": "https://vikingfile.com/f/ZdK3yrSJRp"
+                    },
+                    {
+                        "file_name": "Unrailed!.2.Back.on.Track.Build.13072026-OFME.rar",
+                        "direct_link": "https://vikingfile.com/f/zXnhgccrG8"
                     }
                 ]
             },
-            "unique_hash": "19dc335da4808b1d1e1067b1acfe8ccd8ce8086e",
-            "fileSize": "479.72 MB",
-            "magnet": "magnet:?xt=urn:btih:19dc335da4808b1d1e1067b1acfe8ccd8ce8086e&dn=Unrailed%202%20Back%20on%20Track&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
-            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_22/Unrailed%21.2.Back.on.Track.Build.18112024-OFME.torrent",
-            "created_at": "2024-12-27 11:17:16",
+            "unique_hash": "2734bb21eb5d44c2e011662ecd3b27aa6b5eb9dc",
+            "fileSize": "1.25 GB",
+            "magnet": "magnet:?xt=urn:btih:2734bb21eb5d44c2e011662ecd3b27aa6b5eb9dc&dn=Unrailed%202%20Back%20on%20Track&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_26/Unrailed%21.2.Back.on.Track.Build.13072026-OFME.torrent",
+            "created_at": "2026-07-23 07:24:42",
             "webdav_updated_at": "Unknown",
             "files": [
                 {
-                    "name": "Fix Repair/U2BoT_Fix_Repair_Steam.rar",
-                    "size": "34.44 MB"
+                    "name": "Fix Repair/Unrailed2BackOnTrack_Fix_Repair_Steam.rar",
+                    "size": "33.81 MB"
                 },
                 {
-                    "name": "Unrailed!.2.Back.on.Track.Build.18112024-OFME.rar",
-                    "size": "445.28 MB"
+                    "name": "Unrailed!.2.Back.on.Track.Build.13072026-OFME.rar",
+                    "size": "1.22 GB"
                 }
             ],
             "comment": ""

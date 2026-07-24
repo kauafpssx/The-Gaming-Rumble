@@ -1,5 +1,5 @@
 {
-    "total": 1794,
+    "total": 1796,
     "downloads": [
         {
             "title": "10 Miles to Safety",
@@ -2393,10 +2393,10 @@
             "url": "https://online-fix.me/games/survival/17505-abiotic-factor-po-seti.html",
             "last_update": "2024-05-02T20:37:12+03:00",
             "release_date": "22.07.2025",
-            "update_info": "Обновлено Сегодня, 13:27. Игра обновлена до версии 1.4.0.27939.",
+            "update_info": "Обновлено Вчера, 13:27. Игра обновлена до версии 1.4.0.27939.",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-07-23 16:06:37",
+            "scraped_at": "2026-07-24 16:18:20",
             "steam": {
                 "steam_appid": 427410,
                 "match_score": 100,
@@ -30617,6 +30617,239 @@
             "comment": ""
         },
         {
+            "title": "DragonSword Awakening",
+            "page": 1,
+            "url": "https://online-fix.me/games/adventures/18175-dragonsword-awakening-po-seti.html",
+            "last_update": "2026-07-24T17:08:24+03:00",
+            "release_date": "23.07.2026",
+            "update_info": "",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-07-24 16:17:57",
+            "steam": {
+                "steam_appid": 4570720,
+                "match_score": 100,
+                "match_via": "canon",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4570720/96a897e98f4472e656fbe6681191b3066cab6056/header.jpg?t=1784900913",
+                "short_description": "Explore o mundo aberto em estilo anime do Continente Orbis, que ganha vida com o Unreal Engine 5! Recrute companheiros únicos, desencadeie ações espetaculares de equipe de status Ailment e embarque em uma jornada épica para salvar o mundo da ameaça de um dragão despertado após 60 anos.",
+                "short_description_native": "Explore the anime-style open world of the Continent of Orbis, brought to life with Unreal Engine 5! Recruit unique companions, unleash spectacular Status Ailment tag-team action, and embark on an epic journey to save the world from the threat of a Dragon reawakened after 60 years.",
+                "price_brl": "R$ 99,99",
+                "is_free": false,
+                "pc_requirements": {
+                    "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10\n\nProcessador: Intel i5-9400F\n\nMemória: 8 GB de RAM\n\nPlaca gráfica: NVIDIA Geforce GTX1660\n\nDirectX: Versão 12\n\nEspaço no disco: Requer 25 GB de espaço livre\n\nNotas adicionais: ※ IMPORTANT: An SSD is strictly required for an optimal gameplay experience. Installing the game on an HDD may result in extended loading times, texture pop-in, framerate drops, or unexpected crashes.",
+                    "recommended": "Recomendados:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10\n\nProcessador: Intel i7-9700F\n\nMemória: 16 GB de RAM\n\nPlaca gráfica: NVIDIA Geforce RTX3060\n\nDirectX: Versão 12\n\nEspaço no disco: Requer 25 GB de espaço livre\n\nNotas adicionais: ※ IMPORTANT: An SSD is strictly required for an optimal gameplay experience. Installing the game on an HDD may result in extended loading times, texture pop-in, framerate drops, or unexpected crashes."
+                },
+                "controller_support": null,
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Um jogador"
+                    },
+                    {
+                        "id": 1,
+                        "description": "Multijogador"
+                    },
+                    {
+                        "id": 9,
+                        "description": "Co-op"
+                    },
+                    {
+                        "id": 38,
+                        "description": "Co-op online"
+                    },
+                    {
+                        "id": 22,
+                        "description": "Proezas Steam"
+                    },
+                    {
+                        "id": 67,
+                        "description": "Conforto de câmara"
+                    },
+                    {
+                        "id": 68,
+                        "description": "Controlos de volume independentes"
+                    },
+                    {
+                        "id": 78,
+                        "description": "Dificuldade ajustável"
+                    },
+                    {
+                        "id": 55,
+                        "description": "Compatibilidade com DUALSHOCK"
+                    },
+                    {
+                        "id": 56,
+                        "description": "Compatibilidade com DUALSHOCK"
+                    },
+                    {
+                        "id": 57,
+                        "description": "Compatibilidade com DualSense"
+                    },
+                    {
+                        "id": 58,
+                        "description": "Compatibilidade com DualSense"
+                    },
+                    {
+                        "id": 69,
+                        "description": "Som estéreo"
+                    },
+                    {
+                        "id": 70,
+                        "description": "Som surround"
+                    },
+                    {
+                        "id": 18,
+                        "description": "Compatibilidade parcial com comando"
+                    },
+                    {
+                        "id": 23,
+                        "description": "Steam Cloud"
+                    },
+                    {
+                        "id": 15,
+                        "description": "Estatísticas"
+                    },
+                    {
+                        "id": 62,
+                        "description": "Partilha de Biblioteca"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "1",
+                        "description": "Ação"
+                    },
+                    {
+                        "id": "25",
+                        "description": "Aventura"
+                    },
+                    {
+                        "id": "3",
+                        "description": "RPG"
+                    }
+                ]
+            },
+            "hoster_links": {
+                "FileDitch": [
+                    {
+                        "file_name": "DragonSwordAwakening_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://fileditchfiles.st/beta17/585c8114b39f4dd55adc/DragonSwordAwakening_Fix_Repair_Steam_Generic.rar"
+                    },
+                    {
+                        "file_name": "DragonSword.Awakening.v1.0.2-OFME.part1.rar",
+                        "direct_link": "https://fileditchfiles.st/beta17/c74a2ff2fff85e305006/DragonSword.Awakening.v1.0.2-OFME.part1.rar"
+                    },
+                    {
+                        "file_name": "DragonSword.Awakening.v1.0.2-OFME.part2.rar",
+                        "direct_link": "https://fileditchfiles.st/beta17/8f38dba9d97d0a8d0853/DragonSword.Awakening.v1.0.2-OFME.part2.rar"
+                    },
+                    {
+                        "file_name": "DragonSword.Awakening.v1.0.2-OFME.part3.rar",
+                        "direct_link": "https://fileditchfiles.st/beta17/8802657bc29d1204c87f/DragonSword.Awakening.v1.0.2-OFME.part3.rar"
+                    },
+                    {
+                        "file_name": "DragonSword.Awakening.v1.0.2-OFME.part4.rar",
+                        "direct_link": "https://fileditchfiles.st/beta17/b84ce83ac48bfc66643d/DragonSword.Awakening.v1.0.2-OFME.part4.rar"
+                    }
+                ],
+                "Pixeldrain": [
+                    {
+                        "file_name": "DragonSwordAwakening_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://pixeldrain.com/u/dBidcGCh"
+                    },
+                    {
+                        "file_name": "DragonSword.Awakening.v1.0.2-OFME.part1.rar",
+                        "direct_link": "https://pixeldrain.com/u/aYP95Eqr"
+                    },
+                    {
+                        "file_name": "DragonSword.Awakening.v1.0.2-OFME.part2.rar",
+                        "direct_link": "https://pixeldrain.com/u/X7F2UZyx"
+                    },
+                    {
+                        "file_name": "DragonSword.Awakening.v1.0.2-OFME.part3.rar",
+                        "direct_link": "https://pixeldrain.com/u/hWrKShVa"
+                    },
+                    {
+                        "file_name": "DragonSword.Awakening.v1.0.2-OFME.part4.rar",
+                        "direct_link": "https://pixeldrain.com/u/BjEBEBcU"
+                    }
+                ],
+                "Gofile": [
+                    {
+                        "file_name": "DragonSwordAwakening_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://gofile.io/d/KjGjBo"
+                    },
+                    {
+                        "file_name": "DragonSword.Awakening.v1.0.2-OFME.part1.rar",
+                        "direct_link": "https://gofile.io/d/A9aKxz"
+                    },
+                    {
+                        "file_name": "DragonSword.Awakening.v1.0.2-OFME.part2.rar",
+                        "direct_link": "https://gofile.io/d/yqTzns"
+                    },
+                    {
+                        "file_name": "DragonSword.Awakening.v1.0.2-OFME.part3.rar",
+                        "direct_link": "https://gofile.io/d/4joVcW"
+                    },
+                    {
+                        "file_name": "DragonSword.Awakening.v1.0.2-OFME.part4.rar",
+                        "direct_link": "https://gofile.io/d/PkHjdW"
+                    }
+                ],
+                "VikingFile": [
+                    {
+                        "file_name": "DragonSwordAwakening_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://vikingfile.com/f/R9ahjHDMtE"
+                    },
+                    {
+                        "file_name": "DragonSword.Awakening.v1.0.2-OFME.part1.rar",
+                        "direct_link": "https://vikingfile.com/f/WFHjRbPY48"
+                    },
+                    {
+                        "file_name": "DragonSword.Awakening.v1.0.2-OFME.part2.rar",
+                        "direct_link": "https://vikingfile.com/f/At5OSb2mka"
+                    },
+                    {
+                        "file_name": "DragonSword.Awakening.v1.0.2-OFME.part3.rar",
+                        "direct_link": "https://vikingfile.com/f/KGeT8UDafR"
+                    },
+                    {
+                        "file_name": "DragonSword.Awakening.v1.0.2-OFME.part4.rar",
+                        "direct_link": "https://vikingfile.com/f/RihXiElBXV"
+                    }
+                ]
+            },
+            "unique_hash": "69c27603c7685985d4a1bce29bd91113b61fec9f",
+            "fileSize": "16.38 GB",
+            "magnet": "magnet:?xt=urn:btih:69c27603c7685985d4a1bce29bd91113b61fec9f&dn=DragonSword%20Awakening&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_1/DragonSword.Awakening.v1.0.2-OFME.torrent",
+            "created_at": "2026-07-24 11:04:06",
+            "webdav_updated_at": "Unknown",
+            "files": [
+                {
+                    "name": "DragonSword.Awakening.v1.0.2-OFME.part1.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "DragonSword.Awakening.v1.0.2-OFME.part2.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "DragonSword.Awakening.v1.0.2-OFME.part3.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "DragonSword.Awakening.v1.0.2-OFME.part4.rar",
+                    "size": "1.37 GB"
+                },
+                {
+                    "name": "Fix Repair/DragonSwordAwakening_Fix_Repair_Steam_Generic.rar",
+                    "size": "11.53 MB"
+                }
+            ],
+            "comment": ""
+        },
+        {
             "title": "Dragonkin The Banished",
             "page": 3,
             "url": "https://online-fix.me/games/adventures/18036-dragonkin-the-banished-po-seti.html",
@@ -40414,26 +40647,26 @@
         },
         {
             "title": "Farming Simulator 25",
-            "page": 25,
+            "page": 26,
             "url": "https://online-fix.me/games/officialservers/17628-farming-simulator-25-po-seti.html",
             "last_update": "2024-11-12T16:20:14+03:00",
             "release_date": "12.11.2024",
-            "update_info": "Обновлено 13 мая 2026, 17:10. Игра обновлена до версии 1.18.0.0.",
-            "update_date": "2026-05-13T17:10:00+03:00",
-            "formatted_update_date": "2026-05-13 17:10:00",
-            "scraped_at": "2026-06-28 18:55:51",
+            "update_info": "Обновлено Сегодня, 17:06. Игра обновлена до версии 1.20.0.0.",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-07-24 16:18:10",
             "steam": {
                 "steam_appid": 2300320,
                 "match_score": 100,
                 "match_via": "canon",
-                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/c2a205133d23cd24faf3c152d972a1d0177661b8/header.jpg?t=1782394057",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/c2a205133d23cd24faf3c152d972a1d0177661b8/header.jpg?t=1784811772",
                 "short_description": "O Farming Simulator 25 convida-te a juntar-te à gratificante vida na quinta, de modo autónomo ou cooperativo em multijogador. Esta quinta é tua!",
                 "short_description_native": "O Farming Simulator 25 convida-te a juntar-te à gratificante vida na quinta, de modo autónomo ou cooperativo em multijogador. Esta quinta é tua!",
-                "price_brl": "R$ 107,96",
+                "price_brl": "R$ 143,95",
                 "is_free": false,
                 "pc_requirements": {
-                    "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10 64bit\n\nProcessador: Intel Core i5-6400, AMD Ryzen 5 1400, or better\n\nMemória: 8 GB de RAM\n\nPlaca gráfica: Nvidia GeForce GTX 1050Ti, AMD Radeon RX 470 graphics card or better (min 3GB VRAM, DX12 support)\n\nDirectX: Versão 12\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 45 GB de espaço livre\n\nPlaca de som: Sound card\n\nCompatibilidade com R.V.: N/A\n\nNotas adicionais: These system requirements can´t cover all possible system configurations so issues could occur that avoid or influence the functionality in some cases.",
-                    "recommended": "Recomendados:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10 64bit\n\nProcessador: Intel Core i7-10700, AMD Ryzen 7 3800X, or better\n\nMemória: 12 GB de RAM\n\nPlaca gráfica: Nvidia GeForce RTX 2070, AMD Radeon RX 5700 XT, Intel Arc A750 graphics card or better (min 8GB VRAM, DX12 support)\n\nDirectX: Versão 12\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 45 GB de espaço livre\n\nPlaca de som: Sound card\n\nCompatibilidade com R.V.: N/A\n\nNotas adicionais: These system requirements can´t cover all possible system configurations so issues could occur that influence the functionality in some cases."
+                    "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10 64bit\n\nProcessador: Intel Core i5-6400, AMD Ryzen 5 1400, or better\n\nMemória: 8 GB de RAM\n\nPlaca gráfica: Nvidia GeForce GTX 1050Ti, AMD Radeon RX 470 graphics card or better (min 3GB VRAM, DX12 support)\n\nDirectX: Versão 12\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 50 GB de espaço livre\n\nPlaca de som: Sound card\n\nCompatibilidade com R.V.: N/A\n\nNotas adicionais: These system requirements can´t cover all possible system configurations so issues could occur that avoid or influence the functionality in some cases.",
+                    "recommended": "Recomendados:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10 64bit\n\nProcessador: Intel Core i7-10700, AMD Ryzen 7 3800X, or better\n\nMemória: 12 GB de RAM\n\nPlaca gráfica: Nvidia GeForce RTX 2070, AMD Radeon RX 5700 XT, Intel Arc A750 graphics card or better (min 8GB VRAM, DX12 support)\n\nDirectX: Versão 12\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 50 GB de espaço livre\n\nPlaca de som: Sound card\n\nCompatibilidade com R.V.: N/A\n\nNotas adicionais: These system requirements can´t cover all possible system configurations so issues could occur that influence the functionality in some cases."
                 },
                 "controller_support": "full",
                 "categories": [
@@ -40459,15 +40692,19 @@
                     },
                     {
                         "id": 28,
-                        "description": "Compat. total c/ comando"
+                        "description": "Compatibilidade total com comando"
+                    },
+                    {
+                        "id": 29,
+                        "description": "Cartas Colecionáveis Steam"
                     },
                     {
                         "id": 55,
-                        "description": "Compat. com DUALSHOCK"
+                        "description": "Compatibilidade com DUALSHOCK"
                     },
                     {
                         "id": 57,
-                        "description": "Compat. com DualSense"
+                        "description": "Compatibilidade com DualSense"
                     },
                     {
                         "id": 23,
@@ -40486,181 +40723,181 @@
                 ]
             },
             "hoster_links": {
+                "FileDitch": [
+                    {
+                        "file_name": "FS25_Fix_Repair_Steam_Generic (1).rar",
+                        "direct_link": "https://fileditchfiles.st/beta17/a30a5042ccc388e21cd7/FS25_Fix_Repair_Steam_Generic_%281%29.rar"
+                    },
+                    {
+                        "file_name": "Farming.Simulator.25.v1.20.0.0-OFME.part01.rar",
+                        "direct_link": "https://fileditchfiles.st/beta17/c978d01e25382f27fa1b/Farming.Simulator.25.v1.20.0.0-OFME.part01.rar"
+                    },
+                    {
+                        "file_name": "Farming.Simulator.25.v1.20.0.0-OFME.part02.rar",
+                        "direct_link": "https://fileditchfiles.st/beta17/de1a8aeee68599c1fc6b/Farming.Simulator.25.v1.20.0.0-OFME.part02.rar"
+                    },
+                    {
+                        "file_name": "Farming.Simulator.25.v1.20.0.0-OFME.part03.rar",
+                        "direct_link": "https://fileditchfiles.st/beta17/11900dc6e7f84ee10e77/Farming.Simulator.25.v1.20.0.0-OFME.part03.rar"
+                    },
+                    {
+                        "file_name": "Farming.Simulator.25.v1.20.0.0-OFME.part04.rar",
+                        "direct_link": "https://fileditchfiles.st/beta17/4314476744b31f93f471/Farming.Simulator.25.v1.20.0.0-OFME.part04.rar"
+                    },
+                    {
+                        "file_name": "Farming.Simulator.25.v1.20.0.0-OFME.part05.rar",
+                        "direct_link": "https://fileditchfiles.st/beta17/1463891d7c633902b348/Farming.Simulator.25.v1.20.0.0-OFME.part05.rar"
+                    },
+                    {
+                        "file_name": "Farming.Simulator.25.v1.20.0.0-OFME.part06.rar",
+                        "direct_link": "https://fileditchfiles.st/beta17/28d358399dda995edc3d/Farming.Simulator.25.v1.20.0.0-OFME.part06.rar"
+                    },
+                    {
+                        "file_name": "Farming.Simulator.25.v1.20.0.0-OFME.part07.rar",
+                        "direct_link": "https://fileditchfiles.st/beta17/9d174d19cf8ac69f7799/Farming.Simulator.25.v1.20.0.0-OFME.part07.rar"
+                    }
+                ],
                 "Pixeldrain": [
                     {
-                        "file_name": "FS25_Fix_Repair_Steam_Generic.rar",
-                        "direct_link": "https://pixeldrain.com/u/yHs9a7CB"
+                        "file_name": "FS25_Fix_Repair_Steam_Generic (1).rar",
+                        "direct_link": "https://pixeldrain.com/u/oMKAPGJn"
                     },
                     {
-                        "file_name": "Farming.Simulator.25.v1.18.0.0-OFME.part01.rar",
-                        "direct_link": "https://pixeldrain.com/u/c7RrDBvp"
+                        "file_name": "Farming.Simulator.25.v1.20.0.0-OFME.part01.rar",
+                        "direct_link": "https://pixeldrain.com/u/W3MKV1Cz"
                     },
                     {
-                        "file_name": "Farming.Simulator.25.v1.18.0.0-OFME.part02.rar",
-                        "direct_link": "https://pixeldrain.com/u/HLfLEPok"
+                        "file_name": "Farming.Simulator.25.v1.20.0.0-OFME.part02.rar",
+                        "direct_link": "https://pixeldrain.com/u/mQAyMCuZ"
                     },
                     {
-                        "file_name": "Farming.Simulator.25.v1.18.0.0-OFME.part03.rar",
-                        "direct_link": "https://pixeldrain.com/u/mck6W8m4"
+                        "file_name": "Farming.Simulator.25.v1.20.0.0-OFME.part03.rar",
+                        "direct_link": "https://pixeldrain.com/u/49VREqBR"
                     },
                     {
-                        "file_name": "Farming.Simulator.25.v1.18.0.0-OFME.part04.rar",
-                        "direct_link": "https://pixeldrain.com/u/fp465F6j"
+                        "file_name": "Farming.Simulator.25.v1.20.0.0-OFME.part04.rar",
+                        "direct_link": "https://pixeldrain.com/u/qhpgAFL5"
                     },
                     {
-                        "file_name": "Farming.Simulator.25.v1.18.0.0-OFME.part05.rar",
-                        "direct_link": "https://pixeldrain.com/u/vrCqReCL"
+                        "file_name": "Farming.Simulator.25.v1.20.0.0-OFME.part05.rar",
+                        "direct_link": "https://pixeldrain.com/u/wBsoTNyg"
                     },
                     {
-                        "file_name": "Farming.Simulator.25.v1.18.0.0-OFME.part06.rar",
-                        "direct_link": "https://pixeldrain.com/u/NUAwrGis"
+                        "file_name": "Farming.Simulator.25.v1.20.0.0-OFME.part06.rar",
+                        "direct_link": "https://pixeldrain.com/u/zyNkjeGp"
                     },
                     {
-                        "file_name": "Farming.Simulator.25.v1.18.0.0-OFME.part07.rar",
-                        "direct_link": "https://pixeldrain.com/u/dwGqJkXY"
+                        "file_name": "Farming.Simulator.25.v1.20.0.0-OFME.part07.rar",
+                        "direct_link": "https://pixeldrain.com/u/GhE3DXNY"
                     }
                 ],
                 "Gofile": [
                     {
-                        "file_name": "FS25_Fix_Repair_Steam_Generic.rar",
-                        "direct_link": "https://gofile.io/d/AXqBsq"
+                        "file_name": "FS25_Fix_Repair_Steam_Generic (1).rar",
+                        "direct_link": "https://gofile.io/d/FfKgmg"
                     },
                     {
-                        "file_name": "Farming.Simulator.25.v1.18.0.0-OFME.part01.rar",
-                        "direct_link": "https://gofile.io/d/ujLxxC"
+                        "file_name": "Farming.Simulator.25.v1.20.0.0-OFME.part01.rar",
+                        "direct_link": "https://gofile.io/d/ivf44T"
                     },
                     {
-                        "file_name": "Farming.Simulator.25.v1.18.0.0-OFME.part02.rar",
-                        "direct_link": "https://gofile.io/d/rRuF79"
+                        "file_name": "Farming.Simulator.25.v1.20.0.0-OFME.part02.rar",
+                        "direct_link": "https://gofile.io/d/aS4YQP"
                     },
                     {
-                        "file_name": "Farming.Simulator.25.v1.18.0.0-OFME.part03.rar",
-                        "direct_link": "https://gofile.io/d/BE1qDM"
+                        "file_name": "Farming.Simulator.25.v1.20.0.0-OFME.part03.rar",
+                        "direct_link": "https://gofile.io/d/vzmWQv"
                     },
                     {
-                        "file_name": "Farming.Simulator.25.v1.18.0.0-OFME.part04.rar",
-                        "direct_link": "https://gofile.io/d/ZHYlC1"
+                        "file_name": "Farming.Simulator.25.v1.20.0.0-OFME.part04.rar",
+                        "direct_link": "https://gofile.io/d/Px1wVc"
                     },
                     {
-                        "file_name": "Farming.Simulator.25.v1.18.0.0-OFME.part05.rar",
-                        "direct_link": "https://gofile.io/d/7cmQeA"
+                        "file_name": "Farming.Simulator.25.v1.20.0.0-OFME.part05.rar",
+                        "direct_link": "https://gofile.io/d/iKvTLP"
                     },
                     {
-                        "file_name": "Farming.Simulator.25.v1.18.0.0-OFME.part06.rar",
-                        "direct_link": "https://gofile.io/d/QFc3b8"
+                        "file_name": "Farming.Simulator.25.v1.20.0.0-OFME.part06.rar",
+                        "direct_link": "https://gofile.io/d/NooxxB"
                     },
                     {
-                        "file_name": "Farming.Simulator.25.v1.18.0.0-OFME.part07.rar",
-                        "direct_link": "https://gofile.io/d/NM4Lzk"
-                    }
-                ],
-                "Rootz": [
-                    {
-                        "file_name": "FS25_Fix_Repair_Steam_Generic.rar",
-                        "direct_link": "https://rootz.so/d/1HGY4G"
-                    },
-                    {
-                        "file_name": "Farming.Simulator.25.v1.18.0.0-OFME.part01.rar",
-                        "direct_link": "https://rootz.so/d/H7m1g"
-                    },
-                    {
-                        "file_name": "Farming.Simulator.25.v1.18.0.0-OFME.part02.rar",
-                        "direct_link": "https://rootz.so/d/1LkJ3w"
-                    },
-                    {
-                        "file_name": "Farming.Simulator.25.v1.18.0.0-OFME.part03.rar",
-                        "direct_link": "https://rootz.so/d/PBTkm"
-                    },
-                    {
-                        "file_name": "Farming.Simulator.25.v1.18.0.0-OFME.part04.rar",
-                        "direct_link": "https://rootz.so/d/1briS0"
-                    },
-                    {
-                        "file_name": "Farming.Simulator.25.v1.18.0.0-OFME.part05.rar",
-                        "direct_link": "https://rootz.so/d/hRmUa"
-                    },
-                    {
-                        "file_name": "Farming.Simulator.25.v1.18.0.0-OFME.part06.rar",
-                        "direct_link": "https://rootz.so/d/22Biuu"
-                    },
-                    {
-                        "file_name": "Farming.Simulator.25.v1.18.0.0-OFME.part07.rar",
-                        "direct_link": "https://rootz.so/d/1ftZJY"
+                        "file_name": "Farming.Simulator.25.v1.20.0.0-OFME.part07.rar",
+                        "direct_link": "https://gofile.io/d/IDKifF"
                     }
                 ],
                 "VikingFile": [
                     {
-                        "file_name": "FS25_Fix_Repair_Steam_Generic.rar",
-                        "direct_link": "https://vikingfile.com/f/JMOi9Xt3vM"
+                        "file_name": "FS25_Fix_Repair_Steam_Generic (1).rar",
+                        "direct_link": "https://vikingfile.com/f/3K8AVKaxEm"
                     },
                     {
-                        "file_name": "Farming.Simulator.25.v1.18.0.0-OFME.part01.rar",
-                        "direct_link": "https://vikingfile.com/f/c0hnpz0j9K"
+                        "file_name": "Farming.Simulator.25.v1.20.0.0-OFME.part01.rar",
+                        "direct_link": "https://vikingfile.com/f/myryM2DexL"
                     },
                     {
-                        "file_name": "Farming.Simulator.25.v1.18.0.0-OFME.part02.rar",
-                        "direct_link": "https://vikingfile.com/f/LjSWIS9SnQ"
+                        "file_name": "Farming.Simulator.25.v1.20.0.0-OFME.part02.rar",
+                        "direct_link": "https://vikingfile.com/f/tTtiDOmkgC"
                     },
                     {
-                        "file_name": "Farming.Simulator.25.v1.18.0.0-OFME.part03.rar",
-                        "direct_link": "https://vikingfile.com/f/sjLMvOpjvt"
+                        "file_name": "Farming.Simulator.25.v1.20.0.0-OFME.part03.rar",
+                        "direct_link": "https://vikingfile.com/f/IWt69hQaHX"
                     },
                     {
-                        "file_name": "Farming.Simulator.25.v1.18.0.0-OFME.part04.rar",
-                        "direct_link": "https://vikingfile.com/f/3aX9b34XiW"
+                        "file_name": "Farming.Simulator.25.v1.20.0.0-OFME.part04.rar",
+                        "direct_link": "https://vikingfile.com/f/ayTx59PSWq"
                     },
                     {
-                        "file_name": "Farming.Simulator.25.v1.18.0.0-OFME.part05.rar",
-                        "direct_link": "https://vikingfile.com/f/g1sByiRxdI"
+                        "file_name": "Farming.Simulator.25.v1.20.0.0-OFME.part05.rar",
+                        "direct_link": "https://vikingfile.com/f/iRwoyase0C"
                     },
                     {
-                        "file_name": "Farming.Simulator.25.v1.18.0.0-OFME.part06.rar",
-                        "direct_link": "https://vikingfile.com/f/ebktcricsn"
+                        "file_name": "Farming.Simulator.25.v1.20.0.0-OFME.part06.rar",
+                        "direct_link": "https://vikingfile.com/f/vjaMaX3A1f"
                     },
                     {
-                        "file_name": "Farming.Simulator.25.v1.18.0.0-OFME.part07.rar",
-                        "direct_link": "https://vikingfile.com/f/6pWph2Ar1q"
+                        "file_name": "Farming.Simulator.25.v1.20.0.0-OFME.part07.rar",
+                        "direct_link": "https://vikingfile.com/f/jjv6wDVii2"
                     }
                 ]
             },
-            "unique_hash": "77daf62016a52d86cf866906d6ef4c36c78579c6",
-            "fileSize": "32.47 GB",
-            "magnet": "magnet:?xt=urn:btih:77daf62016a52d86cf866906d6ef4c36c78579c6&dn=Farming%20Simulator%2025&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
-            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_25/Farming.Simulator.25.v1.18.0.0-OFME.torrent",
-            "created_at": "2026-05-13 11:05:52",
+            "unique_hash": "bc576b75e8c812538ac65b0ee2ab4d28060a5c37",
+            "fileSize": "33.15 GB",
+            "magnet": "magnet:?xt=urn:btih:bc576b75e8c812538ac65b0ee2ab4d28060a5c37&dn=Farming%20Simulator%2025&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_26/Farming.Simulator.25.v1.20.0.0-OFME.torrent",
+            "created_at": "2026-07-24 10:58:57",
             "webdav_updated_at": "Unknown",
             "files": [
                 {
-                    "name": "Farming.Simulator.25.v1.18.0.0-OFME.part03.rar",
+                    "name": "Farming.Simulator.25.v1.20.0.0-OFME.part01.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "Farming.Simulator.25.v1.18.0.0-OFME.part04.rar",
+                    "name": "Farming.Simulator.25.v1.20.0.0-OFME.part02.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "Farming.Simulator.25.v1.18.0.0-OFME.part05.rar",
+                    "name": "Farming.Simulator.25.v1.20.0.0-OFME.part03.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "Farming.Simulator.25.v1.18.0.0-OFME.part06.rar",
+                    "name": "Farming.Simulator.25.v1.20.0.0-OFME.part04.rar",
                     "size": "5.00 GB"
-                },
-                {
-                    "name": "Farming.Simulator.25.v1.18.0.0-OFME.part07.rar",
-                    "size": "2.46 GB"
                 },
                 {
                     "name": "Fix Repair/FS25_Fix_Repair_Steam_Generic.rar",
                     "size": "10.09 MB"
                 },
                 {
-                    "name": "Farming.Simulator.25.v1.18.0.0-OFME.part01.rar",
+                    "name": "Farming.Simulator.25.v1.20.0.0-OFME.part05.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "Farming.Simulator.25.v1.18.0.0-OFME.part02.rar",
+                    "name": "Farming.Simulator.25.v1.20.0.0-OFME.part06.rar",
                     "size": "5.00 GB"
+                },
+                {
+                    "name": "Farming.Simulator.25.v1.20.0.0-OFME.part07.rar",
+                    "size": "3.14 GB"
                 }
             ],
             "comment": ""
@@ -70666,22 +70903,22 @@
         },
         {
             "title": "Mall Rivals",
-            "page": 5,
+            "page": 7,
             "url": "https://online-fix.me/games/simulator/18046-mall-rivals-po-seti.html",
             "last_update": "2026-03-26T13:08:12+03:00",
             "release_date": "24.03.2026",
-            "update_info": "Обновлено 19 мая 2026, 14:16. Игра обновлена до версии 0.3.3.",
-            "update_date": "2026-05-19T14:16:00+03:00",
-            "formatted_update_date": "2026-05-19 14:16:00",
-            "scraped_at": "2026-06-28 18:55:24",
+            "update_info": "Обновлено Сегодня, 17:07. Игра обновлена до версии 0.4.2.005.",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-07-24 16:18:00",
             "steam": {
                 "steam_appid": 4090330,
                 "match_score": 100,
                 "match_via": "canon",
-                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4090330/198a90446ea5ab6dcf963ac39b80fc42debebbd3/header.jpg?t=1782649121",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4090330/e6082e2c1e11e8f4896f5b33f34088c88b2b3ecf/header.jpg?t=1782911665",
                 "short_description": "Simulação de shopping competitivo. De 1 a 8 jogadores abrem lojas no mesmo shopping, lutam por clientes e esmagam rivais. Forme uma equipe ou vá sozinho. Fair play ou truques sujos? Sua ligação. Mapas processuais, sistema de funcionários, policiais de shopping, contrabandistas e mecânicos físicos.",
                 "short_description_native": "Competitive mall simulation. 1-8 players open stores in the same mall, fight for customers, crush rivals. Team up or go solo. Fair play or dirty tricks? Your call. Procedural maps, employee system,mall cops, smugglers and physical mechanics.",
-                "price_brl": "R$ 31,99",
+                "price_brl": "R$ 39,99",
                 "is_free": false,
                 "pc_requirements": {
                     "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10 (64-bit)\n\nProcessador: Intel Core i3-6100 or AMD FX-6300\n\nMemória: 4 GB de RAM\n\nPlaca gráfica: NVIDIA GeForce GTX 750\n\nEspaço no disco: Requer 2 GB de espaço livre",
@@ -70727,23 +70964,23 @@
                     },
                     {
                         "id": 28,
-                        "description": "Compat. total c/ comando"
+                        "description": "Compatibilidade total com comando"
                     },
                     {
                         "id": 55,
-                        "description": "Compat. com DUALSHOCK"
+                        "description": "Compatibilidade com DUALSHOCK"
                     },
                     {
                         "id": 56,
-                        "description": "Compat. com DUALSHOCK"
+                        "description": "Compatibilidade com DUALSHOCK"
                     },
                     {
                         "id": 57,
-                        "description": "Compat. com DualSense"
+                        "description": "Compatibilidade com DualSense"
                     },
                     {
                         "id": 58,
-                        "description": "Compat. com DualSense"
+                        "description": "Compatibilidade com DualSense"
                     },
                     {
                         "id": 23,
@@ -70766,14 +71003,20 @@
                 ]
             },
             "hoster_links": {
+                "FileDitch": [
+                    {
+                        "file_name": "Mall.Rivals.v0.4.2.005-OFME.rar",
+                        "direct_link": "https://fileditchfiles.st/beta17/164d62fecac23980dae1/Mall.Rivals.v0.4.2.005-OFME.rar"
+                    }
+                ],
                 "Pixeldrain": [
                     {
                         "file_name": "MallRivals_Fix_Repair_Steam_Generic.rar",
                         "direct_link": "https://pixeldrain.com/u/P3zDg1iK"
                     },
                     {
-                        "file_name": "Mall.Rivals.v0.3.3-OFME.rar",
-                        "direct_link": "https://pixeldrain.com/u/FAMJku9M"
+                        "file_name": "Mall.Rivals.v0.4.2.005-OFME.rar",
+                        "direct_link": "https://pixeldrain.com/u/fdXFKPMp"
                     }
                 ],
                 "Gofile": [
@@ -70782,18 +71025,8 @@
                         "direct_link": "https://gofile.io/d/A0o3KF"
                     },
                     {
-                        "file_name": "Mall.Rivals.v0.3.3-OFME.rar",
-                        "direct_link": "https://gofile.io/d/8iGEy9"
-                    }
-                ],
-                "Rootz": [
-                    {
-                        "file_name": "MallRivals_Fix_Repair_Steam_Generic.rar",
-                        "direct_link": "https://rootz.so/d/i1tYm"
-                    },
-                    {
-                        "file_name": "Mall.Rivals.v0.3.3-OFME.rar",
-                        "direct_link": "https://rootz.so/d/2CNHKS"
+                        "file_name": "Mall.Rivals.v0.4.2.005-OFME.rar",
+                        "direct_link": "https://gofile.io/d/lVLfkD"
                     }
                 ],
                 "VikingFile": [
@@ -70802,16 +71035,22 @@
                         "direct_link": "https://vikingfile.com/f/KePbomjiha"
                     },
                     {
-                        "file_name": "Mall.Rivals.v0.3.3-OFME.rar",
-                        "direct_link": "https://vikingfile.com/f/aBANqrioPX"
+                        "file_name": "Mall.Rivals.v0.4.2.005-OFME.rar",
+                        "direct_link": "https://vikingfile.com/f/r9iphCgX8A"
+                    }
+                ],
+                "Rootz": [
+                    {
+                        "file_name": "MallRivals_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://rootz.so/d/i1tYm"
                     }
                 ]
             },
-            "unique_hash": "942905bacf1a31e6e3b79f0ec94aceba3783fd43",
-            "fileSize": "940.78 MB",
-            "magnet": "magnet:?xt=urn:btih:942905bacf1a31e6e3b79f0ec94aceba3783fd43&dn=Mall%20Rivals&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
-            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_5/Mall.Rivals.v0.3.3-OFME.torrent",
-            "created_at": "2026-05-19 09:03:21",
+            "unique_hash": "79dd333996b323cb11d367f8a149f6908d2f7127",
+            "fileSize": "1.25 GB",
+            "magnet": "magnet:?xt=urn:btih:79dd333996b323cb11d367f8a149f6908d2f7127&dn=Mall%20Rivals&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_7/Mall.Rivals.v0.4.2.005-OFME.torrent",
+            "created_at": "2026-07-24 11:03:48",
             "webdav_updated_at": "Unknown",
             "files": [
                 {
@@ -70819,8 +71058,8 @@
                     "size": "11.09 MB"
                 },
                 {
-                    "name": "Mall.Rivals.v0.3.3-OFME.rar",
-                    "size": "929.69 MB"
+                    "name": "Mall.Rivals.v0.4.2.005-OFME.rar",
+                    "size": "1.24 GB"
                 }
             ],
             "comment": ""
@@ -104429,10 +104668,10 @@
             "url": "https://online-fix.me/games/sandbox/16137-satisfactory-po-seti.html",
             "last_update": "2024-09-10T18:34:29+03:00",
             "release_date": "10.09.2024",
-            "update_info": "Обновлено Вчера, 14:26. Игра обновлена до версии Build 24062026.",
-            "update_date": null,
-            "formatted_update_date": null,
-            "scraped_at": "2026-07-23 16:06:34",
+            "update_info": "Обновлено 22 июля 2026, 14:26. Игра обновлена до версии Build 24062026.",
+            "update_date": "2026-07-22T14:26:00+03:00",
+            "formatted_update_date": "2026-07-22 14:26:00",
+            "scraped_at": "2026-07-24 16:18:14",
             "steam": {
                 "steam_appid": 526870,
                 "match_score": 100,
@@ -120060,6 +120299,151 @@
             "comment": ""
         },
         {
+            "title": "Tears of Metal",
+            "page": 1,
+            "url": "https://online-fix.me/games/officialservers/18174-tears-of-metal-po-seti.html",
+            "last_update": "2026-07-24T17:08:22+03:00",
+            "release_date": "22.07.2026",
+            "update_info": "",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-07-24 16:17:55",
+            "steam": {
+                "steam_appid": 1913120,
+                "match_score": 100,
+                "match_via": "canon",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1913120/9c62adaca165c8bc1a78990419e2cb35dd940b6b/header.jpg?t=1784731614",
+                "short_description": "Lute sozinho ou em modo cooperativo com até 4 jogadores para recuperar sua ilha ao lado de seu batalhão escocês. Em cada campanha, ganhe novas atualizações poderosas, reúna suas forças e detenha o invasor enquanto ele escava a Pedra Mãe para colher seu poder.",
+                "short_description_native": "Fight solo or up to 4-player co-op to reclaim your island alongside your Scottish battalion. On each campaign, gain new powerful upgrades, rally your forces, and stop the invader as they carve into the Mother Stone to harvest its power.",
+                "price_brl": "R$ 75,59",
+                "is_free": false,
+                "pc_requirements": {
+                    "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10\n\nProcessador: Dual Core 2.4GHz\n\nMemória: 8 GB de RAM\n\nPlaca gráfica: GeForce GTX 1070 or equivalent\n\nDirectX: Versão 11\n\nEspaço no disco: Requer 10 GB de espaço livre",
+                    "recommended": "Recomendados:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10\n\nProcessador: Quad Core - 3GHz\n\nMemória: 16 GB de RAM\n\nPlaca gráfica: GeForce RTX Series 20\n\nDirectX: Versão 11\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 10 GB de espaço livre"
+                },
+                "controller_support": "full",
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Um jogador"
+                    },
+                    {
+                        "id": 1,
+                        "description": "Multijogador"
+                    },
+                    {
+                        "id": 9,
+                        "description": "Co-op"
+                    },
+                    {
+                        "id": 38,
+                        "description": "Co-op online"
+                    },
+                    {
+                        "id": 22,
+                        "description": "Proezas Steam"
+                    },
+                    {
+                        "id": 28,
+                        "description": "Compatibilidade total com comando"
+                    },
+                    {
+                        "id": 60,
+                        "description": "Comando recomendado"
+                    },
+                    {
+                        "id": 55,
+                        "description": "Compatibilidade com DUALSHOCK"
+                    },
+                    {
+                        "id": 57,
+                        "description": "Compatibilidade com DualSense"
+                    },
+                    {
+                        "id": 23,
+                        "description": "Steam Cloud"
+                    },
+                    {
+                        "id": 62,
+                        "description": "Partilha de Biblioteca"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "1",
+                        "description": "Ação"
+                    },
+                    {
+                        "id": "23",
+                        "description": "Indie"
+                    },
+                    {
+                        "id": "70",
+                        "description": "Acesso Antecipado"
+                    }
+                ]
+            },
+            "hoster_links": {
+                "FileDitch": [
+                    {
+                        "file_name": "TearsOfMetal_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://fileditchfiles.st/beta17/f798df5288bd3a18f950/TearsOfMetal_Fix_Repair_Steam_Generic.rar"
+                    },
+                    {
+                        "file_name": "Tears.of.Metal.Build.22072026-OFME.rar",
+                        "direct_link": "https://fileditchfiles.st/beta17/05ca3ec42a17e3f596e4/Tears.of.Metal.Build.22072026-OFME.rar"
+                    }
+                ],
+                "Pixeldrain": [
+                    {
+                        "file_name": "TearsOfMetal_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://pixeldrain.com/u/AVJeR3rE"
+                    },
+                    {
+                        "file_name": "Tears.of.Metal.Build.22072026-OFME.rar",
+                        "direct_link": "https://pixeldrain.com/u/VQ4kNdMm"
+                    }
+                ],
+                "Gofile": [
+                    {
+                        "file_name": "TearsOfMetal_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://gofile.io/d/6n7cIZ"
+                    },
+                    {
+                        "file_name": "Tears.of.Metal.Build.22072026-OFME.rar",
+                        "direct_link": "https://gofile.io/d/4ZRwUl"
+                    }
+                ],
+                "VikingFile": [
+                    {
+                        "file_name": "TearsOfMetal_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://vikingfile.com/f/GSSbpGkOon"
+                    },
+                    {
+                        "file_name": "Tears.of.Metal.Build.22072026-OFME.rar",
+                        "direct_link": "https://vikingfile.com/f/FwEEu4Tu4O"
+                    }
+                ]
+            },
+            "unique_hash": "bd9abb8525b3cbe39cb4863236aa561054473534",
+            "fileSize": "3.62 GB",
+            "magnet": "magnet:?xt=urn:btih:bd9abb8525b3cbe39cb4863236aa561054473534&dn=Tears%20of%20Metal&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_1/Tears.of.Metal.Build.22072026-OFME.torrent",
+            "created_at": "2026-07-24 11:06:01",
+            "webdav_updated_at": "Unknown",
+            "files": [
+                {
+                    "name": "Fix Repair/TearsOfMetal_Fix_Repair_Steam_Generic.rar",
+                    "size": "23.39 MB"
+                },
+                {
+                    "name": "Tears.of.Metal.Build.22072026-OFME.rar",
+                    "size": "3.60 GB"
+                }
+            ],
+            "comment": ""
+        },
+        {
             "title": "Technicity",
             "page": 32,
             "url": "https://online-fix.me/games/sandbox/17418-technicity-po-seti.html",
@@ -132186,10 +132570,10 @@
             "url": "https://online-fix.me/games/officialservers/17626-unrailed-2-back-on-track-po-seti.html",
             "last_update": "2024-11-08T19:10:38+03:00",
             "release_date": "11.06.2026",
-            "update_info": "Обновлено Сегодня, 13:29. Игра обновлена до релизной версии. Обновлён фикс.",
+            "update_info": "Обновлено Вчера, 13:29. Игра обновлена до релизной версии. Обновлён фикс.",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-07-23 16:06:32",
+            "scraped_at": "2026-07-24 16:18:11",
             "steam": {
                 "steam_appid": 2211170,
                 "match_score": 100,
@@ -137992,22 +138376,22 @@
         },
         {
             "title": "Windrose",
-            "page": 5,
+            "page": 6,
             "url": "https://online-fix.me/games/officialservers/18061-windrose-po-seti.html",
             "last_update": "2026-04-14T15:30:38+03:00",
             "release_date": "14.04.2026",
-            "update_info": "Обновлено 25 мая 2026, 16:19. Игра обновлена до версии 0.10.0.6.213.f90b3bc1.",
-            "update_date": "2026-05-25T16:19:00+03:00",
-            "formatted_update_date": "2026-05-25 16:19:00",
-            "scraped_at": "2026-06-28 18:55:23",
+            "update_info": "Обновлено Сегодня, 17:07. Игра обновлена до версии 0.10.0.8.10.dd411cfd.",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-07-24 16:18:00",
             "steam": {
                 "steam_appid": 3041230,
                 "match_score": 100,
                 "match_via": "canon",
-                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041230/7e838d87d787735d5d29d72777c5ee55653dfb2b/header.jpg?t=1782370662",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041230/7e838d87d787735d5d29d72777c5ee55653dfb2b/header.jpg?t=1783932953",
                 "short_description": "Embarque em uma aventura de sobrevivência PvE na Era da Pirataria. Lute em terra e no mar, sozinho ou com amigos. Construa, crie e explore um vasto mundo aberto cheio de segredos obscuros. Domine o combate soulslite e enfrente chefes desafiadores, comande seu navio e saqueie tesouros ocultos!",
                 "short_description_native": "Embark on a PvE survival adventure in the Age of Piracy. Fight on land and sea, solo or with friends. Build, craft and explore vast open world filled with dark secrets. Master soulslite combat and take on challenging bosses, command your ship and plunder unspoken treasures!",
-                "price_brl": "R$ 80,99",
+                "price_brl": "R$ 89,99",
                 "is_free": false,
                 "pc_requirements": {
                     "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows® 10 (64-bit)\n\nProcessador: Intel® Core™ i7-8700K / AMD® Ryzen™ 7 2700X\n\nMemória: 16 GB de RAM\n\nPlaca gráfica: NVIDIA® GTX™ 1080 Ti / AMD® Radeon™ RX 6800\n\nDirectX: Versão 12\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 30 GB de espaço livre\n\nNotas adicionais: System requirements are not final at this stage of development. Ongoing optimizations will improve performance across a wide range of hardware.  The stated minimum RAM requirements apply to solo and co-op play. If you choose to self-host a server (world), additional RAM will be required. An SSD is strongly recommended to ensure a smooth gameplay experience.",
@@ -138033,7 +138417,7 @@
                     },
                     {
                         "id": 28,
-                        "description": "Compat. total c/ comando"
+                        "description": "Compatibilidade total com comando"
                     },
                     {
                         "id": 68,
@@ -138080,18 +138464,28 @@
                 ]
             },
             "hoster_links": {
+                "FileDitch": [
+                    {
+                        "file_name": "Windrose.v0.10.0.8.10.dd411cfd-OFME.part1.rar",
+                        "direct_link": "https://fileditchfiles.st/beta17/2406047d930bd347114e/Windrose.v0.10.0.8.10.dd411cfd-OFME.part1.rar"
+                    },
+                    {
+                        "file_name": "Windrose.v0.10.0.8.10.dd411cfd-OFME.part2.rar",
+                        "direct_link": "https://fileditchfiles.st/beta17/0cb9aff4fc0255b88440/Windrose.v0.10.0.8.10.dd411cfd-OFME.part2.rar"
+                    }
+                ],
                 "Pixeldrain": [
                     {
                         "file_name": "Windrose_Fix_Repair_Epic_Generic.rar",
                         "direct_link": "https://pixeldrain.com/u/WhTJe1sK"
                     },
                     {
-                        "file_name": "Windrose.v0.10.0.6.213.f90b3bc1-OFME.part1.rar",
-                        "direct_link": "https://pixeldrain.com/u/hLm7RRzD"
+                        "file_name": "Windrose.v0.10.0.8.10.dd411cfd-OFME.part1.rar",
+                        "direct_link": "https://pixeldrain.com/u/6HS6aupE"
                     },
                     {
-                        "file_name": "Windrose.v0.10.0.6.213.f90b3bc1-OFME.part2.rar",
-                        "direct_link": "https://pixeldrain.com/u/WTDFxUYf"
+                        "file_name": "Windrose.v0.10.0.8.10.dd411cfd-OFME.part2.rar",
+                        "direct_link": "https://pixeldrain.com/u/GrSZJqnb"
                     }
                 ],
                 "Gofile": [
@@ -138100,26 +138494,12 @@
                         "direct_link": "https://gofile.io/d/X5V9Ic"
                     },
                     {
-                        "file_name": "Windrose.v0.10.0.6.213.f90b3bc1-OFME.part1.rar",
-                        "direct_link": "https://gofile.io/d/AQnwax"
+                        "file_name": "Windrose.v0.10.0.8.10.dd411cfd-OFME.part1.rar",
+                        "direct_link": "https://gofile.io/d/AG1jJZ"
                     },
                     {
-                        "file_name": "Windrose.v0.10.0.6.213.f90b3bc1-OFME.part2.rar",
-                        "direct_link": "https://gofile.io/d/pp5ANP"
-                    }
-                ],
-                "Rootz": [
-                    {
-                        "file_name": "Windrose_Fix_Repair_Epic_Generic.rar",
-                        "direct_link": "https://rootz.so/d/1mWDey"
-                    },
-                    {
-                        "file_name": "Windrose.v0.10.0.6.213.f90b3bc1-OFME.part1.rar",
-                        "direct_link": "https://rootz.so/d/14fCOe"
-                    },
-                    {
-                        "file_name": "Windrose.v0.10.0.6.213.f90b3bc1-OFME.part2.rar",
-                        "direct_link": "https://rootz.so/d/25FsZM"
+                        "file_name": "Windrose.v0.10.0.8.10.dd411cfd-OFME.part2.rar",
+                        "direct_link": "https://gofile.io/d/yJSM1m"
                     }
                 ],
                 "VikingFile": [
@@ -138128,20 +138508,26 @@
                         "direct_link": "https://vikingfile.com/f/JgdtsegyDm"
                     },
                     {
-                        "file_name": "Windrose.v0.10.0.6.213.f90b3bc1-OFME.part1.rar",
-                        "direct_link": "https://vikingfile.com/f/MbL5vrWAlK"
+                        "file_name": "Windrose.v0.10.0.8.10.dd411cfd-OFME.part1.rar",
+                        "direct_link": "https://vikingfile.com/f/VFB8f7C5gz"
                     },
                     {
-                        "file_name": "Windrose.v0.10.0.6.213.f90b3bc1-OFME.part2.rar",
-                        "direct_link": "https://vikingfile.com/f/vT5fnQP3Om"
+                        "file_name": "Windrose.v0.10.0.8.10.dd411cfd-OFME.part2.rar",
+                        "direct_link": "https://vikingfile.com/f/31VCDtmG8W"
+                    }
+                ],
+                "Rootz": [
+                    {
+                        "file_name": "Windrose_Fix_Repair_Epic_Generic.rar",
+                        "direct_link": "https://rootz.so/d/1mWDey"
                     }
                 ]
             },
-            "unique_hash": "e1e5c3974726e388f4439e9949de4697b342dec6",
-            "fileSize": "9.62 GB",
-            "magnet": "magnet:?xt=urn:btih:e1e5c3974726e388f4439e9949de4697b342dec6&dn=Windrose&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
-            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_5/Windrose.v0.10.0.6.213.f90b3bc1-OFME.torrent",
-            "created_at": "2026-05-25 10:21:50",
+            "unique_hash": "f9e73708c59e7e1d22c5ad3f2aff792552bae2f4",
+            "fileSize": "9.70 GB",
+            "magnet": "magnet:?xt=urn:btih:f9e73708c59e7e1d22c5ad3f2aff792552bae2f4&dn=Windrose&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_6/Windrose.v0.10.0.8.10.dd411cfd-OFME.torrent",
+            "created_at": "2026-07-24 11:07:50",
             "webdav_updated_at": "Unknown",
             "files": [
                 {
@@ -138149,12 +138535,12 @@
                     "size": "19.19 MB"
                 },
                 {
-                    "name": "Windrose.v0.10.0.6.213.f90b3bc1-OFME.part1.rar",
+                    "name": "Windrose.v0.10.0.8.10.dd411cfd-OFME.part1.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "Windrose.v0.10.0.6.213.f90b3bc1-OFME.part2.rar",
-                    "size": "4.60 GB"
+                    "name": "Windrose.v0.10.0.8.10.dd411cfd-OFME.part2.rar",
+                    "size": "4.68 GB"
                 }
             ],
             "comment": ""

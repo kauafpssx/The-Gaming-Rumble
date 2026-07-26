@@ -12,24 +12,22 @@
   "pages_scraped_target": 94,
   "pages_present_in_json": 91,
   "last_page_in_json": 91,
-  "new_games_found_this_run": 150,
+  "new_games_found_this_run": 148,
   "new_games_added_to_json_this_run": 0,
   "latest_run_new_game_names": [],
-  "updated_games_this_run": 5,
+  "updated_games_this_run": 3,
   "latest_run_updated_game_names": [
     "Windrose",
     "Mall Rivals",
-    "Unrailed 2 Back on Track",
-    "Farming Simulator 25",
-    "Abiotic Factor"
+    "Farming Simulator 25"
   ],
-  "processed_games_this_run": 5,
+  "processed_games_this_run": 3,
   "torrent_files_total": 1916,
   "json_entries_with_torrent": 1796,
   "games_with_providers": 825,
-  "last_scrape_at": "2026-07-25 16:00:05",
-  "last_scrape_at_display": "25/07/2026",
+  "last_scrape_at": "2026-07-26 16:03:36",
+  "last_scrape_at_display": "26/07/2026",
   "last_game_update": "2026-07-24T17:08:24+03:00",
-  "generated_at": "2026-07-25 16:01:02",
-  "generated_at_display": "25/07/2026"
+  "generated_at": "2026-07-26 16:04:39",
+  "generated_at_display": "26/07/2026"
 }

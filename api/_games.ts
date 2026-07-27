@@ -32,6 +32,7 @@ export interface SteamData {
   steam_appid: number;
   header_image: string;
   short_description: string;
+  short_description_native?: string;
   price_brl: string;
   is_free: boolean;
   genres?: { id: string | number; description: string }[];

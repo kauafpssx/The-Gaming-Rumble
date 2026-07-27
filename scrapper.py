@@ -1497,11 +1497,33 @@ class OnlineFixScraper:
             if short_desc and not re.search(r'[àáâãäéêíóôõúüçÀÁÂÃÄÉÊÍÓÔÕÚÜÇ]', short_desc):
                 short_desc = self._translate_to_pt(short_desc)
 
+            achievements = d.get('achievements', {}) or {}
+            ratings = d.get('ratings', {}) or {}
+            release_date = d.get('release_date', {}) or {}
+
             return {
                 "steam_appid": appid,
                 "match_score": int(match_score),
                 "match_via": match_via or "catalog",
                 "header_image": d.get('header_image'),
+                "capsule_imagev5": d.get('capsule_imagev5'),
+                "background_raw": d.get('background_raw') or d.get('background'),
+                "screenshots": [s.get('path_full') for s in d.get('screenshots', []) if s.get('path_full')],
+                "movies": [
+                    {
+                        "thumbnail": m.get('thumbnail'),
+                        "dash_h264": m.get('dash_h264'),
+                        "hls_h264": m.get('hls_h264'),
+                    }
+                    for m in d.get('movies', [])
+                ],
+                "achievements_total": achievements.get('total'),
+                "achievements_highlighted": achievements.get('highlighted', []),
+                "ratings": {
+                    "pegi": ratings.get('pegi', {}).get('rating') if isinstance(ratings.get('pegi'), dict) else None,
+                    "esrb": ratings.get('esrb', {}).get('rating') if isinstance(ratings.get('esrb'), dict) else None,
+                },
+                "release_date_steam": release_date.get('date'),
                 "short_description": short_desc,
                 "short_description_native": short_desc_native,
                 "price_brl": price.get('final_formatted') if isinstance(price, dict) else None,

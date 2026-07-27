@@ -18,6 +18,7 @@ import {
   findBySlug,
   findByHash,
   sortGames,
+  getUpdatesFeed,
   gameImageUrl,
   searchGames,
   encodeGameForDataUrl,
@@ -33,6 +34,7 @@ const GAMES_PER_PAGE = 32;
 type SortOption = { id: SortId; label: string; Icon: React.FC<{ className?: string }> };
 
 const SORT_OPTIONS: SortOption[] = [
+  { id: "updates",  label: "Novidades", Icon: SparkleIcon },
   { id: "az",       label: "A → Z",   Icon: SortAscIcon },
   { id: "za",       label: "Z → A",   Icon: SortDescIcon },
   { id: "newest",   label: "Recente", Icon: ClockIcon },
@@ -89,10 +91,11 @@ export function GameCatalog() {
   const games = useMemo(() => gamesData ?? [], [gamesData]);
 
   /* ── Derived data — must come before effects that reference them ── */
-  const processed = useMemo(
-    () => (search.trim() ? searchGames(games, search) : sortGames(games, sort)),
-    [games, search, sort]
-  );
+  const processed = useMemo(() => {
+    if (search.trim()) return searchGames(games, search);
+    if (sort === "updates") return getUpdatesFeed(games, stats ?? null);
+    return sortGames(games, sort);
+  }, [games, search, sort, stats]);
   const totalPages = Math.ceil(processed.length / GAMES_PER_PAGE);
   const paginated = processed.slice((page - 1) * GAMES_PER_PAGE, page * GAMES_PER_PAGE);
 
@@ -627,6 +630,15 @@ function DownloadIcon({ className }: { className?: string }) {
   return (
     <svg className={className} fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2.5}>
       <path strokeLinecap="round" strokeLinejoin="round" d="M3 16.5v2.25A2.25 2.25 0 005.25 21h13.5A2.25 2.25 0 0021 18.75V16.5M16.5 12L12 16.5m0 0L7.5 12m4.5 4.5V3" />
+    </svg>
+  );
+}
+
+function SparkleIcon({ className }: { className?: string }) {
+  return (
+    <svg className={className} viewBox="0 0 24 24" fill="currentColor">
+      <path d="M12 2l1.6 5.4L19 9l-5.4 1.6L12 16l-1.6-5.4L5 9l5.4-1.6L12 2z" />
+      <path d="M19 15l.8 2.2L22 18l-2.2.8L19 21l-.8-2.2L16 18l2.2-.8L19 15z" />
     </svg>
   );
 }

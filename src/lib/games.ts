@@ -59,7 +59,7 @@ export interface Game {
   hoster_links?: Record<string, HosterLink[]>;
 }
 
-export type SortId = "az" | "za" | "newest" | "oldest" | "largest" | "smallest";
+export type SortId = "az" | "za" | "newest" | "oldest" | "largest" | "smallest" | "updates";
 
 /* ── Search/Find ── */
 
@@ -184,7 +184,25 @@ export function sortGames(games: Game[], sort: SortId | null): Game[] {
     case "oldest":   return arr.sort((a, b) => bestTimestamp(a) - bestTimestamp(b));
     case "largest":  return arr.sort((a, b) => parseSizeToBytes(b.fileSize) - parseSizeToBytes(a.fileSize));
     case "smallest": return arr.sort((a, b) => parseSizeToBytes(a.fileSize) - parseSizeToBytes(b.fileSize));
+    case "updates":  return arr.sort((a, b) => bestTimestamp(b) - bestTimestamp(a));
   }
+}
+
+/* ── Novidades feed: added games first, then edited, each newest-first ── */
+
+export function getUpdatesFeed(games: Game[], stats: GameStats | null): Game[] {
+  const newNames = new Set(stats?.latest_run_new_game_names ?? []);
+  const updatedNames = new Set(stats?.latest_run_updated_game_names ?? []);
+
+  const added = games.filter((g) => newNames.has(g.title));
+  const edited = games.filter((g) => !newNames.has(g.title) && updatedNames.has(g.title));
+
+  if (added.length === 0 && edited.length === 0) {
+    return sortGames(games, "newest");
+  }
+
+  const byNewest = (a: Game, b: Game) => bestTimestamp(b) - bestTimestamp(a);
+  return [...added.sort(byNewest), ...edited.sort(byNewest)];
 }
 
 /* ── Search with relevance ranking ── */

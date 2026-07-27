@@ -31,9 +31,9 @@ export default async function handler(req: IncomingMessage, res: ServerResponse)
       const pageUrl = `${proto}://${host}/game/${toSlug(game.title)}`;
       const imageUrl = `${proto}://${host}/api/image/${toSlug(game.title)}`;
 
-      const title = escapeAttr(`${game.title} - Gaming Rumble`);
+      const title = escapeAttr(game.title);
       const description = escapeAttr(
-        game.steam?.short_description_native || game.steam?.short_description || "Baixe jogos gratis na Gaming Rumble."
+        game.steam?.short_description || game.steam?.short_description_native || "Baixe jogos gratis na Gaming Rumble."
       );
 
       html = html

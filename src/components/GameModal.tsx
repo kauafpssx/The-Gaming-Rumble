@@ -19,7 +19,7 @@ import {
   makeProtocolUrl,
   toSlug,
   getGameDate,
-  gameBannerUrl,
+  gameImageUrl,
   screenshotUrl,
   movieThumbUrl,
   movieVideoUrl,
@@ -102,9 +102,9 @@ export function GameModal({ game, onClose }: { game: Game; onClose: () => void }
           <div className="relative shrink-0 overflow-hidden">
             {game.steam?.header_image ? (
               <img
-                src={gameBannerUrl(game)}
+                src={gameImageUrl(game)}
                 alt={game.title}
-                className="w-full h-52 object-cover object-center"
+                className="w-full h-52 object-cover object-center blur-[2px] scale-105"
               />
             ) : (
               <div className="w-full h-52 bg-gradient-to-br from-primary/20 to-background" />

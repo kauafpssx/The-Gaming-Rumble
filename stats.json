@@ -12,27 +12,18 @@
   "pages_scraped_target": 94,
   "pages_present_in_json": 93,
   "last_page_in_json": 93,
-  "new_games_found_this_run": 153,
-  "new_games_added_to_json_this_run": 2,
-  "latest_run_new_game_names": [
-    "FUMES",
-    "Pass The Fear"
-  ],
-  "updated_games_this_run": 5,
-  "latest_run_updated_game_names": [
-    "Meccha Chameleon",
-    "Deep Rock Galactic Rogue Core",
-    "Super Battle Golf",
-    "Phasmophobia",
-    "Scrap Mechanic"
-  ],
-  "processed_games_this_run": 7,
+  "new_games_found_this_run": 146,
+  "new_games_added_to_json_this_run": 0,
+  "latest_run_new_game_names": [],
+  "updated_games_this_run": 0,
+  "latest_run_updated_game_names": [],
+  "processed_games_this_run": 0,
   "torrent_files_total": 1798,
   "json_entries_with_torrent": 1794,
   "games_with_providers": 826,
   "last_scrape_at": "2026-07-28 09:44:11",
   "last_scrape_at_display": "28/07/2026",
   "last_game_update": "2026-07-28T15:21:02+03:00",
-  "generated_at": "2026-07-28 09:44:19",
+  "generated_at": "2026-07-28 16:17:12",
   "generated_at_display": "28/07/2026"
 }

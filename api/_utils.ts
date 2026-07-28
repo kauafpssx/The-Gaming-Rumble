@@ -1,21 +1,38 @@
 import type { IncomingMessage, ServerResponse } from "http";
+import { readFileSync } from "fs";
+import { join } from "path";
 import { type Game, type GameStats } from "./_games";
 
 const GAMES_API_URL = process.env.VITE_GAMES_API_URL;
 const STATS_API_URL = process.env.VITE_STATS_API_URL;
+const LOCAL_GAMES_PATH = join(process.cwd(), "online_fix_games.json");
 
 let _gamesCache: Game[] | null = null;
 let _gamesCacheTs = 0;
 const GAMES_CACHE_TTL = 5 * 60 * 1000; // 5 min
 
+function loadLocalGames(): Game[] {
+  const raw = readFileSync(LOCAL_GAMES_PATH, "utf-8");
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  const json = JSON.parse(raw) as any;
+  return (json.downloads || json) as Game[];
+}
+
 export async function fetchGames(): Promise<Game[]> {
   if (_gamesCache && Date.now() - _gamesCacheTs < GAMES_CACHE_TTL) return _gamesCache;
-  if (!GAMES_API_URL) throw new Error("VITE_GAMES_API_URL env var not set");
-  const r = await fetch(`${GAMES_API_URL}?t=${Date.now()}`);
-  if (!r.ok) throw new Error("Failed to fetch games dataset");
-  // eslint-disable-next-line @typescript-eslint/no-explicit-any
-  const json = (await r.json()) as any;
-  const games = (json.downloads || json) as Game[];
+
+  let games: Game[];
+  if (GAMES_API_URL) {
+    const r = await fetch(`${GAMES_API_URL}?t=${Date.now()}`);
+    if (!r.ok) throw new Error("Failed to fetch games dataset");
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    const json = (await r.json()) as any;
+    games = (json.downloads || json) as Game[];
+  } else {
+    // No remote env configured — fallback to the local dataset file.
+    games = loadLocalGames();
+  }
+
   _gamesCache = games;
   _gamesCacheTs = Date.now();
   return games;
@@ -97,6 +114,149 @@ export async function proxyImage(res: ServerResponse, imageUrl: string) {
   } catch (err) {
     console.error("[image-proxy]", imageUrl, err);
     if (!res.headersSent) sendJson(res, 502, { error: "Image proxy failed" });
+  }
+}
+
+// ── Generic media proxy (video manifests/segments) ────────────────────────────
+// Some networks block Steam's CDN domains for direct browser requests, so trailer
+// playback is routed through here too. HLS (.m3u8) manifests are text playlists
+// referencing further URIs (sub-manifests or segments) — those are rewritten to
+// point back through this same proxy so the whole chain stays same-origin.
+const ALLOWED_MEDIA_HOSTS = [/\.steamstatic\.com$/i, /\.akamaihd\.net$/i, /\.steampowered\.com$/i];
+
+export function isAllowedMediaUrl(url: string): boolean {
+  try {
+    const { hostname, protocol } = new URL(url);
+    return protocol === "https:" && ALLOWED_MEDIA_HOSTS.some((rx) => rx.test(hostname));
+  } catch {
+    return false;
+  }
+}
+
+// Opaque token for sub-manifest/segment URLs — reversible (not stored), so it
+// survives across serverless invocations that don't share memory. Security
+// comes from isAllowedMediaUrl's host allowlist, not from the token being secret.
+export function registerMediaToken(absoluteUrl: string): string {
+  return Buffer.from(absoluteUrl, "utf-8").toString("base64url");
+}
+
+export function resolveMediaToken(id: string): string | undefined {
+  try {
+    const url = Buffer.from(id, "base64url").toString("utf-8");
+    return isAllowedMediaUrl(url) ? url : undefined;
+  } catch {
+    return undefined;
+  }
+}
+
+function mediaProxyPath(absoluteUrl: string): string {
+  return `/api/media/${registerMediaToken(absoluteUrl)}`;
+}
+
+function rewriteM3u8(body: string, baseUrl: string): string {
+  return body
+    .split("\n")
+    .map((line) => {
+      const trimmed = line.trim();
+      if (!trimmed) return line;
+
+      // Tag lines (#EXT-X-MAP, #EXT-X-KEY, #EXT-X-PART, ...) carry their own
+      // referenced URL in a URI="..." attribute — fMP4/CMAF playlists use
+      // #EXT-X-MAP:URI="init-stream.m4s" for the init segment, which is easy
+      // to miss since it looks like a comment line.
+      if (trimmed.startsWith("#")) {
+        return line.replace(/URI="([^"]+)"/, (full, uri) => {
+          try {
+            return `URI="${mediaProxyPath(new URL(uri, baseUrl).href)}"`;
+          } catch {
+            return full;
+          }
+        });
+      }
+
+      try {
+        return mediaProxyPath(new URL(trimmed, baseUrl).href);
+      } catch {
+        return line;
+      }
+    })
+    .join("\n");
+}
+
+// DASH manifests (.mpd) reference segments via <BaseURL> (usually a relative
+// directory, e.g. "dash_h264/") which players resolve client-side against the
+// manifest's own URL. Since the manifest is served from /api/media/:token, that
+// relative resolution would hit our own path instead of the real CDN — so we
+// rewrite <BaseURL> to a path-absolute proxied "directory" token. Segment
+// requests then land on /api/media/:token/<file>, which the router reattaches
+// to the real base URL.
+function rewriteMpd(body: string, baseUrl: string): string {
+  return body.replace(/(<BaseURL[^>]*>)([^<]*)(<\/BaseURL>)/gi, (full, open, content, close) => {
+    try {
+      const abs = new URL(content.trim(), baseUrl).href;
+      let proxied = mediaProxyPath(abs);
+      if (!proxied.endsWith("/")) proxied += "/";
+      return `${open}${proxied}${close}`;
+    } catch {
+      return full;
+    }
+  });
+}
+
+export async function proxyMedia(res: ServerResponse, mediaUrl: string, rangeHeader?: string) {
+  cors(res);
+
+  if (!isAllowedMediaUrl(mediaUrl)) {
+    return sendJson(res, 400, { error: "Blocked media host" });
+  }
+
+  try {
+    const upstream = await fetch(mediaUrl, {
+      headers: {
+        "User-Agent": "Mozilla/5.0",
+        ...(rangeHeader ? { Range: rangeHeader } : {}),
+      },
+      signal: AbortSignal.timeout(15_000),
+    });
+    if (!upstream.ok && upstream.status !== 206) {
+      return sendJson(res, upstream.status, { error: "Failed to fetch media" });
+    }
+    const contentType = upstream.headers.get("content-type") || "application/octet-stream";
+    const isHls = /mpegurl/i.test(contentType) || /\.m3u8(\?|$)/i.test(mediaUrl);
+    const isMpd = /dash\+xml/i.test(contentType) || /\.mpd(\?|$)/i.test(mediaUrl);
+
+    if (isHls) {
+      const text = await upstream.text();
+      res.writeHead(200, {
+        "Content-Type": "application/vnd.apple.mpegurl",
+        "Cache-Control": "public, max-age=60",
+      });
+      return res.end(rewriteM3u8(text, mediaUrl));
+    }
+
+    if (isMpd) {
+      const text = await upstream.text();
+      res.writeHead(200, {
+        "Content-Type": "application/dash+xml",
+        "Cache-Control": "public, max-age=60",
+      });
+      return res.end(rewriteMpd(text, mediaUrl));
+    }
+
+    const buf = Buffer.from(await upstream.arrayBuffer());
+    const headers: Record<string, string> = {
+      "Content-Type": contentType,
+      "Cache-Control": "public, max-age=3600",
+      "Accept-Ranges": "bytes",
+    };
+    const contentRange = upstream.headers.get("content-range");
+    if (contentRange) headers["Content-Range"] = contentRange;
+
+    res.writeHead(upstream.status === 206 ? 206 : 200, headers);
+    res.end(buf);
+  } catch (err) {
+    console.error("[media-proxy]", mediaUrl, err);
+    if (!res.headersSent) sendJson(res, 502, { error: "Media proxy failed" });
   }
 }
 

@@ -28,9 +28,23 @@ export interface HosterLink {
   u?: string; // fallback for old format
 }
 
+export interface SteamMovie {
+  thumbnail: string;
+  dash_h264?: string;
+  hls_h264?: string;
+}
+
 export interface SteamData {
   steam_appid: number;
   header_image: string;
+  capsule_imagev5?: string;
+  background_raw?: string;
+  screenshots?: string[];
+  movies?: SteamMovie[];
+  achievements_total?: number;
+  achievements_highlighted?: { name: string; path: string }[];
+  ratings?: { pegi: string | null; esrb: string | null };
+  release_date_steam?: string | null;
   short_description: string;
   short_description_native: string;
   price_brl: string;
@@ -65,6 +79,27 @@ export type SortId = "az" | "za" | "newest" | "oldest" | "largest" | "smallest" 
 
 export function gameImageUrl(game: Game): string {
   return `/api/image/${toSlug(game.title)}`;
+}
+
+/** Large page-background image — much higher resolution than the tiny header capsule. */
+export function gameBannerUrl(game: Game): string {
+  return `/api/image/${toSlug(game.title)}/banner`;
+}
+
+export function screenshotUrl(game: Game, index: number): string {
+  return `/api/image/${toSlug(game.title)}/screenshot/${index}`;
+}
+
+export function movieThumbUrl(game: Game, index: number): string {
+  return `/api/image/${toSlug(game.title)}/movie/${index}`;
+}
+
+export function movieVideoUrl(game: Game, index: number): string {
+  return `/api/video/${toSlug(game.title)}/${index}`;
+}
+
+export function achievementIconUrl(game: Game, index: number): string {
+  return `/api/image/${toSlug(game.title)}/achievement/${index}`;
 }
 
 export function toSlug(title: string): string {

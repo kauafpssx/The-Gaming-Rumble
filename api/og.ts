@@ -4,11 +4,29 @@ import { join } from "path";
 import { fetchGames } from "./_utils";
 import { findBySlug, findByHash, toSlug } from "./_games";
 
+// `vercel dev` doesn't set VERCEL_ENV/NODE_ENV at all locally — only real
+// deployments set VERCEL_ENV explicitly ("production" or "preview"). So
+// anything that isn't an explicit non-dev value is treated as dev, otherwise
+// this serves the stale on-disk dist/ build instead of the live Vite server.
+const isDev =
+  process.env.VERCEL_ENV !== "production" &&
+  process.env.VERCEL_ENV !== "preview" &&
+  process.env.NODE_ENV !== "production";
+
 let _template: string | null = null;
 function loadTemplate(): string {
   if (_template) return _template;
   _template = readFileSync(join(process.cwd(), "dist", "index.html"), "utf-8");
   return _template;
+}
+
+// In `vercel dev`, dist/ is a stale build (or missing) — the live index.html is
+// served by the underlying Vite dev server, so fetch it instead of the disk copy.
+async function loadDevTemplate(req: IncomingMessage): Promise<string> {
+  const proto = (req.headers["x-forwarded-proto"] as string) || "http";
+  const host = req.headers.host || "localhost:3000";
+  const r = await fetch(`${proto}://${host}/`);
+  return r.text();
 }
 
 function escapeAttr(s: string): string {
@@ -23,7 +41,7 @@ export default async function handler(req: IncomingMessage, res: ServerResponse)
     const games = await fetchGames();
     const game = findBySlug(games, slugRaw) || findByHash(games, slugRaw);
 
-    let html = loadTemplate();
+    let html = isDev ? await loadDevTemplate(req) : loadTemplate();
 
     if (game) {
       const proto = (req.headers["x-forwarded-proto"] as string) || "https";
@@ -54,7 +72,7 @@ export default async function handler(req: IncomingMessage, res: ServerResponse)
     console.error("[og]", req.url, err);
     // Fall back to plain SPA shell on any failure
     try {
-      const html = loadTemplate();
+      const html = isDev ? await loadDevTemplate(req) : loadTemplate();
       res.writeHead(200, { "Content-Type": "text/html; charset=utf-8" });
       res.end(html);
     } catch {

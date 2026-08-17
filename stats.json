@@ -2,9 +2,9 @@
   "repo": "kauafpssx/The-Gaming-Rumble",
   "branch": "games",
   "raw_base_url": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/",
-  "total_games": 1811,
-  "online_fix_total": 1811,
-  "steam_with_metadata": 1699,
+  "total_games": 1812,
+  "online_fix_total": 1812,
+  "steam_with_metadata": 1700,
   "steam_without_metadata": 112,
   "match_rate": 93.82,
   "success_rate": 93.82,
@@ -13,21 +13,22 @@
   "pages_present_in_json": 93,
   "last_page_in_json": 93,
   "new_games_found_this_run": 150,
-  "new_games_added_to_json_this_run": 0,
-  "latest_run_new_game_names": [],
-  "updated_games_this_run": 3,
+  "new_games_added_to_json_this_run": 1,
+  "latest_run_new_game_names": [
+    "Stonewards"
+  ],
+  "updated_games_this_run": 2,
   "latest_run_updated_game_names": [
-    "Forza Horizon 6",
-    "PEAK",
-    "theHunter Call of the Wild"
+    "Cricket 26 The Official Game of the Ashes",
+    "OPERATOR"
   ],
   "processed_games_this_run": 3,
-  "torrent_files_total": 1838,
-  "json_entries_with_torrent": 1811,
-  "games_with_providers": 843,
-  "last_scrape_at": "2026-08-16 15:22:20",
-  "last_scrape_at_display": "16/08/2026",
-  "last_game_update": "2026-08-14T18:10:11+03:00",
-  "generated_at": "2026-08-16 15:22:22",
-  "generated_at_display": "16/08/2026"
+  "torrent_files_total": 1841,
+  "json_entries_with_torrent": 1812,
+  "games_with_providers": 844,
+  "last_scrape_at": "2026-08-17 15:30:22",
+  "last_scrape_at_display": "17/08/2026",
+  "last_game_update": "2026-08-17T19:50:01+03:00",
+  "generated_at": "2026-08-17 15:32:01",
+  "generated_at_display": "17/08/2026"
 }

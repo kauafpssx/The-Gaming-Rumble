@@ -2,9 +2,9 @@
   "repo": "kauafpssx/The-Gaming-Rumble",
   "branch": "games",
   "raw_base_url": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/",
-  "total_games": 1812,
-  "online_fix_total": 1812,
-  "steam_with_metadata": 1700,
+  "total_games": 1813,
+  "online_fix_total": 1813,
+  "steam_with_metadata": 1701,
   "steam_without_metadata": 112,
   "match_rate": 93.82,
   "success_rate": 93.82,
@@ -12,23 +12,25 @@
   "pages_scraped_target": 95,
   "pages_present_in_json": 93,
   "last_page_in_json": 93,
-  "new_games_found_this_run": 150,
+  "new_games_found_this_run": 152,
   "new_games_added_to_json_this_run": 1,
   "latest_run_new_game_names": [
-    "Stonewards"
+    "IRON NEST Heavy Turret Simulator"
   ],
-  "updated_games_this_run": 2,
+  "updated_games_this_run": 4,
   "latest_run_updated_game_names": [
+    "The Mound Omen of Cthulhu",
+    "MotoGP 26",
     "Cricket 26 The Official Game of the Ashes",
     "OPERATOR"
   ],
-  "processed_games_this_run": 3,
-  "torrent_files_total": 1841,
-  "json_entries_with_torrent": 1812,
-  "games_with_providers": 844,
-  "last_scrape_at": "2026-08-17 15:30:22",
-  "last_scrape_at_display": "17/08/2026",
-  "last_game_update": "2026-08-17T19:50:01+03:00",
-  "generated_at": "2026-08-17 15:32:01",
-  "generated_at_display": "17/08/2026"
+  "processed_games_this_run": 5,
+  "torrent_files_total": 1844,
+  "json_entries_with_torrent": 1813,
+  "games_with_providers": 845,
+  "last_scrape_at": "2026-08-18 15:29:59",
+  "last_scrape_at_display": "18/08/2026",
+  "last_game_update": "2026-08-18T16:33:33+03:00",
+  "generated_at": "2026-08-18 15:31:35",
+  "generated_at_display": "18/08/2026"
 }

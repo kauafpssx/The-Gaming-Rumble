@@ -12,33 +12,23 @@
   "pages_scraped_target": 95,
   "pages_present_in_json": 93,
   "last_page_in_json": 93,
-  "new_games_found_this_run": 160,
-  "new_games_added_to_json_this_run": 2,
-  "latest_run_new_game_names": [
-    "The Ranchers",
-    "How to Fish"
-  ],
-  "updated_games_this_run": 11,
+  "new_games_found_this_run": 151,
+  "new_games_added_to_json_this_run": 0,
+  "latest_run_new_game_names": [],
+  "updated_games_this_run": 4,
   "latest_run_updated_game_names": [
     "MARVEL Tokon Fighting Souls",
-    "Halo Campaign Evolved",
     "CRYO",
-    "Supermarket Simulator",
-    "Schedule I",
     "First Class Trouble",
-    "Inside the Backrooms",
-    "Euro Truck Simulator 2",
-    "Stellaris",
-    "Ultimate Chicken Horse",
-    "No Mans Sky"
+    "Euro Truck Simulator 2"
   ],
-  "processed_games_this_run": 13,
+  "processed_games_this_run": 4,
   "torrent_files_total": 1867,
   "json_entries_with_torrent": 1821,
   "games_with_providers": 854,
-  "last_scrape_at": "2026-08-21 15:30:50",
-  "last_scrape_at_display": "21/08/2026",
+  "last_scrape_at": "2026-08-22 15:21:49",
+  "last_scrape_at_display": "22/08/2026",
   "last_game_update": "2026-08-21T14:34:50+03:00",
-  "generated_at": "2026-08-21 15:30:52",
-  "generated_at_display": "21/08/2026"
+  "generated_at": "2026-08-22 15:22:16",
+  "generated_at_display": "22/08/2026"
 }

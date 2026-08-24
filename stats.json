@@ -12,23 +12,18 @@
   "pages_scraped_target": 95,
   "pages_present_in_json": 93,
   "last_page_in_json": 93,
-  "new_games_found_this_run": 151,
+  "new_games_found_this_run": 147,
   "new_games_added_to_json_this_run": 0,
   "latest_run_new_game_names": [],
-  "updated_games_this_run": 4,
-  "latest_run_updated_game_names": [
-    "MARVEL Tokon Fighting Souls",
-    "CRYO",
-    "First Class Trouble",
-    "Euro Truck Simulator 2"
-  ],
-  "processed_games_this_run": 4,
+  "updated_games_this_run": 0,
+  "latest_run_updated_game_names": [],
+  "processed_games_this_run": 0,
   "torrent_files_total": 1867,
   "json_entries_with_torrent": 1821,
   "games_with_providers": 854,
   "last_scrape_at": "2026-08-23 15:21:40",
   "last_scrape_at_display": "23/08/2026",
   "last_game_update": "2026-08-21T14:34:50+03:00",
-  "generated_at": "2026-08-23 15:22:02",
-  "generated_at_display": "23/08/2026"
+  "generated_at": "2026-08-24 15:33:45",
+  "generated_at_display": "24/08/2026"
 }

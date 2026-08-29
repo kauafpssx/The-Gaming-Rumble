@@ -12,26 +12,21 @@
   "pages_scraped_target": 95,
   "pages_present_in_json": 93,
   "last_page_in_json": 93,
-  "new_games_found_this_run": 154,
-  "new_games_added_to_json_this_run": 1,
-  "latest_run_new_game_names": [
-    "The One Fish"
-  ],
-  "updated_games_this_run": 5,
+  "new_games_found_this_run": 150,
+  "new_games_added_to_json_this_run": 0,
+  "latest_run_new_game_names": [],
+  "updated_games_this_run": 2,
   "latest_run_updated_game_names": [
     "VEIN",
-    "MARVEL Tokon Fighting Souls",
-    "Drive Beyond Horizons",
-    "Bodycam",
-    "Among Us"
+    "Drive Beyond Horizons"
   ],
-  "processed_games_this_run": 6,
+  "processed_games_this_run": 2,
   "torrent_files_total": 1877,
   "json_entries_with_torrent": 1827,
   "games_with_providers": 860,
-  "last_scrape_at": "2026-08-27 23:02:31",
-  "last_scrape_at_display": "27/08/2026",
+  "last_scrape_at": "2026-08-28 22:24:20",
+  "last_scrape_at_display": "28/08/2026",
   "last_game_update": "2026-08-27T20:48:44+03:00",
-  "generated_at": "2026-08-27 23:02:43",
-  "generated_at_display": "27/08/2026"
+  "generated_at": "2026-08-28 22:25:53",
+  "generated_at_display": "28/08/2026"
 }

@@ -2,9 +2,9 @@
   "repo": "kauafpssx/The-Gaming-Rumble",
   "branch": "games",
   "raw_base_url": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/",
-  "total_games": 1828,
-  "online_fix_total": 1828,
-  "steam_with_metadata": 1715,
+  "total_games": 1829,
+  "online_fix_total": 1829,
+  "steam_with_metadata": 1716,
   "steam_without_metadata": 113,
   "match_rate": 93.82,
   "success_rate": 93.82,
@@ -12,24 +12,23 @@
   "pages_scraped_target": 95,
   "pages_present_in_json": 93,
   "last_page_in_json": 93,
-  "new_games_found_this_run": 152,
+  "new_games_found_this_run": 151,
   "new_games_added_to_json_this_run": 1,
   "latest_run_new_game_names": [
-    "Twisted Party"
+    "Mimic Party"
   ],
-  "updated_games_this_run": 3,
+  "updated_games_this_run": 2,
   "latest_run_updated_game_names": [
-    "How to Fish",
-    "Forza Horizon 6",
-    "Far Far West"
+    "Demonologist",
+    "Mount & Blade II Bannerlord"
   ],
-  "processed_games_this_run": 4,
-  "torrent_files_total": 1881,
-  "json_entries_with_torrent": 1828,
-  "games_with_providers": 861,
-  "last_scrape_at": "2026-08-31 19:18:05",
-  "last_scrape_at_display": "31/08/2026",
-  "last_game_update": "2026-08-31T21:30:56+03:00",
-  "generated_at": "2026-08-31 19:19:57",
-  "generated_at_display": "31/08/2026"
+  "processed_games_this_run": 3,
+  "torrent_files_total": 1884,
+  "json_entries_with_torrent": 1829,
+  "games_with_providers": 862,
+  "last_scrape_at": "2026-09-01 17:25:12",
+  "last_scrape_at_display": "01/09/2026",
+  "last_game_update": "2026-09-01T20:42:50+03:00",
+  "generated_at": "2026-09-01 17:26:41",
+  "generated_at_display": "01/09/2026"
 }

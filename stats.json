@@ -12,24 +12,18 @@
   "pages_scraped_target": 96,
   "pages_present_in_json": 93,
   "last_page_in_json": 93,
-  "new_games_found_this_run": 153,
+  "new_games_found_this_run": 148,
   "new_games_added_to_json_this_run": 0,
   "latest_run_new_game_names": [],
-  "updated_games_this_run": 5,
-  "latest_run_updated_game_names": [
-    "Slay the Spire 2",
-    "Bodycam",
-    "Motor Town Behind The Wheel",
-    "Stranger of Paradise Final Fantasy Origin",
-    "Phasmophobia"
-  ],
-  "processed_games_this_run": 5,
+  "updated_games_this_run": 0,
+  "latest_run_updated_game_names": [],
+  "processed_games_this_run": 0,
   "torrent_files_total": 1904,
   "json_entries_with_torrent": 1836,
   "games_with_providers": 868,
   "last_scrape_at": "2026-09-05 16:51:01",
   "last_scrape_at_display": "05/09/2026",
   "last_game_update": "2026-09-03T13:36:39+03:00",
-  "generated_at": "2026-09-05 16:51:15",
-  "generated_at_display": "05/09/2026"
+  "generated_at": "2026-09-06 16:54:49",
+  "generated_at_display": "06/09/2026"
 }

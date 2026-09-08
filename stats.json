@@ -2,9 +2,9 @@
   "repo": "kauafpssx/The-Gaming-Rumble",
   "branch": "games",
   "raw_base_url": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/",
-  "total_games": 1839,
-  "online_fix_total": 1839,
-  "steam_with_metadata": 1726,
+  "total_games": 1841,
+  "online_fix_total": 1841,
+  "steam_with_metadata": 1728,
   "steam_without_metadata": 113,
   "match_rate": 93.86,
   "success_rate": 93.86,
@@ -12,25 +12,25 @@
   "pages_scraped_target": 96,
   "pages_present_in_json": 93,
   "last_page_in_json": 93,
-  "new_games_found_this_run": 153,
-  "new_games_added_to_json_this_run": 3,
+  "new_games_found_this_run": 154,
+  "new_games_added_to_json_this_run": 2,
   "latest_run_new_game_names": [
-    "Halloween The Game",
-    "Hell Let Loose Vietnam",
-    "SpeedRunners 2 King of Speed"
+    "Dragons Dogma 2",
+    "Clawed"
   ],
-  "updated_games_this_run": 2,
+  "updated_games_this_run": 3,
   "latest_run_updated_game_names": [
     "Mimic Party",
-    "Elden Ring"
+    "No Time",
+    "Bodycam"
   ],
   "processed_games_this_run": 5,
-  "torrent_files_total": 1909,
-  "json_entries_with_torrent": 1839,
-  "games_with_providers": 871,
-  "last_scrape_at": "2026-09-07 18:01:15",
-  "last_scrape_at_display": "07/09/2026",
-  "last_game_update": "2026-09-07T18:51:30+03:00",
-  "generated_at": "2026-09-07 18:02:34",
-  "generated_at_display": "07/09/2026"
+  "torrent_files_total": 1913,
+  "json_entries_with_torrent": 1841,
+  "games_with_providers": 873,
+  "last_scrape_at": "2026-09-08 17:36:09",
+  "last_scrape_at_display": "08/09/2026",
+  "last_game_update": "2026-09-08T17:35:20+03:00",
+  "generated_at": "2026-09-08 17:37:43",
+  "generated_at_display": "08/09/2026"
 }

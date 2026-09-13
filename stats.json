@@ -12,23 +12,21 @@
   "pages_scraped_target": 96,
   "pages_present_in_json": 93,
   "last_page_in_json": 93,
-  "new_games_found_this_run": 153,
+  "new_games_found_this_run": 151,
   "new_games_added_to_json_this_run": 0,
   "latest_run_new_game_names": [],
-  "updated_games_this_run": 4,
+  "updated_games_this_run": 2,
   "latest_run_updated_game_names": [
     "MARVEL Tokon Fighting Souls",
-    "Forza Horizon 6",
-    "Palworld",
-    "Valheim"
+    "Forza Horizon 6"
   ],
-  "processed_games_this_run": 4,
+  "processed_games_this_run": 2,
   "torrent_files_total": 1930,
   "json_entries_with_torrent": 1851,
   "games_with_providers": 882,
-  "last_scrape_at": "2026-09-12 17:03:15",
-  "last_scrape_at_display": "12/09/2026",
+  "last_scrape_at": "2026-09-13 17:08:33",
+  "last_scrape_at_display": "13/09/2026",
   "last_game_update": "2026-09-11T20:00:33+03:00",
-  "generated_at": "2026-09-12 17:03:30",
-  "generated_at_display": "12/09/2026"
+  "generated_at": "2026-09-13 17:10:19",
+  "generated_at_display": "13/09/2026"
 }

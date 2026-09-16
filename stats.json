@@ -11,27 +11,25 @@
   "online_fix_pages_total": 97,
   "pages_scraped_target": 97,
   "pages_present_in_json": 94,
-  "last_page_in_json": 94,
-  "new_games_found_this_run": 155,
-  "new_games_added_to_json_this_run": 4,
-  "latest_run_new_game_names": [
-    "Supermarket Chaos",
-    "Friendly Steps",
-    "Starsand Island",
-    "Shady Job"
-  ],
-  "updated_games_this_run": 2,
+  "last_page_in_json": 95,
+  "new_games_found_this_run": 154,
+  "new_games_added_to_json_this_run": 0,
+  "latest_run_new_game_names": [],
+  "updated_games_this_run": 5,
   "latest_run_updated_game_names": [
     "RV There Yet",
-    "Valheim"
+    "Ragnarock",
+    "Ready or Not",
+    "Valheim",
+    "No Mans Sky"
   ],
-  "processed_games_this_run": 6,
-  "torrent_files_total": 1941,
+  "processed_games_this_run": 5,
+  "torrent_files_total": 1942,
   "json_entries_with_torrent": 1857,
   "games_with_providers": 889,
-  "last_scrape_at": "2026-09-15 17:48:02",
-  "last_scrape_at_display": "15/09/2026",
+  "last_scrape_at": "2026-09-16 17:48:11",
+  "last_scrape_at_display": "16/09/2026",
   "last_game_update": "2026-09-15T22:30:44+03:00",
-  "generated_at": "2026-09-15 17:48:18",
-  "generated_at_display": "15/09/2026"
+  "generated_at": "2026-09-16 17:48:14",
+  "generated_at_display": "16/09/2026"
 }

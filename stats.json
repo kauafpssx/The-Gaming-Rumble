@@ -12,32 +12,23 @@
   "pages_scraped_target": 97,
   "pages_present_in_json": 94,
   "last_page_in_json": 95,
-  "new_games_found_this_run": 162,
-  "new_games_added_to_json_this_run": 6,
-  "latest_run_new_game_names": [
-    "Anime Shop Simulator",
-    "Bus Simulator 27",
-    "A Smithing Game",
-    "Dimraeth",
-    "Crazy Hotel Together",
-    "Endless Alice"
-  ],
-  "updated_games_this_run": 6,
+  "new_games_found_this_run": 154,
+  "new_games_added_to_json_this_run": 0,
+  "latest_run_new_game_names": [],
+  "updated_games_this_run": 4,
   "latest_run_updated_game_names": [
     "Big Walk",
-    "RV There Yet",
-    "PowerWash Simulator 2",
     "RuneScape Dragonwilds",
-    "Bodycam",
-    "Valheim"
+    "PowerWash Simulator 2",
+    "Bodycam"
   ],
-  "processed_games_this_run": 12,
+  "processed_games_this_run": 4,
   "torrent_files_total": 1952,
   "json_entries_with_torrent": 1863,
-  "games_with_providers": 887,
-  "last_scrape_at": "2026-09-17 17:53:26",
-  "last_scrape_at_display": "17/09/2026",
+  "games_with_providers": 889,
+  "last_scrape_at": "2026-09-18 17:18:01",
+  "last_scrape_at_display": "18/09/2026",
   "last_game_update": "2026-09-17T18:35:13+03:00",
-  "generated_at": "2026-09-17 17:53:42",
-  "generated_at_display": "17/09/2026"
+  "generated_at": "2026-09-18 17:19:40",
+  "generated_at_display": "18/09/2026"
 }

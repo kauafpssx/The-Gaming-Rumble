@@ -18,17 +18,17 @@
   "updated_games_this_run": 4,
   "latest_run_updated_game_names": [
     "Big Walk",
-    "RuneScape Dragonwilds",
     "PowerWash Simulator 2",
+    "RuneScape Dragonwilds",
     "Bodycam"
   ],
   "processed_games_this_run": 4,
   "torrent_files_total": 1952,
   "json_entries_with_torrent": 1863,
   "games_with_providers": 889,
-  "last_scrape_at": "2026-09-18 17:18:01",
-  "last_scrape_at_display": "18/09/2026",
+  "last_scrape_at": "2026-09-19 16:55:08",
+  "last_scrape_at_display": "19/09/2026",
   "last_game_update": "2026-09-17T18:35:13+03:00",
-  "generated_at": "2026-09-18 17:19:40",
-  "generated_at_display": "18/09/2026"
+  "generated_at": "2026-09-19 16:56:40",
+  "generated_at_display": "19/09/2026"
 }

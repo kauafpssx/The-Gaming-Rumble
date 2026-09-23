@@ -2,9 +2,9 @@
   "repo": "kauafpssx/The-Gaming-Rumble",
   "branch": "games",
   "raw_base_url": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/",
-  "total_games": 1865,
-  "online_fix_total": 1865,
-  "steam_with_metadata": 1752,
+  "total_games": 1866,
+  "online_fix_total": 1866,
+  "steam_with_metadata": 1753,
   "steam_without_metadata": 113,
   "match_rate": 93.94,
   "success_rate": 93.94,
@@ -13,23 +13,23 @@
   "pages_present_in_json": 94,
   "last_page_in_json": 95,
   "new_games_found_this_run": 154,
-  "new_games_added_to_json_this_run": 2,
+  "new_games_added_to_json_this_run": 1,
   "latest_run_new_game_names": [
-    "Dawson Oaks Trailer Park",
-    "Bar After Bar"
+    "Dark Souls II Scholar of the First Sin"
   ],
-  "updated_games_this_run": 2,
+  "updated_games_this_run": 3,
   "latest_run_updated_game_names": [
+    "Cricket 26 The Official Game of the Ashes",
     "Jump Space",
     "Valheim"
   ],
   "processed_games_this_run": 4,
-  "torrent_files_total": 1956,
-  "json_entries_with_torrent": 1865,
-  "games_with_providers": 891,
-  "last_scrape_at": "2026-09-22 17:48:04",
-  "last_scrape_at_display": "22/09/2026",
-  "last_game_update": "2026-09-22T13:49:34+03:00",
-  "generated_at": "2026-09-22 17:48:20",
-  "generated_at_display": "22/09/2026"
+  "torrent_files_total": 1958,
+  "json_entries_with_torrent": 1866,
+  "games_with_providers": 892,
+  "last_scrape_at": "2026-09-23 17:59:56",
+  "last_scrape_at_display": "23/09/2026",
+  "last_game_update": "2026-09-23T14:57:16+03:00",
+  "generated_at": "2026-09-23 18:00:11",
+  "generated_at_display": "23/09/2026"
 }

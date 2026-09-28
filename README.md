@@ -6,7 +6,7 @@
 
 <br>
 
-> Cliente desktop construído com Tauri para consumir payloads compatíveis, baixar jogos via magnet link, extrair automaticamente e organizar a biblioteca local no Windows.
+> Cliente desktop construído com Tauri para navegar um catálogo de jogos, baixar via torrent nativo ou HTTP direto, extrair automaticamente e organizar a biblioteca local no Windows.
 
 ## ✨ Snapshot Do Projeto
 
@@ -46,11 +46,12 @@
 
 O Gaming Rumble é o client desktop principal do ecossistema.
 
-Ele automatiza todo o fluxo de instalação dos jogos:
+Ele automatiza todo o fluxo de descoberta e instalação dos jogos:
 
-- Recebe payloads via protocolo `gaming-rumble://`
-- Decodifica informações do jogo em Base64
-- Executa downloads via BitTorrent usando `aria2c`
+- Catálogo navegável com busca, ordenação e paginação, sincronizado com metadados da Steam
+- Também recebe payloads via protocolo `gaming-rumble://` (deep-link)
+- Executa downloads via BitTorrent com motor nativo embutido (`librqbit`)
+- Baixa direto via HTTP (ex.: Pixeldrain) quando o hoster oferece o jogo (e o fix) sem torrent
 - Extrai automaticamente os arquivos do jogo
 - Detecta executáveis principais
 - Organiza a biblioteca local com persistência em `SQLite`
@@ -80,10 +81,11 @@ O foco do projeto é reduzir atrito e automatizar processos repetitivos.
 
 ```mermaid
 flowchart LR
-  A["🌐 Browser / Discord"] --> B["🚀 gaming-rumble://"]
-  B --> C["📦 Decode Payload"]
+  A1["🗂️ Catálogo no App"] --> C["📦 Selecionar Jogo"]
+  A2["🌐 Browser / Discord"] --> B["🚀 gaming-rumble://"]
+  B --> C
   C --> D["⚙️ Setup"]
-  D --> E["⬇️ aria2c Download"]
+  D --> E["⬇️ Torrent Nativo ou HTTP Direto"]
   E --> F["📂 7-Zip Extract"]
   F --> G["🧠 Detect Executable"]
   G --> H["🎮 Local Library"]
@@ -96,11 +98,14 @@ flowchart LR
 
 | Feature | Descrição |
 |---|---|
-| `gaming-rumble://` | Protocolo customizado para instalação automática |
-| Download BitTorrent | Download com progresso em tempo real |
+| Catálogo In-App | Busca, ordenação e paginação responsiva, com sincronização de metadados da Steam |
+| Detalhes do Jogo | Modal com trailers (player HLS), screenshots, conquistas, requisitos e avaliações |
+| `gaming-rumble://` | Protocolo customizado para instalação automática via deep-link |
+| Download BitTorrent Nativo | Motor embutido (`librqbit`), sem binário externo, com progresso em tempo real |
+| Download HTTP Direto | Baixa via Pixeldrain (jogo + fix) quando disponível, sem precisar de torrent |
 | Biblioteca Persistente | Jogos instalados ficam registrados localmente em `SQLite` |
 | Auto Extract | Extração automática pós-download |
-| Fix Only | Baixa apenas o fix quando necessário |
+| Fix Only | Baixa apenas o fix quando necessário, via torrent ou HTTP direto |
 | Auto Shortcut | Cria atalhos automaticamente |
 | System Tray | Fecha para tray e restaura o launcher rapidamente |
 | Playtime Tracking | Monitora tempo jogado das sessões iniciadas pelo app |
@@ -113,9 +118,13 @@ flowchart LR
 
 ## 🧠 Como O Fluxo Funciona
 
-### Payload
+### Catálogo
 
-O navegador ou app intermediário envia um payload Base64:
+O jeito principal de instalar um jogo hoje é navegando pelo Catálogo dentro do próprio app: buscar, ver detalhes (trailers, screenshots, conquistas) e clicar em instalar. O launcher escolhe automaticamente entre download HTTP direto (quando um hoster como o Pixeldrain tem o jogo completo) e torrent.
+
+### Payload (deep-link)
+
+O fluxo antigo via Discord/navegador continua funcionando: o navegador ou app intermediário envia um payload Base64:
 
 ```json
 {
@@ -130,15 +139,14 @@ O navegador ou app intermediário envia um payload Base64:
 ### Fluxo interno
 
 ```txt
-1. Browser abre gaming-rumble://
-2. Tauri recebe a URI
-3. Payload é decodificado
-4. Usuário confirma instalação
-5. aria2c inicia o torrent
-6. 7-Zip extrai os arquivos
-7. O executável principal é detectado
-8. O jogo entra na biblioteca
-9. Atalhos são criados automaticamente
+1. Usuário escolhe um jogo no Catálogo (ou abre gaming-rumble://)
+2. Payload é resolvido (catálogo local ou deep-link decodificado)
+3. Usuário confirma instalação
+4. Motor nativo de torrent ou download HTTP direto inicia
+5. 7-Zip extrai os arquivos
+6. O executável principal é detectado
+7. O jogo entra na biblioteca
+8. Atalhos são criados automaticamente
 ```
 
 ---
@@ -186,9 +194,10 @@ O navegador ou app intermediário envia um payload Base64:
 
 | Binário | Status | Finalidade |
 |---|---|---|
-| `aria2c.exe` | Bundled | Download BitTorrent |
 | `7-ZIP/` | Bundled | Extração de arquivos |
 | `WebView2` | Runtime | Renderização da UI |
+
+> O motor de torrent (`librqbit`) e o de download HTTP direto rodam embutidos no processo Rust — não há mais binário externo de download baixado ou empacotado.
 
 ---
 
@@ -213,15 +222,14 @@ Gaming Rumble/
 │   ├── migrations/
 │   └── schema.prisma
 ├── src/
-│   ├── App.tsx
-│   ├── payload.ts
-│   ├── types.ts
-│   └── components/
-│       ├── Layout/
-│       └── Views/
+│   ├── domain/           # Tipos e regras de negócio puras
+│   ├── application/      # Hooks de orquestração (use-cases)
+│   ├── infrastructure/   # Comandos/eventos Tauri, storage local
+│   └── presentation/     # Componentes React (catalog, library, shell, settings...)
 ├── src-tauri/
 │   ├── src/
-│   │   └── commands/
+│   │   ├── commands/     # Wrappers finos dos comandos Tauri
+│   │   └── services/     # Lógica real (catalog, torrent, http_download, library...)
 │   └── tauri.conf.json
 ├── public/
 ├── .github/workflows/
@@ -232,11 +240,13 @@ Gaming Rumble/
 
 | Caminho | Conteúdo |
 |---|---|
-| `src/` | Frontend React |
-| `src/components/Views/` | Telas do aplicativo |
-| `src-tauri/src/commands/` | Comandos nativos em Rust |
+| `src/domain/` | Modelos e regras puras (catálogo, download, hosters) |
+| `src/application/` | Hooks que orquestram estado e chamadas ao backend |
+| `src/infrastructure/` | Bindings de comandos/eventos do Tauri e storage local |
+| `src/presentation/` | Telas e componentes React |
+| `src-tauri/src/commands/` | Comandos nativos expostos ao frontend |
+| `src-tauri/src/services/` | Implementação real de cada domínio no Rust |
 | `prisma/` | Schema e migrações da biblioteca local |
-| `payload.ts` | Decode e parsing do protocolo |
 | `tauri.conf.json` | Configuração principal |
 | `.github/workflows/` | Build e release CI/CD |
 
@@ -292,20 +302,20 @@ src-tauri/target/release/bundle/nsis/
 
 ```mermaid
 flowchart LR
-  A["📦 Push na main"] --> B["⚙️ GitHub Actions"]
+  A["🖱️ Disparo Manual (workflow_dispatch)"] --> B["⚙️ GitHub Actions"]
   B --> C["📥 Install Node.js"]
   C --> D["🦀 Install Rust"]
   D --> E["🪟 Install WebView2"]
   E --> F["🔨 Build Tauri"]
-  F --> G["📦 Generate MSI / NSIS"]
+  F --> G["📦 Generate MSI + latest.json"]
   G --> H["🚀 GitHub Release"]
 ```
 
-O workflow automatiza:
+O workflow é disparado manualmente (não roda mais a cada push na `main`) e automatiza:
 
 - instalação do ambiente
-- geração dos bundles
-- upload de artefatos
+- geração dos bundles (MSI e NSIS localmente)
+- publicação apenas do instalador `.msi` e do `latest.json` do updater
 - criação de releases
 
 ---
@@ -314,9 +324,10 @@ O workflow automatiza:
 
 | Sistema | Função |
 |---|---|
+| Catalog Sync | Busca e cacheia o catálogo remoto, com estatísticas de correspondência |
 | Download State | Persistência local de progresso |
 | Event System | Eventos Tauri para logs e progresso |
-| Library Manager | Gerenciamento local da biblioteca em `SQLite` |
+| Library Manager | Gerenciamento local da biblioteca em `SQLite`, com reconciliação de pastas órfãs |
 | Extract Pipeline | Pipeline separada de extração |
 | Launcher Detection | Busca automática do executável |
 | Tray Runtime | Minimização para tray e restauração do launcher |
@@ -326,10 +337,12 @@ O workflow automatiza:
 
 ## 🛠️ Notas Operacionais
 
-- O app utiliza janela customizada sem decoração nativa
+- O app utiliza janela customizada sem decoração nativa, redimensionável (mínimo 1024x680)
 - O botão de fechar envia o launcher para o tray em vez de encerrar imediatamente
 - O estado dos downloads sobrevive a reload durante desenvolvimento
+- O motor de torrent é nativo (`librqbit`, embutido no processo) — não há mais download de binário externo na primeira execução
 - A biblioteca é mantida localmente pelo client com banco `SQLite`
+- Pastas parciais de downloads cancelados/falhos são limpas e nunca são reconciliadas como jogos instalados
 - Bibliotecas antigas em `library.json` são migradas automaticamente uma única vez quando encontradas e depois deixam de ser usadas
 - O fluxo foi desenhado para integração com o ecossistema Gaming Rumble
 - O projeto não pretende ser um client torrent genérico

@@ -12,25 +12,18 @@
   "pages_scraped_target": 97,
   "pages_present_in_json": 94,
   "last_page_in_json": 95,
-  "new_games_found_this_run": 155,
-  "new_games_added_to_json_this_run": 2,
-  "latest_run_new_game_names": [
-    "Dino Party",
-    "iRacing Studios NASCAR 26"
-  ],
-  "updated_games_this_run": 3,
-  "latest_run_updated_game_names": [
-    "Dark Souls II Scholar of the First Sin",
-    "Dragons Dogma 2",
-    "PAYDAY 3"
-  ],
-  "processed_games_this_run": 5,
+  "new_games_found_this_run": 150,
+  "new_games_added_to_json_this_run": 0,
+  "latest_run_new_game_names": [],
+  "updated_games_this_run": 0,
+  "latest_run_updated_game_names": [],
+  "processed_games_this_run": 0,
   "torrent_files_total": 1962,
   "json_entries_with_torrent": 1868,
   "games_with_providers": 894,
   "last_scrape_at": "2026-09-28 18:39:57",
   "last_scrape_at_display": "28/09/2026",
   "last_game_update": "2026-09-28T17:53:11+03:00",
-  "generated_at": "2026-09-28 18:42:28",
+  "generated_at": "2026-09-28 19:54:09",
   "generated_at_display": "28/09/2026"
 }

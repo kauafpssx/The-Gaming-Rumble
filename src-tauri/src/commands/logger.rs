@@ -36,10 +36,6 @@ impl LogLevel {
     }
 }
 
-pub fn log(level: LogLevel, msg: impl Display) {
-    println!("[{}{}] {}", level.symbol(), get_timestamp(), msg);
-}
-
 pub fn log_tag(level: LogLevel, tag: impl Display, msg: impl Display) {
     println!("[{}{}] [{}] {}", level.symbol(), get_timestamp(), tag, msg);
 }

@@ -33,7 +33,7 @@ jobs:
           ONLINEFIX_USER: ${{ secrets.ONLINEFIX_USER }}
           ONLINEFIX_PASS: ${{ secrets.ONLINEFIX_PASS }}
           PROXY_LIST_URL: ${{ secrets.PROXY_LIST_URL }}
-          GITHUB_REPOSITORY: zKauaFerreira/The-Gaming-Rumble
+          GITHUB_REPOSITORY: kauafpssx/The-Gaming-Rumble
           GITHUB_BRANCH: games
         run: python scrapper.py --workers 6
 

@@ -7,7 +7,7 @@ use tauri_plugin_updater::{Update, UpdaterExt};
 use reqwest::Url;
 
 const DEFAULT_UPDATE_ENDPOINT: &str =
-    "https://github.com/zKauaFerreira/The-Gaming-Rumble/releases/latest/download/latest.json";
+    "https://github.com/kauafpssx/The-Gaming-Rumble/releases/latest/download/latest.json";
 const UPDATER_PUBKEY: &str =
     "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDRCMEU4MzlDMDgwQzI4RUYKUldUdktBd0luSU1PU3lhbUxwOUZFczZQekFoampRVnZ1SUVBSEc1ZlJiMjRIWlA3ZzlaQ0hOOFAK";
 

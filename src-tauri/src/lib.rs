@@ -4,19 +4,23 @@
 )]
 
 mod commands;
+mod infra;
+mod services;
 
 use std::env::current_exe;
 use std::sync::Mutex;
 use tauri::{Manager, Emitter};
 use commands::{
+    catalog::{get_cached_catalog, sync_catalog},
     runtime::{init_runtime, launch_and_track_game, show_main_window, GameMonitorState, TrayState},
     system::{check_is_admin, add_defender_exclusion, create_gaming_rumble_folder, set_defender_realtime_monitoring, get_defender_status, play_game, open_path, update_executable, show_exe_picker, create_shortcut, remove_shortcut, shortcut_exists, get_shortcut_states, get_system_status},
     disk::{list_drives, get_disk_space},
-    torrent::{start_torrent, stop_torrent, start_fix_download},
+    torrent::{start_torrent, stop_torrent, start_fix_download, start_http_download, stop_http_download},
     archive::{extract_game, delete_folder, finalize_installation},
-    library::{get_library, add_to_library, remove_from_library, delete_all_games, run_one_time_legacy_import},
+    library::{reconcile_library, add_to_library, remove_from_library, delete_all_games},
     update::{check_for_app_update, install_app_update, PendingUpdate}
 };
+use services::library::run_one_time_legacy_import;
 
 #[cfg(windows)]
 fn register_deep_link() {
@@ -80,6 +84,7 @@ pub fn run() {
         .manage(PendingUpdate(Mutex::new(None)))
         .manage(TrayState::default())
         .manage(GameMonitorState::default())
+        .plugin(tauri_plugin_opener::init())
         .plugin(tauri_plugin_single_instance::init(|app, argv, _cwd| {
             eprintln!("[SINGLE-INSTANCE] args: {:?}", argv);
             if let Some(uri) = argv.iter().find_map(|arg| parse_deep_link_arg(arg)) {
@@ -102,7 +107,9 @@ pub fn run() {
             start_torrent,
             stop_torrent,
             start_fix_download,
-            get_library,
+            start_http_download,
+            stop_http_download,
+            reconcile_library,
             add_to_library,
             remove_from_library,
             delete_all_games,
@@ -118,7 +125,9 @@ pub fn run() {
             get_system_status,
             consume_pending_deeplink,
             check_for_app_update,
-            install_app_update
+            install_app_update,
+            get_cached_catalog,
+            sync_catalog
         ])
         .setup(|app| {
             #[cfg(desktop)]

@@ -1,3 +1,4 @@
+pub mod catalog;
 pub mod disk;
 pub mod system;
 pub mod torrent;

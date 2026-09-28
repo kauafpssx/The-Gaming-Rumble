@@ -1,7 +1,7 @@
 # 🎮 Gaming Rumble (Desktop Client)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zKauaFerreira/The-Gaming-Rumble/refs/heads/main/public/banner.png" alt="Gaming Rumble Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/refs/heads/main/public/banner.png" alt="Gaming Rumble Banner" width="100%" />
 </p>
 
 <br>

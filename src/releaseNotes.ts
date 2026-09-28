@@ -4,7 +4,7 @@ const releaseNoteFiles = import.meta.glob("../.github/releases/*.md", {
   eager: true,
 }) as Record<string, string>;
 
-const CHANGELOG_REPO_URL = "https://github.com/zKauaFerreira/The-Gaming-Rumble";
+const CHANGELOG_REPO_URL = "https://github.com/kauafpssx/The-Gaming-Rumble";
 
 function normalizeVersion(version: string) {
   return version.replace(/^v/i, "").trim();

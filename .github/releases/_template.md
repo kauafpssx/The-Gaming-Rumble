@@ -36,11 +36,8 @@ Binários para Windows gerados automaticamente pelo CI/CD ⚡
 
 ## 💾 Instaladores
 
-- 🖥️ **NSIS Installer (`.exe`)**  
-  Instalador padrão recomendado para a maioria dos usuários.
-
 - 🏢 **MSI Installer (`.msi`)**  
-  Opção voltada para instalação corporativa e ambientes empresariais.
+  Instalador padrão do launcher, com suporte a atualização automática.
 
 ---
 

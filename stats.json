@@ -12,28 +12,21 @@
   "pages_scraped_target": 97,
   "pages_present_in_json": 94,
   "last_page_in_json": 95,
-  "new_games_found_this_run": 158,
-  "new_games_added_to_json_this_run": 3,
-  "latest_run_new_game_names": [
-    "Dub Together",
-    "Noita",
-    "Minecraft Dungeons II"
-  ],
-  "updated_games_this_run": 5,
+  "new_games_found_this_run": 152,
+  "new_games_added_to_json_this_run": 0,
+  "latest_run_new_game_names": [],
+  "updated_games_this_run": 2,
   "latest_run_updated_game_names": [
-    "Dark Souls II Scholar of the First Sin",
-    "Dragons Dogma 2",
     "RuneScape Dragonwilds",
-    "Palworld",
-    "PAYDAY 3"
+    "Palworld"
   ],
-  "processed_games_this_run": 8,
+  "processed_games_this_run": 2,
   "torrent_files_total": 1967,
   "json_entries_with_torrent": 1871,
   "games_with_providers": 897,
-  "last_scrape_at": "2026-09-29 18:46:42",
-  "last_scrape_at_display": "29/09/2026",
+  "last_scrape_at": "2026-09-30 18:48:30",
+  "last_scrape_at_display": "30/09/2026",
   "last_game_update": "2026-09-29T17:39:59+03:00",
-  "generated_at": "2026-09-29 18:48:19",
-  "generated_at_display": "29/09/2026"
+  "generated_at": "2026-09-30 18:50:08",
+  "generated_at_display": "30/09/2026"
 }

@@ -12,21 +12,18 @@
   "pages_scraped_target": 97,
   "pages_present_in_json": 94,
   "last_page_in_json": 95,
-  "new_games_found_this_run": 152,
+  "new_games_found_this_run": 151,
   "new_games_added_to_json_this_run": 0,
   "latest_run_new_game_names": [],
-  "updated_games_this_run": 2,
-  "latest_run_updated_game_names": [
-    "RuneScape Dragonwilds",
-    "Palworld"
-  ],
-  "processed_games_this_run": 2,
+  "updated_games_this_run": 0,
+  "latest_run_updated_game_names": [],
+  "processed_games_this_run": 0,
   "torrent_files_total": 1967,
   "json_entries_with_torrent": 1871,
   "games_with_providers": 897,
   "last_scrape_at": "2026-09-30 18:48:30",
   "last_scrape_at_display": "30/09/2026",
   "last_game_update": "2026-09-29T17:39:59+03:00",
-  "generated_at": "2026-09-30 18:50:08",
-  "generated_at_display": "30/09/2026"
+  "generated_at": "2026-10-01 19:18:18",
+  "generated_at_display": "01/10/2026"
 }

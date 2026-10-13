@@ -1,5 +1,5 @@
 {
-    "total": 1876,
+    "total": 1879,
     "downloads": [
         {
             "title": "10 Miles to Safety",
@@ -22690,6 +22690,324 @@
                 {
                     "name": "Fix Repair/AotSE_Fix_Repair_Steam_Generic.rar",
                     "size": "4.10 MB"
+                }
+            ],
+            "comment": ""
+        },
+        {
+            "title": "Assassins Creed III",
+            "page": 1,
+            "url": "https://online-fix.me/games/adventures/18268-assassins-creed-iii-online.html",
+            "last_update": "2026-10-13T00:48:56+03:00",
+            "release_date": null,
+            "update_info": "",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-10-12 21:03:10",
+            "steam": {
+                "steam_appid": 911400,
+                "match_score": 86,
+                "match_via": "canon",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/911400/header.jpg?t=1786631735",
+                "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/911400/capsule_184x69.jpg?t=1786631735",
+                "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/911400/page_bg_raw.jpg?t=1786631735",
+                "screenshots": [
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/911400/ss_3c0ef60ea9a2f72df176af41811dde6c5867c6c6.1920x1080.jpg?t=1786631735",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/911400/ss_ab1d62e4bcf7123f5797b16cd7c7e2984a470cb2.1920x1080.jpg?t=1786631735",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/911400/ss_63cd3caea8cbe8881aadd73a98a334a77d320f3a.1920x1080.jpg?t=1786631735",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/911400/ss_377fecbea5be7a09ba9b5de5f1914c03eb2ad72d.1920x1080.jpg?t=1786631735",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/911400/ss_3f01c813974db7c45fc58d755ed97b4ee62d267f.1920x1080.jpg?t=1786631735",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/911400/ss_230fda51d6a66a595ba74768ca4b012607d0374e.1920x1080.jpg?t=1786631735",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/911400/ss_1f2f3301c3f27246bd88bf2d8d01a0cb7f651002.1920x1080.jpg?t=1786631735",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/911400/ss_d1d3c22d293e739358c8d28601e34f34e319cd8d.1920x1080.jpg?t=1786631735",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/911400/ss_8b96ffb5a291c1c717c80a7c7e278ec8687c8ea1.1920x1080.jpg?t=1786631735",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/911400/ss_0f904a2e64f78e2fc0505c610ffa5e1fa36fd24e.1920x1080.jpg?t=1786631735"
+                ],
+                "movies": [],
+                "achievements_total": 84,
+                "achievements_highlighted": [
+                    {
+                        "icon": "bdbb29d2b49fecb40b98369904ab80992a72c052.jpg",
+                        "localized_name": "Sequence 1",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Sequence 1",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/911400/bdbb29d2b49fecb40b98369904ab80992a72c052.jpg"
+                    },
+                    {
+                        "icon": "c7744da2ccc7fab6139c6db5b9f849359cb58562.jpg",
+                        "localized_name": "Sequence 2",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Sequence 2",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/911400/c7744da2ccc7fab6139c6db5b9f849359cb58562.jpg"
+                    },
+                    {
+                        "icon": "8beceab8a009f92872fd681ac14ec41661100bc9.jpg",
+                        "localized_name": "Sequence 4",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Sequence 4",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/911400/8beceab8a009f92872fd681ac14ec41661100bc9.jpg"
+                    },
+                    {
+                        "icon": "c45959598d00343609558714712f219194a91307.jpg",
+                        "localized_name": "Sequence 6",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Sequence 6",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/911400/c45959598d00343609558714712f219194a91307.jpg"
+                    },
+                    {
+                        "icon": "1c6981606c4d30807df8f9899164042ec3d7bcf6.jpg",
+                        "localized_name": "Sequence 8",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Sequence 8",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/911400/1c6981606c4d30807df8f9899164042ec3d7bcf6.jpg"
+                    },
+                    {
+                        "icon": "e1436939a0c29bdff34d366872e7a514623c6e48.jpg",
+                        "localized_name": "Complete Aveline's Story",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Complete Aveline's Story",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/911400/e1436939a0c29bdff34d366872e7a514623c6e48.jpg"
+                    },
+                    {
+                        "icon": "8335877b08dc1bd899a010c293033c9cfa727cd8.jpg",
+                        "localized_name": "The Truth",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "The Truth",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/911400/8335877b08dc1bd899a010c293033c9cfa727cd8.jpg"
+                    },
+                    {
+                        "icon": "676ed12845aff1b605215eaeb3df694cf8714d0f.jpg",
+                        "localized_name": "Complete all Mission Constraints",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Complete all Mission Constraints",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/911400/676ed12845aff1b605215eaeb3df694cf8714d0f.jpg"
+                    },
+                    {
+                        "icon": "d4b737fe035c3a9ed0a38f837f562d1a1c8264c9.jpg",
+                        "localized_name": "Human Shields",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Human Shields",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/911400/d4b737fe035c3a9ed0a38f837f562d1a1c8264c9.jpg"
+                    },
+                    {
+                        "icon": "92830e0b38a63fe5b568e1fdb9c2cebfa4004f6a.jpg",
+                        "localized_name": "Collector",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Collector",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/911400/92830e0b38a63fe5b568e1fdb9c2cebfa4004f6a.jpg"
+                    }
+                ],
+                "ratings": {
+                    "pegi": "18",
+                    "esrb": "m"
+                },
+                "release_date_steam": "29 mar. 2019",
+                "short_description": "Revive a Revolução Americana ou explora esta era conturbada pela primeira vez em Assassin's Creed® III Remastered, com gráficos melhorados e mecânicas de jogo avançadas. Inclui Assassin's Creed Liberation Remastered e todos os DLCs para um jogador.",
+                "short_description_native": "Revive a Revolução Americana ou explora esta era conturbada pela primeira vez em Assassin's Creed® III Remastered, com gráficos melhorados e mecânicas de jogo avançadas. Inclui Assassin's Creed Liberation Remastered e todos os DLCs para um jogador.",
+                "price_brl": "R$ 119,99",
+                "is_free": false,
+                "pc_requirements": {
+                    "minimum": "Mínimos:\n\nSistema Operativo: Windows 10 (64-bit versions only)\n\nProcessador: Intel Core i5 2400 @ 3.1 GHz, AMD FX 6350 @ 3.9 GHz\n\nMemória: 8 GB de RAM\n\nPlaca gráfica: Nvidia GeForce GTX 660, AMD Radeon R9 270X (2GB VRAM with Shader Model 5.0)\n\nDirectX: Versão 11\n\nEspaço no disco: Requer 45 GB de espaço livre\n\nPlaca de som: DirectX 9.0c compatible sound card with latest drivers",
+                    "recommended": "Recomendados:\n\nSistema Operativo: Windows 10 (64-bit versions only)\n\nProcessador: Intel Core i5 3470 @ 3.2 GHz, AMD FX 8350 @ 4.0 GHz\n\nMemória: 8 GB de RAM\n\nPlaca gráfica: Nvidia GeForce GTX 770 (4GB) or AMD Radeon R9 280X (3GB) or better\n\nDirectX: Versão 11\n\nEspaço no disco: Requer 45 GB de espaço livre\n\nPlaca de som: DirectX 9.0c compatible sound card with latest drivers"
+                },
+                "controller_support": null,
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Um jogador"
+                    },
+                    {
+                        "id": 22,
+                        "description": "Proezas Steam"
+                    },
+                    {
+                        "id": 18,
+                        "description": "Compatibilidade parcial com comando"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "1",
+                        "description": "Ação"
+                    },
+                    {
+                        "id": "25",
+                        "description": "Aventura"
+                    }
+                ]
+            },
+            "hoster_links": {
+                "FileDitch": [
+                    {
+                        "file_name": "AssassinsCreedIII_Fix_Repair_Steam.rar",
+                        "direct_link": "https://fileditchfiles.st/balpha30/4c3f72ddd21960536149/AssassinsCreedIII_Fix_Repair_Steam.rar"
+                    },
+                    {
+                        "file_name": "Assassins.Creed.III.v1.06-OFME.part1.rar",
+                        "direct_link": "https://fileditchfiles.st/balpha30/9ea758d9c7f7073ddb8a/Assassins.Creed.III.v1.06-OFME.part1.rar"
+                    },
+                    {
+                        "file_name": "Assassins.Creed.III.v1.06-OFME.part2.rar",
+                        "direct_link": "https://fileditchfiles.st/balpha30/7523200ecfe66e2a38d2/Assassins.Creed.III.v1.06-OFME.part2.rar"
+                    },
+                    {
+                        "file_name": "Assassins.Creed.III.v1.06-OFME.part3.rar",
+                        "direct_link": "https://fileditchfiles.st/balpha30/13d9f8fc11253cb4d049/Assassins.Creed.III.v1.06-OFME.part3.rar"
+                    },
+                    {
+                        "file_name": "Assassins.Creed.III.v1.06-OFME.part4.rar",
+                        "direct_link": "https://fileditchfiles.st/balpha30/5c273f7defda24ae0832/Assassins.Creed.III.v1.06-OFME.part4.rar"
+                    },
+                    {
+                        "file_name": "Assassins.Creed.III.v1.06-OFME.part5.rar",
+                        "direct_link": "https://fileditchfiles.st/balpha30/d8415d5cba5da0b7410b/Assassins.Creed.III.v1.06-OFME.part5.rar"
+                    }
+                ],
+                "FileKeeper": [
+                    {
+                        "file_name": "AssassinsCreedIII_Fix_Repair_Steam.rar",
+                        "direct_link": "https://filekeeper.net/0leq21nh6h0e"
+                    },
+                    {
+                        "file_name": "Assassins.Creed.III.v1.06-OFME.part1.rar",
+                        "direct_link": "https://filekeeper.net/o0dkv89uivxd"
+                    },
+                    {
+                        "file_name": "Assassins.Creed.III.v1.06-OFME.part2.rar",
+                        "direct_link": "https://filekeeper.net/94gnf7mq2h3l"
+                    },
+                    {
+                        "file_name": "Assassins.Creed.III.v1.06-OFME.part3.rar",
+                        "direct_link": "https://filekeeper.net/sacmye8w8wfz"
+                    },
+                    {
+                        "file_name": "Assassins.Creed.III.v1.06-OFME.part4.rar",
+                        "direct_link": "https://filekeeper.net/7r1etipeicwf"
+                    },
+                    {
+                        "file_name": "Assassins.Creed.III.v1.06-OFME.part5.rar",
+                        "direct_link": "https://filekeeper.net/np2rpgjm6s4k"
+                    }
+                ],
+                "Pixeldrain": [
+                    {
+                        "file_name": "AssassinsCreedIII_Fix_Repair_Steam.rar",
+                        "direct_link": "https://pixeldrain.com/u/6fYnAw4y"
+                    },
+                    {
+                        "file_name": "Assassins.Creed.III.v1.06-OFME.part1.rar",
+                        "direct_link": "https://pixeldrain.com/u/iSEEaJ2m"
+                    },
+                    {
+                        "file_name": "Assassins.Creed.III.v1.06-OFME.part2.rar",
+                        "direct_link": "https://pixeldrain.com/u/xkbmFe3R"
+                    },
+                    {
+                        "file_name": "Assassins.Creed.III.v1.06-OFME.part3.rar",
+                        "direct_link": "https://pixeldrain.com/u/uApX8zK5"
+                    },
+                    {
+                        "file_name": "Assassins.Creed.III.v1.06-OFME.part4.rar",
+                        "direct_link": "https://pixeldrain.com/u/CSDL71EP"
+                    },
+                    {
+                        "file_name": "Assassins.Creed.III.v1.06-OFME.part5.rar",
+                        "direct_link": "https://pixeldrain.com/u/Lr32WCCc"
+                    }
+                ],
+                "Gofile": [
+                    {
+                        "file_name": "AssassinsCreedIII_Fix_Repair_Steam.rar",
+                        "direct_link": "https://gofile.io/d/7gL018YE"
+                    },
+                    {
+                        "file_name": "Assassins.Creed.III.v1.06-OFME.part1.rar",
+                        "direct_link": "https://gofile.io/d/RYdCM3av"
+                    },
+                    {
+                        "file_name": "Assassins.Creed.III.v1.06-OFME.part2.rar",
+                        "direct_link": "https://gofile.io/d/2mJNgJqR"
+                    },
+                    {
+                        "file_name": "Assassins.Creed.III.v1.06-OFME.part3.rar",
+                        "direct_link": "https://gofile.io/d/ddhOIP9C"
+                    },
+                    {
+                        "file_name": "Assassins.Creed.III.v1.06-OFME.part4.rar",
+                        "direct_link": "https://gofile.io/d/a8yNX4aI"
+                    },
+                    {
+                        "file_name": "Assassins.Creed.III.v1.06-OFME.part5.rar",
+                        "direct_link": "https://gofile.io/d/2xL2BfvZ"
+                    }
+                ],
+                "VikingFile": [
+                    {
+                        "file_name": "AssassinsCreedIII_Fix_Repair_Steam.rar",
+                        "direct_link": "https://vikingfile.com/f/qgGPUDW9hc"
+                    },
+                    {
+                        "file_name": "Assassins.Creed.III.v1.06-OFME.part1.rar",
+                        "direct_link": "https://vikingfile.com/f/zPgzHiQIFR"
+                    },
+                    {
+                        "file_name": "Assassins.Creed.III.v1.06-OFME.part2.rar",
+                        "direct_link": "https://vikingfile.com/f/zewrfpKv8D"
+                    },
+                    {
+                        "file_name": "Assassins.Creed.III.v1.06-OFME.part3.rar",
+                        "direct_link": "https://vikingfile.com/f/EBlvoB37A6"
+                    },
+                    {
+                        "file_name": "Assassins.Creed.III.v1.06-OFME.part4.rar",
+                        "direct_link": "https://vikingfile.com/f/zBrefBMvCk"
+                    },
+                    {
+                        "file_name": "Assassins.Creed.III.v1.06-OFME.part5.rar",
+                        "direct_link": "https://vikingfile.com/f/wKlqShqCSN"
+                    }
+                ]
+            },
+            "unique_hash": "7aacd721175b5f01cb640ebcca248a07ed3ffd63",
+            "fileSize": "21.18 GB",
+            "magnet": "magnet:?xt=urn:btih:7aacd721175b5f01cb640ebcca248a07ed3ffd63&dn=Assassins%20Creed%20III&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_1/Assassins.Creed.III.v1.06-OFME.torrent",
+            "created_at": "2026-10-12 18:36:42",
+            "webdav_updated_at": "Unknown",
+            "files": [
+                {
+                    "name": "Assassins.Creed.III.v1.06-OFME.part1.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Assassins.Creed.III.v1.06-OFME.part2.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Assassins.Creed.III.v1.06-OFME.part3.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Assassins.Creed.III.v1.06-OFME.part4.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Assassins.Creed.III.v1.06-OFME.part5.rar",
+                    "size": "1.17 GB"
+                },
+                {
+                    "name": "Fix Repair/AssassinsCreedIII_Fix_Repair_Steam.rar",
+                    "size": "3.70 MB"
                 }
             ],
             "comment": ""
@@ -124745,6 +125063,298 @@
             "comment": ""
         },
         {
+            "title": "Far Cry 3",
+            "page": 1,
+            "url": "https://online-fix.me/games/sandbox/18266-far-cry-3-po-seti.html",
+            "last_update": "2026-10-13T00:48:54+03:00",
+            "release_date": "28.11.2012",
+            "update_info": "",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-10-12 21:03:11",
+            "steam": {
+                "steam_appid": 220240,
+                "match_score": 100,
+                "match_via": "canon",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220240/3848aafeb6e5cff40cbf6210c34413f3034150da/header.jpg?t=1785282057",
+                "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220240/ba51d74a29dc4f6167ff9410d5fe8ae42235fd68/capsule_184x69.jpg?t=1785282057",
+                "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/220240?t=1785282057",
+                "screenshots": [
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220240/91ca9b48ef5a3095281cd7eceb40d2daeffb0454/ss_91ca9b48ef5a3095281cd7eceb40d2daeffb0454.1920x1080.jpg?t=1785282057",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220240/d2cc64ad335dd754966a8a41e755be44ecf9d5df/ss_d2cc64ad335dd754966a8a41e755be44ecf9d5df.1920x1080.jpg?t=1785282057",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220240/1c4a54582fefd79dbc5fa0bd81d20a5ab66ad4e3/ss_1c4a54582fefd79dbc5fa0bd81d20a5ab66ad4e3.1920x1080.jpg?t=1785282057",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220240/0f29b4edb75369ed716453ebac5c9decd8fa771b/ss_0f29b4edb75369ed716453ebac5c9decd8fa771b.1920x1080.jpg?t=1785282057",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220240/07a887e5eab5e2a98aa7bacda6b2b489cc6d2e74/ss_07a887e5eab5e2a98aa7bacda6b2b489cc6d2e74.1920x1080.jpg?t=1785282057",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220240/21fa3fb592d0d1519716b12dc8fd192fe7bd687d/ss_21fa3fb592d0d1519716b12dc8fd192fe7bd687d.1920x1080.jpg?t=1785282057",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220240/dd0970468a0b5b73bcd9ae1b1aa62d6919c6fe72/ss_dd0970468a0b5b73bcd9ae1b1aa62d6919c6fe72.1920x1080.jpg?t=1785282057",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220240/7955a396f98d3fac7279c0e15ae4d61b4be91e59/ss_7955a396f98d3fac7279c0e15ae4d61b4be91e59.1920x1080.jpg?t=1785282057"
+                ],
+                "movies": [
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2028177/movie.293x165.jpg?t=1447357140",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/220240/9966/8e70f954ee07e5c2e8b68e6bc5df4de4726ee2b2/1750481561/dash_h264.mpd?t=1447357140",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/220240/9966/8e70f954ee07e5c2e8b68e6bc5df4de4726ee2b2/1750481561/hls_264_master.m3u8?t=1447357140"
+                    },
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2028100/movie.293x165.jpg?t=1654549163",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/220240/9666/10327ff4e57824866cdb49ef081ee46332aac7c0/1750481555/dash_h264.mpd?t=1654549163",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/220240/9666/10327ff4e57824866cdb49ef081ee46332aac7c0/1750481555/hls_264_master.m3u8?t=1654549163"
+                    },
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2028101/movie.293x165.jpg?t=1447356997",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/220240/9667/a8c72358f8a7abe0b087739a40faab54e255c258/1750481557/dash_h264.mpd?t=1447356997",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/220240/9667/a8c72358f8a7abe0b087739a40faab54e255c258/1750481557/hls_264_master.m3u8?t=1447356997"
+                    }
+                ],
+                "achievements_total": 44,
+                "achievements_highlighted": [
+                    {
+                        "icon": "07ff0ae5e79913c8755b6cfd31f23d04df2127a0.jpg",
+                        "localized_name": "First Blood",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "First Blood",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/220240/07ff0ae5e79913c8755b6cfd31f23d04df2127a0.jpg"
+                    },
+                    {
+                        "icon": "c60ebf677749e56087a1bb1e50b179af8bed263d.jpg",
+                        "localized_name": "Magic Mushroom",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Magic Mushroom",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/220240/c60ebf677749e56087a1bb1e50b179af8bed263d.jpg"
+                    },
+                    {
+                        "icon": "2469a54c7518c8f1313014ad62c909dc4edcf2df.jpg",
+                        "localized_name": "Worst Date Ever",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Worst Date Ever",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/220240/2469a54c7518c8f1313014ad62c909dc4edcf2df.jpg"
+                    },
+                    {
+                        "icon": "99c359c13454546e25911f5ad74f1640e3200ae9.jpg",
+                        "localized_name": "One of Us",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "One of Us",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/220240/99c359c13454546e25911f5ad74f1640e3200ae9.jpg"
+                    },
+                    {
+                        "icon": "f16ea2079f61a4ed8fdb649ecffcaaecadafcf82.jpg",
+                        "localized_name": "Hands Off My Stoner",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Hands Off My Stoner",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/220240/f16ea2079f61a4ed8fdb649ecffcaaecadafcf82.jpg"
+                    },
+                    {
+                        "icon": "5cfac618f452a18fd57cec811bd362ea35547ada.jpg",
+                        "localized_name": "Retake Wall Street",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Retake Wall Street",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/220240/5cfac618f452a18fd57cec811bd362ea35547ada.jpg"
+                    },
+                    {
+                        "icon": "fb77b9a7e1c20c16e9d907b364304af1baff6f7e.jpg",
+                        "localized_name": "Have I Told You?",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Have I Told You?",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/220240/fb77b9a7e1c20c16e9d907b364304af1baff6f7e.jpg"
+                    },
+                    {
+                        "icon": "b82281c54dc969d10b0e55c869e50caf0c4c7158.jpg",
+                        "localized_name": "Taken for Granted",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Taken for Granted",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/220240/b82281c54dc969d10b0e55c869e50caf0c4c7158.jpg"
+                    },
+                    {
+                        "icon": "f19f5321958e4b951a935282419d13e859522e81.jpg",
+                        "localized_name": "Higher Than a Kite",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Higher Than a Kite",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/220240/f19f5321958e4b951a935282419d13e859522e81.jpg"
+                    },
+                    {
+                        "icon": "57f79876f1fcb3969a70f049e3d201145ddac16f.jpg",
+                        "localized_name": "Deep Cover",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Deep Cover",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/220240/57f79876f1fcb3969a70f049e3d201145ddac16f.jpg"
+                    }
+                ],
+                "ratings": {
+                    "pegi": "18",
+                    "esrb": "m"
+                },
+                "release_date_steam": "4 dez. 2012",
+                "short_description": "Preso nas Ilhas Rook, no papel de Jason Brody, abra caminho lutando em um mundo aberto tropical sem lei, usando um arsenal poderoso para salvar seus amigos e escapar da loucura deste FPS aclamado e visceral.",
+                "short_description_native": "Preso nas Ilhas Rook, no papel de Jason Brody, abra caminho lutando em um mundo aberto tropical sem lei, usando um arsenal poderoso para salvar seus amigos e escapar da loucura deste FPS aclamado e visceral.",
+                "price_brl": "R$ 59,99",
+                "is_free": false,
+                "pc_requirements": {
+                    "minimum": "Minimum:\n\nOS *:Windows XP, Windows Vista\n\t\nProcessor:Intel Core®2 Duo E6700 @ 2.6 GHz or AMD Athlon64 X2 6000+ @ 3.0Ghz or better\n\t\nMemory:4 GB RAM\n\t\nGraphics:512MB Video RAM (1GB Video RAM), DirectX9c (DirectX11) Shader Model 3.0 (Shader Model 5.0)\n\t\nDirectX®:9.0c\n\t\nHard Drive:15 GB HD space\n\t\nSound:DirectX Compatible  (Recommended Surround Sound 5.1 capable)\n\t\nOther Requirements:Broadband Internet connection\n\t\nAdditional:*Supported Video Cards at Time of Release: AMD Radeon™ HD 2900 / 3000 / 4000 / 5000 / 6000 / 7000 series, NVIDIA® GeForce® 8800 GTX / 9 / 200 / 400 / 500 / 600 series. Laptop versions of these cards may work, but are not supported. These chipsets are the only ones that will run this game. For the most up-to-date minimum requirement listings, please visit the FAQ on our support website at .\nRequires a UPlay account",
+                    "recommended": "Recommended:\n\nMemory:4 GB RAM\n\t\nGraphics:512MB Video RAM (1GB Video RAM), DirectX9c (DirectX11) Shader Model 3.0 (Shader Model 5.0)\n\t\nDirectX®:11\n\t\nHard Drive:15 GB HD space\n\t\nSound:DirectX Compatible  (Recommended Surround Sound 5.1 capable)\n\t\nOther Requirements:Broadband Internet connection\n\t\nAdditional:*Supported Video Cards at Time of Release: AMD Radeon™ HD 2900 / 3000 / 4000 / 5000 / 6000 / 7000 series, NVIDIA® GeForce® 8800 GTX / 9 / 200 / 400 / 500 / 600 series. Laptop versions of these cards may work, but are not supported. These chipsets are the only ones that will run this game. For the most up-to-date minimum requirement listings, please visit the FAQ on our support website at .\nRequires a UPlay account"
+                },
+                "controller_support": null,
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Um jogador"
+                    },
+                    {
+                        "id": 1,
+                        "description": "Multijogador"
+                    },
+                    {
+                        "id": 9,
+                        "description": "Co-op"
+                    },
+                    {
+                        "id": 22,
+                        "description": "Proezas Steam"
+                    },
+                    {
+                        "id": 18,
+                        "description": "Compatibilidade parcial com comando"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "1",
+                        "description": "Ação"
+                    },
+                    {
+                        "id": "25",
+                        "description": "Aventura"
+                    }
+                ]
+            },
+            "hoster_links": {
+                "FileDitch": [
+                    {
+                        "file_name": "FarCry3_Fix_Repair_Steam.rar",
+                        "direct_link": "https://fileditchfiles.st/balpha30/bdb80a147764b9b8e8de/FarCry3_Fix_Repair_Steam.rar"
+                    },
+                    {
+                        "file_name": "Far.Cry.3.v1.05-OFME.part1.rar",
+                        "direct_link": "https://fileditchfiles.st/balpha30/3f1d299e0d79584543d0/Far.Cry.3.v1.05-OFME.part1.rar"
+                    },
+                    {
+                        "file_name": "Far.Cry.3.v1.05-OFME.part2.rar",
+                        "direct_link": "https://fileditchfiles.st/balpha30/1449707d21f278b58ab6/Far.Cry.3.v1.05-OFME.part2.rar"
+                    },
+                    {
+                        "file_name": "Far.Cry.3.v1.05-OFME.part3.rar",
+                        "direct_link": "https://fileditchfiles.st/balpha30/717f847cad7c8ffc2d18/Far.Cry.3.v1.05-OFME.part3.rar"
+                    }
+                ],
+                "FileKeeper": [
+                    {
+                        "file_name": "FarCry3_Fix_Repair_Steam.rar",
+                        "direct_link": "https://filekeeper.net/2dstuz0jp8l4"
+                    },
+                    {
+                        "file_name": "Far.Cry.3.v1.05-OFME.part1.rar",
+                        "direct_link": "https://filekeeper.net/ejg5pp6ojpa0"
+                    },
+                    {
+                        "file_name": "Far.Cry.3.v1.05-OFME.part2.rar",
+                        "direct_link": "https://filekeeper.net/gsvxcc9rdwnv"
+                    },
+                    {
+                        "file_name": "Far.Cry.3.v1.05-OFME.part3.rar",
+                        "direct_link": "https://filekeeper.net/h7thcoe6emyb"
+                    }
+                ],
+                "Pixeldrain": [
+                    {
+                        "file_name": "FarCry3_Fix_Repair_Steam.rar",
+                        "direct_link": "https://pixeldrain.com/u/8VAFwXY1"
+                    },
+                    {
+                        "file_name": "Far.Cry.3.v1.05-OFME.part1.rar",
+                        "direct_link": "https://pixeldrain.com/u/MtZ77waR"
+                    },
+                    {
+                        "file_name": "Far.Cry.3.v1.05-OFME.part2.rar",
+                        "direct_link": "https://pixeldrain.com/u/1ZQC6Fnn"
+                    },
+                    {
+                        "file_name": "Far.Cry.3.v1.05-OFME.part3.rar",
+                        "direct_link": "https://pixeldrain.com/u/mygkT66q"
+                    }
+                ],
+                "Gofile": [
+                    {
+                        "file_name": "FarCry3_Fix_Repair_Steam.rar",
+                        "direct_link": "https://gofile.io/d/JzWT8HI6"
+                    },
+                    {
+                        "file_name": "Far.Cry.3.v1.05-OFME.part1.rar",
+                        "direct_link": "https://gofile.io/d/AjKpRfuv"
+                    },
+                    {
+                        "file_name": "Far.Cry.3.v1.05-OFME.part2.rar",
+                        "direct_link": "https://gofile.io/d/LCXHSZAm"
+                    },
+                    {
+                        "file_name": "Far.Cry.3.v1.05-OFME.part3.rar",
+                        "direct_link": "https://gofile.io/d/CnUszwSX"
+                    }
+                ],
+                "VikingFile": [
+                    {
+                        "file_name": "FarCry3_Fix_Repair_Steam.rar",
+                        "direct_link": "https://vikingfile.com/f/tZeNqtPvqM"
+                    },
+                    {
+                        "file_name": "Far.Cry.3.v1.05-OFME.part1.rar",
+                        "direct_link": "https://vikingfile.com/f/emtUuDNsJd"
+                    },
+                    {
+                        "file_name": "Far.Cry.3.v1.05-OFME.part2.rar",
+                        "direct_link": "https://vikingfile.com/f/VCbu7BgGZx"
+                    },
+                    {
+                        "file_name": "Far.Cry.3.v1.05-OFME.part3.rar",
+                        "direct_link": "https://vikingfile.com/f/w6HnOc0NTG"
+                    }
+                ]
+            },
+            "unique_hash": "d57023f7ce32e8561cca1f0d3b3a1ed3bb306b6c",
+            "fileSize": "10.47 GB",
+            "magnet": "magnet:?xt=urn:btih:d57023f7ce32e8561cca1f0d3b3a1ed3bb306b6c&dn=Far%20Cry%203&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_1/Far.Cry.3.v1.05-OFME.torrent",
+            "created_at": "2026-10-12 18:43:07",
+            "webdav_updated_at": "Unknown",
+            "files": [
+                {
+                    "name": "Far.Cry.3.v1.05-OFME.part1.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Far.Cry.3.v1.05-OFME.part2.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Far.Cry.3.v1.05-OFME.part3.rar",
+                    "size": "482.35 MB"
+                },
+                {
+                    "name": "Fix Repair/FarCry3_Fix_Repair_Steam.rar",
+                    "size": "3.62 MB"
+                }
+            ],
+            "comment": ""
+        },
+        {
             "title": "Far Far West",
             "page": 7,
             "url": "https://online-fix.me/games/adventures/18075-far-far-west-po-seti.html",
@@ -136596,30 +137206,30 @@
         },
         {
             "title": "Forza Horizon 6",
-            "page": 7,
+            "page": 8,
             "url": "https://online-fix.me/games/officialservers/18099-forza-horizon-6-po-seti.html",
             "last_update": "2026-05-15T07:00:32+03:00",
             "release_date": "13.05.2026",
-            "update_info": "Обновлено 11 сентября 2026, 19:59. Добавлено обновление 440.853.",
-            "update_date": "2026-09-11T19:59:00+03:00",
-            "formatted_update_date": "2026-09-11 19:59:00",
-            "scraped_at": "2026-09-13 17:08:33",
+            "update_info": "Обновлено Сегодня, 00:47. Добавлено обновление 461.691.",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-10-12 21:03:16",
             "steam": {
                 "steam_appid": 2483190,
                 "match_score": 100,
                 "match_via": "canon",
-                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/a3f1465050b6103274991a29b7462d3f28918b5d/header_alt_assets_4.jpg?t=1788887415",
-                "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/5e395259d2f9ec12bad3f116c6a9fc7c038f11f4/capsule_184x69_alt_assets_4.jpg?t=1788887415",
-                "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/5ce35cb7c29431e9c58ec2228f6eaa8842953bc2/page_bg_raw.jpg?t=1788887415",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/bd1e762f4720cb68af365f2e41d002f14dd74fbf/header_alt_assets_5.jpg?t=1791312088",
+                "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/bbb9f95cefd82bfdc417f25d6d3d1b740d9d42dc/capsule_184x69_alt_assets_5.jpg?t=1791312088",
+                "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/5ce35cb7c29431e9c58ec2228f6eaa8842953bc2/page_bg_raw.jpg?t=1791312088",
                 "screenshots": [
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/706eb79418b2a74192de059693ddcbfaa803108a/ss_706eb79418b2a74192de059693ddcbfaa803108a.1920x1080.jpg?t=1788887415",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/383ace7815eaa8f8f5128a58fd8ca7df911d3e14/ss_383ace7815eaa8f8f5128a58fd8ca7df911d3e14.1920x1080.jpg?t=1788887415",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/d4b81f0cafcfba410371e53bd696fb5cc9b434c0/ss_d4b81f0cafcfba410371e53bd696fb5cc9b434c0.1920x1080.jpg?t=1788887415",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/041b9a2854dc647bf54d7d8b36d2f4186ed72c13/ss_041b9a2854dc647bf54d7d8b36d2f4186ed72c13.1920x1080.jpg?t=1788887415",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/945a08124625ffa26ec0077761fcbe19df07dad5/ss_945a08124625ffa26ec0077761fcbe19df07dad5.1920x1080.jpg?t=1788887415",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/0824558c70b2e5ed67fe239d577434929f157a26/ss_0824558c70b2e5ed67fe239d577434929f157a26.1920x1080.jpg?t=1788887415",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/701382eb1431c978e0c7e2518f47aa02b3fe6583/ss_701382eb1431c978e0c7e2518f47aa02b3fe6583.1920x1080.jpg?t=1788887415",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/ffea3efe4e67b24ceb6f9bd0919b1ebac344b61b/ss_ffea3efe4e67b24ceb6f9bd0919b1ebac344b61b.1920x1080.jpg?t=1788887415"
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/706eb79418b2a74192de059693ddcbfaa803108a/ss_706eb79418b2a74192de059693ddcbfaa803108a.1920x1080.jpg?t=1791312088",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/383ace7815eaa8f8f5128a58fd8ca7df911d3e14/ss_383ace7815eaa8f8f5128a58fd8ca7df911d3e14.1920x1080.jpg?t=1791312088",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/d4b81f0cafcfba410371e53bd696fb5cc9b434c0/ss_d4b81f0cafcfba410371e53bd696fb5cc9b434c0.1920x1080.jpg?t=1791312088",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/041b9a2854dc647bf54d7d8b36d2f4186ed72c13/ss_041b9a2854dc647bf54d7d8b36d2f4186ed72c13.1920x1080.jpg?t=1791312088",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/945a08124625ffa26ec0077761fcbe19df07dad5/ss_945a08124625ffa26ec0077761fcbe19df07dad5.1920x1080.jpg?t=1791312088",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/0824558c70b2e5ed67fe239d577434929f157a26/ss_0824558c70b2e5ed67fe239d577434929f157a26.1920x1080.jpg?t=1791312088",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/701382eb1431c978e0c7e2518f47aa02b3fe6583/ss_701382eb1431c978e0c7e2518f47aa02b3fe6583.1920x1080.jpg?t=1791312088",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/ffea3efe4e67b24ceb6f9bd0919b1ebac344b61b/ss_ffea3efe4e67b24ceb6f9bd0919b1ebac344b61b.1920x1080.jpg?t=1791312088"
                 ],
                 "movies": [
                     {
@@ -136842,14 +137452,14 @@
                         "direct_link": "https://fileditchfiles.me/alpha11/0b369c5a2d6a0b917ec5/ForzaHorizon6_Fix_Repair_Steam_V2_Generic.rar"
                     },
                     {
-                        "file_name": "01-Forza.Horizon.6.Update.v354.221.to.v440.853.AiO-OFME.rar",
-                        "direct_link": "https://fileditchfiles.st/balpha18/43fd45aba0bc357f6477/01-Forza.Horizon.6.Update.v354.221.to.v440.853.AiO-OFME.rar"
+                        "file_name": "01-Forza.Horizon.6.Update.v354.221.to.v461.691.AiO-OFME.rar",
+                        "direct_link": "https://fileditchfiles.st/balpha30/7292a3d05553e15e48a3/01-Forza.Horizon.6.Update.v354.221.to.v461.691.AiO-OFME.rar"
                     }
                 ],
                 "FileKeeper": [
                     {
-                        "file_name": "01-Forza.Horizon.6.Update.v354.221.to.v440.853.AiO-OFME.rar",
-                        "direct_link": "https://filekeeper.net/bm1qo2kmadu9"
+                        "file_name": "01-Forza.Horizon.6.Update.v354.221.to.v461.691.AiO-OFME.rar",
+                        "direct_link": "https://filekeeper.net/cei5rnfgle4x"
                     }
                 ],
                 "Pixeldrain": [
@@ -136858,8 +137468,8 @@
                         "direct_link": "https://pixeldrain.com/u/SZrPdXr7"
                     },
                     {
-                        "file_name": "01-Forza.Horizon.6.Update.v354.221.to.v440.853.AiO-OFME.rar",
-                        "direct_link": "https://pixeldrain.com/u/v1HXEJ8y"
+                        "file_name": "01-Forza.Horizon.6.Update.v354.221.to.v461.691.AiO-OFME.rar",
+                        "direct_link": "https://pixeldrain.com/u/3PH4TCk7"
                     },
                     {
                         "file_name": "Forza.Horizon.6.v354.221-OFME.part01.rar",
@@ -136988,8 +137598,8 @@
                         "direct_link": "https://gofile.io/d/yhjDor"
                     },
                     {
-                        "file_name": "01-Forza.Horizon.6.Update.v354.221.to.v440.853.AiO-OFME.rar",
-                        "direct_link": "https://gofile.io/d/W08LcoWu"
+                        "file_name": "01-Forza.Horizon.6.Update.v354.221.to.v461.691.AiO-OFME.rar",
+                        "direct_link": "https://gofile.io/d/Wz6lIzsq"
                     },
                     {
                         "file_name": "Forza.Horizon.6.v354.221-OFME.part01.rar",
@@ -137244,8 +137854,8 @@
                         "direct_link": "https://vikingfile.com/f/ZkdwhSFOz6"
                     },
                     {
-                        "file_name": "01-Forza.Horizon.6.Update.v354.221.to.v440.853.AiO-OFME.rar",
-                        "direct_link": "https://vikingfile.com/f/OQmKe9V7Zo"
+                        "file_name": "01-Forza.Horizon.6.Update.v354.221.to.v461.691.AiO-OFME.rar",
+                        "direct_link": "https://vikingfile.com/f/437bdVsh4j"
                     },
                     {
                         "file_name": "Forza.Horizon.6.v354.221-OFME.part01.rar",
@@ -137369,11 +137979,11 @@
                     }
                 ]
             },
-            "unique_hash": "cc92d155df7e142888e6ba43ed3eea39fad33cf2",
-            "fileSize": "174.22 GB",
-            "magnet": "magnet:?xt=urn:btih:cc92d155df7e142888e6ba43ed3eea39fad33cf2&dn=Forza%20Horizon%206&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
-            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_7/Forza.Horizon.6.v354.221-OFME.torrent",
-            "created_at": "2026-09-11 13:00:09",
+            "unique_hash": "cf6cef0aab8107c6780736af21a863f6c658c68a",
+            "fileSize": "174.77 GB",
+            "magnet": "magnet:?xt=urn:btih:cf6cef0aab8107c6780736af21a863f6c658c68a&dn=Forza%20Horizon%206&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_8/Forza.Horizon.6.v354.221-OFME.torrent",
+            "created_at": "2026-10-12 18:46:05",
             "webdav_updated_at": "Unknown",
             "files": [
                 {
@@ -137445,8 +138055,8 @@
                     "size": "1.58 GB"
                 },
                 {
-                    "name": "Updates/01-Forza.Horizon.6.Update.v354.221.to.v440.853.AiO-OFME.rar",
-                    "size": "27.63 GB"
+                    "name": "Updates/01-Forza.Horizon.6.Update.v354.221.to.v461.691.AiO-OFME.rar",
+                    "size": "28.18 GB"
                 },
                 {
                     "name": "Forza.Horizon.6.v354.221-OFME.part03.rar",
@@ -410011,6 +410621,279 @@
                 {
                     "name": "UNDERWARD.v1.0.1.0-OFME.rar",
                     "size": "6.51 GB"
+                }
+            ],
+            "comment": ""
+        },
+        {
+            "title": "UNO",
+            "page": 1,
+            "url": "https://online-fix.me/games/strategy/18267-uno-online.html",
+            "last_update": "2026-10-13T00:48:53+03:00",
+            "release_date": null,
+            "update_info": "",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-10-12 21:03:10",
+            "steam": {
+                "steam_appid": 470220,
+                "match_score": 100,
+                "match_via": "canon",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/470220/b8741c3f32ce4560f33d6a7af256ec8c9828f285/header.jpg?t=1790849807",
+                "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/470220/e1a01bd700edec5427197c1c57a4315f9bd6ea69/capsule_184x69.jpg?t=1790849807",
+                "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/470220/page_bg_raw.jpg?t=1790849807",
+                "screenshots": [
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/470220/9e1c032e71d5d770a3191e9a0385cb01a741b0e7/ss_9e1c032e71d5d770a3191e9a0385cb01a741b0e7.1920x1080.jpg?t=1790849807",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/470220/5a91a8b28031df04725dc2de316bbc89cf3f66e9/ss_5a91a8b28031df04725dc2de316bbc89cf3f66e9.1920x1080.jpg?t=1790849807",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/470220/af0cf79d23466eafb838fdae1f389469059eb866/ss_af0cf79d23466eafb838fdae1f389469059eb866.1920x1080.jpg?t=1790849807",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/470220/1fd26c2575026c5149e22e2fc7343066e4689ec8/ss_1fd26c2575026c5149e22e2fc7343066e4689ec8.1920x1080.jpg?t=1790849807",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/470220/6d3c0a8f9aef892662e10e27a6a8c33dd66cc357/ss_6d3c0a8f9aef892662e10e27a6a8c33dd66cc357.1920x1080.jpg?t=1790849807",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/470220/59f307cf5fcf913cd7b4f4b7cad94c3f7d907aeb/ss_59f307cf5fcf913cd7b4f4b7cad94c3f7d907aeb.1920x1080.jpg?t=1790849807"
+                ],
+                "movies": [
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257221230/cc81acb483bbf8703ba56287781bca92fef831aa/movie_600x337.jpg?t=1761164219",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/470220/1967812071/abac03c102731bea1f4cf16da76e39f9f0ce1eaa/1761158409/dash_h264.mpd?t=1761164219",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/470220/1967812071/abac03c102731bea1f4cf16da76e39f9f0ce1eaa/1761158409/hls_264_master.m3u8?t=1761164219"
+                    },
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257221229/fcd44bd14ab567c1ed21d7cd05e8aefb7515e5db/movie_600x337.jpg?t=1761164221",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/470220/1399295339/8dd0794a8ed2f18cf902c43205b4b5e4eda7d0ed/1761158397/dash_h264.mpd?t=1761164221",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/470220/1399295339/8dd0794a8ed2f18cf902c43205b4b5e4eda7d0ed/1761158397/hls_264_master.m3u8?t=1761164221"
+                    }
+                ],
+                "achievements_total": 12,
+                "achievements_highlighted": [
+                    {
+                        "icon": "8bcc045d7c89165f7401f8096482fcbeffb7883c.jpg",
+                        "localized_name": "Welcome",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Welcome",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/470220/8bcc045d7c89165f7401f8096482fcbeffb7883c.jpg"
+                    },
+                    {
+                        "icon": "482004967427dd71cd49581416929ea29ab42056.jpg",
+                        "localized_name": "A Good Start",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "A Good Start",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/470220/482004967427dd71cd49581416929ea29ab42056.jpg"
+                    },
+                    {
+                        "icon": "a590bc29b42c9a02e47885fdbe7db388b666ec48.jpg",
+                        "localized_name": "Be Heard",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Be Heard",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/470220/a590bc29b42c9a02e47885fdbe7db388b666ec48.jpg"
+                    },
+                    {
+                        "icon": "1d14b54f974c85c8f987b18a007c9762684bafd9.jpg",
+                        "localized_name": "Joker",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Joker",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/470220/1d14b54f974c85c8f987b18a007c9762684bafd9.jpg"
+                    },
+                    {
+                        "icon": "85928e42436fdd7506dc1c9159ec5d88102988c1.jpg",
+                        "localized_name": "Good Eye",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Good Eye",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/470220/85928e42436fdd7506dc1c9159ec5d88102988c1.jpg"
+                    },
+                    {
+                        "icon": "7238af83614a44ad140e4e141acfbb25f7c2e4b3.jpg",
+                        "localized_name": "Our House",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Our House",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/470220/7238af83614a44ad140e4e141acfbb25f7c2e4b3.jpg"
+                    },
+                    {
+                        "icon": "beb8c8fa62ebdbe8d924722ded741f21ae930707.jpg",
+                        "localized_name": "Action",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Action",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/470220/beb8c8fa62ebdbe8d924722ded741f21ae930707.jpg"
+                    },
+                    {
+                        "icon": "37a2dbcf864b73d8f5f5156b32be529136ae689d.jpg",
+                        "localized_name": "Just a Machine",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Just a Machine",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/470220/37a2dbcf864b73d8f5f5156b32be529136ae689d.jpg"
+                    },
+                    {
+                        "icon": "60f6c74f33225f5e9ad90d263f3f97c7f6c69e8b.jpg",
+                        "localized_name": "The Right Choice",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "The Right Choice",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/470220/60f6c74f33225f5e9ad90d263f3f97c7f6c69e8b.jpg"
+                    },
+                    {
+                        "icon": "4ce5a0ceb6cc6033a0d284dda7b786296f96fdc7.jpg",
+                        "localized_name": "Nerves of Steel",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Nerves of Steel",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/470220/4ce5a0ceb6cc6033a0d284dda7b786296f96fdc7.jpg"
+                    }
+                ],
+                "ratings": {
+                    "pegi": "3",
+                    "esrb": "e"
+                },
+                "release_date_steam": "3 jan. 2017",
+                "short_description": "UNO™ é o jogo de cartas icônico reimaginado com uma enorme variedade de opções de jogabilidade e personalização. Jogue solo ou com amigos, personalize a sua experiência modificando regras e visuais, e experimente o Happy Hour!",
+                "short_description_native": "UNO™ é o jogo de cartas icônico reimaginado com uma enorme variedade de opções de jogabilidade e personalização. Jogue solo ou com amigos, personalize a sua experiência modificando regras e visuais, e experimente o Happy Hour!",
+                "price_brl": "R$ 29,99",
+                "is_free": false,
+                "pc_requirements": {
+                    "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo *: Originally released for Windows 7, the game can be played on Windows 10 and Windows 11 OS\n\nProcessador: Intel Core 2 Quad Q9550 | AMD Phenom II X4 945 or equivalent\n\nMemória: 4 GB de RAM\n\nPlaca gráfica: NVIDIA GeForce GTS 450 | AMD Radeon HD 5670 or equivalent\n\nDirectX: Versão 9.0\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 3 GB de espaço livre\n\nPlaca de som: On Board",
+                    "recommended": "Recomendados:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo *: Originally released for Windows 7, the game can be played on Windows 10 and Windows 11 OS\n\nProcessador: Intel Core i3 530\n\nMemória: 4 GB de RAM\n\nPlaca gráfica: NVIDIA GTX 560TI or AMD 5870\n\nDirectX: Versão 9.0\n\nEspaço no disco: Requer 3 GB de espaço livre\n\nPlaca de som: On Board"
+                },
+                "controller_support": "full",
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Um jogador"
+                    },
+                    {
+                        "id": 1,
+                        "description": "Multijogador"
+                    },
+                    {
+                        "id": 49,
+                        "description": "PvP"
+                    },
+                    {
+                        "id": 36,
+                        "description": "PvP online"
+                    },
+                    {
+                        "id": 37,
+                        "description": "PvP, ecrã partilhado/dividido"
+                    },
+                    {
+                        "id": 9,
+                        "description": "Co-op"
+                    },
+                    {
+                        "id": 38,
+                        "description": "Co-op online"
+                    },
+                    {
+                        "id": 39,
+                        "description": "Co-op, ecrã partilhado/dividido"
+                    },
+                    {
+                        "id": 22,
+                        "description": "Proezas Steam"
+                    },
+                    {
+                        "id": 28,
+                        "description": "Compatibilidade total com comando"
+                    },
+                    {
+                        "id": 29,
+                        "description": "Cartas Colecionáveis Steam"
+                    },
+                    {
+                        "id": 41,
+                        "description": "Remote Play no telemóvel"
+                    },
+                    {
+                        "id": 42,
+                        "description": "Remote Play no tablet"
+                    },
+                    {
+                        "id": 43,
+                        "description": "Remote Play na TV"
+                    },
+                    {
+                        "id": 44,
+                        "description": "Remote Play Together"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "4",
+                        "description": "Casual"
+                    }
+                ]
+            },
+            "hoster_links": {
+                "FileDitch": [
+                    {
+                        "file_name": "UNO_Fix_Repair_Steam.rar",
+                        "direct_link": "https://fileditchfiles.st/balpha30/086d114baef7c38ca3af/UNO_Fix_Repair_Steam.rar"
+                    },
+                    {
+                        "file_name": "UNO.Build.12012023-OFME.rar",
+                        "direct_link": "https://fileditchfiles.st/balpha30/6dffb056cb35d6499c06/UNO.Build.12012023-OFME.rar"
+                    }
+                ],
+                "FileKeeper": [
+                    {
+                        "file_name": "UNO_Fix_Repair_Steam.rar",
+                        "direct_link": "https://filekeeper.net/dewm6wheu07m"
+                    },
+                    {
+                        "file_name": "UNO.Build.12012023-OFME.rar",
+                        "direct_link": "https://filekeeper.net/lk5hvhly2ja6"
+                    }
+                ],
+                "Pixeldrain": [
+                    {
+                        "file_name": "UNO_Fix_Repair_Steam.rar",
+                        "direct_link": "https://pixeldrain.com/u/QnqXJYnM"
+                    },
+                    {
+                        "file_name": "UNO.Build.12012023-OFME.rar",
+                        "direct_link": "https://pixeldrain.com/u/R8wxanHH"
+                    }
+                ],
+                "Gofile": [
+                    {
+                        "file_name": "UNO_Fix_Repair_Steam.rar",
+                        "direct_link": "https://gofile.io/d/O7zmBXI6"
+                    },
+                    {
+                        "file_name": "UNO.Build.12012023-OFME.rar",
+                        "direct_link": "https://gofile.io/d/P49mZDyD"
+                    }
+                ],
+                "VikingFile": [
+                    {
+                        "file_name": "UNO_Fix_Repair_Steam.rar",
+                        "direct_link": "https://vikingfile.com/f/jJuy3TvyoI"
+                    },
+                    {
+                        "file_name": "UNO.Build.12012023-OFME.rar",
+                        "direct_link": "https://vikingfile.com/f/CgFvzAB1FO"
+                    }
+                ]
+            },
+            "unique_hash": "2b86f93f28739bda72328530eab47273283e889f",
+            "fileSize": "2.32 GB",
+            "magnet": "magnet:?xt=urn:btih:2b86f93f28739bda72328530eab47273283e889f&dn=UNO&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_1/UNO.Build.12012023-OFME.torrent",
+            "created_at": "2026-10-12 19:53:14",
+            "webdav_updated_at": "Unknown",
+            "files": [
+                {
+                    "name": "Fix Repair/UNO_Fix_Repair_Steam.rar",
+                    "size": "6.31 MB"
+                },
+                {
+                    "name": "UNO.Build.12012023-OFME.rar",
+                    "size": "2.31 GB"
                 }
             ],
             "comment": ""

@@ -12,24 +12,20 @@
   "pages_scraped_target": 98,
   "pages_present_in_json": 94,
   "last_page_in_json": 95,
-  "new_games_found_this_run": 154,
-  "new_games_added_to_json_this_run": 3,
-  "latest_run_new_game_names": [
-    "UNO",
-    "Assassins Creed III",
-    "Far Cry 3"
-  ],
+  "new_games_found_this_run": 151,
+  "new_games_added_to_json_this_run": 0,
+  "latest_run_new_game_names": [],
   "updated_games_this_run": 1,
   "latest_run_updated_game_names": [
     "Forza Horizon 6"
   ],
-  "processed_games_this_run": 4,
+  "processed_games_this_run": 1,
   "torrent_files_total": 1987,
   "json_entries_with_torrent": 1879,
   "games_with_providers": 905,
-  "last_scrape_at": "2026-10-12 21:03:16",
-  "last_scrape_at_display": "12/10/2026",
+  "last_scrape_at": "2026-10-13 19:12:11",
+  "last_scrape_at_display": "13/10/2026",
   "last_game_update": "2026-10-13T00:48:56+03:00",
-  "generated_at": "2026-10-12 21:05:14",
-  "generated_at_display": "12/10/2026"
+  "generated_at": "2026-10-13 19:14:02",
+  "generated_at_display": "13/10/2026"
 }

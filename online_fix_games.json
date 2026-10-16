@@ -1,5 +1,5 @@
 {
-    "total": 1883,
+    "total": 1884,
     "downloads": [
         {
             "title": "10 Miles to Safety",
@@ -68496,7 +68496,7 @@
             "update_info": "",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-10-15 17:53:07",
+            "scraped_at": "2026-10-16 17:26:28",
             "steam": {
                 "steam_appid": 293780,
                 "match_score": 100,
@@ -71591,10 +71591,10 @@
             "url": "https://online-fix.me/games/strategy/16458-crusader-kings-iii-po-seti.html",
             "last_update": "2020-09-02T00:01:41+03:00",
             "release_date": "01.09.2020",
-            "update_info": "Обновлено Сегодня, 20:03. Игра обновлена до версии 1.20.1.1.",
+            "update_info": "Обновлено Вчера, 20:03. Игра обновлена до версии 1.20.1.1.",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-10-15 17:52:56",
+            "scraped_at": "2026-10-16 17:26:12",
             "steam": {
                 "steam_appid": 1158310,
                 "match_score": 100,
@@ -172238,10 +172238,10 @@
             "url": "https://online-fix.me/games/strategy/16290-hearts-of-iron-iv-po-seti.html",
             "last_update": "2020-03-28T00:29:51+03:00",
             "release_date": "06.06.2016",
-            "update_info": "Обновлено Сегодня, 20:04. Игра обновлена до версии 1.19.3.0.",
+            "update_info": "Обновлено Вчера, 20:04. Игра обновлена до версии 1.19.3.0.",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-10-15 17:53:00",
+            "scraped_at": "2026-10-16 17:26:21",
             "steam": {
                 "steam_appid": 394360,
                 "match_score": 100,
@@ -305875,10 +305875,10 @@
             "url": "https://online-fix.me/games/shooter/16146-risk-of-rain-2-po-seti.html",
             "last_update": "2019-11-25T01:14:00+03:00",
             "release_date": "11.08.2020",
-            "update_info": "Обновлено Сегодня, 20:06. Игра обновлена до версии 1.5.0.",
+            "update_info": "Обновлено Вчера, 20:06. Игра обновлена до версии 1.5.0.",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-10-15 17:53:07",
+            "scraped_at": "2026-10-16 17:26:28",
             "steam": {
                 "steam_appid": 632360,
                 "match_score": 100,
@@ -380553,6 +380553,667 @@
                 {
                     "name": "The.Crackpet.Show.v0.7.12.211220-OFME.rar",
                     "size": "267.14 MB"
+                }
+            ],
+            "comment": ""
+        },
+        {
+            "title": "The Crew Motorfest",
+            "page": 1,
+            "url": "https://online-fix.me/games/sandbox/18277-the-crew-motorfest-po-seti.html",
+            "last_update": "2026-10-16T21:37:40+03:00",
+            "release_date": "18.04.2024",
+            "update_info": "",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-10-16 17:24:23",
+            "steam": {
+                "steam_appid": 2698940,
+                "match_score": 100,
+                "match_via": "canon",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2698940/4e51b5d3593569eb2214bf5277c5c5aded6d05be/header_alt_assets_3.jpg?t=1791551745",
+                "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2698940/02547e3ae6b3eb6d20eaca8890e44beb244a937d/capsule_184x69_alt_assets_3.jpg?t=1791551745",
+                "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2698940?t=1791551745",
+                "screenshots": [
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2698940/ss_933b5c1de0571f4e0c26c39ca3a4f68a314b2e38.1920x1080.jpg?t=1791551745",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2698940/404d4a443efc6ff31eab3902e932f836ee83ec94/ss_404d4a443efc6ff31eab3902e932f836ee83ec94.1920x1080.jpg?t=1791551745",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2698940/9a2fa8f4677c72372031f31a53aa03ed4e2b56ac/ss_9a2fa8f4677c72372031f31a53aa03ed4e2b56ac.1920x1080.jpg?t=1791551745",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2698940/737e29396443e6823bb281a4865a3a4fcd4febba/ss_737e29396443e6823bb281a4865a3a4fcd4febba.1920x1080.jpg?t=1791551745",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2698940/ss_d88a7b6cf59355545b0a90a8254379edd423cc06.1920x1080.jpg?t=1791551745",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2698940/9578ba65a95bcd549c56217fd042a6dec08664d0/ss_9578ba65a95bcd549c56217fd042a6dec08664d0.1920x1080.jpg?t=1791551745",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2698940/ss_cc6671d73199ac2c8f7a9f0cf348ff1b42801812.1920x1080.jpg?t=1791551745",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2698940/ss_bcb037c118f6b8aff2c6b539c07ca8323d780ae3.1920x1080.jpg?t=1791551745",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2698940/4fdeb3385f69dbf1771eefb25b4fbbcf45a5ad66/ss_4fdeb3385f69dbf1771eefb25b4fbbcf45a5ad66.1920x1080.jpg?t=1791551745",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2698940/ss_d2d56e13c0ce8fd4d4950f71d706a6f4b14c5247.1920x1080.jpg?t=1791551745"
+                ],
+                "movies": [
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257372506/1ae3c8f1bcb725522e57a05666d7d08c4e070f99/movie_600x337.jpg?t=1791363869",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2698940/1890708269/0fa50dcf57b79ecd19f67d52dfd336784c9030cc/1791214618/dash_h264.mpd?t=1791363869",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2698940/1890708269/0fa50dcf57b79ecd19f67d52dfd336784c9030cc/1791214618/hls_264_master.m3u8?t=1791363869"
+                    },
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257288959/d6062ebfa0e5217643fafb8495819bda8fe9e3fa/movie_600x337.jpg?t=1772640311",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2698940/1082526063/a5bd121f2233915df96c4477cfac7a560042c4c6/1771353384/dash_h264.mpd?t=1772640311",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2698940/1082526063/a5bd121f2233915df96c4477cfac7a560042c4c6/1771353384/hls_264_master.m3u8?t=1772640311"
+                    }
+                ],
+                "achievements_total": 50,
+                "achievements_highlighted": [
+                    {
+                        "icon": "42cf0626ada81f5bf9c55108a382f64f421ada5d.jpg",
+                        "localized_name": "The Big League",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "The Big League",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2698940/42cf0626ada81f5bf9c55108a382f64f421ada5d.jpg"
+                    },
+                    {
+                        "icon": "52caf73098c68c6ab4bd2e5fe71437fc9ab03caf.jpg",
+                        "localized_name": "Main Stage Headliner",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Main Stage Headliner",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2698940/52caf73098c68c6ab4bd2e5fe71437fc9ab03caf.jpg"
+                    },
+                    {
+                        "icon": "bca9da5c4a2181366727ffab6fa498aa946679c9.jpg",
+                        "localized_name": "Aloha e na hoa!",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Aloha e na hoa!",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2698940/bca9da5c4a2181366727ffab6fa498aa946679c9.jpg"
+                    },
+                    {
+                        "icon": "74db7d5e39ce2f8bcfb1cd55f1d9bb17af05c176.jpg",
+                        "localized_name": "Setting the Stage",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Setting the Stage",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2698940/74db7d5e39ce2f8bcfb1cd55f1d9bb17af05c176.jpg"
+                    },
+                    {
+                        "icon": "f7c739b563aadf0c0c44654ad45b66a15bf787fa.jpg",
+                        "localized_name": "Can't dodge this challenger",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Can't dodge this challenger",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2698940/f7c739b563aadf0c0c44654ad45b66a15bf787fa.jpg"
+                    },
+                    {
+                        "icon": "c10755d5fcb0c36cdb5c5fa9f154da3591c7794a.jpg",
+                        "localized_name": "Cars, bikes, rides and good vibes",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Cars, bikes, rides and good vibes",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2698940/c10755d5fcb0c36cdb5c5fa9f154da3591c7794a.jpg"
+                    },
+                    {
+                        "icon": "79040024e09186a485328fd9ebc6966c4ff68c5f.jpg",
+                        "localized_name": "Take the Wheel",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Take the Wheel",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2698940/79040024e09186a485328fd9ebc6966c4ff68c5f.jpg"
+                    },
+                    {
+                        "icon": "68d503b2df40b42edb4bba220d6fcbaf213cf989.jpg",
+                        "localized_name": "Festival Fanfare",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Festival Fanfare",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2698940/68d503b2df40b42edb4bba220d6fcbaf213cf989.jpg"
+                    },
+                    {
+                        "icon": "bc17822bff9818b14c7a6be861b705ba22c0b6c4.jpg",
+                        "localized_name": "Passion Project",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Passion Project",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2698940/bc17822bff9818b14c7a6be861b705ba22c0b6c4.jpg"
+                    },
+                    {
+                        "icon": "d8e8eca7c0c98439fc995d52aeee653b9e0b8b77.jpg",
+                        "localized_name": "Gearhead vs Collector",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Gearhead vs Collector",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2698940/d8e8eca7c0c98439fc995d52aeee653b9e0b8b77.jpg"
+                    }
+                ],
+                "ratings": {
+                    "pegi": "12",
+                    "esrb": "t"
+                },
+                "release_date_steam": "18 abr. 2024",
+                "short_description": "The Crew Motorfest é um jogo de corrida online de mundo aberto ambientado na ilha de O'ahu, no Havaí. Experimente o melhor da cultura do automobilismo participando de corridas intensas e eventos temáticos, e colecionando centenas de carros icônicos. Aproveite o jogo grátis por cinco horas!",
+                "short_description_native": "The Crew Motorfest é um jogo de corrida online de mundo aberto ambientado na ilha de O'ahu, no Havaí. Experimente o melhor da cultura do automobilismo participando de corridas intensas e eventos temáticos, e colecionando centenas de carros icônicos. Aproveite o jogo grátis por cinco horas!",
+                "price_brl": "R$ 259,00",
+                "is_free": false,
+                "pc_requirements": {
+                    "minimum": "Mínimos:\n\nSistema Operativo:  Windows 10 (64 bit only)\n\nProcessador: Intel Core i5-4460, AMD Ryzen5 1400\n\nMemória: 8 GB de RAM\n\nPlaca gráfica: NVIDIA GeForce GTX 1060 6GB or AMD Radeon RX 480 8GB\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 40 GB de espaço livre",
+                    "recommended": "Recomendados:\n\nSistema Operativo:  Windows 10 (64 bit only)\n\nProcessador:  Intel Core i5-8400, AMD Ryzen7 2700X\n\nMemória: 8 GB de RAM\n\nPlaca gráfica: NVIDIA GeForce RTX 2060 6GB  or AMD Radeon RX 5700XT 8GB\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 40 GB de espaço livre"
+                },
+                "controller_support": "full",
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Um jogador"
+                    },
+                    {
+                        "id": 1,
+                        "description": "Multijogador"
+                    },
+                    {
+                        "id": 49,
+                        "description": "PvP"
+                    },
+                    {
+                        "id": 36,
+                        "description": "PvP online"
+                    },
+                    {
+                        "id": 9,
+                        "description": "Co-op"
+                    },
+                    {
+                        "id": 38,
+                        "description": "Co-op online"
+                    },
+                    {
+                        "id": 22,
+                        "description": "Proezas Steam"
+                    },
+                    {
+                        "id": 28,
+                        "description": "Compatibilidade total com comando"
+                    },
+                    {
+                        "id": 13,
+                        "description": "Legendas com audiodescrição disponíveis"
+                    },
+                    {
+                        "id": 35,
+                        "description": "Microtransações"
+                    },
+                    {
+                        "id": 55,
+                        "description": "Compatibilidade com DUALSHOCK"
+                    },
+                    {
+                        "id": 56,
+                        "description": "Compatibilidade com DUALSHOCK"
+                    },
+                    {
+                        "id": 57,
+                        "description": "Compatibilidade com DualSense"
+                    },
+                    {
+                        "id": 58,
+                        "description": "Compatibilidade com DualSense"
+                    },
+                    {
+                        "id": 61,
+                        "description": "HDR disponível"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "9",
+                        "description": "Corridas"
+                    }
+                ]
+            },
+            "hoster_links": {
+                "FileDitch": [
+                    {
+                        "file_name": "TheCrewMotorfest_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha32/165d88afff203c7b190f/TheCrewMotorfest_Fix_Repair_Steam_Generic.rar"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part01.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha32/1b11ced80f2be2213a4b/The.Crew.Motorfest.Build.07102026-OFME.part01.rar"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part02.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha32/8181f9c7deb2e500541a/The.Crew.Motorfest.Build.07102026-OFME.part02.rar"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part03.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha32/f7e1970c57e720105ea7/The.Crew.Motorfest.Build.07102026-OFME.part03.rar"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part04.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha32/2c7412cddef9362d5390/The.Crew.Motorfest.Build.07102026-OFME.part04.rar"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part05.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha32/00a4776d06f0dc36c5b5/The.Crew.Motorfest.Build.07102026-OFME.part05.rar"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part06.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha32/8f46eaf0fb00c3f00b64/The.Crew.Motorfest.Build.07102026-OFME.part06.rar"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part07.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha32/340fcc07552d1a8563f4/The.Crew.Motorfest.Build.07102026-OFME.part07.rar"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part08.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha32/1206065923aed2ed30ea/The.Crew.Motorfest.Build.07102026-OFME.part08.rar"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part09.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha32/91980a0d48badd85b559/The.Crew.Motorfest.Build.07102026-OFME.part09.rar"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part10.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha32/ac142195154526f0635e/The.Crew.Motorfest.Build.07102026-OFME.part10.rar"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part11.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha32/9fa9f24b330afe8f68e3/The.Crew.Motorfest.Build.07102026-OFME.part11.rar"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part12.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha32/8370c525444a46e1a810/The.Crew.Motorfest.Build.07102026-OFME.part12.rar"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part13.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha32/b4b4b9d4629dac6d39e9/The.Crew.Motorfest.Build.07102026-OFME.part13.rar"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part14.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha32/ec5de0bd2ab0dcf5730d/The.Crew.Motorfest.Build.07102026-OFME.part14.rar"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part15.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha32/c4a8b8a689b3d0f367cb/The.Crew.Motorfest.Build.07102026-OFME.part15.rar"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part16.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha32/49090a9ef03db6a12f8b/The.Crew.Motorfest.Build.07102026-OFME.part16.rar"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part17.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha32/02fee4ab1c1b7a48b684/The.Crew.Motorfest.Build.07102026-OFME.part17.rar"
+                    }
+                ],
+                "FileKeeper": [
+                    {
+                        "file_name": "TheCrewMotorfest_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://filekeeper.net/ppcgtnbvlbez"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part01.rar",
+                        "direct_link": "https://filekeeper.net/6epb8pkq0u3m"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part02.rar",
+                        "direct_link": "https://filekeeper.net/4b0oq8zt4v40"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part03.rar",
+                        "direct_link": "https://filekeeper.net/3a82xchwyi7a"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part04.rar",
+                        "direct_link": "https://filekeeper.net/nlsbnq2nii7h"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part05.rar",
+                        "direct_link": "https://filekeeper.net/hct686pim166"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part06.rar",
+                        "direct_link": "https://filekeeper.net/by09zemnu4nv"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part07.rar",
+                        "direct_link": "https://filekeeper.net/3pkr57gx7ads"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part08.rar",
+                        "direct_link": "https://filekeeper.net/vcio7u7j3q87"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part09.rar",
+                        "direct_link": "https://filekeeper.net/5v4xg0kynjzp"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part10.rar",
+                        "direct_link": "https://filekeeper.net/y1rvw2rqs5zj"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part11.rar",
+                        "direct_link": "https://filekeeper.net/kpuf20zkrr3c"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part12.rar",
+                        "direct_link": "https://filekeeper.net/mdtr5ti5hy25"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part13.rar",
+                        "direct_link": "https://filekeeper.net/z7o0s7tyyfg4"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part14.rar",
+                        "direct_link": "https://filekeeper.net/16moypwjosz4"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part15.rar",
+                        "direct_link": "https://filekeeper.net/yygn3v7k9rlb"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part16.rar",
+                        "direct_link": "https://filekeeper.net/pilmofm7ng7h"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part17.rar",
+                        "direct_link": "https://filekeeper.net/8o0vo4adk9pn"
+                    }
+                ],
+                "Pixeldrain": [
+                    {
+                        "file_name": "TheCrewMotorfest_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://pixeldrain.com/u/4V9NPLVH"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part01.rar",
+                        "direct_link": "https://pixeldrain.com/u/sHxChJkC"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part02.rar",
+                        "direct_link": "https://pixeldrain.com/u/HWxXSb1n"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part03.rar",
+                        "direct_link": "https://pixeldrain.com/u/iFhpfgCK"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part04.rar",
+                        "direct_link": "https://pixeldrain.com/u/Mgq9NvuG"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part05.rar",
+                        "direct_link": "https://pixeldrain.com/u/FhcutpoN"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part06.rar",
+                        "direct_link": "https://pixeldrain.com/u/YW7uUd2q"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part07.rar",
+                        "direct_link": "https://pixeldrain.com/u/UG9awmT8"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part08.rar",
+                        "direct_link": "https://pixeldrain.com/u/uKxes7mM"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part09.rar",
+                        "direct_link": "https://pixeldrain.com/u/f4oeCaYK"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part10.rar",
+                        "direct_link": "https://pixeldrain.com/u/LeUHY7Vp"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part11.rar",
+                        "direct_link": "https://pixeldrain.com/u/qVLMqiQD"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part12.rar",
+                        "direct_link": "https://pixeldrain.com/u/JoRbJ75m"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part13.rar",
+                        "direct_link": "https://pixeldrain.com/u/qfPtrzCC"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part14.rar",
+                        "direct_link": "https://pixeldrain.com/u/9LCh89uk"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part15.rar",
+                        "direct_link": "https://pixeldrain.com/u/r1sGciFn"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part16.rar",
+                        "direct_link": "https://pixeldrain.com/u/LuXXWSB5"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part17.rar",
+                        "direct_link": "https://pixeldrain.com/u/oV77hryP"
+                    }
+                ],
+                "Gofile": [
+                    {
+                        "file_name": "TheCrewMotorfest_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://gofile.io/d/GrZqAhA6"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part01.rar",
+                        "direct_link": "https://gofile.io/d/CkIIk4O8"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part02.rar",
+                        "direct_link": "https://gofile.io/d/BrGMAEZC"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part03.rar",
+                        "direct_link": "https://gofile.io/d/wb3oOCed"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part04.rar",
+                        "direct_link": "https://gofile.io/d/x4hTG1K4"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part05.rar",
+                        "direct_link": "https://gofile.io/d/6PmbJL4Z"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part06.rar",
+                        "direct_link": "https://gofile.io/d/8CrkqdwW"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part07.rar",
+                        "direct_link": "https://gofile.io/d/PCYnJuCC"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part08.rar",
+                        "direct_link": "https://gofile.io/d/gaww5jqY"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part09.rar",
+                        "direct_link": "https://gofile.io/d/Glv0QSqz"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part10.rar",
+                        "direct_link": "https://gofile.io/d/0LVCSfmN"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part11.rar",
+                        "direct_link": "https://gofile.io/d/s46J2Kqe"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part12.rar",
+                        "direct_link": "https://gofile.io/d/Rl91LOVP"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part13.rar",
+                        "direct_link": "https://gofile.io/d/6gmqLy7b"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part14.rar",
+                        "direct_link": "https://gofile.io/d/7ffPcn7f"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part15.rar",
+                        "direct_link": "https://gofile.io/d/9sVqE3rz"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part16.rar",
+                        "direct_link": "https://gofile.io/d/6XzHsrur"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part17.rar",
+                        "direct_link": "https://gofile.io/d/U5qoUjTD"
+                    }
+                ],
+                "VikingFile": [
+                    {
+                        "file_name": "TheCrewMotorfest_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://vikingfile.com/f/Tyvhxwx4Ch"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part01.rar",
+                        "direct_link": "https://vikingfile.com/f/yud4j8GLPp"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part02.rar",
+                        "direct_link": "https://vikingfile.com/f/rLeor7Qath"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part03.rar",
+                        "direct_link": "https://vikingfile.com/f/ITjuRXy7zQ"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part04.rar",
+                        "direct_link": "https://vikingfile.com/f/CvTf1O6fhm"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part05.rar",
+                        "direct_link": "https://vikingfile.com/f/iOJJGOQjHE"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part06.rar",
+                        "direct_link": "https://vikingfile.com/f/ZvlwTn3SRK"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part07.rar",
+                        "direct_link": "https://vikingfile.com/f/JU9bpOqPeB"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part08.rar",
+                        "direct_link": "https://vikingfile.com/f/E4sPaEq0JT"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part09.rar",
+                        "direct_link": "https://vikingfile.com/f/disYEopQIi"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part10.rar",
+                        "direct_link": "https://vikingfile.com/f/eTCimuv81k"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part11.rar",
+                        "direct_link": "https://vikingfile.com/f/9hz2Qn9qPW"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part12.rar",
+                        "direct_link": "https://vikingfile.com/f/enceqg8jX2"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part13.rar",
+                        "direct_link": "https://vikingfile.com/f/14m5p2oVAn"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part14.rar",
+                        "direct_link": "https://vikingfile.com/f/6tWho6dYQ6"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part15.rar",
+                        "direct_link": "https://vikingfile.com/f/AYrSzwh9s9"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part16.rar",
+                        "direct_link": "https://vikingfile.com/f/029u9PwqiL"
+                    },
+                    {
+                        "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part17.rar",
+                        "direct_link": "https://vikingfile.com/f/FyfYdQC2lW"
+                    }
+                ]
+            },
+            "unique_hash": "b95b65427804e419e4b5b0801799a654365647e9",
+            "fileSize": "81.56 GB",
+            "magnet": "magnet:?xt=urn:btih:b95b65427804e419e4b5b0801799a654365647e9&dn=The%20Crew%20Motorfest&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_1/The.Crew.Motorfest.Build.07102026-OFME.torrent",
+            "created_at": "2026-10-16 15:12:53",
+            "webdav_updated_at": "Unknown",
+            "files": [
+                {
+                    "name": "The.Crew.Motorfest.Build.07102026-OFME.part02.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "The.Crew.Motorfest.Build.07102026-OFME.part03.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "The.Crew.Motorfest.Build.07102026-OFME.part04.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "The.Crew.Motorfest.Build.07102026-OFME.part05.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "The.Crew.Motorfest.Build.07102026-OFME.part06.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "The.Crew.Motorfest.Build.07102026-OFME.part13.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "The.Crew.Motorfest.Build.07102026-OFME.part14.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "The.Crew.Motorfest.Build.07102026-OFME.part15.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "The.Crew.Motorfest.Build.07102026-OFME.part16.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "The.Crew.Motorfest.Build.07102026-OFME.part17.rar",
+                    "size": "1.56 GB"
+                },
+                {
+                    "name": "Fix Repair/TheCrewMotorfest_Fix_Repair_Steam_Generic.rar",
+                    "size": "6.46 MB"
+                },
+                {
+                    "name": "The.Crew.Motorfest.Build.07102026-OFME.part01.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "The.Crew.Motorfest.Build.07102026-OFME.part07.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "The.Crew.Motorfest.Build.07102026-OFME.part08.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "The.Crew.Motorfest.Build.07102026-OFME.part09.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "The.Crew.Motorfest.Build.07102026-OFME.part10.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "The.Crew.Motorfest.Build.07102026-OFME.part11.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "The.Crew.Motorfest.Build.07102026-OFME.part12.rar",
+                    "size": "5.00 GB"
                 }
             ],
             "comment": ""

@@ -12,24 +12,22 @@
   "pages_scraped_target": 98,
   "pages_present_in_json": 95,
   "last_page_in_json": 97,
-  "new_games_found_this_run": 155,
-  "new_games_added_to_json_this_run": 1,
-  "latest_run_new_game_names": [
-    "The Crew Motorfest"
-  ],
+  "new_games_found_this_run": 154,
+  "new_games_added_to_json_this_run": 0,
+  "latest_run_new_game_names": [],
   "updated_games_this_run": 3,
   "latest_run_updated_game_names": [
     "Crusader Kings III",
     "Hearts of Iron IV",
     "Risk of Rain 2"
   ],
-  "processed_games_this_run": 5,
+  "processed_games_this_run": 3,
   "torrent_files_total": 1996,
   "json_entries_with_torrent": 1884,
   "games_with_providers": 911,
-  "last_scrape_at": "2026-10-16 17:26:28",
-  "last_scrape_at_display": "16/10/2026",
+  "last_scrape_at": "2026-10-17 17:00:22",
+  "last_scrape_at_display": "17/10/2026",
   "last_game_update": "2026-10-16T21:37:40+03:00",
-  "generated_at": "2026-10-16 17:26:29",
-  "generated_at_display": "16/10/2026"
+  "generated_at": "2026-10-17 17:00:23",
+  "generated_at_display": "17/10/2026"
 }

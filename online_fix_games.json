@@ -68496,7 +68496,7 @@
             "update_info": "",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-10-16 17:26:28",
+            "scraped_at": "2026-10-18 17:00:16",
             "steam": {
                 "steam_appid": 293780,
                 "match_score": 100,
@@ -380563,10 +380563,10 @@
             "url": "https://online-fix.me/games/sandbox/18277-the-crew-motorfest-po-seti.html",
             "last_update": "2026-10-16T21:37:40+03:00",
             "release_date": "18.04.2024",
-            "update_info": "",
+            "update_info": "Обновлено Сегодня, 20:22. Добавлен Steam-Fix V2. Исправлена проблема с DLC.",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-10-16 17:24:23",
+            "scraped_at": "2026-10-18 16:58:17",
             "steam": {
                 "steam_appid": 2698940,
                 "match_score": 100,
@@ -380767,8 +380767,8 @@
             "hoster_links": {
                 "FileDitch": [
                     {
-                        "file_name": "TheCrewMotorfest_Fix_Repair_Steam_Generic.rar",
-                        "direct_link": "https://itsfileditchfiles.st/balpha32/165d88afff203c7b190f/TheCrewMotorfest_Fix_Repair_Steam_Generic.rar"
+                        "file_name": "TheCrewMotorfest_Fix_Repair_Steam_V2_Generic.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha33/8e65ec7ea32a169fabbb/TheCrewMotorfest_Fix_Repair_Steam_V2_Generic.rar"
                     },
                     {
                         "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part01.rar",
@@ -380841,8 +380841,8 @@
                 ],
                 "FileKeeper": [
                     {
-                        "file_name": "TheCrewMotorfest_Fix_Repair_Steam_Generic.rar",
-                        "direct_link": "https://filekeeper.net/ppcgtnbvlbez"
+                        "file_name": "TheCrewMotorfest_Fix_Repair_Steam_V2_Generic.rar",
+                        "direct_link": "https://filekeeper.net/k5tmh001zxsw"
                     },
                     {
                         "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part01.rar",
@@ -380915,8 +380915,8 @@
                 ],
                 "Pixeldrain": [
                     {
-                        "file_name": "TheCrewMotorfest_Fix_Repair_Steam_Generic.rar",
-                        "direct_link": "https://pixeldrain.com/u/4V9NPLVH"
+                        "file_name": "TheCrewMotorfest_Fix_Repair_Steam_V2_Generic.rar",
+                        "direct_link": "https://pixeldrain.com/u/CHSH9Bkt"
                     },
                     {
                         "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part01.rar",
@@ -380989,8 +380989,8 @@
                 ],
                 "Gofile": [
                     {
-                        "file_name": "TheCrewMotorfest_Fix_Repair_Steam_Generic.rar",
-                        "direct_link": "https://gofile.io/d/GrZqAhA6"
+                        "file_name": "TheCrewMotorfest_Fix_Repair_Steam_V2_Generic.rar",
+                        "direct_link": "https://gofile.io/d/wOB7EqcR"
                     },
                     {
                         "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part01.rar",
@@ -381063,8 +381063,8 @@
                 ],
                 "VikingFile": [
                     {
-                        "file_name": "TheCrewMotorfest_Fix_Repair_Steam_Generic.rar",
-                        "direct_link": "https://vikingfile.com/f/Tyvhxwx4Ch"
+                        "file_name": "TheCrewMotorfest_Fix_Repair_Steam_V2_Generic.rar",
+                        "direct_link": "https://vikingfile.com/f/RhlA9RYGfB"
                     },
                     {
                         "file_name": "The.Crew.Motorfest.Build.07102026-OFME.part01.rar",
@@ -381136,11 +381136,11 @@
                     }
                 ]
             },
-            "unique_hash": "b95b65427804e419e4b5b0801799a654365647e9",
+            "unique_hash": "0ae217720c3b9fb1c1ed1d4808cf4b9b0fd805f9",
             "fileSize": "81.56 GB",
-            "magnet": "magnet:?xt=urn:btih:b95b65427804e419e4b5b0801799a654365647e9&dn=The%20Crew%20Motorfest&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "magnet": "magnet:?xt=urn:btih:0ae217720c3b9fb1c1ed1d4808cf4b9b0fd805f9&dn=The%20Crew%20Motorfest&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
             "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_1/The.Crew.Motorfest.Build.07102026-OFME.torrent",
-            "created_at": "2026-10-16 15:12:53",
+            "created_at": "2026-10-18 14:18:48",
             "webdav_updated_at": "Unknown",
             "files": [
                 {
@@ -381184,8 +381184,8 @@
                     "size": "1.56 GB"
                 },
                 {
-                    "name": "Fix Repair/TheCrewMotorfest_Fix_Repair_Steam_Generic.rar",
-                    "size": "6.46 MB"
+                    "name": "Fix Repair/TheCrewMotorfest_Fix_Repair_Steam_V2_Generic.rar",
+                    "size": "6.50 MB"
                 },
                 {
                     "name": "The.Crew.Motorfest.Build.07102026-OFME.part01.rar",

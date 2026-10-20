@@ -1,5 +1,5 @@
 {
-    "total": 1888,
+    "total": 1890,
     "downloads": [
         {
             "title": "10 Miles to Safety",
@@ -68975,7 +68975,7 @@
             "update_info": "",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-10-19 18:58:57",
+            "scraped_at": "2026-10-20 18:11:02",
             "steam": {
                 "steam_appid": 293780,
                 "match_score": 100,
@@ -89454,6 +89454,278 @@
                 {
                     "name": "Fix Repair/Deducto2_Fix_Repair_Steam.rar",
                     "size": "17.17 MB"
+                }
+            ],
+            "comment": ""
+        },
+        {
+            "title": "Deep Dish Dungeon",
+            "page": 1,
+            "url": "https://online-fix.me/games/officialservers/18285-deep-dish-dungeon-online.html",
+            "last_update": "2026-10-20T17:11:36+03:00",
+            "release_date": null,
+            "update_info": "",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-10-20 18:08:56",
+            "steam": {
+                "steam_appid": 2871520,
+                "match_score": 100,
+                "match_via": "canon",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2871520/a941857720d5b6a62a2e0a7646f2ca46b00039b6/header_alt_assets_1.jpg?t=1792486658",
+                "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2871520/95d7765d85841c7729fa66c4dd90a4d9fe78ed61/capsule_184x69_alt_assets_1.jpg?t=1792486658",
+                "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2871520/95b08e7b910bbdff300f0fedf065541eeb314131/page_bg_raw.jpg?t=1792486658",
+                "screenshots": [
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2871520/9923449b2f3f9702fce26f27c49991c9fe4ff174/ss_9923449b2f3f9702fce26f27c49991c9fe4ff174.1920x1080.jpg?t=1792486658",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2871520/a390c1a973dfe8b1d5229ed7ac22549f27f9820e/ss_a390c1a973dfe8b1d5229ed7ac22549f27f9820e.1920x1080.jpg?t=1792486658",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2871520/2a155b4c69e2a32af740b5d822e8884b38e8031f/ss_2a155b4c69e2a32af740b5d822e8884b38e8031f.1920x1080.jpg?t=1792486658",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2871520/055ff4239bc6ea87311be27738e9eb443716cd57/ss_055ff4239bc6ea87311be27738e9eb443716cd57.1920x1080.jpg?t=1792486658",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2871520/9792d9a8d0cc36317f31bd861bd1e38ec4354ad8/ss_9792d9a8d0cc36317f31bd861bd1e38ec4354ad8.1920x1080.jpg?t=1792486658",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2871520/6cb4dbd53f8cd91a473f9ce58409c9c946cf92dc/ss_6cb4dbd53f8cd91a473f9ce58409c9c946cf92dc.1920x1080.jpg?t=1792486658",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2871520/5f4bdd94292f6f6b1d983c769fe765ebdc3eb2ca/ss_5f4bdd94292f6f6b1d983c769fe765ebdc3eb2ca.1920x1080.jpg?t=1792486658",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2871520/c66bc94006731eeb98c30a6782291d425a4f9a60/ss_c66bc94006731eeb98c30a6782291d425a4f9a60.1920x1080.jpg?t=1792486658",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2871520/70a7c0258ffbaa2c7bd4d26fef27ff1987155a80/ss_70a7c0258ffbaa2c7bd4d26fef27ff1987155a80.1920x1080.jpg?t=1792486658"
+                ],
+                "movies": [
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257453924/4876ae67b743eb72d85432b34465ccb59512d151/movie_600x337.jpg?t=1791899998",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2871520/503557187/68074c824902d1eee438909397df3da01cc95221/1791539738/dash_h264.mpd?t=1791899998",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2871520/503557187/68074c824902d1eee438909397df3da01cc95221/1791539738/hls_264_master.m3u8?t=1791899998"
+                    },
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257214709/649de7b25bbe60e918eacfde524a4743c8fcf35b/movie_600x337.jpg?t=1760019067",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2871520/998944549/a30c4cd077946418b23e3e323c31bf156c4fd91e/1759999706/dash_h264.mpd?t=1760019067",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2871520/998944549/a30c4cd077946418b23e3e323c31bf156c4fd91e/1759999706/hls_264_master.m3u8?t=1760019067"
+                    }
+                ],
+                "achievements_total": 23,
+                "achievements_highlighted": [
+                    {
+                        "icon": "f275d89ba642b27479a1433239ee9986d5da6f91.jpg",
+                        "localized_name": "Diamond Ring",
+                        "archived": 0,
+                        "hidden": 1,
+                        "name": "Diamond Ring",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2871520/f275d89ba642b27479a1433239ee9986d5da6f91.jpg"
+                    },
+                    {
+                        "icon": "a9b1fea6dc275b9477aa5b8a0da6d8b084b8506a.jpg",
+                        "localized_name": "Bird Statue",
+                        "archived": 0,
+                        "hidden": 1,
+                        "name": "Bird Statue",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2871520/a9b1fea6dc275b9477aa5b8a0da6d8b084b8506a.jpg"
+                    },
+                    {
+                        "icon": "bec5b2e84cec741029e7d4714a4e7fb35bfd4283.jpg",
+                        "localized_name": "Ruby Necklace",
+                        "archived": 0,
+                        "hidden": 1,
+                        "name": "Ruby Necklace",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2871520/bec5b2e84cec741029e7d4714a4e7fb35bfd4283.jpg"
+                    },
+                    {
+                        "icon": "9f0d71138301342060f7b49f2ebd14d8e3fdae33.jpg",
+                        "localized_name": "Medicine Bottle",
+                        "archived": 0,
+                        "hidden": 1,
+                        "name": "Medicine Bottle",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2871520/9f0d71138301342060f7b49f2ebd14d8e3fdae33.jpg"
+                    },
+                    {
+                        "icon": "ad6bc923a4ab38c34409b44e4130fb62363da7d6.jpg",
+                        "localized_name": "Ragdoll",
+                        "archived": 0,
+                        "hidden": 1,
+                        "name": "Ragdoll",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2871520/ad6bc923a4ab38c34409b44e4130fb62363da7d6.jpg"
+                    },
+                    {
+                        "icon": "27a933549ce9574b1efce7ec33531b2e14d18127.jpg",
+                        "localized_name": "Queen Crown",
+                        "archived": 0,
+                        "hidden": 1,
+                        "name": "Queen Crown",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2871520/27a933549ce9574b1efce7ec33531b2e14d18127.jpg"
+                    },
+                    {
+                        "icon": "4eb6c08a85c7c3bec771f4375648a657df264edc.jpg",
+                        "localized_name": "Ceremonial Codex",
+                        "archived": 0,
+                        "hidden": 1,
+                        "name": "Ceremonial Codex",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2871520/4eb6c08a85c7c3bec771f4375648a657df264edc.jpg"
+                    },
+                    {
+                        "icon": "a99c8652ffea66c03b30f895757daef36c796f9c.jpg",
+                        "localized_name": "Gold Coins",
+                        "archived": 0,
+                        "hidden": 1,
+                        "name": "Gold Coins",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2871520/a99c8652ffea66c03b30f895757daef36c796f9c.jpg"
+                    },
+                    {
+                        "icon": "b835e9a7fb59d3b23308b42dbeca498b2261b817.jpg",
+                        "localized_name": "Gold Nugget",
+                        "archived": 0,
+                        "hidden": 1,
+                        "name": "Gold Nugget",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2871520/b835e9a7fb59d3b23308b42dbeca498b2261b817.jpg"
+                    },
+                    {
+                        "icon": "6742e7db63ec9131f7516c9f32b13cf0ebdd2327.jpg",
+                        "localized_name": "Gold Bracelet",
+                        "archived": 0,
+                        "hidden": 1,
+                        "name": "Gold Bracelet",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2871520/6742e7db63ec9131f7516c9f32b13cf0ebdd2327.jpg"
+                    }
+                ],
+                "ratings": {
+                    "pegi": null,
+                    "esrb": null
+                },
+                "release_date_steam": "13 out. 2026",
+                "short_description": "Um jogo de exploração e sobrevivência ao estilo metroidvania onde terás de explorar uma masmorra criada à mão, com elementos de fabrico. Desvenda os enigmas que jazem nas profundezas, a sós ou no modo de multijogador cooperativo!",
+                "short_description_native": "Um jogo de exploração e sobrevivência ao estilo metroidvania onde terás de explorar uma masmorra criada à mão, com elementos de fabrico. Desvenda os enigmas que jazem nas profundezas, a sós ou no modo de multijogador cooperativo!",
+                "price_brl": "R$ 42,49",
+                "is_free": false,
+                "pc_requirements": {
+                    "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10, 11 or superior\n\nProcessador: Intel® Core™ i3 or superior\n\nMemória: 8 GB de RAM\n\nPlaca gráfica: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities.\n\nDirectX: Versão 11\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 2 GB de espaço livre",
+                    "recommended": "Recomendados:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10, 11 or superior\n\nProcessador: Intel® Core™ i5 or superior\n\nMemória: 16 GB de RAM\n\nPlaca gráfica: Nvidia GTX 580 / AMD HD 7870 or newer\n\nDirectX: Versão 11\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 2 GB de espaço livre"
+                },
+                "controller_support": "full",
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Um jogador"
+                    },
+                    {
+                        "id": 1,
+                        "description": "Multijogador"
+                    },
+                    {
+                        "id": 9,
+                        "description": "Co-op"
+                    },
+                    {
+                        "id": 38,
+                        "description": "Co-op online"
+                    },
+                    {
+                        "id": 27,
+                        "description": "Multijogador interplataformas"
+                    },
+                    {
+                        "id": 22,
+                        "description": "Proezas Steam"
+                    },
+                    {
+                        "id": 28,
+                        "description": "Compatibilidade total com comando"
+                    },
+                    {
+                        "id": 55,
+                        "description": "Compatibilidade com DUALSHOCK"
+                    },
+                    {
+                        "id": 56,
+                        "description": "Compatibilidade com DUALSHOCK"
+                    },
+                    {
+                        "id": 57,
+                        "description": "Compatibilidade com DualSense"
+                    },
+                    {
+                        "id": 58,
+                        "description": "Compatibilidade com DualSense"
+                    },
+                    {
+                        "id": 23,
+                        "description": "Steam Cloud"
+                    },
+                    {
+                        "id": 62,
+                        "description": "Partilha de Biblioteca"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "1",
+                        "description": "Ação"
+                    },
+                    {
+                        "id": "2",
+                        "description": "Estratégia"
+                    }
+                ]
+            },
+            "hoster_links": {
+                "FileDitch": [
+                    {
+                        "file_name": "DeepDishDungeon_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha38/1993e3287fee59d2bd88/DeepDishDungeon_Fix_Repair_Steam_Generic.rar"
+                    },
+                    {
+                        "file_name": "Deep.Dish.Dungeon.v1.0.47.0.3434-OFME.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha38/e192a656d921e35acd7c/Deep.Dish.Dungeon.v1.0.47.0.3434-OFME.rar"
+                    }
+                ],
+                "FileKeeper": [
+                    {
+                        "file_name": "DeepDishDungeon_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://filekeeper.net/3jpsw0y8r6o1"
+                    },
+                    {
+                        "file_name": "Deep.Dish.Dungeon.v1.0.47.0.3434-OFME.rar",
+                        "direct_link": "https://filekeeper.net/jzp34ldh25ia"
+                    }
+                ],
+                "Pixeldrain": [
+                    {
+                        "file_name": "DeepDishDungeon_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://pixeldrain.com/u/RUWuS3UM"
+                    },
+                    {
+                        "file_name": "Deep.Dish.Dungeon.v1.0.47.0.3434-OFME.rar",
+                        "direct_link": "https://pixeldrain.com/u/5sPJEmVS"
+                    }
+                ],
+                "Gofile": [
+                    {
+                        "file_name": "DeepDishDungeon_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://gofile.io/d/IohEFntH"
+                    },
+                    {
+                        "file_name": "Deep.Dish.Dungeon.v1.0.47.0.3434-OFME.rar",
+                        "direct_link": "https://gofile.io/d/4uxjH7NA"
+                    }
+                ],
+                "VikingFile": [
+                    {
+                        "file_name": "DeepDishDungeon_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://vikingfile.com/f/1TCQ6Jk6DO"
+                    },
+                    {
+                        "file_name": "Deep.Dish.Dungeon.v1.0.47.0.3434-OFME.rar",
+                        "direct_link": "https://vikingfile.com/f/qgWy4PRzCF"
+                    }
+                ]
+            },
+            "unique_hash": "9d11ff2fb2fb5e5635daadc9e587ac2c070bb306",
+            "fileSize": "418.27 MB",
+            "magnet": "magnet:?xt=urn:btih:9d11ff2fb2fb5e5635daadc9e587ac2c070bb306&dn=Deep%20Dish%20Dungeon&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_1/Deep.Dish.Dungeon.v1.0.47.0.3434-OFME.torrent",
+            "created_at": "2026-10-20 10:44:59",
+            "webdav_updated_at": "Unknown",
+            "files": [
+                {
+                    "name": "Deep.Dish.Dungeon.v1.0.47.0.3434-OFME.rar",
+                    "size": "407.53 MB"
+                },
+                {
+                    "name": "Fix Repair/DeepDishDungeon_Fix_Repair_Steam_Generic.rar",
+                    "size": "10.74 MB"
                 }
             ],
             "comment": ""
@@ -114117,95 +114389,55 @@
         },
         {
             "title": "Enshrouded",
-            "page": 35,
+            "page": 40,
             "url": "https://online-fix.me/games/survival/17324-enshrouded-po-seti.html",
             "last_update": "2024-01-24T19:50:14+03:00",
-            "release_date": "24.01.2024",
-            "update_info": "Обновлено 25 мая 2026, 16:18. Игра обновлена до версии Build 11052026.",
-            "update_date": "2026-05-25T16:18:00+03:00",
-            "formatted_update_date": "2026-05-25 16:18:00",
-            "scraped_at": "2026-07-27 11:54:29",
+            "release_date": "15.10.2026",
+            "update_info": "Обновлено Вчера, 16:49. Игра обновлена до релизной версии.",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-10-20 18:09:17",
             "steam": {
                 "steam_appid": 1203620,
                 "match_score": 100,
                 "match_via": "canon",
-                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/062c788d22ecf236269da0f115150c0d3b7055a4/header.jpg?t=1782800102",
-                "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/84d7ce762d0e0ad6a2dfdced85ea713d33b70e18/capsule_184x69.jpg?t=1782800102",
-                "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/page_bg_raw.jpg?t=1782800102",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/98ca939f51b39bdd41e0e9198a9ccf8421148770/header_alt_assets_2.jpg?t=1792078032",
+                "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/8af4416eb10538ba60047c325789ded4c7f02681/capsule_184x69_alt_assets_2.jpg?t=1792078032",
+                "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/page_bg_raw.jpg?t=1792078032",
                 "screenshots": [
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/09a1e99c47ba7ffb2413c4708a9f5fbef1397652/ss_09a1e99c47ba7ffb2413c4708a9f5fbef1397652.1920x1080.jpg?t=1782800102",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/9c2db32975d266f1051f77e46d347a118c824c57/ss_9c2db32975d266f1051f77e46d347a118c824c57.1920x1080.jpg?t=1782800102",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/4cc606e46868db2159ced08f6fe585a03d7e360f/ss_4cc606e46868db2159ced08f6fe585a03d7e360f.1920x1080.jpg?t=1782800102",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/50ce17d5a264d10c9e4f65a3cbf3fba9d07bf8d6/ss_50ce17d5a264d10c9e4f65a3cbf3fba9d07bf8d6.1920x1080.jpg?t=1782800102",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/01ab6c97b4c33591719222c28bb74083e722f064/ss_01ab6c97b4c33591719222c28bb74083e722f064.1920x1080.jpg?t=1782800102",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/85d9a4cc0e65ab61e93becb67f5cf5748e8a6307/ss_85d9a4cc0e65ab61e93becb67f5cf5748e8a6307.1920x1080.jpg?t=1782800102",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/507e6719722e1094417e953a1274110deecc3397/ss_507e6719722e1094417e953a1274110deecc3397.1920x1080.jpg?t=1782800102",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/9727ed0cd651cb2f49f7d8c4b725b47b876b27cb/ss_9727ed0cd651cb2f49f7d8c4b725b47b876b27cb.1920x1080.jpg?t=1782800102",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/bf2185e463c214c4bc921fa59077cd06e229e75e/ss_bf2185e463c214c4bc921fa59077cd06e229e75e.1920x1080.jpg?t=1782800102",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/3412f92dd8b0a25a61c4242dec607d3302eb5b38/ss_3412f92dd8b0a25a61c4242dec607d3302eb5b38.1920x1080.jpg?t=1782800102",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/ac421b730ae26e35a390c7cec7c35f3ae59ea253/ss_ac421b730ae26e35a390c7cec7c35f3ae59ea253.1920x1080.jpg?t=1782800102",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/6ec6a959480c23224b309f0d57d7eb6e1952339d/ss_6ec6a959480c23224b309f0d57d7eb6e1952339d.1920x1080.jpg?t=1782800102",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/3ed2bbbfd8f4ef70a88b74072dd727e9274d8433/ss_3ed2bbbfd8f4ef70a88b74072dd727e9274d8433.1920x1080.jpg?t=1782800102",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/7456a0a06f554c4e9a9855e4a2e45f9fb2978afd/ss_7456a0a06f554c4e9a9855e4a2e45f9fb2978afd.1920x1080.jpg?t=1782800102"
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/09a1e99c47ba7ffb2413c4708a9f5fbef1397652/ss_09a1e99c47ba7ffb2413c4708a9f5fbef1397652.1920x1080.jpg?t=1792078032",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/5d3de290f5b9fc2b850260c73483e15f501087f7/ss_5d3de290f5b9fc2b850260c73483e15f501087f7.1920x1080.jpg?t=1792078032",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/962286f68343e1d42d6868079b617b7e7e384fca/ss_962286f68343e1d42d6868079b617b7e7e384fca.1920x1080.jpg?t=1792078032",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/507e6719722e1094417e953a1274110deecc3397/ss_507e6719722e1094417e953a1274110deecc3397.1920x1080.jpg?t=1792078032",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/f214fd4869c74e1f99c18b03f771e9c624814188/ss_f214fd4869c74e1f99c18b03f771e9c624814188.1920x1080.jpg?t=1792078032",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/c591ae8cfbb033f7930eb22d1482691da648d324/ss_c591ae8cfbb033f7930eb22d1482691da648d324.1920x1080.jpg?t=1792078032",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/a16f05bbcc2467059221fcf1ba7fbe70c1950947/ss_a16f05bbcc2467059221fcf1ba7fbe70c1950947.1920x1080.jpg?t=1792078032",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/8426d7278bd4b2a4af2d2c5bee0f5fbf854581d8/ss_8426d7278bd4b2a4af2d2c5bee0f5fbf854581d8.1920x1080.jpg?t=1792078032",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/cf69c3a0ee24e51c590876bbde271fbd73353b93/ss_cf69c3a0ee24e51c590876bbde271fbd73353b93.1920x1080.jpg?t=1792078032",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/7456a0a06f554c4e9a9855e4a2e45f9fb2978afd/ss_7456a0a06f554c4e9a9855e4a2e45f9fb2978afd.1920x1080.jpg?t=1792078032",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/ecef6d2d1c75e501e97fa48340e60657790001fb/ss_ecef6d2d1c75e501e97fa48340e60657790001fb.1920x1080.jpg?t=1792078032",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/7520f2cfadeb67c022dfcf105bcb31a0847bd97b/ss_7520f2cfadeb67c022dfcf105bcb31a0847bd97b.1920x1080.jpg?t=1792078032",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/51776b8c090765d1616629df383bef7ce6aabae3/ss_51776b8c090765d1616629df383bef7ce6aabae3.1920x1080.jpg?t=1792078032",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/e9b8cc5def27b41be497e8b4154a5de9ba672130/ss_e9b8cc5def27b41be497e8b4154a5de9ba672130.1920x1080.jpg?t=1792078032",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/ac421b730ae26e35a390c7cec7c35f3ae59ea253/ss_ac421b730ae26e35a390c7cec7c35f3ae59ea253.1920x1080.jpg?t=1792078032",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/09cebe42aab81ebd2131302642adaf9736f186e2/ss_09cebe42aab81ebd2131302642adaf9736f186e2.1920x1080.jpg?t=1792078032",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/8e8bc483f75f003bca47d6d4a959de6736cbc476/ss_8e8bc483f75f003bca47d6d4a959de6736cbc476.1920x1080.jpg?t=1792078032",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/6ec6a959480c23224b309f0d57d7eb6e1952339d/ss_6ec6a959480c23224b309f0d57d7eb6e1952339d.1920x1080.jpg?t=1792078032",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/92de763e372f286ada1eb57798c8d8106da1f31d/ss_92de763e372f286ada1eb57798c8d8106da1f31d.1920x1080.jpg?t=1792078032"
                 ],
                 "movies": [
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257461228/0bfd7fa6f9987b5523f4d0bf8e279d83803402c9/movie_600x337.jpg?t=1792000003",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1203620/857842467/c7f915630fec65980651e009266b02acdbeb060f/1791996968/dash_h264.mpd?t=1792000003",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1203620/857842467/c7f915630fec65980651e009266b02acdbeb060f/1791996968/hls_264_master.m3u8?t=1792000003"
+                    },
                     {
                         "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257229014/c00e2bec3cf228adce46b702c7adca0629f073c9/movie_600x337.jpg?t=1762780500",
                         "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1203620/1245750690/ff0d3eb6a271e14df7fdc0ba47a748b152f56981/1762762821/dash_h264.mpd?t=1762780500",
                         "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1203620/1245750690/ff0d3eb6a271e14df7fdc0ba47a748b152f56981/1762762821/hls_264_master.m3u8?t=1762780500"
-                    },
-                    {
-                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257139185/0dec7b31d47390d439c92a3330ee42d9e348fc88/movie_600x337.jpg?t=1757538635",
-                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1203620/1674239379/ce79cbddab0370f20fa92dfb8e0d1f7495c1d142/1750641612/dash_h264.mpd?t=1757538635",
-                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1203620/1674239379/ce79cbddab0370f20fa92dfb8e0d1f7495c1d142/1750641612/hls_264_master.m3u8?t=1757538635"
-                    },
-                    {
-                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257070802/bcf59030dfd9b8022e66b2c1c3fd6eab7c7ac010/movie_600x337.jpg?t=1757538637",
-                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1203620/781246/9ab2c0618ad6b630412ccd9149e4c196e62aac1f/1750641556/dash_h264.mpd?t=1757538637",
-                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1203620/781246/9ab2c0618ad6b630412ccd9149e4c196e62aac1f/1750641556/hls_264_master.m3u8?t=1757538637"
-                    },
-                    {
-                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257092938/b2fb3a3f4dbb01d804c4ca426dad8e05585fb21e/movie_600x337.jpg?t=1757538640",
-                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1203620/819788/99bf9974c641a02c031a33024f683e5b960bce51/1750641578/dash_h264.mpd?t=1757538640",
-                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1203620/819788/99bf9974c641a02c031a33024f683e5b960bce51/1750641578/hls_264_master.m3u8?t=1757538640"
-                    },
-                    {
-                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256995621/movie.293x165.jpg?t=1757538642",
-                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1203620/652961/ac3d6217b85cd80317ef51f90cc12f10de1fdc90/1750641522/dash_h264.mpd?t=1757538642",
-                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1203620/652961/ac3d6217b85cd80317ef51f90cc12f10de1fdc90/1750641522/hls_264_master.m3u8?t=1757538642"
-                    },
-                    {
-                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257028483/movie.293x165.jpg?t=1757538644",
-                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1203620/709577/28336755c7489c2d9d60ed57e942a06a0ca3a64b/1750641527/dash_h264.mpd?t=1757538644",
-                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1203620/709577/28336755c7489c2d9d60ed57e942a06a0ca3a64b/1750641527/hls_264_master.m3u8?t=1757538644"
-                    },
-                    {
-                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256980507/movie.293x165.jpg?t=1757538647",
-                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1203620/626634/d3ca6877cc48a3ca46d15be4dc32bf2a67b19eaf/1750641518/dash_h264.mpd?t=1757538647",
-                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1203620/626634/d3ca6877cc48a3ca46d15be4dc32bf2a67b19eaf/1750641518/hls_264_master.m3u8?t=1757538647"
-                    },
-                    {
-                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256942960/movie.293x165.jpg?t=1757538650",
-                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1203620/561092/b1953963ae611f98a334cf76add84d9636d76bad/1750641395/dash_h264.mpd?t=1757538650",
-                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1203620/561092/b1953963ae611f98a334cf76add84d9636d76bad/1750641395/hls_264_master.m3u8?t=1757538650"
-                    },
-                    {
-                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256963929/movie.293x165.jpg?t=1757538653",
-                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1203620/597673/55698edf2f335a7d44be0f00ee3d90399137f62c/1750641510/dash_h264.mpd?t=1757538653",
-                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1203620/597673/55698edf2f335a7d44be0f00ee3d90399137f62c/1750641510/hls_264_master.m3u8?t=1757538653"
-                    },
-                    {
-                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256957833/movie.293x165.jpg?t=1757538656",
-                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1203620/586935/677cf88757ca9f2a31d09eb9170aee54aab5fa34/1750641493/dash_h264.mpd?t=1757538656",
-                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1203620/586935/677cf88757ca9f2a31d09eb9170aee54aab5fa34/1750641493/hls_264_master.m3u8?t=1757538656"
-                    },
-                    {
-                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256950980/movie.293x165.jpg?t=1757538659",
-                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1203620/574978/c1fc875674efe1a3ecc200079bbeb71fc41a90eb/1750641405/dash_h264.mpd?t=1757538659",
-                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1203620/574978/c1fc875674efe1a3ecc200079bbeb71fc41a90eb/1750641405/hls_264_master.m3u8?t=1757538659"
                     }
                 ],
-                "achievements_total": 52,
+                "achievements_total": 58,
                 "achievements_highlighted": [
                     {
                         "icon": "c398f65f0e7cd06bd0f1d2a9c936b08a219856e0.jpg",
@@ -114292,10 +114524,10 @@
                     "pegi": "12",
                     "esrb": "t"
                 },
-                "release_date_steam": "24 jan. 2024",
-                "short_description": "Você é Flameborn, última brasa de esperança de uma raça em extinção. Desperte, sobreviva ao terror de uma névoa corruptora e recupere a beleza perdida do seu reino. Aventure-se em um vasto mundo, derrote chefes punitivos, construa grandes salões e abra seu caminho neste RPG de ação de sobrevivência cooperativo para até 16 jogadores.",
-                "short_description_native": "You are Flameborn, last ember of hope of a dying race. Awaken, survive the terror of a corrupting fog, and reclaim the lost beauty of your kingdom. Venture into a vast world, vanquish punishing bosses, build grand halls and forge your path in this co-op survival action RPG for up to 16 players.",
-                "price_brl": "R$ 89,99",
+                "release_date_steam": "15 out. 2026",
+                "short_description": "Enshrouded é um RPG de ação de sobrevivência solo e cooperativo onde sua liberdade e criatividade estão em primeiro lugar. Conquiste o Sudário, uma névoa corruptora que devora o reino de Embervale: explore um mundo artesanal cheio de segredos, forje seu herói do seu jeito e construa qualquer coisa, em qualquer lugar, em uma terra totalmente terraformável.",
+                "short_description_native": "Enshrouded is a solo and co-op survival action RPG where your freedom and creativity come first. Conquer the Shroud, a corrupting fog devouring the kingdom of Embervale: explore a handcrafted world full of secrets, forge your hero your way, and build anything, anywhere in a fully terraformable land.",
+                "price_brl": "R$ 107,99",
                 "is_free": false,
                 "pc_requirements": {
                     "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10\n\nProcessador: Intel Core i5-6400 (2.7 GHz 4 Core) / AMD Ryzen 5 1500X (3.5 GHz 4 Core) or equivalent\n\nMemória: 16 GB de RAM\n\nPlaca gráfica: NVIDIA GeForce GTX 1060 (req. 6GB VRAM) / AMD Radeon RX 580 (req. 6GB VRAM) / Intel ARC A380\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 60 GB de espaço livre\n\nPlaca de som: on board",
@@ -114392,205 +114624,267 @@
                     {
                         "id": "3",
                         "description": "RPG"
-                    },
-                    {
-                        "id": "70",
-                        "description": "Acesso Antecipado"
                     }
                 ]
             },
             "hoster_links": {
+                "FileDitch": [
+                    {
+                        "file_name": "Enshrouded_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha38/4462606980332a2dd116/Enshrouded_Fix_Repair_Steam_Generic.rar"
+                    },
+                    {
+                        "file_name": "EnshroudedDedicatedServer_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha38/1995932a70aff7e3f670/EnshroudedDedicatedServer_Fix_Repair_Steam_Generic.rar"
+                    },
+                    {
+                        "file_name": "Enshrouded.Build.16102026-OFME.part01.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha38/45017bb988928c1d01af/Enshrouded.Build.16102026-OFME.part01.rar"
+                    },
+                    {
+                        "file_name": "Enshrouded.Build.16102026-OFME.part02.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha38/fb2990c6480781ba554b/Enshrouded.Build.16102026-OFME.part02.rar"
+                    },
+                    {
+                        "file_name": "Enshrouded.Build.16102026-OFME.part03.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha38/c1826a09c7d3a8c31ac9/Enshrouded.Build.16102026-OFME.part03.rar"
+                    },
+                    {
+                        "file_name": "Enshrouded.Build.16102026-OFME.part04.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha38/bc804f6382635448c441/Enshrouded.Build.16102026-OFME.part04.rar"
+                    },
+                    {
+                        "file_name": "Enshrouded.Build.16102026-OFME.part05.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha38/4b11c3b0047e38b7b3c7/Enshrouded.Build.16102026-OFME.part05.rar"
+                    },
+                    {
+                        "file_name": "Enshrouded.Build.16102026-OFME.part06.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha38/f4f9149f5d567b93388c/Enshrouded.Build.16102026-OFME.part06.rar"
+                    },
+                    {
+                        "file_name": "Enshrouded.Build.16102026-OFME.part07.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha38/78635db5581719b56581/Enshrouded.Build.16102026-OFME.part07.rar"
+                    },
+                    {
+                        "file_name": "Enshrouded.Dedicated.Server.Build.16102026-OFME.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha38/308a469a8b14c3e2e80e/Enshrouded.Dedicated.Server.Build.16102026-OFME.rar"
+                    }
+                ],
+                "FileKeeper": [
+                    {
+                        "file_name": "Enshrouded_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://filekeeper.net/ijtdsmxyzm9y"
+                    },
+                    {
+                        "file_name": "EnshroudedDedicatedServer_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://filekeeper.net/ikt9kteiv5a8"
+                    },
+                    {
+                        "file_name": "Enshrouded.Build.16102026-OFME.part01.rar",
+                        "direct_link": "https://filekeeper.net/4xpz08potd5e"
+                    },
+                    {
+                        "file_name": "Enshrouded.Build.16102026-OFME.part02.rar",
+                        "direct_link": "https://filekeeper.net/9sr2pk1p9v94"
+                    },
+                    {
+                        "file_name": "Enshrouded.Build.16102026-OFME.part03.rar",
+                        "direct_link": "https://filekeeper.net/q2vussqr11yl"
+                    },
+                    {
+                        "file_name": "Enshrouded.Build.16102026-OFME.part04.rar",
+                        "direct_link": "https://filekeeper.net/wqzk7lyl3puz"
+                    },
+                    {
+                        "file_name": "Enshrouded.Build.16102026-OFME.part05.rar",
+                        "direct_link": "https://filekeeper.net/254wci1ebbye"
+                    },
+                    {
+                        "file_name": "Enshrouded.Build.16102026-OFME.part06.rar",
+                        "direct_link": "https://filekeeper.net/nmn64lwy0zun"
+                    },
+                    {
+                        "file_name": "Enshrouded.Build.16102026-OFME.part07.rar",
+                        "direct_link": "https://filekeeper.net/2943bkphfy8n"
+                    },
+                    {
+                        "file_name": "Enshrouded.Dedicated.Server.Build.16102026-OFME.rar",
+                        "direct_link": "https://filekeeper.net/bnqzg9d3qcyc"
+                    }
+                ],
                 "Pixeldrain": [
                     {
-                        "file_name": "Enshrouded_Fix_Repair_Steam_V3_Generic.rar",
-                        "direct_link": "https://pixeldrain.com/u/91eFSiCi"
+                        "file_name": "Enshrouded_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://pixeldrain.com/u/AtxpYjcs"
                     },
                     {
-                        "file_name": "EnshroudedDedicatedServer_Fix_Repair_Steam_V2_Generic.rar",
-                        "direct_link": "https://pixeldrain.com/u/AkfsGUV8"
+                        "file_name": "EnshroudedDedicatedServer_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://pixeldrain.com/u/URRVMyMG"
                     },
                     {
-                        "file_name": "Enshrouded.Build.11052026-OFME.part01.rar",
-                        "direct_link": "https://pixeldrain.com/u/qKsRai9Z"
+                        "file_name": "Enshrouded.Build.16102026-OFME.part01.rar",
+                        "direct_link": "https://pixeldrain.com/u/sNodQYiH"
                     },
                     {
-                        "file_name": "Enshrouded.Build.11052026-OFME.part02.rar",
-                        "direct_link": "https://pixeldrain.com/u/aMe5u3ep"
+                        "file_name": "Enshrouded.Build.16102026-OFME.part02.rar",
+                        "direct_link": "https://pixeldrain.com/u/iJ54BTcy"
                     },
                     {
-                        "file_name": "Enshrouded.Build.11052026-OFME.part03.rar",
-                        "direct_link": "https://pixeldrain.com/u/58yszisH"
+                        "file_name": "Enshrouded.Build.16102026-OFME.part03.rar",
+                        "direct_link": "https://pixeldrain.com/u/3CZdhEw1"
                     },
                     {
-                        "file_name": "Enshrouded.Build.11052026-OFME.part04.rar",
-                        "direct_link": "https://pixeldrain.com/u/nmTmFT4j"
+                        "file_name": "Enshrouded.Build.16102026-OFME.part04.rar",
+                        "direct_link": "https://pixeldrain.com/u/DDdmf8ev"
                     },
                     {
-                        "file_name": "Enshrouded.Build.11052026-OFME.part05.rar",
-                        "direct_link": "https://pixeldrain.com/u/sp1CQWnW"
+                        "file_name": "Enshrouded.Build.16102026-OFME.part05.rar",
+                        "direct_link": "https://pixeldrain.com/u/9Q5geSgr"
                     },
                     {
-                        "file_name": "Enshrouded.Build.11052026-OFME.part06.rar",
-                        "direct_link": "https://pixeldrain.com/u/hMoFUzrt"
+                        "file_name": "Enshrouded.Build.16102026-OFME.part06.rar",
+                        "direct_link": "https://pixeldrain.com/u/CDyFqhvG"
                     },
                     {
-                        "file_name": "Enshrouded.Dedicated.Server.Build.11052026-OFME.rar",
-                        "direct_link": "https://pixeldrain.com/u/fp8qCCRg"
+                        "file_name": "Enshrouded.Build.16102026-OFME.part07.rar",
+                        "direct_link": "https://pixeldrain.com/u/hGSYxva2"
+                    },
+                    {
+                        "file_name": "Enshrouded.Dedicated.Server.Build.16102026-OFME.rar",
+                        "direct_link": "https://pixeldrain.com/u/VxBGM5Yu"
                     }
                 ],
                 "Gofile": [
                     {
-                        "file_name": "Enshrouded_Fix_Repair_Steam_V3_Generic.rar",
-                        "direct_link": "https://gofile.io/d/kwKE6H"
+                        "file_name": "Enshrouded_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://gofile.io/d/DoydBfnO"
                     },
                     {
-                        "file_name": "EnshroudedDedicatedServer_Fix_Repair_Steam_V2_Generic.rar",
-                        "direct_link": "https://gofile.io/d/IYbAts"
+                        "file_name": "EnshroudedDedicatedServer_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://gofile.io/d/8t8DzTAg"
                     },
                     {
-                        "file_name": "Enshrouded.Build.11052026-OFME.part01.rar",
-                        "direct_link": "https://gofile.io/d/CVzI8O"
+                        "file_name": "Enshrouded.Build.16102026-OFME.part01.rar",
+                        "direct_link": "https://gofile.io/d/z1sVcnf1"
                     },
                     {
-                        "file_name": "Enshrouded.Build.11052026-OFME.part02.rar",
-                        "direct_link": "https://gofile.io/d/Byam5L"
+                        "file_name": "Enshrouded.Build.16102026-OFME.part02.rar",
+                        "direct_link": "https://gofile.io/d/TPvY00SV"
                     },
                     {
-                        "file_name": "Enshrouded.Build.11052026-OFME.part03.rar",
-                        "direct_link": "https://gofile.io/d/xyMh1X"
+                        "file_name": "Enshrouded.Build.16102026-OFME.part03.rar",
+                        "direct_link": "https://gofile.io/d/wsjU07bj"
                     },
                     {
-                        "file_name": "Enshrouded.Build.11052026-OFME.part04.rar",
-                        "direct_link": "https://gofile.io/d/iNsdu7"
+                        "file_name": "Enshrouded.Build.16102026-OFME.part04.rar",
+                        "direct_link": "https://gofile.io/d/0vQR4JNU"
                     },
                     {
-                        "file_name": "Enshrouded.Build.11052026-OFME.part05.rar",
-                        "direct_link": "https://gofile.io/d/V6Wytu"
+                        "file_name": "Enshrouded.Build.16102026-OFME.part05.rar",
+                        "direct_link": "https://gofile.io/d/Pb0QhgJx"
                     },
                     {
-                        "file_name": "Enshrouded.Build.11052026-OFME.part06.rar",
-                        "direct_link": "https://gofile.io/d/b2m3SE"
+                        "file_name": "Enshrouded.Build.16102026-OFME.part06.rar",
+                        "direct_link": "https://gofile.io/d/M7PTccIZ"
                     },
                     {
-                        "file_name": "Enshrouded.Dedicated.Server.Build.11052026-OFME.rar",
-                        "direct_link": "https://gofile.io/d/ewY3xD"
+                        "file_name": "Enshrouded.Build.16102026-OFME.part07.rar",
+                        "direct_link": "https://gofile.io/d/FIKQRpRI"
+                    },
+                    {
+                        "file_name": "Enshrouded.Dedicated.Server.Build.16102026-OFME.rar",
+                        "direct_link": "https://gofile.io/d/YwYkR03H"
                     }
                 ],
                 "VikingFile": [
                     {
-                        "file_name": "Enshrouded_Fix_Repair_Steam_V3_Generic.rar",
-                        "direct_link": "https://vikingfile.com/f/OQH6WvmeBY"
+                        "file_name": "Enshrouded_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://vikingfile.com/f/XIcMSe9wen"
                     },
                     {
-                        "file_name": "EnshroudedDedicatedServer_Fix_Repair_Steam_V2_Generic.rar",
-                        "direct_link": "https://vikingfile.com/f/fqzeK6pg3s"
+                        "file_name": "EnshroudedDedicatedServer_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://vikingfile.com/f/7nM4Uf4DWV"
                     },
                     {
-                        "file_name": "Enshrouded.Build.11052026-OFME.part01.rar",
-                        "direct_link": "https://vikingfile.com/f/FjLEPB3jwi"
+                        "file_name": "Enshrouded.Build.16102026-OFME.part01.rar",
+                        "direct_link": "https://vikingfile.com/f/uAdUwgyfW6"
                     },
                     {
-                        "file_name": "Enshrouded.Build.11052026-OFME.part02.rar",
-                        "direct_link": "https://vikingfile.com/f/jOkwANcBqk"
+                        "file_name": "Enshrouded.Build.16102026-OFME.part02.rar",
+                        "direct_link": "https://vikingfile.com/f/DGOALAwUB8"
                     },
                     {
-                        "file_name": "Enshrouded.Build.11052026-OFME.part03.rar",
-                        "direct_link": "https://vikingfile.com/f/PehE7V3Ui2"
+                        "file_name": "Enshrouded.Build.16102026-OFME.part03.rar",
+                        "direct_link": "https://vikingfile.com/f/7WlqmEWbzx"
                     },
                     {
-                        "file_name": "Enshrouded.Build.11052026-OFME.part04.rar",
-                        "direct_link": "https://vikingfile.com/f/mUBAraYX78"
+                        "file_name": "Enshrouded.Build.16102026-OFME.part04.rar",
+                        "direct_link": "https://vikingfile.com/f/qZarVEXub9"
                     },
                     {
-                        "file_name": "Enshrouded.Build.11052026-OFME.part05.rar",
-                        "direct_link": "https://vikingfile.com/f/TrmHPSKT06"
+                        "file_name": "Enshrouded.Build.16102026-OFME.part05.rar",
+                        "direct_link": "https://vikingfile.com/f/XCZwtwthfF"
                     },
                     {
-                        "file_name": "Enshrouded.Build.11052026-OFME.part06.rar",
-                        "direct_link": "https://vikingfile.com/f/VRToS4VFRC"
+                        "file_name": "Enshrouded.Build.16102026-OFME.part06.rar",
+                        "direct_link": "https://vikingfile.com/f/7ySu741yGv"
                     },
                     {
-                        "file_name": "Enshrouded.Dedicated.Server.Build.11052026-OFME.rar",
-                        "direct_link": "https://vikingfile.com/f/zUVa2sX2kx"
-                    }
-                ],
-                "Rootz": [
-                    {
-                        "file_name": "Enshrouded_Fix_Repair_Steam_V3_Generic.rar",
-                        "direct_link": "https://rootz.so/d/UKZ96"
+                        "file_name": "Enshrouded.Build.16102026-OFME.part07.rar",
+                        "direct_link": "https://vikingfile.com/f/2FVKlRsJaY"
                     },
                     {
-                        "file_name": "Enshrouded.Build.11052026-OFME.part01.rar",
-                        "direct_link": "https://rootz.so/d/1sOWSu"
-                    },
-                    {
-                        "file_name": "Enshrouded.Build.11052026-OFME.part02.rar",
-                        "direct_link": "https://rootz.so/d/1oMfbM"
-                    },
-                    {
-                        "file_name": "Enshrouded.Build.11052026-OFME.part03.rar",
-                        "direct_link": "https://rootz.so/d/dpKBk"
-                    },
-                    {
-                        "file_name": "Enshrouded.Build.11052026-OFME.part04.rar",
-                        "direct_link": "https://rootz.so/d/fiHhY"
-                    },
-                    {
-                        "file_name": "Enshrouded.Build.11052026-OFME.part05.rar",
-                        "direct_link": "https://rootz.so/d/1Ciu7k"
-                    },
-                    {
-                        "file_name": "Enshrouded.Build.11052026-OFME.part06.rar",
-                        "direct_link": "https://rootz.so/d/28Vvqy"
-                    },
-                    {
-                        "file_name": "Enshrouded.Dedicated.Server.Build.11052026-OFME.rar",
-                        "direct_link": "https://rootz.so/d/1ELvjU"
+                        "file_name": "Enshrouded.Dedicated.Server.Build.16102026-OFME.rar",
+                        "direct_link": "https://vikingfile.com/f/PPVsImFa4t"
                     }
                 ]
             },
-            "unique_hash": "5e3ce20887bde52bb35171d998c86d02a047027a",
-            "fileSize": "29.47 GB",
-            "magnet": "magnet:?xt=urn:btih:5e3ce20887bde52bb35171d998c86d02a047027a&dn=Enshrouded&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
-            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_35/Enshrouded.Dedicated.Server.Build.11052026-OFME.torrent",
-            "created_at": "2026-05-25 10:04:13",
+            "unique_hash": "b2e14b271fbce9b9c36687677dccef9ad9cc7cfb",
+            "fileSize": "34.74 GB",
+            "magnet": "magnet:?xt=urn:btih:b2e14b271fbce9b9c36687677dccef9ad9cc7cfb&dn=Enshrouded&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_40/Enshrouded.Dedicated.Server.Build.16102026-OFME.torrent",
+            "created_at": "2026-10-20 10:38:59",
             "webdav_updated_at": "Unknown",
             "files": [
                 {
-                    "name": "Dedicated Server/Enshrouded.Dedicated.Server.Build.11052026-OFME.rar",
-                    "size": "3.76 GB"
+                    "name": "Dedicated Server/Enshrouded.Dedicated.Server.Build.16102026-OFME.rar",
+                    "size": "3.65 GB"
                 },
                 {
-                    "name": "Enshrouded.Build.11052026-OFME.part01.rar",
+                    "name": "Enshrouded.Build.16102026-OFME.part04.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "Enshrouded.Build.11052026-OFME.part02.rar",
+                    "name": "Enshrouded.Build.16102026-OFME.part05.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "Fix Repair/EnshroudedDedicatedServer_Fix_Repair_Steam_V2_Generic.rar",
+                    "name": "Enshrouded.Build.16102026-OFME.part06.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Enshrouded.Build.16102026-OFME.part07.rar",
+                    "size": "1.08 GB"
+                },
+                {
+                    "name": "Fix Repair/EnshroudedDedicatedServer_Fix_Repair_Steam_Generic.rar",
                     "size": "0.40 MB"
                 },
                 {
-                    "name": "Fix Repair/Enshrouded_Fix_Repair_Steam_V3_Generic.rar",
-                    "size": "11.02 MB"
+                    "name": "Fix Repair/Enshrouded_Fix_Repair_Steam_Generic.rar",
+                    "size": "10.68 MB"
                 },
                 {
-                    "name": "Enshrouded.Build.11052026-OFME.part03.rar",
+                    "name": "Enshrouded.Build.16102026-OFME.part01.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "Enshrouded.Build.11052026-OFME.part04.rar",
+                    "name": "Enshrouded.Build.16102026-OFME.part02.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "Enshrouded.Build.11052026-OFME.part05.rar",
+                    "name": "Enshrouded.Build.16102026-OFME.part03.rar",
                     "size": "5.00 GB"
-                },
-                {
-                    "name": "Enshrouded.Build.11052026-OFME.part06.rar",
-                    "size": "720.29 MB"
                 }
             ],
             "comment": ""
@@ -325048,6 +325342,300 @@
                 {
                     "name": "Scam.Line.Build.23042026-OFME.rar",
                     "size": "133.62 MB"
+                }
+            ],
+            "comment": ""
+        },
+        {
+            "title": "Scam With Your Friends",
+            "page": 1,
+            "url": "https://online-fix.me/games/simulator/18284-scam-with-your-friends-online.html",
+            "last_update": "2026-10-20T17:11:37+03:00",
+            "release_date": null,
+            "update_info": "",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-10-20 18:08:57",
+            "steam": {
+                "steam_appid": 4954910,
+                "match_score": 100,
+                "match_via": "canon",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954910/128effac3212fc1b92b4f6cd8891995df0d4b199/header.jpg?t=1792469490",
+                "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954910/fdc89c6c4b782fa4cf0e73269a6d235d491fffae/capsule_184x69.jpg?t=1792469490",
+                "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954910/cd47cbcd7de603f81774b244e9bad8c4f5e25734/page_bg_raw.jpg?t=1792469490",
+                "screenshots": [
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954910/bcff5f79257b09d3477d82fbfc880c4d084bfee2/ss_bcff5f79257b09d3477d82fbfc880c4d084bfee2.1920x1080.jpg?t=1792469490",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954910/afe1c51df0a3e01d5d238a949a2754e5a00636a2/ss_afe1c51df0a3e01d5d238a949a2754e5a00636a2.1920x1080.jpg?t=1792469490",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954910/d7676d89d64b88d0c817009cbb08afed3cfbf8b6/ss_d7676d89d64b88d0c817009cbb08afed3cfbf8b6.1920x1080.jpg?t=1792469490",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954910/e29f4717a68c3234d24b824db66c4d56a8102b21/ss_e29f4717a68c3234d24b824db66c4d56a8102b21.1920x1080.jpg?t=1792469490",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954910/18907646f5bc51eb02f12c160181f89585897743/ss_18907646f5bc51eb02f12c160181f89585897743.1920x1080.jpg?t=1792469490",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954910/e9b297c16108c1702873d59df1eedf5a39851be3/ss_e9b297c16108c1702873d59df1eedf5a39851be3.1920x1080.jpg?t=1792469490",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954910/7ff96872b59a388158c5e9730b59a08357116592/ss_7ff96872b59a388158c5e9730b59a08357116592.1920x1080.jpg?t=1792469490",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954910/734c840215de26b6b1c4d06579870a025746fdbf/ss_734c840215de26b6b1c4d06579870a025746fdbf.1920x1080.jpg?t=1792469490",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954910/6cffc8c3b09d1088154661e35729891d64e2cff7/ss_6cffc8c3b09d1088154661e35729891d64e2cff7.1920x1080.jpg?t=1792469490",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954910/0bad5dd0fa92399a999726f4947095952ad5f963/ss_0bad5dd0fa92399a999726f4947095952ad5f963.1920x1080.jpg?t=1792469490",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954910/094feafd07fd5ddc7b2230d7c0af8c8ae68bdd88/ss_094feafd07fd5ddc7b2230d7c0af8c8ae68bdd88.1920x1080.jpg?t=1792469490",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954910/75371b2173eb5f71cb176ac2b466cd90a8836e74/ss_75371b2173eb5f71cb176ac2b466cd90a8836e74.1920x1080.jpg?t=1792469490",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954910/50f641632ab72de8bdcb230ca43bd41a4434c476/ss_50f641632ab72de8bdcb230ca43bd41a4434c476.1920x1080.jpg?t=1792469490",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954910/0caccc2ff4bf8aa525e8ffd6159aa7389b9cb6ab/ss_0caccc2ff4bf8aa525e8ffd6159aa7389b9cb6ab.1920x1080.jpg?t=1792469490",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954910/7f2cbf7e73844e1d500d124009753fb6720541c2/ss_7f2cbf7e73844e1d500d124009753fb6720541c2.1920x1080.jpg?t=1792469490",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954910/0de88d51b58a77eb96a848df89af9d3f7adf3f16/ss_0de88d51b58a77eb96a848df89af9d3f7adf3f16.1920x1080.jpg?t=1792469490",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954910/e3920cbb1c07287096a38574119788763d29967d/ss_e3920cbb1c07287096a38574119788763d29967d.1920x1080.jpg?t=1792469490",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954910/ff3df4ad43b12710b47ea2a63def1ec73cbaedf4/ss_ff3df4ad43b12710b47ea2a63def1ec73cbaedf4.1920x1080.jpg?t=1792469490",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954910/9e2a9afcfda31f4c3b1c02120e527e398ee2b6b2/ss_9e2a9afcfda31f4c3b1c02120e527e398ee2b6b2.1920x1080.jpg?t=1792469490",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954910/140b2e87e13ebc9f2963e06712c433b97e11cad0/ss_140b2e87e13ebc9f2963e06712c433b97e11cad0.1920x1080.jpg?t=1792469490"
+                ],
+                "movies": [
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257414252/53600d21efcbe7a39d2eae56d8298346abbab395/movie_600x337.jpg?t=1788375220",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/4954910/1609623990/c3f7c7667843a3e35b03c48ae3d09b322fe62dc2/1788230310/dash_h264.mpd?t=1788375220",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/4954910/1609623990/c3f7c7667843a3e35b03c48ae3d09b322fe62dc2/1788230310/hls_264_master.m3u8?t=1788375220"
+                    }
+                ],
+                "achievements_total": 26,
+                "achievements_highlighted": [
+                    {
+                        "icon": "71141aa66774f6b8d38f535643d41a3c9dcaddda.jpg",
+                        "localized_name": "Your First Scam",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Your First Scam",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4954910/71141aa66774f6b8d38f535643d41a3c9dcaddda.jpg"
+                    },
+                    {
+                        "icon": "9c8d3aa4f987fa421f24b56654dc748dea16d24e.jpg",
+                        "localized_name": "Your First Firing",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Your First Firing",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4954910/9c8d3aa4f987fa421f24b56654dc748dea16d24e.jpg"
+                    },
+                    {
+                        "icon": "f8a8a2e455ef4c6d51fd95434c33f20bdd78cc76.jpg",
+                        "localized_name": "Rock Hard Paper",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Rock Hard Paper",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4954910/f8a8a2e455ef4c6d51fd95434c33f20bdd78cc76.jpg"
+                    },
+                    {
+                        "icon": "e362c4894882a6c5741a2c8a0f341a2876d80392.jpg",
+                        "localized_name": "Face Fart",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Face Fart",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4954910/e362c4894882a6c5741a2c8a0f341a2876d80392.jpg"
+                    },
+                    {
+                        "icon": "66f6040ed383d529ec8df9e008340bedfa045cb5.jpg",
+                        "localized_name": "Carry The Quota",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Carry The Quota",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4954910/66f6040ed383d529ec8df9e008340bedfa045cb5.jpg"
+                    },
+                    {
+                        "icon": "da86e4041fa082723e505cb408561ac41065c72b.jpg",
+                        "localized_name": "Scam Artist",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Scam Artist",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4954910/da86e4041fa082723e505cb408561ac41065c72b.jpg"
+                    },
+                    {
+                        "icon": "3a0cde3ada4996ca1dddd87931a7deedfc1d19ae.jpg",
+                        "localized_name": "Sir Scams A Lot",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Sir Scams A Lot",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4954910/3a0cde3ada4996ca1dddd87931a7deedfc1d19ae.jpg"
+                    },
+                    {
+                        "icon": "e0acfe62e11a2296c14125be6176669e3e94f8b1.jpg",
+                        "localized_name": "Scammed 1000",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Scammed 1000",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4954910/e0acfe62e11a2296c14125be6176669e3e94f8b1.jpg"
+                    },
+                    {
+                        "icon": "e47343c85dbfafca1698fdd3dc6823a624d95de2.jpg",
+                        "localized_name": "DO NOT REDEEM!!!",
+                        "archived": 0,
+                        "hidden": 1,
+                        "name": "DO NOT REDEEM!!!",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4954910/e47343c85dbfafca1698fdd3dc6823a624d95de2.jpg"
+                    },
+                    {
+                        "icon": "cb22973c695bbadb66a421e8c36b85650e37ffe4.jpg",
+                        "localized_name": "Golden Shower",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Golden Shower",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4954910/cb22973c695bbadb66a421e8c36b85650e37ffe4.jpg"
+                    }
+                ],
+                "ratings": {
+                    "pegi": null,
+                    "esrb": null
+                },
+                "release_date_steam": "15 out. 2026",
+                "short_description": "Administre uma central de atendimento fraudulenta com seus amigos. Use esquemas cada vez mais ridículos para enganar os chamadores de IA e tirar suas economias de uma vida inteira. Alcance sua cota diária, cause o caos no escritório e sobreviva a uma brutal avaliação de desempenho de seu chefe furioso.",
+                "short_description_native": "Run a scam call center with your friends. Use increasingly ridiculous schemes to trick AI callers out of their life savings. Hit your daily quota, cause chaos around the office, and survive a brutal performance review from your rageaholic boss.",
+                "price_brl": "R$ 33,74",
+                "is_free": false,
+                "pc_requirements": {
+                    "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10 / 11 (64-bit)\n\nProcessador: Intel Core i5-8400 / AMD Ryzen 5 2600\n\nMemória: 3 GB de RAM\n\nPlaca gráfica: NVIDIA GTX 1060 (6 GB) / AMD RX 580\n\nDirectX: Versão 11\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 5 GB de espaço livre",
+                    "recommended": "Recomendados:\n\nRequer um sistema operativo e processador de 64 bits"
+                },
+                "controller_support": "full",
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Um jogador"
+                    },
+                    {
+                        "id": 1,
+                        "description": "Multijogador"
+                    },
+                    {
+                        "id": 9,
+                        "description": "Co-op"
+                    },
+                    {
+                        "id": 38,
+                        "description": "Co-op online"
+                    },
+                    {
+                        "id": 28,
+                        "description": "Compatibilidade total com comando"
+                    },
+                    {
+                        "id": 30,
+                        "description": "Steam Workshop"
+                    },
+                    {
+                        "id": 68,
+                        "description": "Controlos de volume independentes"
+                    },
+                    {
+                        "id": 78,
+                        "description": "Dificuldade ajustável"
+                    },
+                    {
+                        "id": 55,
+                        "description": "Compatibilidade com DUALSHOCK"
+                    },
+                    {
+                        "id": 56,
+                        "description": "Compatibilidade com DUALSHOCK"
+                    },
+                    {
+                        "id": 57,
+                        "description": "Compatibilidade com DualSense"
+                    },
+                    {
+                        "id": 58,
+                        "description": "Compatibilidade com DualSense"
+                    },
+                    {
+                        "id": 69,
+                        "description": "Som estéreo"
+                    },
+                    {
+                        "id": 62,
+                        "description": "Partilha de Biblioteca"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "1",
+                        "description": "Ação"
+                    },
+                    {
+                        "id": "4",
+                        "description": "Casual"
+                    },
+                    {
+                        "id": "23",
+                        "description": "Indie"
+                    },
+                    {
+                        "id": "28",
+                        "description": "Simulação"
+                    },
+                    {
+                        "id": "70",
+                        "description": "Acesso Antecipado"
+                    }
+                ]
+            },
+            "hoster_links": {
+                "FileDitch": [
+                    {
+                        "file_name": "ScamWithYourFriends_Fix_Repair_Steam.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha38/aa5f8c556c4241cdd500/ScamWithYourFriends_Fix_Repair_Steam.rar"
+                    },
+                    {
+                        "file_name": "Scam.With.Your.Friends.v0.1.82-OFME.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha38/451c8a187f5ed0c085f0/Scam.With.Your.Friends.v0.1.82-OFME.rar"
+                    }
+                ],
+                "FileKeeper": [
+                    {
+                        "file_name": "ScamWithYourFriends_Fix_Repair_Steam.rar",
+                        "direct_link": "https://filekeeper.net/lypqnxd9hxqf"
+                    },
+                    {
+                        "file_name": "Scam.With.Your.Friends.v0.1.82-OFME.rar",
+                        "direct_link": "https://filekeeper.net/118zw0ko3iny"
+                    }
+                ],
+                "Pixeldrain": [
+                    {
+                        "file_name": "ScamWithYourFriends_Fix_Repair_Steam.rar",
+                        "direct_link": "https://pixeldrain.com/u/5dQaRnN5"
+                    },
+                    {
+                        "file_name": "Scam.With.Your.Friends.v0.1.82-OFME.rar",
+                        "direct_link": "https://pixeldrain.com/u/4RC4SHrf"
+                    }
+                ],
+                "Gofile": [
+                    {
+                        "file_name": "ScamWithYourFriends_Fix_Repair_Steam.rar",
+                        "direct_link": "https://gofile.io/d/VgugNuSM"
+                    },
+                    {
+                        "file_name": "Scam.With.Your.Friends.v0.1.82-OFME.rar",
+                        "direct_link": "https://gofile.io/d/ChYAGR0R"
+                    }
+                ],
+                "VikingFile": [
+                    {
+                        "file_name": "ScamWithYourFriends_Fix_Repair_Steam.rar",
+                        "direct_link": "https://vikingfile.com/f/Tz6t0tfZcd"
+                    },
+                    {
+                        "file_name": "Scam.With.Your.Friends.v0.1.82-OFME.rar",
+                        "direct_link": "https://vikingfile.com/f/7KbBkLcbiH"
+                    }
+                ]
+            },
+            "unique_hash": "8925c37af2c8e7015448f45a552fc77534277de6",
+            "fileSize": "3.20 GB",
+            "magnet": "magnet:?xt=urn:btih:8925c37af2c8e7015448f45a552fc77534277de6&dn=Scam%20With%20Your%20Friends&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_1/Scam.With.Your.Friends.v0.1.82-OFME.torrent",
+            "created_at": "2026-10-20 10:45:21",
+            "webdav_updated_at": "Unknown",
+            "files": [
+                {
+                    "name": "Fix Repair/ScamWithYourFriends_Fix_Repair_Steam.rar",
+                    "size": "11.70 MB"
+                },
+                {
+                    "name": "Scam.With.Your.Friends.v0.1.82-OFME.rar",
+                    "size": "3.19 GB"
                 }
             ],
             "comment": ""

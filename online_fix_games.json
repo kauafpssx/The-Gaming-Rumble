@@ -1,5 +1,5 @@
 {
-    "total": 1890,
+    "total": 1897,
     "downloads": [
         {
             "title": "10 Miles to Safety",
@@ -56421,6 +56421,291 @@
             "comment": ""
         },
         {
+            "title": "Chained Beasts",
+            "page": 1,
+            "url": "https://online-fix.me/games/adventures/18286-chained-beasts-po-seti.html",
+            "last_update": "2026-10-21T13:39:30+03:00",
+            "release_date": "15.10.2026",
+            "update_info": "",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-10-21 18:07:50",
+            "steam": {
+                "steam_appid": 3569420,
+                "match_score": 100,
+                "match_via": "canon",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3569420/be237edbd1bdbcf361d7b315d70e89fea3b5262a/header.jpg?t=1792472187",
+                "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3569420/37a1f130512c4537b4a2b556bd104adb710bb0c5/capsule_184x69.jpg?t=1792472187",
+                "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3569420/a1a576a70613c706ee653ede2c70452ca8081f85/page_bg_raw.jpg?t=1792472187",
+                "screenshots": [
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3569420/27c1b81a3c373420573c6de9a32218689de6b3ff/ss_27c1b81a3c373420573c6de9a32218689de6b3ff.1920x1080.jpg?t=1792472187",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3569420/11b9af2ff2fa963edb66065a8861cf7d5e1a8d69/ss_11b9af2ff2fa963edb66065a8861cf7d5e1a8d69.1920x1080.jpg?t=1792472187",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3569420/061447f3ae89ae7867d542d25de1055e513a980c/ss_061447f3ae89ae7867d542d25de1055e513a980c.1920x1080.jpg?t=1792472187",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3569420/b62f68bc18334ffbeb031f12fb820950ae69224a/ss_b62f68bc18334ffbeb031f12fb820950ae69224a.1920x1080.jpg?t=1792472187",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3569420/2804ef2bb797821cedf5d2bc2391336ec6180b0d/ss_2804ef2bb797821cedf5d2bc2391336ec6180b0d.1920x1080.jpg?t=1792472187",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3569420/729a5240cffda195da621f27345a24bf634426be/ss_729a5240cffda195da621f27345a24bf634426be.1920x1080.jpg?t=1792472187",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3569420/ec1757b25a0f09418208c41a026e0132df9d214a/ss_ec1757b25a0f09418208c41a026e0132df9d214a.1920x1080.jpg?t=1792472187",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3569420/7f21d7684755eb6478b9b6411b271c3a72569a5f/ss_7f21d7684755eb6478b9b6411b271c3a72569a5f.1920x1080.jpg?t=1792472187",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3569420/6841950f44c7977b4edd73d8bfcf15673e14565a/ss_6841950f44c7977b4edd73d8bfcf15673e14565a.1920x1080.jpg?t=1792472187",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3569420/efd976dda1b2db1f00fc18a63c7fa75d1b5ede2e/ss_efd976dda1b2db1f00fc18a63c7fa75d1b5ede2e.1920x1080.jpg?t=1792472187"
+                ],
+                "movies": [
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257418730/4889f016ba9e1332ed7c4a498ec67b7ae08a1da2/movie_600x337.jpg?t=1790317094",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/3569420/1925099071/850b48256f3af5347d1ecd1187647294b809bd85/1788749381/dash_h264.mpd?t=1790317094",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/3569420/1925099071/850b48256f3af5347d1ecd1187647294b809bd85/1788749381/hls_264_master.m3u8?t=1790317094"
+                    },
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257457500/b62137417392d7e49c76a0513ddbf26829092ad2/movie_600x337.jpg?t=1792082630",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/3569420/947172899/3157a99289c894b63a6fda01b8e5a768f939324e/1791780462/dash_h264.mpd?t=1792082630",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/3569420/947172899/3157a99289c894b63a6fda01b8e5a768f939324e/1791780462/hls_264_master.m3u8?t=1792082630"
+                    }
+                ],
+                "achievements_total": 60,
+                "achievements_highlighted": [
+                    {
+                        "icon": "4f5671965f6ee8b00435aaee7ba51d68291aad56.jpg",
+                        "localized_name": "Test Subject",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Test Subject",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3569420/4f5671965f6ee8b00435aaee7ba51d68291aad56.jpg"
+                    },
+                    {
+                        "icon": "b712419c7b6460fafcc2a3320e691d1182c3451a.jpg",
+                        "localized_name": "Talented",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Talented",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3569420/b712419c7b6460fafcc2a3320e691d1182c3451a.jpg"
+                    },
+                    {
+                        "icon": "5789ac3fde93c5c7bcf6097b776cb0eed4162a6a.jpg",
+                        "localized_name": "Collector",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Collector",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3569420/5789ac3fde93c5c7bcf6097b776cb0eed4162a6a.jpg"
+                    },
+                    {
+                        "icon": "7cb879d16e1070f50f4ad26d3b22724eac7142c7.jpg",
+                        "localized_name": "Weapon Master",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Weapon Master",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3569420/7cb879d16e1070f50f4ad26d3b22724eac7142c7.jpg"
+                    },
+                    {
+                        "icon": "358fcf05bf810af6ef5489a0d74fd5a431f08204.jpg",
+                        "localized_name": "Bestiary",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Bestiary",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3569420/358fcf05bf810af6ef5489a0d74fd5a431f08204.jpg"
+                    },
+                    {
+                        "icon": "d072e548b4dbd73e2b9eec5cac0bcd595b76cf1d.jpg",
+                        "localized_name": "Can't Stand The Heat",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Can't Stand The Heat",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3569420/d072e548b4dbd73e2b9eec5cac0bcd595b76cf1d.jpg"
+                    },
+                    {
+                        "icon": "1d8ab4fa7b21c2d9a9bfe9d4bb30304b6dcacf53.jpg",
+                        "localized_name": "Out of the Cold",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Out of the Cold",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3569420/1d8ab4fa7b21c2d9a9bfe9d4bb30304b6dcacf53.jpg"
+                    },
+                    {
+                        "icon": "20705feb4ea546380dc7484d34b256dff0e4f431.jpg",
+                        "localized_name": "Rebel Leader",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Rebel Leader",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3569420/20705feb4ea546380dc7484d34b256dff0e4f431.jpg"
+                    },
+                    {
+                        "icon": "72f8e5f462cb071c5f1ab931951cae2f01f49d35.jpg",
+                        "localized_name": "X",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "X",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3569420/72f8e5f462cb071c5f1ab931951cae2f01f49d35.jpg"
+                    },
+                    {
+                        "icon": "432de1412b04f272122e478e9faab3930336969f.jpg",
+                        "localized_name": "L",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "L",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3569420/432de1412b04f272122e478e9faab3930336969f.jpg"
+                    }
+                ],
+                "ratings": {
+                    "pegi": null,
+                    "esrb": null
+                },
+                "release_date_steam": "15 out. 2026",
+                "short_description": "Chained Beasts é um roguelike gladiador cooperativo para 1-4 jogadores. Lute em batalhas caóticas acorrentadas aos seus amigos. Use suas correntes ou a arena para derrotar os inimigos de maneira criativa e conquistar a multidão sedenta de sangue. Suporta lesões físicas e mentais para derrotar chefes temíveis e sobreviver ao dia.",
+                "short_description_native": "Chained Beasts is a 1-4 player co-op gladiator roguelike. Fight chaotic battles chained to your friends. Use your chains or the arena to beat up foes in creative ways and win over the bloodthirsty crowd. Endure physical and mental injuries to defeat fearsome bosses and survive the day.",
+                "price_brl": "R$ 44,19",
+                "is_free": false,
+                "pc_requirements": {
+                    "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10\n\nProcessador: Intel Core i5-5257U, AMD Ryzen 3 1200 or equivalent\n\nMemória: 8 GB de RAM\n\nPlaca gráfica: GeForce GTX 1050, AMD RX 460 or equivalent\n\nNotas adicionais: At least 1 gamepad is required for same-screen co-op",
+                    "recommended": "Recomendados:\n\nRequer um sistema operativo e processador de 64 bits"
+                },
+                "controller_support": "full",
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Um jogador"
+                    },
+                    {
+                        "id": 1,
+                        "description": "Multijogador"
+                    },
+                    {
+                        "id": 9,
+                        "description": "Co-op"
+                    },
+                    {
+                        "id": 38,
+                        "description": "Co-op online"
+                    },
+                    {
+                        "id": 39,
+                        "description": "Co-op, ecrã partilhado/dividido"
+                    },
+                    {
+                        "id": 24,
+                        "description": "Ecrã partilhado/dividido"
+                    },
+                    {
+                        "id": 27,
+                        "description": "Multijogador interplataformas"
+                    },
+                    {
+                        "id": 22,
+                        "description": "Proezas Steam"
+                    },
+                    {
+                        "id": 28,
+                        "description": "Compatibilidade total com comando"
+                    },
+                    {
+                        "id": 60,
+                        "description": "Comando recomendado"
+                    },
+                    {
+                        "id": 55,
+                        "description": "Compatibilidade com DUALSHOCK"
+                    },
+                    {
+                        "id": 56,
+                        "description": "Compatibilidade com DUALSHOCK"
+                    },
+                    {
+                        "id": 57,
+                        "description": "Compatibilidade com DualSense"
+                    },
+                    {
+                        "id": 58,
+                        "description": "Compatibilidade com DualSense"
+                    },
+                    {
+                        "id": 23,
+                        "description": "Steam Cloud"
+                    },
+                    {
+                        "id": 44,
+                        "description": "Remote Play Together"
+                    },
+                    {
+                        "id": 62,
+                        "description": "Partilha de Biblioteca"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "1",
+                        "description": "Ação"
+                    }
+                ]
+            },
+            "hoster_links": {
+                "FileDitch": [
+                    {
+                        "file_name": "ChainedBeasts_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha39/e65bd35ba214b43699ac/ChainedBeasts_Fix_Repair_Steam_Generic.rar"
+                    },
+                    {
+                        "file_name": "Chained.Beasts.v1.0.1-OFME.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha39/adb9dba1190e0efd443a/Chained.Beasts.v1.0.1-OFME.rar"
+                    }
+                ],
+                "FileKeeper": [
+                    {
+                        "file_name": "ChainedBeasts_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://filekeeper.net/a8ok1uqrwt7u"
+                    },
+                    {
+                        "file_name": "Chained.Beasts.v1.0.1-OFME.rar",
+                        "direct_link": "https://filekeeper.net/5wftlsyw3go0"
+                    }
+                ],
+                "Pixeldrain": [
+                    {
+                        "file_name": "ChainedBeasts_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://pixeldrain.com/u/THESMgbJ"
+                    },
+                    {
+                        "file_name": "Chained.Beasts.v1.0.1-OFME.rar",
+                        "direct_link": "https://pixeldrain.com/u/Jz3sD5Xv"
+                    }
+                ],
+                "Gofile": [
+                    {
+                        "file_name": "ChainedBeasts_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://gofile.io/d/FN0lHNLT"
+                    },
+                    {
+                        "file_name": "Chained.Beasts.v1.0.1-OFME.rar",
+                        "direct_link": "https://gofile.io/d/xq4ON6b7"
+                    }
+                ],
+                "VikingFile": [
+                    {
+                        "file_name": "ChainedBeasts_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://vikingfile.com/f/FCP8Ne0Yw3"
+                    },
+                    {
+                        "file_name": "Chained.Beasts.v1.0.1-OFME.rar",
+                        "direct_link": "https://vikingfile.com/f/mfpDQDFMBd"
+                    }
+                ]
+            },
+            "unique_hash": "b67630780b4e1cbe4fa0ede19b5e5b625f96003f",
+            "fileSize": "951.10 MB",
+            "magnet": "magnet:?xt=urn:btih:b67630780b4e1cbe4fa0ede19b5e5b625f96003f&dn=Chained%20Beasts&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_1/Chained.Beasts.v1.0.1-OFME.torrent",
+            "created_at": "2026-10-21 07:18:35",
+            "webdav_updated_at": "Unknown",
+            "files": [
+                {
+                    "name": "Chained.Beasts.v1.0.1-OFME.rar",
+                    "size": "930.93 MB"
+                },
+                {
+                    "name": "Fix Repair/ChainedBeasts_Fix_Repair_Steam_Generic.rar",
+                    "size": "20.17 MB"
+                }
+            ],
+            "comment": ""
+        },
+        {
             "title": "Chained Together",
             "page": 30,
             "url": "https://online-fix.me/games/adventures/17537-chained-together-po-seti.html",
@@ -68975,7 +69260,7 @@
             "update_info": "",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-10-20 18:11:02",
+            "scraped_at": "2026-10-21 18:09:54",
             "steam": {
                 "steam_appid": 293780,
                 "match_score": 100,
@@ -99580,32 +99865,32 @@
         },
         {
             "title": "Dragons Dogma 2",
-            "page": 2,
+            "page": 3,
             "url": "https://online-fix.me/games/adventures/18234-dragons-dogma-2-po-seti.html",
             "last_update": "2026-09-08T17:35:20+03:00",
             "release_date": "22.03.2024",
-            "update_info": "Обновлено 28 сентября 2026, 17:25. Мод обновлён до версии Alpha 0.31.",
-            "update_date": "2026-09-28T17:25:00+03:00",
-            "formatted_update_date": "2026-09-28 17:25:00",
-            "scraped_at": "2026-09-29 18:46:23",
+            "update_info": "Обновлено Вчера, 13:37. Игра обновлена до версии Build 16102026. Мод обновлён до версии Alpha 0.33.4.",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-10-21 18:07:57",
             "steam": {
                 "steam_appid": 2054970,
                 "match_score": 100,
                 "match_via": "canon",
-                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054970/header.jpg?t=1788308490",
-                "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054970/capsule_184x69.jpg?t=1788308490",
-                "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054970/page_bg_raw.jpg?t=1788308490",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054970/header.jpg?t=1791504871",
+                "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054970/capsule_184x69.jpg?t=1791504871",
+                "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054970/page_bg_raw.jpg?t=1791504871",
                 "screenshots": [
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054970/ss_f419f8b6577558b40ce8c384f4bfaabbf44c8a8e.1920x1080.jpg?t=1788308490",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054970/ss_084be4d2bf3c7365c2b684c4b5578a1ad8deefac.1920x1080.jpg?t=1788308490",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054970/ss_037861574d85abdfb8908204e446544abd92effe.1920x1080.jpg?t=1788308490",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054970/ss_ef263c112e274dc73a4bb00596aee1ebfc2b0ed8.1920x1080.jpg?t=1788308490",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054970/ss_8979e7af203f7405845f76ffa73749d924540e97.1920x1080.jpg?t=1788308490",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054970/ss_a2878bf879ea6c36cc2c5a554007a5116e8ede14.1920x1080.jpg?t=1788308490",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054970/ss_06cdf45af9fa89bc9a6e9d46f830fe0e9d84f1e3.1920x1080.jpg?t=1788308490",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054970/ss_7818dbd3504400f13f5924adc9d81999b791e87b.1920x1080.jpg?t=1788308490",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054970/ss_db618332718d8a6c4f450dd3c6658ad154d328b4.1920x1080.jpg?t=1788308490",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054970/ss_6d2e03c518137d89e8b82a4ada6f3d0a2e804cc5.1920x1080.jpg?t=1788308490"
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054970/ss_f419f8b6577558b40ce8c384f4bfaabbf44c8a8e.1920x1080.jpg?t=1791504871",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054970/ss_084be4d2bf3c7365c2b684c4b5578a1ad8deefac.1920x1080.jpg?t=1791504871",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054970/ss_037861574d85abdfb8908204e446544abd92effe.1920x1080.jpg?t=1791504871",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054970/ss_ef263c112e274dc73a4bb00596aee1ebfc2b0ed8.1920x1080.jpg?t=1791504871",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054970/ss_8979e7af203f7405845f76ffa73749d924540e97.1920x1080.jpg?t=1791504871",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054970/ss_a2878bf879ea6c36cc2c5a554007a5116e8ede14.1920x1080.jpg?t=1791504871",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054970/ss_06cdf45af9fa89bc9a6e9d46f830fe0e9d84f1e3.1920x1080.jpg?t=1791504871",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054970/ss_7818dbd3504400f13f5924adc9d81999b791e87b.1920x1080.jpg?t=1791504871",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054970/ss_db618332718d8a6c4f450dd3c6658ad154d328b4.1920x1080.jpg?t=1791504871",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054970/ss_6d2e03c518137d89e8b82a4ada6f3d0a2e804cc5.1920x1080.jpg?t=1791504871"
                 ],
                 "movies": [
                     {
@@ -99614,7 +99899,7 @@
                         "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2054970/677544/9da1ff8a253ea457b81438285e816b12dcfd7081/1750745446/hls_264_master.m3u8?t=1711065688"
                     }
                 ],
-                "achievements_total": 54,
+                "achievements_total": 60,
                 "achievements_highlighted": [
                     {
                         "icon": "d8b6bfbea2c502f4b595b41d3cabb835c1df7394.jpg",
@@ -99768,356 +100053,500 @@
                 "FileDitch": [
                     {
                         "file_name": "DragonsDogma2_Fix_Repair_Steam.rar",
-                        "direct_link": "https://fileditchfiles.st/balpha23/433f369cff85603a5ab8/DragonsDogma2_Fix_Repair_Steam.rar"
+                        "direct_link": "https://itsfileditchfiles.st/alpha39/c1f9d3fa3175610b82b7/DragonsDogma2_Fix_Repair_Steam.rar"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part01.rar",
-                        "direct_link": "https://fileditchfiles.st/balpha17/3c07538349baef773f7a/Dragons.Dogma.2.Build.02092026-OFME.part01.rar"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part01.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha39/d7df20b3be174e7aadb7/Dragons.Dogma.2.Build.16102026-OFME.part01.rar"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part02.rar",
-                        "direct_link": "https://fileditchfiles.st/balpha17/4184ba392cb012096abf/Dragons.Dogma.2.Build.02092026-OFME.part02.rar"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part02.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha39/540a1af638567ccafa4e/Dragons.Dogma.2.Build.16102026-OFME.part02.rar"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part03.rar",
-                        "direct_link": "https://fileditchfiles.st/balpha17/f01187f91b0a6a936043/Dragons.Dogma.2.Build.02092026-OFME.part03.rar"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part03.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha39/3b449cd0ebeb74acd045/Dragons.Dogma.2.Build.16102026-OFME.part03.rar"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part04.rar",
-                        "direct_link": "https://fileditchfiles.st/balpha17/befef79e5ea38266130b/Dragons.Dogma.2.Build.02092026-OFME.part04.rar"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part04.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha39/486abdce3ab6f1465643/Dragons.Dogma.2.Build.16102026-OFME.part04.rar"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part05.rar",
-                        "direct_link": "https://fileditchfiles.st/balpha17/e7cdf4597c6695887544/Dragons.Dogma.2.Build.02092026-OFME.part05.rar"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part05.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha39/936ba7aea43af7a14e53/Dragons.Dogma.2.Build.16102026-OFME.part05.rar"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part06.rar",
-                        "direct_link": "https://fileditchfiles.st/balpha17/026043683ddb35da809d/Dragons.Dogma.2.Build.02092026-OFME.part06.rar"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part06.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha39/f70fea6d83e2f499885a/Dragons.Dogma.2.Build.16102026-OFME.part06.rar"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part07.rar",
-                        "direct_link": "https://fileditchfiles.st/balpha17/84c8dc50f5c48a78aec9/Dragons.Dogma.2.Build.02092026-OFME.part07.rar"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part07.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha39/c41c70e35776961b5290/Dragons.Dogma.2.Build.16102026-OFME.part07.rar"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part08.rar",
-                        "direct_link": "https://fileditchfiles.st/balpha17/2ecb6b16e66fcafdb7f9/Dragons.Dogma.2.Build.02092026-OFME.part08.rar"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part08.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha39/d2d5cffd7465ce512fb0/Dragons.Dogma.2.Build.16102026-OFME.part08.rar"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part09.rar",
-                        "direct_link": "https://fileditchfiles.st/balpha17/e3b2f6df7cddebf2a33b/Dragons.Dogma.2.Build.02092026-OFME.part09.rar"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part09.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha39/dde94df75c02b932e2dd/Dragons.Dogma.2.Build.16102026-OFME.part09.rar"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part10.rar",
-                        "direct_link": "https://fileditchfiles.st/balpha17/1073cdfdeccd037f6707/Dragons.Dogma.2.Build.02092026-OFME.part10.rar"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part10.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha39/3aed085835c364c451e7/Dragons.Dogma.2.Build.16102026-OFME.part10.rar"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part11.rar",
-                        "direct_link": "https://fileditchfiles.st/balpha17/bc5c6baa2ca099be165e/Dragons.Dogma.2.Build.02092026-OFME.part11.rar"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part11.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha39/361195d1f367aab68c81/Dragons.Dogma.2.Build.16102026-OFME.part11.rar"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part12.rar",
-                        "direct_link": "https://fileditchfiles.st/balpha17/c085d032aa2380981cd1/Dragons.Dogma.2.Build.02092026-OFME.part12.rar"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part12.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha39/538bfe4589bacc7e7e03/Dragons.Dogma.2.Build.16102026-OFME.part12.rar"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part13.rar",
-                        "direct_link": "https://fileditchfiles.st/balpha17/d737cd2507a4dc905ae6/Dragons.Dogma.2.Build.02092026-OFME.part13.rar"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part13.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha39/d2fdace833f5e45f059c/Dragons.Dogma.2.Build.16102026-OFME.part13.rar"
+                    },
+                    {
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part14.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha39/42a670e4e36e016f9945/Dragons.Dogma.2.Build.16102026-OFME.part14.rar"
+                    },
+                    {
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part15.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha39/15247796c154e1c74a7e/Dragons.Dogma.2.Build.16102026-OFME.part15.rar"
+                    },
+                    {
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part16.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha39/6d1c714db18b4af59748/Dragons.Dogma.2.Build.16102026-OFME.part16.rar"
+                    },
+                    {
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part17.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha39/ccf68742cee0158d5e9a/Dragons.Dogma.2.Build.16102026-OFME.part17.rar"
+                    },
+                    {
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part18.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha39/74aeb6e86b899618b3ae/Dragons.Dogma.2.Build.16102026-OFME.part18.rar"
+                    },
+                    {
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part19.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha39/18cf5146122f0504a2d2/Dragons.Dogma.2.Build.16102026-OFME.part19.rar"
                     }
                 ],
                 "FileKeeper": [
                     {
                         "file_name": "DragonsDogma2_Fix_Repair_Steam.rar",
-                        "direct_link": "https://filekeeper.net/8yoat8s8bdwm"
+                        "direct_link": "https://filekeeper.net/niudk4la7mq2"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part01.rar",
-                        "direct_link": "https://filekeeper.net/m98cxkpplh00"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part01.rar",
+                        "direct_link": "https://filekeeper.net/brh6096uejj1"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part02.rar",
-                        "direct_link": "https://filekeeper.net/sjza6ihr9863"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part02.rar",
+                        "direct_link": "https://filekeeper.net/c0r7nh7cimre"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part03.rar",
-                        "direct_link": "https://filekeeper.net/wdstwcaraon4"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part03.rar",
+                        "direct_link": "https://filekeeper.net/6uuhk8x4kvlg"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part04.rar",
-                        "direct_link": "https://filekeeper.net/jrxmfx55x5aw"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part04.rar",
+                        "direct_link": "https://filekeeper.net/ahxkvo30p5io"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part05.rar",
-                        "direct_link": "https://filekeeper.net/mub3z4ss03p6"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part05.rar",
+                        "direct_link": "https://filekeeper.net/h5p2hdlcc1ae"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part06.rar",
-                        "direct_link": "https://filekeeper.net/7u23ptiwim8z"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part06.rar",
+                        "direct_link": "https://filekeeper.net/ft7h5j0h6lg6"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part07.rar",
-                        "direct_link": "https://filekeeper.net/mb1i90yeqcax"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part07.rar",
+                        "direct_link": "https://filekeeper.net/a8ubl7en9fn5"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part08.rar",
-                        "direct_link": "https://filekeeper.net/csj8wzm0lfm2"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part08.rar",
+                        "direct_link": "https://filekeeper.net/hh6lb3odyjsa"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part09.rar",
-                        "direct_link": "https://filekeeper.net/c204fvt70l7c"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part09.rar",
+                        "direct_link": "https://filekeeper.net/ycltyskrj8t9"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part10.rar",
-                        "direct_link": "https://filekeeper.net/7tnzaq8o4960"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part10.rar",
+                        "direct_link": "https://filekeeper.net/vli4ynb0hwlj"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part11.rar",
-                        "direct_link": "https://filekeeper.net/yymcdotij13y"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part11.rar",
+                        "direct_link": "https://filekeeper.net/xaz7cftnavkj"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part12.rar",
-                        "direct_link": "https://filekeeper.net/6ohfjlipcf8h"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part12.rar",
+                        "direct_link": "https://filekeeper.net/qq3a8h1kwypo"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part13.rar",
-                        "direct_link": "https://filekeeper.net/p2fw84o9kwi5"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part13.rar",
+                        "direct_link": "https://filekeeper.net/51ju8bbyc42u"
+                    },
+                    {
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part14.rar",
+                        "direct_link": "https://filekeeper.net/c28xjhpkvol5"
+                    },
+                    {
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part15.rar",
+                        "direct_link": "https://filekeeper.net/3dv81jyxhsw0"
+                    },
+                    {
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part16.rar",
+                        "direct_link": "https://filekeeper.net/o85psny4muad"
+                    },
+                    {
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part17.rar",
+                        "direct_link": "https://filekeeper.net/5c7kt8y02h0d"
+                    },
+                    {
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part18.rar",
+                        "direct_link": "https://filekeeper.net/jl0qmchzbotp"
+                    },
+                    {
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part19.rar",
+                        "direct_link": "https://filekeeper.net/inhspcsg621e"
                     }
                 ],
                 "Pixeldrain": [
                     {
                         "file_name": "DragonsDogma2_Fix_Repair_Steam.rar",
-                        "direct_link": "https://pixeldrain.com/u/d9p2UygM"
+                        "direct_link": "https://pixeldrain.com/u/tkVvYZKB"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part01.rar",
-                        "direct_link": "https://pixeldrain.com/u/ug9ekUBJ"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part01.rar",
+                        "direct_link": "https://pixeldrain.com/u/wL9yvxre"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part02.rar",
-                        "direct_link": "https://pixeldrain.com/u/4ZmK7gds"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part02.rar",
+                        "direct_link": "https://pixeldrain.com/u/fEaZWqxH"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part03.rar",
-                        "direct_link": "https://pixeldrain.com/u/Gv1jR7vU"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part03.rar",
+                        "direct_link": "https://pixeldrain.com/u/9oQ46BUZ"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part04.rar",
-                        "direct_link": "https://pixeldrain.com/u/4xhEuq5L"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part04.rar",
+                        "direct_link": "https://pixeldrain.com/u/LsTGNfgj"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part05.rar",
-                        "direct_link": "https://pixeldrain.com/u/sa6DvqPn"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part05.rar",
+                        "direct_link": "https://pixeldrain.com/u/Erwzs6mH"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part06.rar",
-                        "direct_link": "https://pixeldrain.com/u/5TRBiKuK"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part06.rar",
+                        "direct_link": "https://pixeldrain.com/u/4mS5QVrr"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part07.rar",
-                        "direct_link": "https://pixeldrain.com/u/dnNmomBm"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part07.rar",
+                        "direct_link": "https://pixeldrain.com/u/vAuSyzWS"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part08.rar",
-                        "direct_link": "https://pixeldrain.com/u/zGuNtBP3"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part08.rar",
+                        "direct_link": "https://pixeldrain.com/u/MXDwxdL6"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part09.rar",
-                        "direct_link": "https://pixeldrain.com/u/Md8R56yD"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part09.rar",
+                        "direct_link": "https://pixeldrain.com/u/Zyw2HQCF"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part10.rar",
-                        "direct_link": "https://pixeldrain.com/u/GJqvSAW5"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part10.rar",
+                        "direct_link": "https://pixeldrain.com/u/xz9X1ztR"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part11.rar",
-                        "direct_link": "https://pixeldrain.com/u/M3wRLZRi"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part11.rar",
+                        "direct_link": "https://pixeldrain.com/u/b9QHQJTp"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part12.rar",
-                        "direct_link": "https://pixeldrain.com/u/Ap8vL53N"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part12.rar",
+                        "direct_link": "https://pixeldrain.com/u/UnXioknW"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part13.rar",
-                        "direct_link": "https://pixeldrain.com/u/WgCPq5PN"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part13.rar",
+                        "direct_link": "https://pixeldrain.com/u/MrMKuaBL"
+                    },
+                    {
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part14.rar",
+                        "direct_link": "https://pixeldrain.com/u/vfdtc6tt"
+                    },
+                    {
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part15.rar",
+                        "direct_link": "https://pixeldrain.com/u/We5vtyGZ"
+                    },
+                    {
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part16.rar",
+                        "direct_link": "https://pixeldrain.com/u/6ByPUnza"
+                    },
+                    {
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part17.rar",
+                        "direct_link": "https://pixeldrain.com/u/hR3fckLm"
+                    },
+                    {
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part18.rar",
+                        "direct_link": "https://pixeldrain.com/u/LVVVDhoX"
+                    },
+                    {
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part19.rar",
+                        "direct_link": "https://pixeldrain.com/u/9RNxw39L"
                     }
                 ],
                 "Gofile": [
                     {
                         "file_name": "DragonsDogma2_Fix_Repair_Steam.rar",
-                        "direct_link": "https://gofile.io/d/BeXqOAR9"
+                        "direct_link": "https://gofile.io/d/LYOWAJUN"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part01.rar",
-                        "direct_link": "https://gofile.io/d/Ms4KEUoB"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part01.rar",
+                        "direct_link": "https://gofile.io/d/ehl5k2IF"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part02.rar",
-                        "direct_link": "https://gofile.io/d/CN2AAlzG"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part02.rar",
+                        "direct_link": "https://gofile.io/d/u1ft3cVl"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part03.rar",
-                        "direct_link": "https://gofile.io/d/IU33OgXy"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part03.rar",
+                        "direct_link": "https://gofile.io/d/mRudaxte"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part04.rar",
-                        "direct_link": "https://gofile.io/d/4X8U5T65"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part04.rar",
+                        "direct_link": "https://gofile.io/d/lSwpClK1"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part05.rar",
-                        "direct_link": "https://gofile.io/d/mKTy3fi4"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part05.rar",
+                        "direct_link": "https://gofile.io/d/opYRWUJK"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part06.rar",
-                        "direct_link": "https://gofile.io/d/VPbfQjnW"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part06.rar",
+                        "direct_link": "https://gofile.io/d/hOrUzThH"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part07.rar",
-                        "direct_link": "https://gofile.io/d/HSlQAe8F"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part07.rar",
+                        "direct_link": "https://gofile.io/d/lfnyJFxU"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part08.rar",
-                        "direct_link": "https://gofile.io/d/W4yKa1W8"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part08.rar",
+                        "direct_link": "https://gofile.io/d/a7OfhqIf"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part09.rar",
-                        "direct_link": "https://gofile.io/d/tpT5aqDp"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part09.rar",
+                        "direct_link": "https://gofile.io/d/BYCjwi9m"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part10.rar",
-                        "direct_link": "https://gofile.io/d/hMgvdPXK"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part10.rar",
+                        "direct_link": "https://gofile.io/d/We0k1AZc"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part11.rar",
-                        "direct_link": "https://gofile.io/d/uVrCpiLm"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part11.rar",
+                        "direct_link": "https://gofile.io/d/4VsrfJVi"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part12.rar",
-                        "direct_link": "https://gofile.io/d/5kvFYRos"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part12.rar",
+                        "direct_link": "https://gofile.io/d/VVKUosCG"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part13.rar",
-                        "direct_link": "https://gofile.io/d/oTluSwle"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part13.rar",
+                        "direct_link": "https://gofile.io/d/uV6enixQ"
+                    },
+                    {
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part14.rar",
+                        "direct_link": "https://gofile.io/d/EtTyOr6s"
+                    },
+                    {
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part15.rar",
+                        "direct_link": "https://gofile.io/d/P8kNmM08"
+                    },
+                    {
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part16.rar",
+                        "direct_link": "https://gofile.io/d/vsK3Ya4B"
+                    },
+                    {
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part17.rar",
+                        "direct_link": "https://gofile.io/d/fhAud9U7"
+                    },
+                    {
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part18.rar",
+                        "direct_link": "https://gofile.io/d/SUGLj3fT"
+                    },
+                    {
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part19.rar",
+                        "direct_link": "https://gofile.io/d/Dph5BN7i"
                     }
                 ],
                 "VikingFile": [
                     {
                         "file_name": "DragonsDogma2_Fix_Repair_Steam.rar",
-                        "direct_link": "https://vikingfile.com/f/htBqxajA1c"
+                        "direct_link": "https://vikingfile.com/f/QBfRVPAVfS"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part01.rar",
-                        "direct_link": "https://vikingfile.com/f/n0afbbjI7A"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part01.rar",
+                        "direct_link": "https://vikingfile.com/f/giHtlDX6He"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part02.rar",
-                        "direct_link": "https://vikingfile.com/f/8nTq6Sb6fV"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part02.rar",
+                        "direct_link": "https://vikingfile.com/f/elfGhsnW2P"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part03.rar",
-                        "direct_link": "https://vikingfile.com/f/rcJI9aF6bF"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part03.rar",
+                        "direct_link": "https://vikingfile.com/f/fsvBXiCYtk"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part04.rar",
-                        "direct_link": "https://vikingfile.com/f/eZ80bIvvZL"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part04.rar",
+                        "direct_link": "https://vikingfile.com/f/XJLXQTcNzC"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part05.rar",
-                        "direct_link": "https://vikingfile.com/f/MKgfl1vquc"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part05.rar",
+                        "direct_link": "https://vikingfile.com/f/HuKPbuQfJl"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part06.rar",
-                        "direct_link": "https://vikingfile.com/f/dXvy8WPTAI"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part06.rar",
+                        "direct_link": "https://vikingfile.com/f/9rGyBUDjDl"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part07.rar",
-                        "direct_link": "https://vikingfile.com/f/SMyotgnoXX"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part07.rar",
+                        "direct_link": "https://vikingfile.com/f/C6AO2bI3ys"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part08.rar",
-                        "direct_link": "https://vikingfile.com/f/SAkIHnoV5P"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part08.rar",
+                        "direct_link": "https://vikingfile.com/f/bqI5NZzxzR"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part09.rar",
-                        "direct_link": "https://vikingfile.com/f/X3Ps2PJ4jW"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part09.rar",
+                        "direct_link": "https://vikingfile.com/f/pRp9YSw7jc"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part10.rar",
-                        "direct_link": "https://vikingfile.com/f/FNPFnqOhpQ"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part10.rar",
+                        "direct_link": "https://vikingfile.com/f/E6qMlhJlwN"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part11.rar",
-                        "direct_link": "https://vikingfile.com/f/K9WCbB7QhS"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part11.rar",
+                        "direct_link": "https://vikingfile.com/f/SndFLe4ol4"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part12.rar",
-                        "direct_link": "https://vikingfile.com/f/GYgFVpUo2M"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part12.rar",
+                        "direct_link": "https://vikingfile.com/f/cfUNtHbqoj"
                     },
                     {
-                        "file_name": "Dragons.Dogma.2.Build.02092026-OFME.part13.rar",
-                        "direct_link": "https://vikingfile.com/f/EFFZP1XKKP"
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part13.rar",
+                        "direct_link": "https://vikingfile.com/f/VSVTJpH3CA"
+                    },
+                    {
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part14.rar",
+                        "direct_link": "https://vikingfile.com/f/dEgCxa9LwW"
+                    },
+                    {
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part15.rar",
+                        "direct_link": "https://vikingfile.com/f/D1qOOy0Kkb"
+                    },
+                    {
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part16.rar",
+                        "direct_link": "https://vikingfile.com/f/Zs1wPuSYPo"
+                    },
+                    {
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part17.rar",
+                        "direct_link": "https://vikingfile.com/f/hBlCO48RkX"
+                    },
+                    {
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part18.rar",
+                        "direct_link": "https://vikingfile.com/f/sT7zvLDSC0"
+                    },
+                    {
+                        "file_name": "Dragons.Dogma.2.Build.16102026-OFME.part19.rar",
+                        "direct_link": "https://vikingfile.com/f/QeGUzlvQZC"
                     }
                 ]
             },
-            "unique_hash": "2950aee1e3348c0fece32bd29482d1aae7b4e04c",
-            "fileSize": "62.32 GB",
-            "magnet": "magnet:?xt=urn:btih:2950aee1e3348c0fece32bd29482d1aae7b4e04c&dn=Dragons%20Dogma%202&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
-            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_2/Dragons.Dogma.2.Build.02092026-OFME.torrent",
-            "created_at": "2026-09-28 10:56:08",
+            "unique_hash": "2b5e9a9a4206641df36ca0424851397ee7abecf2",
+            "fileSize": "90.98 GB",
+            "magnet": "magnet:?xt=urn:btih:2b5e9a9a4206641df36ca0424851397ee7abecf2&dn=Dragons%20Dogma%202&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_3/Dragons.Dogma.2.Build.16102026-OFME.torrent",
+            "created_at": "2026-10-21 06:52:33",
             "webdav_updated_at": "Unknown",
             "files": [
                 {
-                    "name": "Dragons.Dogma.2.Build.02092026-OFME.part03.rar",
+                    "name": "Dragons.Dogma.2.Build.16102026-OFME.part01.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "Dragons.Dogma.2.Build.02092026-OFME.part04.rar",
+                    "name": "Dragons.Dogma.2.Build.16102026-OFME.part02.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "Dragons.Dogma.2.Build.02092026-OFME.part05.rar",
+                    "name": "Dragons.Dogma.2.Build.16102026-OFME.part03.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "Dragons.Dogma.2.Build.02092026-OFME.part06.rar",
+                    "name": "Dragons.Dogma.2.Build.16102026-OFME.part04.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "Dragons.Dogma.2.Build.02092026-OFME.part07.rar",
+                    "name": "Dragons.Dogma.2.Build.16102026-OFME.part05.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "Dragons.Dogma.2.Build.02092026-OFME.part08.rar",
+                    "name": "Dragons.Dogma.2.Build.16102026-OFME.part11.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "Dragons.Dogma.2.Build.02092026-OFME.part09.rar",
+                    "name": "Dragons.Dogma.2.Build.16102026-OFME.part12.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "Dragons.Dogma.2.Build.02092026-OFME.part10.rar",
+                    "name": "Dragons.Dogma.2.Build.16102026-OFME.part13.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "Dragons.Dogma.2.Build.02092026-OFME.part11.rar",
+                    "name": "Dragons.Dogma.2.Build.16102026-OFME.part14.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "Dragons.Dogma.2.Build.02092026-OFME.part12.rar",
+                    "name": "Dragons.Dogma.2.Build.16102026-OFME.part15.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "Dragons.Dogma.2.Build.02092026-OFME.part13.rar",
-                    "size": "2.20 GB"
+                    "name": "Dragons.Dogma.2.Build.16102026-OFME.part16.rar",
+                    "size": "5.00 GB"
                 },
                 {
                     "name": "Fix Repair/DragonsDogma2_Fix_Repair_Steam.rar",
-                    "size": "120.25 MB"
+                    "size": "122.31 MB"
                 },
                 {
-                    "name": "Dragons.Dogma.2.Build.02092026-OFME.part01.rar",
+                    "name": "Dragons.Dogma.2.Build.16102026-OFME.part06.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "Dragons.Dogma.2.Build.02092026-OFME.part02.rar",
+                    "name": "Dragons.Dogma.2.Build.16102026-OFME.part07.rar",
                     "size": "5.00 GB"
+                },
+                {
+                    "name": "Dragons.Dogma.2.Build.16102026-OFME.part08.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Dragons.Dogma.2.Build.16102026-OFME.part09.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Dragons.Dogma.2.Build.16102026-OFME.part10.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Dragons.Dogma.2.Build.16102026-OFME.part17.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Dragons.Dogma.2.Build.16102026-OFME.part18.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Dragons.Dogma.2.Build.16102026-OFME.part19.rar",
+                    "size": "877.13 MB"
                 }
             ],
             "comment": ""
@@ -114393,10 +114822,10 @@
             "url": "https://online-fix.me/games/survival/17324-enshrouded-po-seti.html",
             "last_update": "2024-01-24T19:50:14+03:00",
             "release_date": "15.10.2026",
-            "update_info": "Обновлено Вчера, 16:49. Игра обновлена до релизной версии.",
-            "update_date": null,
-            "formatted_update_date": null,
-            "scraped_at": "2026-10-20 18:09:17",
+            "update_info": "Обновлено 20 октября 2026, 16:49. Игра обновлена до релизной версии.",
+            "update_date": "2026-10-20T16:49:00+03:00",
+            "formatted_update_date": "2026-10-20 16:49:00",
+            "scraped_at": "2026-10-21 18:08:15",
             "steam": {
                 "steam_appid": 1203620,
                 "match_score": 100,
@@ -136929,6 +137358,336 @@
                 {
                     "name": "Forsaken.Frontiers.v1711-OFME.rar",
                     "size": "721.24 MB"
+                }
+            ],
+            "comment": ""
+        },
+        {
+            "title": "Forsworn",
+            "page": 1,
+            "url": "https://online-fix.me/games/strategy/18279-forsworn-online.html",
+            "last_update": "2026-10-21T13:39:18+03:00",
+            "release_date": null,
+            "update_info": "",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-10-21 18:07:54",
+            "steam": {
+                "steam_appid": 3560360,
+                "match_score": 100,
+                "match_via": "canon",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3560360/2093264c66c2e9f05db245dbed06b25da4f95ae7/header.jpg?t=1789055128",
+                "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3560360/c898c2e2b7ca6f6deb12fe3bff991f94796d0b80/capsule_184x69.jpg?t=1789055128",
+                "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3560360?t=1789055128",
+                "screenshots": [
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3560360/ffe425254af94e1e3b0412ae027fbc2267393242/ss_ffe425254af94e1e3b0412ae027fbc2267393242.1920x1080.jpg?t=1789055128",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3560360/847bbc673b241df85be689cdad687318dc4b8094/ss_847bbc673b241df85be689cdad687318dc4b8094.1920x1080.jpg?t=1789055128",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3560360/f4c5251bd0e94c1dd057630ea44285c2b25b2010/ss_f4c5251bd0e94c1dd057630ea44285c2b25b2010.1920x1080.jpg?t=1789055128",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3560360/b86228d01e0a0b09e6d9ae0950f86c2cae7d7195/ss_b86228d01e0a0b09e6d9ae0950f86c2cae7d7195.1920x1080.jpg?t=1789055128",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3560360/25fcd3c5e6ea4c138223de513bcafa2d3320a36e/ss_25fcd3c5e6ea4c138223de513bcafa2d3320a36e.1920x1080.jpg?t=1789055128",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3560360/957e7e1474a2982b751da7a3bb9c11d6b33c27e4/ss_957e7e1474a2982b751da7a3bb9c11d6b33c27e4.1920x1080.jpg?t=1789055128",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3560360/b6bc5906d936affdd9da2b3961f5be28e9db7427/ss_b6bc5906d936affdd9da2b3961f5be28e9db7427.1920x1080.jpg?t=1789055128",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3560360/a1997692b82074689d01f5be8f3e8cb324a03718/ss_a1997692b82074689d01f5be8f3e8cb324a03718.1920x1080.jpg?t=1789055128",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3560360/e6cf9261b1343c09cd1ac9a72cf5832290edc395/ss_e6cf9261b1343c09cd1ac9a72cf5832290edc395.1920x1080.jpg?t=1789055128",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3560360/029ec9af9c0ea51c65ccee854c875092bb9b5ef8/ss_029ec9af9c0ea51c65ccee854c875092bb9b5ef8.1920x1080.jpg?t=1789055128",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3560360/0ea05ecb88a414070e6a5b73ae858bc070720418/ss_0ea05ecb88a414070e6a5b73ae858bc070720418.1920x1080.jpg?t=1789055128",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3560360/6523c4f91186f2981cfa4f552ea790ec1b9605c7/ss_6523c4f91186f2981cfa4f552ea790ec1b9605c7.1920x1080.jpg?t=1789055128",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3560360/d8998cff70d61874757ac7e06b7e0a7886241521/ss_d8998cff70d61874757ac7e06b7e0a7886241521.1920x1080.jpg?t=1789055128",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3560360/ff631d8addaea7de52083f1322890b553bb2f4a3/ss_ff631d8addaea7de52083f1322890b553bb2f4a3.1920x1080.jpg?t=1789055128",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3560360/1af104e8f269dc2d2fe0ab2c2934ed04efda207f/ss_1af104e8f269dc2d2fe0ab2c2934ed04efda207f.1920x1080.jpg?t=1789055128"
+                ],
+                "movies": [
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257306972/4e38fc58e6185d032941fcfc15eff00dd863a4d9/movie_600x337.jpg?t=1774073893",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/3560360/701579920/f11d0978ac10e65cfd935f5b88f95abbd12076be/1774071404/dash_h264.mpd?t=1774073893",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/3560360/701579920/f11d0978ac10e65cfd935f5b88f95abbd12076be/1774071404/hls_264_master.m3u8?t=1774073893"
+                    },
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257223823/cbc471d7f84c59f912db73a02502c93efa033023/movie_600x337.jpg?t=1785718752",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/3560360/673433705/4ed7209db727d88f082078efb6ab344ca7f0b92c/1785717909/dash_h264.mpd?t=1785718752",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/3560360/673433705/4ed7209db727d88f082078efb6ab344ca7f0b92c/1785717909/hls_264_master.m3u8?t=1785718752"
+                    }
+                ],
+                "achievements_total": 38,
+                "achievements_highlighted": [
+                    {
+                        "icon": "9c63d7c6d00cb3138d3adeed6b240ff648938ade.jpg",
+                        "localized_name": "And Then There Were None",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "And Then There Were None",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3560360/9c63d7c6d00cb3138d3adeed6b240ff648938ade.jpg"
+                    },
+                    {
+                        "icon": "7cbcabd53f1107cc176c0fb876a9c8c3ba1f5190.jpg",
+                        "localized_name": "Seasoned Hero",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Seasoned Hero",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3560360/7cbcabd53f1107cc176c0fb876a9c8c3ba1f5190.jpg"
+                    },
+                    {
+                        "icon": "879489e9ed29282fe53e04ae89e968e41ebe71f9.jpg",
+                        "localized_name": "A Coward Laid Bare",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "A Coward Laid Bare",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3560360/879489e9ed29282fe53e04ae89e968e41ebe71f9.jpg"
+                    },
+                    {
+                        "icon": "e33fdd1d4152add9faef7e0c48033d0735952592.jpg",
+                        "localized_name": "Between The Eyes",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Between The Eyes",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3560360/e33fdd1d4152add9faef7e0c48033d0735952592.jpg"
+                    },
+                    {
+                        "icon": "38c9604a89c78bd3be23d4bc0d60d488056e58f3.jpg",
+                        "localized_name": "Forbidden Knowledge",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Forbidden Knowledge",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3560360/38c9604a89c78bd3be23d4bc0d60d488056e58f3.jpg"
+                    },
+                    {
+                        "icon": "a959edb573b402694a0c54ae0c0559644c634692.jpg",
+                        "localized_name": "Blood Spiller",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Blood Spiller",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3560360/a959edb573b402694a0c54ae0c0559644c634692.jpg"
+                    },
+                    {
+                        "icon": "a595112a9a938167454f2b69643d111a85e42b02.jpg",
+                        "localized_name": "Reach Level 6 with Paladin.",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Reach Level 6 with Paladin.",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3560360/a595112a9a938167454f2b69643d111a85e42b02.jpg"
+                    },
+                    {
+                        "icon": "b6438c83fe451911da391bda5aae954dc34e4d32.jpg",
+                        "localized_name": "Three Graves Deep",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Three Graves Deep",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3560360/b6438c83fe451911da391bda5aae954dc34e4d32.jpg"
+                    },
+                    {
+                        "icon": "2b4a8012d978dc83b481c4d7f7c3eb7037915741.jpg",
+                        "localized_name": "A Mysterious Gift",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "A Mysterious Gift",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3560360/2b4a8012d978dc83b481c4d7f7c3eb7037915741.jpg"
+                    },
+                    {
+                        "icon": "31064cd1119b871494877854c713eaa36dc97800.jpg",
+                        "localized_name": "Explorer's Map",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Explorer's Map",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3560360/31064cd1119b871494877854c713eaa36dc97800.jpg"
+                    }
+                ],
+                "ratings": {
+                    "pegi": null,
+                    "esrb": null
+                },
+                "release_date_steam": "10 set. 2026",
+                "short_description": "Acumule sinergias revolucionárias até que seu grupo consiga matar deuses. Comande um grupo de heróis, crie sinergias poderosas e suba de nível em corridas neste roguelite tático baseado em turnos. Lute contra os deuses sozinho ou em modo cooperativo, onde a derrota é apenas mais um começo.",
+                "short_description_native": "Stack game-breaking synergies until your party can slay gods. Command a party of heroes, forge powerful synergies, and level them up across runs in this turn-based tactics roguelite. Battle the gods solo or in co-op, where defeat is just another beginning.",
+                "price_brl": "R$ 56,99",
+                "is_free": false,
+                "pc_requirements": {
+                    "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10\n\nProcessador: i5-4460 / Ryzen 3 1200\n\nMemória: 8 GB de RAM\n\nPlaca gráfica: NVIDIA GTX 960\n\nEspaço no disco: Requer 25 GB de espaço livre",
+                    "recommended": "Recomendados:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10\n\nProcessador: i5-9400 / Ryzen 5 3600\n\nMemória: 16 GB de RAM\n\nPlaca gráfica: NVIDIA GTX 1660\n\nEspaço no disco: Requer 25 GB de espaço livre"
+                },
+                "controller_support": "full",
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Um jogador"
+                    },
+                    {
+                        "id": 1,
+                        "description": "Multijogador"
+                    },
+                    {
+                        "id": 9,
+                        "description": "Co-op"
+                    },
+                    {
+                        "id": 38,
+                        "description": "Co-op online"
+                    },
+                    {
+                        "id": 22,
+                        "description": "Proezas Steam"
+                    },
+                    {
+                        "id": 28,
+                        "description": "Compatibilidade total com comando"
+                    },
+                    {
+                        "id": 64,
+                        "description": "Tamanho do texto ajustável"
+                    },
+                    {
+                        "id": 68,
+                        "description": "Controlos de volume independentes"
+                    },
+                    {
+                        "id": 78,
+                        "description": "Dificuldade ajustável"
+                    },
+                    {
+                        "id": 80,
+                        "description": "#category_playable_at_your_own_pace"
+                    },
+                    {
+                        "id": 74,
+                        "description": "Jogável sem necessitar de ações rápidas ou precisas"
+                    },
+                    {
+                        "id": 55,
+                        "description": "Compatibilidade com DUALSHOCK"
+                    },
+                    {
+                        "id": 56,
+                        "description": "Compatibilidade com DUALSHOCK"
+                    },
+                    {
+                        "id": 57,
+                        "description": "Compatibilidade com DualSense"
+                    },
+                    {
+                        "id": 58,
+                        "description": "Compatibilidade com DualSense"
+                    },
+                    {
+                        "id": 69,
+                        "description": "Som estéreo"
+                    },
+                    {
+                        "id": 23,
+                        "description": "Steam Cloud"
+                    },
+                    {
+                        "id": 25,
+                        "description": "Tabelas de liderança do Steam"
+                    },
+                    {
+                        "id": 62,
+                        "description": "Partilha de Biblioteca"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "23",
+                        "description": "Indie"
+                    },
+                    {
+                        "id": "3",
+                        "description": "RPG"
+                    },
+                    {
+                        "id": "2",
+                        "description": "Estratégia"
+                    }
+                ]
+            },
+            "hoster_links": {
+                "FileDitch": [
+                    {
+                        "file_name": "Forsworn_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha39/ba851a9b13dd2b574ae7/Forsworn_Fix_Repair_Steam_Generic.rar"
+                    },
+                    {
+                        "file_name": "Forsworn.v1.0.21-OFME.part1.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha39/5554c1a17c2316abd6b5/Forsworn.v1.0.21-OFME.part1.rar"
+                    },
+                    {
+                        "file_name": "Forsworn.v1.0.21-OFME.part2.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha39/02cbad7dafe00769552e/Forsworn.v1.0.21-OFME.part2.rar"
+                    }
+                ],
+                "FileKeeper": [
+                    {
+                        "file_name": "Forsworn_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://filekeeper.net/er95pml5t2ju"
+                    },
+                    {
+                        "file_name": "Forsworn.v1.0.21-OFME.part1.rar",
+                        "direct_link": "https://filekeeper.net/x4cdxj3qvzui"
+                    },
+                    {
+                        "file_name": "Forsworn.v1.0.21-OFME.part2.rar",
+                        "direct_link": "https://filekeeper.net/5ilc5j7qrays"
+                    }
+                ],
+                "Pixeldrain": [
+                    {
+                        "file_name": "Forsworn_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://pixeldrain.com/u/7Yum8uRH"
+                    },
+                    {
+                        "file_name": "Forsworn.v1.0.21-OFME.part1.rar",
+                        "direct_link": "https://pixeldrain.com/u/vBUZ4LMx"
+                    },
+                    {
+                        "file_name": "Forsworn.v1.0.21-OFME.part2.rar",
+                        "direct_link": "https://pixeldrain.com/u/x5YkqkEH"
+                    }
+                ],
+                "Gofile": [
+                    {
+                        "file_name": "Forsworn_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://gofile.io/d/Vb8QdtVE"
+                    },
+                    {
+                        "file_name": "Forsworn.v1.0.21-OFME.part1.rar",
+                        "direct_link": "https://gofile.io/d/FlvhKwuw"
+                    },
+                    {
+                        "file_name": "Forsworn.v1.0.21-OFME.part2.rar",
+                        "direct_link": "https://gofile.io/d/GBA6klV1"
+                    }
+                ],
+                "VikingFile": [
+                    {
+                        "file_name": "Forsworn_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://vikingfile.com/f/CE1W9c1NK4"
+                    },
+                    {
+                        "file_name": "Forsworn.v1.0.21-OFME.part1.rar",
+                        "direct_link": "https://vikingfile.com/f/BbSoc4sQd7"
+                    },
+                    {
+                        "file_name": "Forsworn.v1.0.21-OFME.part2.rar",
+                        "direct_link": "https://vikingfile.com/f/VA7EyZ8osy"
+                    }
+                ]
+            },
+            "unique_hash": "b48e0ed1b1eccc32d4afdbd0311904798d20106c",
+            "fileSize": "8.66 GB",
+            "magnet": "magnet:?xt=urn:btih:b48e0ed1b1eccc32d4afdbd0311904798d20106c&dn=Forsworn&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_1/Forsworn.v1.0.21-OFME.torrent",
+            "created_at": "2026-10-21 07:18:56",
+            "webdav_updated_at": "Unknown",
+            "files": [
+                {
+                    "name": "Fix Repair/Forsworn_Fix_Repair_Steam_Generic.rar",
+                    "size": "10.73 MB"
+                },
+                {
+                    "name": "Forsworn.v1.0.21-OFME.part1.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Forsworn.v1.0.21-OFME.part2.rar",
+                    "size": "3.65 GB"
                 }
             ],
             "comment": ""
@@ -179636,6 +180395,210 @@
             "comment": ""
         },
         {
+            "title": "Hood Warfare 2",
+            "page": 1,
+            "url": "https://online-fix.me/games/officialservers/18280-hood-warfare-2-online.html",
+            "last_update": "2026-10-21T13:39:22+03:00",
+            "release_date": null,
+            "update_info": "",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-10-21 18:07:50",
+            "steam": {
+                "steam_appid": 5155360,
+                "match_score": 100,
+                "match_via": "canon",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5155360/73c77dc5efdbffef90c2d32324d518e68a18fc4b/header.jpg?t=1791686243",
+                "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5155360/3fb79cd5dc290348c1febfccb140a0545be56797/capsule_184x69.jpg?t=1791686243",
+                "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/5155360?t=1791686243",
+                "screenshots": [
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5155360/fb3bbe1aaeb95f58d94ce04fc2c846eef14eab0e/ss_fb3bbe1aaeb95f58d94ce04fc2c846eef14eab0e.1920x1080.jpg?t=1791686243",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5155360/3a2e0482831e516554f61d50ebc8e424f0768aaf/ss_3a2e0482831e516554f61d50ebc8e424f0768aaf.1920x1080.jpg?t=1791686243",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5155360/4452474718a1f14e5a4a90876fd771b3df0bd15a/ss_4452474718a1f14e5a4a90876fd771b3df0bd15a.1920x1080.jpg?t=1791686243",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5155360/7f9821ca3035154413304b45333b080932830164/ss_7f9821ca3035154413304b45333b080932830164.1920x1080.jpg?t=1791686243",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5155360/43f0b1837500b5200327ce996e266f6cc4d93ae5/ss_43f0b1837500b5200327ce996e266f6cc4d93ae5.1920x1080.jpg?t=1791686243",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5155360/8f6b9d8798f23533564e0e88d008d5ec116f40d1/ss_8f6b9d8798f23533564e0e88d008d5ec116f40d1.1920x1080.jpg?t=1791686243",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5155360/be62732cc673afb6b5b5eac617ac07241cb925bc/ss_be62732cc673afb6b5b5eac617ac07241cb925bc.1920x1080.jpg?t=1791686243",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5155360/b6ed7c29d45420bc36ce6695197e2959bb6def96/ss_b6ed7c29d45420bc36ce6695197e2959bb6def96.1920x1080.jpg?t=1791686243",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5155360/1b52eb437bf8f80816d8e4110efd838548b242ff/ss_1b52eb437bf8f80816d8e4110efd838548b242ff.1920x1080.jpg?t=1791686243",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5155360/2172e2d1a26b39add6dee87d6ea49e3bb9655883/ss_2172e2d1a26b39add6dee87d6ea49e3bb9655883.1920x1080.jpg?t=1791686243",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5155360/7e74e69dba180206385a246f55f0682d22abb1bf/ss_7e74e69dba180206385a246f55f0682d22abb1bf.1920x1080.jpg?t=1791686243"
+                ],
+                "movies": [
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257422345/ab6e710a9a5fdf6eaff3c2cbda229913c631aab6/movie_600x337.jpg?t=1789586064",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/5155360/384733343/bdbb4dc29e132f1bf7b0baea9d620d20db178e98/1789079353/dash_h264.mpd?t=1789586064",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/5155360/384733343/bdbb4dc29e132f1bf7b0baea9d620d20db178e98/1789079353/hls_264_master.m3u8?t=1789586064"
+                    }
+                ],
+                "achievements_total": null,
+                "achievements_highlighted": [],
+                "ratings": {
+                    "pegi": null,
+                    "esrb": null
+                },
+                "release_date_steam": "8 out. 2026",
+                "short_description": "Gangues rivais lutam pelo controle de Chicago. Escolha um lado, personalize suas armas e lute contra outros jogadores em vários modos de jogo cheios de ação. Gire o quarteirão e domine as ruas neste caótico FPS multijogador.",
+                "short_description_native": "Rival gangs fight for control of Chicago. Pick a side, customize your weapons, and fight other players across a variety of action-packed game modes. Spin the block and take over the streets in this chaotic multiplayer FPS.",
+                "price_brl": "R$ 23,49",
+                "is_free": false,
+                "pc_requirements": {
+                    "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10 64-bit (version 1909 or newer)\n\nProcessador: Intel Core i5-9600K or AMD Ryzen 5 3600 (6 cores)\n\nMemória: 8 GB de RAM\n\nPlaca gráfica: NVIDIA GeForce GTX 1660,  AMD Radeon RX 5600 XT 6 GB\n\nDirectX: Versão 12\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 25 GB de espaço livre\n\nPlaca de som: DirectX compatible",
+                    "recommended": "Recomendados:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 11 64-bit\n\nProcessador: Intel Core i5-12600K or AMD Ryzen 5 7600\n\nMemória: 16 GB de RAM\n\nPlaca gráfica: NVIDIA GeForce RTX 3060 Ti, RTX 4060 8 GB\n\nDirectX: Versão 12\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 30 GB de espaço livre\n\nPlaca de som: DirectX compatible"
+                },
+                "controller_support": "full",
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Um jogador"
+                    },
+                    {
+                        "id": 1,
+                        "description": "Multijogador"
+                    },
+                    {
+                        "id": 49,
+                        "description": "PvP"
+                    },
+                    {
+                        "id": 36,
+                        "description": "PvP online"
+                    },
+                    {
+                        "id": 28,
+                        "description": "Compatibilidade total com comando"
+                    },
+                    {
+                        "id": 62,
+                        "description": "Partilha de Biblioteca"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "1",
+                        "description": "Ação"
+                    }
+                ]
+            },
+            "hoster_links": {
+                "FileDitch": [
+                    {
+                        "file_name": "HoodWarfare2_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha39/175f8bb76697030334e2/HoodWarfare2_Fix_Repair_Steam_Generic.rar"
+                    },
+                    {
+                        "file_name": "Hood.Warfare2.v1.0.1.8-OFME.part1.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha39/6428679543b5b22a0bb9/Hood.Warfare2.v1.0.1.8-OFME.part1.rar"
+                    },
+                    {
+                        "file_name": "Hood.Warfare2.v1.0.1.8-OFME.part2.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha39/6049dccc78049d4f9ea2/Hood.Warfare2.v1.0.1.8-OFME.part2.rar"
+                    },
+                    {
+                        "file_name": "Hood.Warfare2.v1.0.1.8-OFME.part3.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha39/01b78a3002c808ec1689/Hood.Warfare2.v1.0.1.8-OFME.part3.rar"
+                    }
+                ],
+                "FileKeeper": [
+                    {
+                        "file_name": "HoodWarfare2_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://filekeeper.net/unm6sjdyubll"
+                    },
+                    {
+                        "file_name": "Hood.Warfare2.v1.0.1.8-OFME.part1.rar",
+                        "direct_link": "https://filekeeper.net/xejxg1kqyd7b"
+                    },
+                    {
+                        "file_name": "Hood.Warfare2.v1.0.1.8-OFME.part2.rar",
+                        "direct_link": "https://filekeeper.net/zzj3gng4wjxx"
+                    },
+                    {
+                        "file_name": "Hood.Warfare2.v1.0.1.8-OFME.part3.rar",
+                        "direct_link": "https://filekeeper.net/2l5cibcoyta3"
+                    }
+                ],
+                "Pixeldrain": [
+                    {
+                        "file_name": "HoodWarfare2_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://pixeldrain.com/u/ZDk5ngRU"
+                    },
+                    {
+                        "file_name": "Hood.Warfare2.v1.0.1.8-OFME.part1.rar",
+                        "direct_link": "https://pixeldrain.com/u/SGjEwBQe"
+                    },
+                    {
+                        "file_name": "Hood.Warfare2.v1.0.1.8-OFME.part2.rar",
+                        "direct_link": "https://pixeldrain.com/u/HdTXHEXi"
+                    },
+                    {
+                        "file_name": "Hood.Warfare2.v1.0.1.8-OFME.part3.rar",
+                        "direct_link": "https://pixeldrain.com/u/SWNHpjPK"
+                    }
+                ],
+                "Gofile": [
+                    {
+                        "file_name": "HoodWarfare2_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://gofile.io/d/yAurLI71"
+                    },
+                    {
+                        "file_name": "Hood.Warfare2.v1.0.1.8-OFME.part1.rar",
+                        "direct_link": "https://gofile.io/d/XQfTHtOD"
+                    },
+                    {
+                        "file_name": "Hood.Warfare2.v1.0.1.8-OFME.part2.rar",
+                        "direct_link": "https://gofile.io/d/4u8d7Z7L"
+                    },
+                    {
+                        "file_name": "Hood.Warfare2.v1.0.1.8-OFME.part3.rar",
+                        "direct_link": "https://gofile.io/d/0ZTmDaIo"
+                    }
+                ],
+                "VikingFile": [
+                    {
+                        "file_name": "HoodWarfare2_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://vikingfile.com/f/LkEQrMmHye"
+                    },
+                    {
+                        "file_name": "Hood.Warfare2.v1.0.1.8-OFME.part1.rar",
+                        "direct_link": "https://vikingfile.com/f/4ehQ6hcJEW"
+                    },
+                    {
+                        "file_name": "Hood.Warfare2.v1.0.1.8-OFME.part2.rar",
+                        "direct_link": "https://vikingfile.com/f/mJYebKddmR"
+                    },
+                    {
+                        "file_name": "Hood.Warfare2.v1.0.1.8-OFME.part3.rar",
+                        "direct_link": "https://vikingfile.com/f/1DCAFTpvZM"
+                    }
+                ]
+            },
+            "unique_hash": "a4994573717ef4d05bd6242a3b60143c07078075",
+            "fileSize": "13.32 GB",
+            "magnet": "magnet:?xt=urn:btih:a4994573717ef4d05bd6242a3b60143c07078075&dn=Hood%20Warfare%202&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_1/Hood.Warfare2.v1.0.1.8-OFME.torrent",
+            "created_at": "2026-10-21 07:20:38",
+            "webdav_updated_at": "Unknown",
+            "files": [
+                {
+                    "name": "Fix Repair/HoodWarfare2_Fix_Repair_Steam_Generic.rar",
+                    "size": "23.04 MB"
+                },
+                {
+                    "name": "Hood.Warfare2.v1.0.1.8-OFME.part1.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Hood.Warfare2.v1.0.1.8-OFME.part2.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Hood.Warfare2.v1.0.1.8-OFME.part3.rar",
+                    "size": "3.30 GB"
+                }
+            ],
+            "comment": ""
+        },
+        {
             "title": "Horizon Chase 2",
             "page": 39,
             "url": "https://online-fix.me/games/racing/17341-horizon-chase-2-po-seti.html",
@@ -193670,6 +194633,296 @@
                 {
                     "name": "JUMP.FORCE.v3.01-OFME.part3.rar",
                     "size": "1.21 GB"
+                }
+            ],
+            "comment": ""
+        },
+        {
+            "title": "Japanese Ramen Simulator",
+            "page": 1,
+            "url": "https://online-fix.me/games/simulator/18281-japanese-ramen-simulator-po-seti.html",
+            "last_update": "2026-10-21T13:39:24+03:00",
+            "release_date": null,
+            "update_info": "",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-10-21 18:07:50",
+            "steam": {
+                "steam_appid": 4968640,
+                "match_score": 100,
+                "match_via": "canon",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4968640/f271f45d7475a5270df309f6b7634d0a56a8055d/header.jpg?t=1792334006",
+                "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4968640/c87a37a5d10a2ac11bf2ab4aded25ca9bc657e12/capsule_184x69.jpg?t=1792334006",
+                "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4968640?t=1792334006",
+                "screenshots": [
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4968640/04c35f2452ab80a2cccd843d0a916656d18ab1de/ss_04c35f2452ab80a2cccd843d0a916656d18ab1de.1920x1080.jpg?t=1792334006",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4968640/8c8707d221ca63f1fc7e829a236c1b1e3fab5515/ss_8c8707d221ca63f1fc7e829a236c1b1e3fab5515.1920x1080.jpg?t=1792334006",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4968640/d2d7dbe81803c430555f4c1ffc06ad1dc67d543c/ss_d2d7dbe81803c430555f4c1ffc06ad1dc67d543c.1920x1080.jpg?t=1792334006",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4968640/d4dd552538fc184420fe6df863490291dcdcb5cd/ss_d4dd552538fc184420fe6df863490291dcdcb5cd.1920x1080.jpg?t=1792334006",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4968640/457ddef6de136793ddf23536bef549fcc440e97e/ss_457ddef6de136793ddf23536bef549fcc440e97e.1920x1080.jpg?t=1792334006",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4968640/685c2aab5ca48c0dc11a36718ddca92166de7afa/ss_685c2aab5ca48c0dc11a36718ddca92166de7afa.1920x1080.jpg?t=1792334006",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4968640/570ac684b4a7823a1199658773102b47b9a9bd20/ss_570ac684b4a7823a1199658773102b47b9a9bd20.1920x1080.jpg?t=1792334006"
+                ],
+                "movies": [
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257452810/28e148af1b08d962245e44fc8bef722a1234060b/movie_600x337.jpg?t=1791487523",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/4968640/1771509590/bb3d43f308f397ca46b5f39f408c1a0b9f95da2f/1791481777/dash_h264.mpd?t=1791487523",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/4968640/1771509590/bb3d43f308f397ca46b5f39f408c1a0b9f95da2f/1791481777/hls_264_master.m3u8?t=1791487523"
+                    },
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257400204/1ef54cac35c2e8ff4df1c6f97f20a474555f813d/movie_600x337.jpg?t=1790217812",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/4968640/997358453/f428870899ad4f99aaac3debcbda60525daaadb6/1790217514/dash_h264.mpd?t=1790217812",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/4968640/997358453/f428870899ad4f99aaac3debcbda60525daaadb6/1790217514/hls_264_master.m3u8?t=1790217812"
+                    }
+                ],
+                "achievements_total": 18,
+                "achievements_highlighted": [
+                    {
+                        "icon": "14a29f743b880bdbee066073555c5859bb985712.jpg",
+                        "localized_name": "A Bowl to Begin",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "A Bowl to Begin",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4968640/14a29f743b880bdbee066073555c5859bb985712.jpg"
+                    },
+                    {
+                        "icon": "8f255928d275fcf6c7c8ecfb94101f18d818e8b0.jpg",
+                        "localized_name": "A Day's Work",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "A Day's Work",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4968640/8f255928d275fcf6c7c8ecfb94101f18d818e8b0.jpg"
+                    },
+                    {
+                        "icon": "7540a85b74b5d68dd825dc75bee6be5596a5acb1.jpg",
+                        "localized_name": "Humble Beginnings",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Humble Beginnings",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4968640/7540a85b74b5d68dd825dc75bee6be5596a5acb1.jpg"
+                    },
+                    {
+                        "icon": "d06aba503df8a15a17bf93d1e7752532feda8f78.jpg",
+                        "localized_name": "A Neighborhood Favorite",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "A Neighborhood Favorite",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4968640/d06aba503df8a15a17bf93d1e7752532feda8f78.jpg"
+                    },
+                    {
+                        "icon": "9f8c81bf2da6f33bee33e9f1adc9c0aac69fd2c0.jpg",
+                        "localized_name": "The Talk of the Town",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "The Talk of the Town",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4968640/9f8c81bf2da6f33bee33e9f1adc9c0aac69fd2c0.jpg"
+                    },
+                    {
+                        "icon": "1e6b0472d353e80c80ebc159bc1ae40c7202353a.jpg",
+                        "localized_name": "A Legendary Ramen Shop",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "A Legendary Ramen Shop",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4968640/1e6b0472d353e80c80ebc159bc1ae40c7202353a.jpg"
+                    },
+                    {
+                        "icon": "48f5731f6bfdeaf04f2249db67d7387d3af52efd.jpg",
+                        "localized_name": "Room to Dream",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Room to Dream",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4968640/48f5731f6bfdeaf04f2249db67d7387d3af52efd.jpg"
+                    },
+                    {
+                        "icon": "07a1f777484791263de2512483d5172c413dd2a4.jpg",
+                        "localized_name": "Persistence Pays Off",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Persistence Pays Off",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4968640/07a1f777484791263de2512483d5172c413dd2a4.jpg"
+                    },
+                    {
+                        "icon": "9eb97f2c1786c9c517acfb345c6b1244badecf68.jpg",
+                        "localized_name": "Even the Critic Is Impressed",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Even the Critic Is Impressed",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4968640/9eb97f2c1786c9c517acfb345c6b1244badecf68.jpg"
+                    },
+                    {
+                        "icon": "36b710b053bbaee1fe1ffd734ce97d478f8c3046.jpg",
+                        "localized_name": "A Bowl Worth More Than Gold",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "A Bowl Worth More Than Gold",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4968640/36b710b053bbaee1fe1ffd734ce97d478f8c3046.jpg"
+                    }
+                ],
+                "ratings": {
+                    "pegi": null,
+                    "esrb": null
+                },
+                "release_date_steam": "9 out. 2026",
+                "short_description": "O Simulador de Ramen Japonês é um simulador de gerenciamento de loja de ramen para até seis jogadores. Prepare os ingredientes, cozinhe o macarrão e organize as coberturas para criar a tigela perfeita. Crie pratos originais, projete sua cozinha e área de jantar e construa seu restaurante de ramen com amigos ou sozinho!",
+                "short_description_native": "Japanese Ramen Simulator is a ramen shop management sim for up to six players. Prepare ingredients, cook noodles, and arrange toppings to craft the perfect bowl. Create original dishes, design your kitchen and dining area, and build your ramen restaurant with friends or on your own!",
+                "price_brl": "R$ 45,46",
+                "is_free": false,
+                "pc_requirements": {
+                    "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10 64bit\n\nProcessador: Intel Core i5\n\nMemória: 8 GB de RAM\n\nPlaca gráfica: NVIDIA GTX 1060 / Radeon RX 580 (6GB+ of VRAM)\n\nDirectX: Versão 11\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 10 GB de espaço livre",
+                    "recommended": "Recomendados:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 11 64bit\n\nProcessador: Intel Core i7\n\nMemória: 16 GB de RAM\n\nPlaca gráfica: NVIDIA GeForce GTX 1660 / Radeon R9 390X (6GB+ of VRAM)\n\nDirectX: Versão 12\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 10 GB de espaço livre"
+                },
+                "controller_support": null,
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Um jogador"
+                    },
+                    {
+                        "id": 1,
+                        "description": "Multijogador"
+                    },
+                    {
+                        "id": 9,
+                        "description": "Co-op"
+                    },
+                    {
+                        "id": 38,
+                        "description": "Co-op online"
+                    },
+                    {
+                        "id": 22,
+                        "description": "Proezas Steam"
+                    },
+                    {
+                        "id": 64,
+                        "description": "Tamanho do texto ajustável"
+                    },
+                    {
+                        "id": 67,
+                        "description": "Conforto de câmara"
+                    },
+                    {
+                        "id": 68,
+                        "description": "Controlos de volume independentes"
+                    },
+                    {
+                        "id": 78,
+                        "description": "Dificuldade ajustável"
+                    },
+                    {
+                        "id": 80,
+                        "description": "#category_playable_at_your_own_pace"
+                    },
+                    {
+                        "id": 74,
+                        "description": "Jogável sem necessitar de ações rápidas ou precisas"
+                    },
+                    {
+                        "id": 79,
+                        "description": "Guardar progresso a qualquer momento"
+                    },
+                    {
+                        "id": 69,
+                        "description": "Som estéreo"
+                    },
+                    {
+                        "id": 18,
+                        "description": "Compatibilidade parcial com comando"
+                    },
+                    {
+                        "id": 23,
+                        "description": "Steam Cloud"
+                    },
+                    {
+                        "id": 62,
+                        "description": "Partilha de Biblioteca"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "4",
+                        "description": "Casual"
+                    },
+                    {
+                        "id": "23",
+                        "description": "Indie"
+                    },
+                    {
+                        "id": "28",
+                        "description": "Simulação"
+                    },
+                    {
+                        "id": "70",
+                        "description": "Acesso Antecipado"
+                    }
+                ]
+            },
+            "hoster_links": {
+                "FileDitch": [
+                    {
+                        "file_name": "JapaneseRamenSimulator_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha39/bd0a4b2c2ad66dcce34f/JapaneseRamenSimulator_Fix_Repair_Steam_Generic.rar"
+                    },
+                    {
+                        "file_name": "Japanese.Ramen.Simulator.v0.1.58.18606-OFME.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha39/58248920dad341f243f4/Japanese.Ramen.Simulator.v0.1.58.18606-OFME.rar"
+                    }
+                ],
+                "FileKeeper": [
+                    {
+                        "file_name": "JapaneseRamenSimulator_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://filekeeper.net/6dggzo4irl2i"
+                    },
+                    {
+                        "file_name": "Japanese.Ramen.Simulator.v0.1.58.18606-OFME.rar",
+                        "direct_link": "https://filekeeper.net/wlevwz6v8coo"
+                    }
+                ],
+                "Pixeldrain": [
+                    {
+                        "file_name": "JapaneseRamenSimulator_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://pixeldrain.com/u/QDJXdMGh"
+                    },
+                    {
+                        "file_name": "Japanese.Ramen.Simulator.v0.1.58.18606-OFME.rar",
+                        "direct_link": "https://pixeldrain.com/u/4H2ZmHqp"
+                    }
+                ],
+                "Gofile": [
+                    {
+                        "file_name": "JapaneseRamenSimulator_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://gofile.io/d/trm0M7iv"
+                    },
+                    {
+                        "file_name": "Japanese.Ramen.Simulator.v0.1.58.18606-OFME.rar",
+                        "direct_link": "https://gofile.io/d/JNc9H9LE"
+                    }
+                ],
+                "VikingFile": [
+                    {
+                        "file_name": "JapaneseRamenSimulator_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://vikingfile.com/f/rhmD9z91rO"
+                    },
+                    {
+                        "file_name": "Japanese.Ramen.Simulator.v0.1.58.18606-OFME.rar",
+                        "direct_link": "https://vikingfile.com/f/tG5TpmZ6tG"
+                    }
+                ]
+            },
+            "unique_hash": "b0f544f8408f3bf80863115f22fe8f97e64545f7",
+            "fileSize": "3.72 GB",
+            "magnet": "magnet:?xt=urn:btih:b0f544f8408f3bf80863115f22fe8f97e64545f7&dn=Japanese%20Ramen%20Simulator&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_1/Japanese.Ramen.Simulator.v0.1.58.18606-OFME.torrent",
+            "created_at": "2026-10-21 07:23:04",
+            "webdav_updated_at": "Unknown",
+            "files": [
+                {
+                    "name": "Fix Repair/JapaneseRamenSimulator_Fix_Repair_Steam_Generic.rar",
+                    "size": "23.04 MB"
+                },
+                {
+                    "name": "Japanese.Ramen.Simulator.v0.1.58.18606-OFME.rar",
+                    "size": "3.70 GB"
                 }
             ],
             "comment": ""
@@ -215561,6 +216814,254 @@
             "comment": ""
         },
         {
+            "title": "Lucid Cats",
+            "page": 1,
+            "url": "https://online-fix.me/games/horror/18282-lucid-cats-online.html",
+            "last_update": "2026-10-21T13:39:26+03:00",
+            "release_date": null,
+            "update_info": "",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-10-21 18:07:50",
+            "steam": {
+                "steam_appid": 4778540,
+                "match_score": 100,
+                "match_via": "canon",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4778540/a7eca735be2b883b76eb788d1e84dd5ff8de96df/header.jpg?t=1790360738",
+                "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4778540/bba884743d514ce7f8ab9d548bce922fe8442029/capsule_184x69.jpg?t=1790360738",
+                "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4778540?t=1790360738",
+                "screenshots": [
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4778540/3d12ced708436f5120abdeb6be9d00b9708ceffa/ss_3d12ced708436f5120abdeb6be9d00b9708ceffa.1920x1080.jpg?t=1790360738",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4778540/3c26b1eaa28f4e11e235243687f03fc50a2520fa/ss_3c26b1eaa28f4e11e235243687f03fc50a2520fa.1920x1080.jpg?t=1790360738",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4778540/819d5986d28c69bb6958f1b4e77db6667f03ff50/ss_819d5986d28c69bb6958f1b4e77db6667f03ff50.1920x1080.jpg?t=1790360738",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4778540/eeae7c7540c03c17271636088c05b11eb1d494a8/ss_eeae7c7540c03c17271636088c05b11eb1d494a8.1920x1080.jpg?t=1790360738",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4778540/5f54ac886be7ee0dbca98abc071bae94d818065a/ss_5f54ac886be7ee0dbca98abc071bae94d818065a.1920x1080.jpg?t=1790360738",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4778540/a6ff1716ed997ff1c8ec0d7845f57f3e5e5cedbf/ss_a6ff1716ed997ff1c8ec0d7845f57f3e5e5cedbf.1920x1080.jpg?t=1790360738",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4778540/6715a7387a3f9fb95537ecfa6a7729b6b4f7f38c/ss_6715a7387a3f9fb95537ecfa6a7729b6b4f7f38c.1920x1080.jpg?t=1790360738",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4778540/1378d311cdde2be1c5e509edf3ed2b3461124c78/ss_1378d311cdde2be1c5e509edf3ed2b3461124c78.1920x1080.jpg?t=1790360738",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4778540/5c53788eb829f4797caf8776af46596650409e98/ss_5c53788eb829f4797caf8776af46596650409e98.1920x1080.jpg?t=1790360738",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4778540/4e85b3b81227800b4d5e5912454a2c55d8bd74b2/ss_4e85b3b81227800b4d5e5912454a2c55d8bd74b2.1920x1080.jpg?t=1790360738",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4778540/c473e8b6967785a8072e95729bde042caa242f91/ss_c473e8b6967785a8072e95729bde042caa242f91.1920x1080.jpg?t=1790360738",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4778540/495c5c0952d17b4fa00dd03d51c6a8d19b45b71c/ss_495c5c0952d17b4fa00dd03d51c6a8d19b45b71c.1920x1080.jpg?t=1790360738",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4778540/bd94ecb1cb681655eaae624185fd7af80e9efd25/ss_bd94ecb1cb681655eaae624185fd7af80e9efd25.1920x1080.jpg?t=1790360738",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4778540/3614648ea885e794c06aea9c197fab6c175d5f17/ss_3614648ea885e794c06aea9c197fab6c175d5f17.1920x1080.jpg?t=1790360738"
+                ],
+                "movies": [
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257403199/cba5d7be6272dfc7304f08241d2c3e50c78204fc/movie_600x337.jpg?t=1789068543",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/4778540/539623656/fd5b2df789da7bd63a51637e7dec91c89564e091/1788687369/dash_h264.mpd?t=1789068543",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/4778540/539623656/fd5b2df789da7bd63a51637e7dec91c89564e091/1788687369/hls_264_master.m3u8?t=1789068543"
+                    }
+                ],
+                "achievements_total": 27,
+                "achievements_highlighted": [
+                    {
+                        "icon": "328c8145bc240aabc186d8dc1c44eb9985d97c4c.jpg",
+                        "localized_name": "Sweet Dreams",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Sweet Dreams",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4778540/328c8145bc240aabc186d8dc1c44eb9985d97c4c.jpg"
+                    },
+                    {
+                        "icon": "82d3949658428fe1981d3a2358eb1ce76d600b40.jpg",
+                        "localized_name": "Lucid",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Lucid",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4778540/82d3949658428fe1981d3a2358eb1ce76d600b40.jpg"
+                    },
+                    {
+                        "icon": "d8beda387e4f798d117521269b530674187d0a96.jpg",
+                        "localized_name": "Rich!",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Rich!",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4778540/d8beda387e4f798d117521269b530674187d0a96.jpg"
+                    },
+                    {
+                        "icon": "f697e4b1beac136571871b5fe5d260e34a7e76d2.jpg",
+                        "localized_name": "Millionaire!",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Millionaire!",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4778540/f697e4b1beac136571871b5fe5d260e34a7e76d2.jpg"
+                    },
+                    {
+                        "icon": "92d3801b29bb6e6fb8ccd840599eb632708dab32.jpg",
+                        "localized_name": "Rarest of Them All",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Rarest of Them All",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4778540/92d3801b29bb6e6fb8ccd840599eb632708dab32.jpg"
+                    },
+                    {
+                        "icon": "22369f8c539c791ef7a3ebf8465c1f7e764639ae.jpg",
+                        "localized_name": "Friendly Fire",
+                        "archived": 0,
+                        "hidden": 1,
+                        "name": "Friendly Fire",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4778540/22369f8c539c791ef7a3ebf8465c1f7e764639ae.jpg"
+                    },
+                    {
+                        "icon": "e9358d0fee7677880c337a49c2e7458d6dba8fe6.jpg",
+                        "localized_name": "Blink and You're Dead",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Blink and You're Dead",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4778540/e9358d0fee7677880c337a49c2e7458d6dba8fe6.jpg"
+                    },
+                    {
+                        "icon": "3d1814d2e57c85739cd278590bb89c4fc8782d5a.jpg",
+                        "localized_name": "Dance Monkey",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Dance Monkey",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4778540/3d1814d2e57c85739cd278590bb89c4fc8782d5a.jpg"
+                    },
+                    {
+                        "icon": "d973ff874568dece1000c01fc3332a0273839d54.jpg",
+                        "localized_name": "Should've Muted",
+                        "archived": 0,
+                        "hidden": 1,
+                        "name": "Should've Muted",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4778540/d973ff874568dece1000c01fc3332a0273839d54.jpg"
+                    },
+                    {
+                        "icon": "837564d6f5c09b50f499730ba31df6fe77008319.jpg",
+                        "localized_name": "Spooning",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Spooning",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4778540/837564d6f5c09b50f499730ba31df6fe77008319.jpg"
+                    }
+                ],
+                "ratings": {
+                    "pegi": null,
+                    "esrb": null
+                },
+                "release_date_steam": "25 set. 2026",
+                "short_description": "Um jogo cooperativo online de extração de terror. Adormeça, saqueie um pesadelo compartilhado e encontre a fuga para guardar seus objetos de valor.",
+                "short_description_native": "An online co-op horror extraction game. Fall asleep, loot a shared nightmare, and find the escape to keep your valuables.",
+                "price_brl": "R$ 26,75",
+                "is_free": false,
+                "pc_requirements": {
+                    "minimum": "Mínimos:\n\nSistema Operativo: Windows 10\n\nProcessador: Intel Core i5-6600\n\nMemória: 8 GB de RAM\n\nPlaca gráfica: NVIDIA GeForce GTX 1050 Ti\n\nDirectX: Versão 11\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 2 GB de espaço livre",
+                    "recommended": "Recomendados:\n\nSistema Operativo: Windows 11\n\nProcessador: Intel Core i5-8400\n\nMemória: 16 GB de RAM\n\nPlaca gráfica: NVIDIA GeForce GTX 1060\n\nDirectX: Versão 11\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 2 GB de espaço livre"
+                },
+                "controller_support": null,
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Um jogador"
+                    },
+                    {
+                        "id": 1,
+                        "description": "Multijogador"
+                    },
+                    {
+                        "id": 9,
+                        "description": "Co-op"
+                    },
+                    {
+                        "id": 38,
+                        "description": "Co-op online"
+                    },
+                    {
+                        "id": 22,
+                        "description": "Proezas Steam"
+                    },
+                    {
+                        "id": 15,
+                        "description": "Estatísticas"
+                    },
+                    {
+                        "id": 62,
+                        "description": "Partilha de Biblioteca"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "1",
+                        "description": "Ação"
+                    },
+                    {
+                        "id": "2",
+                        "description": "Estratégia"
+                    }
+                ]
+            },
+            "hoster_links": {
+                "FileDitch": [
+                    {
+                        "file_name": "LucidCats_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha39/d61ad9a8a75dcebc1d49/LucidCats_Fix_Repair_Steam_Generic.rar"
+                    },
+                    {
+                        "file_name": "Lucid.Cats.v2.4-OFME.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha39/7b07632e3da2cf3df968/Lucid.Cats.v2.4-OFME.rar"
+                    }
+                ],
+                "FileKeeper": [
+                    {
+                        "file_name": "LucidCats_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://filekeeper.net/tnu9trwl5e7j"
+                    },
+                    {
+                        "file_name": "Lucid.Cats.v2.4-OFME.rar",
+                        "direct_link": "https://filekeeper.net/k20g7xzx82iv"
+                    }
+                ],
+                "Pixeldrain": [
+                    {
+                        "file_name": "LucidCats_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://pixeldrain.com/u/bMiYDhta"
+                    },
+                    {
+                        "file_name": "Lucid.Cats.v2.4-OFME.rar",
+                        "direct_link": "https://pixeldrain.com/u/dwitfm8x"
+                    }
+                ],
+                "Gofile": [
+                    {
+                        "file_name": "LucidCats_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://gofile.io/d/QbFF9UpV"
+                    },
+                    {
+                        "file_name": "Lucid.Cats.v2.4-OFME.rar",
+                        "direct_link": "https://gofile.io/d/Yv6w8Fya"
+                    }
+                ],
+                "VikingFile": [
+                    {
+                        "file_name": "LucidCats_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://vikingfile.com/f/chj4tWhJJN"
+                    },
+                    {
+                        "file_name": "Lucid.Cats.v2.4-OFME.rar",
+                        "direct_link": "https://vikingfile.com/f/ruGnpqio0n"
+                    }
+                ]
+            },
+            "unique_hash": "40e2d1afb4cc99c848da0bc9a694ec3efc15e120",
+            "fileSize": "521.91 MB",
+            "magnet": "magnet:?xt=urn:btih:40e2d1afb4cc99c848da0bc9a694ec3efc15e120&dn=Lucid%20Cats&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_1/Lucid.Cats.v2.4-OFME.torrent",
+            "created_at": "2026-10-21 07:23:33",
+            "webdav_updated_at": "Unknown",
+            "files": [
+                {
+                    "name": "Fix Repair/LucidCats_Fix_Repair_Steam_Generic.rar",
+                    "size": "10.74 MB"
+                },
+                {
+                    "name": "Lucid.Cats.v2.4-OFME.rar",
+                    "size": "511.17 MB"
+                }
+            ],
+            "comment": ""
+        },
+        {
             "title": "Lucky Goal",
             "page": 14,
             "url": "https://online-fix.me/games/officialservers/17895-lucky-goal-po-seti.html",
@@ -219094,6 +220595,263 @@
                 {
                     "name": "MISERY.Build.23052026-OFME.rar",
                     "size": "2.51 GB"
+                }
+            ],
+            "comment": ""
+        },
+        {
+            "title": "MOGGED Looksmaxx or Die",
+            "page": 1,
+            "url": "https://online-fix.me/games/adventures/18283-mogged-looksmaxx-or-die-online.html",
+            "last_update": "2026-10-21T13:39:27+03:00",
+            "release_date": null,
+            "update_info": "",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-10-21 18:07:49",
+            "steam": {
+                "steam_appid": 4917440,
+                "match_score": 100,
+                "match_via": "canon",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4917440/fa8c5b270baa4d82503897806748376f91e0a340/header.jpg?t=1791114490",
+                "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4917440/838dd72b4245c825495eeb20fd6ae164575ef586/capsule_184x69.jpg?t=1791114490",
+                "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4917440/17dadab8dc9b7e1a0c0b6e2e1f8a03b581757364/page_bg_raw.jpg?t=1791114490",
+                "screenshots": [
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4917440/e95ef572935bf4a9d9cde236a956eea6f90092ff/ss_e95ef572935bf4a9d9cde236a956eea6f90092ff.1920x1080.jpg?t=1791114490",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4917440/f6c72acc7a5e999ea146e661c0fd725e70b2da5e/ss_f6c72acc7a5e999ea146e661c0fd725e70b2da5e.1920x1080.jpg?t=1791114490",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4917440/68262661b51ab5384eb32992377f5bd3461cab52/ss_68262661b51ab5384eb32992377f5bd3461cab52.1920x1080.jpg?t=1791114490",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4917440/de848c35c73591e9295bc81fa11210c1c3d9b27b/ss_de848c35c73591e9295bc81fa11210c1c3d9b27b.1920x1080.jpg?t=1791114490",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4917440/a9bfca51b11bcb62d568d73269e13b7496d1c788/ss_a9bfca51b11bcb62d568d73269e13b7496d1c788.1920x1080.jpg?t=1791114490",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4917440/bbdba4daa7188cd6ffd8fe474f0b0633e20a7a3a/ss_bbdba4daa7188cd6ffd8fe474f0b0633e20a7a3a.1920x1080.jpg?t=1791114490",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4917440/7ccb1c4d9c1d385a0cb6076b8260e60c079c2c30/ss_7ccb1c4d9c1d385a0cb6076b8260e60c079c2c30.1920x1080.jpg?t=1791114490",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4917440/e2f8cb13502285f624b3684dde69b8a84e4dff3c/ss_e2f8cb13502285f624b3684dde69b8a84e4dff3c.1920x1080.jpg?t=1791114490",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4917440/74a15f14e2150325cd3cd2b5a862b54535ead640/ss_74a15f14e2150325cd3cd2b5a862b54535ead640.1920x1080.jpg?t=1791114490",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4917440/fd502f8bb0bd30554520eb8d1db947ee35ba2505/ss_fd502f8bb0bd30554520eb8d1db947ee35ba2505.1920x1080.jpg?t=1791114490",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4917440/324491faea0716895a0d96e7dca576ab9f34f7ca/ss_324491faea0716895a0d96e7dca576ab9f34f7ca.1920x1080.jpg?t=1791114490",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4917440/ca72d76a869f2a18c0f8365f6d2006ee29e53200/ss_ca72d76a869f2a18c0f8365f6d2006ee29e53200.1920x1080.jpg?t=1791114490",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4917440/c5729da154c749dd3e1bc3794d52a5928209f5bc/ss_c5729da154c749dd3e1bc3794d52a5928209f5bc.1920x1080.jpg?t=1791114490",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4917440/eca027f85a9aca8c198d047d64ca824851655766/ss_eca027f85a9aca8c198d047d64ca824851655766.1920x1080.jpg?t=1791114490",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4917440/f17cc3cbc2426ab45483e2a5c489732d49d9ebdc/ss_f17cc3cbc2426ab45483e2a5c489732d49d9ebdc.1920x1080.jpg?t=1791114490",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4917440/6535f01584a1abb76049d19bb2ee1b6a5da7047a/ss_6535f01584a1abb76049d19bb2ee1b6a5da7047a.1920x1080.jpg?t=1791114490",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4917440/1716d351c220d1471e23aefcc64b95b44fa32302/ss_1716d351c220d1471e23aefcc64b95b44fa32302.1920x1080.jpg?t=1791114490",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4917440/a6eca35b8db45aea81ae2410404c7f33d513b038/ss_a6eca35b8db45aea81ae2410404c7f33d513b038.1920x1080.jpg?t=1791114490",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4917440/23d782b2f519d0549e6cd2e6c1cc1e02845c3354/ss_23d782b2f519d0549e6cd2e6c1cc1e02845c3354.1920x1080.jpg?t=1791114490",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4917440/1ce0457544196331a23994bc0af7cd7964d164cc/ss_1ce0457544196331a23994bc0af7cd7964d164cc.1920x1080.jpg?t=1791114490",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4917440/8d5c22f26e8b0b3bca74cda35afd07157aba63cc/ss_8d5c22f26e8b0b3bca74cda35afd07157aba63cc.1920x1080.jpg?t=1791114490",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4917440/ef886a11d571882a6250b939663fbaffe411d166/ss_ef886a11d571882a6250b939663fbaffe411d166.1920x1080.jpg?t=1791114490",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4917440/56fe8ef65a5c6ee381d36c29f9d7d545d1a328a1/ss_56fe8ef65a5c6ee381d36c29f9d7d545d1a328a1.1920x1080.jpg?t=1791114490"
+                ],
+                "movies": [
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257420297/d1def8f5fdfe7a221feb3857860bac8c0aa6a268/movie_600x337.jpg?t=1789611585",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/4917440/837047471/ac558955009c4c9166b452ebca6a1722d5266735/1789128764/dash_h264.mpd?t=1789611585",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/4917440/837047471/ac558955009c4c9166b452ebca6a1722d5266735/1789128764/hls_264_master.m3u8?t=1789611585"
+                    }
+                ],
+                "achievements_total": 76,
+                "achievements_highlighted": [
+                    {
+                        "icon": "6110428692b727b89f1c4d1bd5c69fc2f2085bac.jpg",
+                        "localized_name": "Run It Back",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Run It Back",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4917440/6110428692b727b89f1c4d1bd5c69fc2f2085bac.jpg"
+                    },
+                    {
+                        "icon": "c6a7b27c95f95174eff60498855d3551869db034.jpg",
+                        "localized_name": "One Week Wonder",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "One Week Wonder",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4917440/c6a7b27c95f95174eff60498855d3551869db034.jpg"
+                    },
+                    {
+                        "icon": "bfdfb04097001c57e7d5c98afce7a7db7ca50396.jpg",
+                        "localized_name": "Still Here",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Still Here",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4917440/bfdfb04097001c57e7d5c98afce7a7db7ca50396.jpg"
+                    },
+                    {
+                        "icon": "c956c549a33df7a9521e72eafd1bcb045d2f9ff4.jpg",
+                        "localized_name": "Certified Mogger",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Certified Mogger",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4917440/c956c549a33df7a9521e72eafd1bcb045d2f9ff4.jpg"
+                    },
+                    {
+                        "icon": "1b9b0fddb57d21aafb7110dbe180280fd818c5e8.jpg",
+                        "localized_name": "Bag Secured",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Bag Secured",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4917440/1b9b0fddb57d21aafb7110dbe180280fd818c5e8.jpg"
+                    },
+                    {
+                        "icon": "4f9b81136e37329c18d4957c3675e14fc67556e9.jpg",
+                        "localized_name": "Generational Wealth",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Generational Wealth",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4917440/4f9b81136e37329c18d4957c3675e14fc67556e9.jpg"
+                    },
+                    {
+                        "icon": "fb15d95c079ce8db8af1d1eb8ddf3e93e319132c.jpg",
+                        "localized_name": "Natty Limit",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Natty Limit",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4917440/fb15d95c079ce8db8af1d1eb8ddf3e93e319132c.jpg"
+                    },
+                    {
+                        "icon": "de2011097a08cd6601c4809312b72195fcab6653.jpg",
+                        "localized_name": "Gigachad",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Gigachad",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4917440/de2011097a08cd6601c4809312b72195fcab6653.jpg"
+                    },
+                    {
+                        "icon": "d44db7766fd917d7c3169c056a2f219248603b0b.jpg",
+                        "localized_name": "Mogged",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Mogged",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4917440/d44db7766fd917d7c3169c056a2f219248603b0b.jpg"
+                    },
+                    {
+                        "icon": "b7b9c3887a3b4532bf05246ca605d614a8298390.jpg",
+                        "localized_name": "Homie Down",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Homie Down",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4917440/b7b9c3887a3b4532bf05246ca605d614a8298390.jpg"
+                    }
+                ],
+                "ratings": {
+                    "pegi": null,
+                    "esrb": null
+                },
+                "release_date_steam": "1 out. 2026",
+                "short_description": "Terror cooperativo de sobrevivência e extração com amigos: looksmaxxing contra uma meta crescente. Pilha festas universitárias enquanto algo caça o mais feio. Prepara péptidos, tenta procedimentos arriscados e chega a True Adam antes que te arraste para outra divisão.",
+                "short_description_native": "Terror cooperativo de sobrevivência e extração com amigos: looksmaxxing contra uma meta crescente. Pilha festas universitárias enquanto algo caça o mais feio. Prepara péptidos, tenta procedimentos arriscados e chega a True Adam antes que te arraste para outra divisão.",
+                "price_brl": "R$ 26,75",
+                "is_free": false,
+                "pc_requirements": {
+                    "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10 (64-bit)\n\nProcessador: Intel Core i3-10100 / Intel Core i5-1235U / AMD Ryzen 5 5500U\n\nMemória: 8 GB de RAM\n\nPlaca gráfica: NVIDIA GeForce GTX 1650 / AMD Radeon RX 570 / Intel Iris Xe Graphics\n\nDirectX: Versão 11\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 6 GB de espaço livre\n\nNotas adicionais: 720p, Potato preset. Microphone for voice chat.",
+                    "recommended": "Recomendados:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10/11 (64-bit)\n\nProcessador: Intel Core i5-12400F / AMD Ryzen 5 5600\n\nMemória: 16 GB de RAM\n\nPlaca gráfica: NVIDIA GeForce RTX 3060 Ti / AMD Radeon RX 6700 XT\n\nDirectX: Versão 11\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 6 GB de espaço livre\n\nNotas adicionais: 1080p, High preset. Microphone for voice chat."
+                },
+                "controller_support": null,
+                "categories": [
+                    {
+                        "id": 1,
+                        "description": "Multijogador"
+                    },
+                    {
+                        "id": 9,
+                        "description": "Co-op"
+                    },
+                    {
+                        "id": 38,
+                        "description": "Co-op online"
+                    },
+                    {
+                        "id": 62,
+                        "description": "Partilha de Biblioteca"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "1",
+                        "description": "Ação"
+                    },
+                    {
+                        "id": "25",
+                        "description": "Aventura"
+                    },
+                    {
+                        "id": "23",
+                        "description": "Indie"
+                    },
+                    {
+                        "id": "28",
+                        "description": "Simulação"
+                    },
+                    {
+                        "id": "70",
+                        "description": "Acesso Antecipado"
+                    }
+                ]
+            },
+            "hoster_links": {
+                "FileDitch": [
+                    {
+                        "file_name": "MOGGEDLooksmaxxorDie_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha39/e855795e9e0ba76b79d1/MOGGEDLooksmaxxorDie_Fix_Repair_Steam_Generic.rar"
+                    },
+                    {
+                        "file_name": "MOGGED.Looksmaxx.or.Die.v1.0.1.132-OFME.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha39/c1c201745d04e8a13aa0/MOGGED.Looksmaxx.or.Die.v1.0.1.132-OFME.rar"
+                    }
+                ],
+                "FileKeeper": [
+                    {
+                        "file_name": "MOGGEDLooksmaxxorDie_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://filekeeper.net/ieekrgvczpn3"
+                    },
+                    {
+                        "file_name": "MOGGED.Looksmaxx.or.Die.v1.0.1.132-OFME.rar",
+                        "direct_link": "https://filekeeper.net/pbezcjqdytlm"
+                    }
+                ],
+                "Pixeldrain": [
+                    {
+                        "file_name": "MOGGEDLooksmaxxorDie_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://pixeldrain.com/u/aHppK2Jr"
+                    },
+                    {
+                        "file_name": "MOGGED.Looksmaxx.or.Die.v1.0.1.132-OFME.rar",
+                        "direct_link": "https://pixeldrain.com/u/mmt4ErLv"
+                    }
+                ],
+                "Gofile": [
+                    {
+                        "file_name": "MOGGEDLooksmaxxorDie_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://gofile.io/d/KHf0XjAu"
+                    },
+                    {
+                        "file_name": "MOGGED.Looksmaxx.or.Die.v1.0.1.132-OFME.rar",
+                        "direct_link": "https://gofile.io/d/5c3LVgUq"
+                    }
+                ],
+                "VikingFile": [
+                    {
+                        "file_name": "MOGGEDLooksmaxxorDie_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://vikingfile.com/f/FHjRK5s4k8"
+                    },
+                    {
+                        "file_name": "MOGGED.Looksmaxx.or.Die.v1.0.1.132-OFME.rar",
+                        "direct_link": "https://vikingfile.com/f/OgW6vTBaZY"
+                    }
+                ]
+            },
+            "unique_hash": "3cc55c3edb8bedba881bef7bf5f7da78762fc167",
+            "fileSize": "3.28 GB",
+            "magnet": "magnet:?xt=urn:btih:3cc55c3edb8bedba881bef7bf5f7da78762fc167&dn=MOGGED%20Looksmaxx%20or%20Die&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_1/MOGGED.Looksmaxx.or.Die.v1.0.1.132-OFME.torrent",
+            "created_at": "2026-10-21 07:23:52",
+            "webdav_updated_at": "Unknown",
+            "files": [
+                {
+                    "name": "Fix Repair/MOGGEDLooksmaxxorDie_Fix_Repair_Steam_Generic.rar",
+                    "size": "10.74 MB"
+                },
+                {
+                    "name": "MOGGED.Looksmaxx.or.Die.v1.0.1.132-OFME.rar",
+                    "size": "3.27 GB"
                 }
             ],
             "comment": ""
@@ -433017,6 +434775,343 @@
                 {
                     "name": "We.Were.Here.Together.v1.7.6-OFME.rar",
                     "size": "4.40 GB"
+                }
+            ],
+            "comment": ""
+        },
+        {
+            "title": "We Were Here Tomorrow",
+            "page": 1,
+            "url": "https://online-fix.me/games/adventures/18287-we-were-here-tomorrow-po-seti.html",
+            "last_update": "2026-10-21T13:39:33+03:00",
+            "release_date": "20.10.2026",
+            "update_info": "",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-10-21 18:07:48",
+            "steam": {
+                "steam_appid": 2315050,
+                "match_score": 100,
+                "match_via": "canon",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2315050/1e74865089e86e73fe7abefec0f5b59c1ce48305/header_alt_assets_3.jpg?t=1792588782",
+                "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2315050/18c8f4f1b23e258bda5f0ca7ecf3bfd2e64313a6/capsule_184x69_alt_assets_3.jpg?t=1792588782",
+                "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2315050/7f78b5ffecc547237b84bfd9e8db95f94c04dae0/page_bg_raw.jpg?t=1792588782",
+                "screenshots": [
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2315050/03a4cbca3dc50a73f19498da0a8485c1e976f796/ss_03a4cbca3dc50a73f19498da0a8485c1e976f796.1920x1080.jpg?t=1792588782",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2315050/8fd56762493db7cbf672aa4db1b6c01964738370/ss_8fd56762493db7cbf672aa4db1b6c01964738370.1920x1080.jpg?t=1792588782",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2315050/8d190def38170c95aabcdc4e8833c0b9974f70ce/ss_8d190def38170c95aabcdc4e8833c0b9974f70ce.1920x1080.jpg?t=1792588782",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2315050/1310a09bf6c05dcf57fc2bb59e168ab773c7a47f/ss_1310a09bf6c05dcf57fc2bb59e168ab773c7a47f.1920x1080.jpg?t=1792588782",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2315050/728667abe30f3a7492ec71564cda46cc712334bd/ss_728667abe30f3a7492ec71564cda46cc712334bd.1920x1080.jpg?t=1792588782",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2315050/c1a5f38dd9de65c6eaff1e4daf4f0b19027d2ea2/ss_c1a5f38dd9de65c6eaff1e4daf4f0b19027d2ea2.1920x1080.jpg?t=1792588782",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2315050/f376758764ad167e538b52aeb69e9686c8fcae69/ss_f376758764ad167e538b52aeb69e9686c8fcae69.1920x1080.jpg?t=1792588782",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2315050/b125fdd7d2b19ffbe7cc2188b4855f709e1b81c0/ss_b125fdd7d2b19ffbe7cc2188b4855f709e1b81c0.1920x1080.jpg?t=1792588782",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2315050/90138852f943ab6674478a00f68cd846312e3d5f/ss_90138852f943ab6674478a00f68cd846312e3d5f.1920x1080.jpg?t=1792588782",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2315050/038beca05f418580e2e7b3c99e7d19b5578a1129/ss_038beca05f418580e2e7b3c99e7d19b5578a1129.1920x1080.jpg?t=1792588782",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2315050/c4635510ce83cb807bac3f1dc9f3a08bec0fe2a0/ss_c4635510ce83cb807bac3f1dc9f3a08bec0fe2a0.1920x1080.jpg?t=1792588782",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2315050/d1a0b177fefb7cf9c39ceaeef14472b7623c992e/ss_d1a0b177fefb7cf9c39ceaeef14472b7623c992e.1920x1080.jpg?t=1792588782",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2315050/0584909654735691e57e0f11f0ce3f1e596ab7d8/ss_0584909654735691e57e0f11f0ce3f1e596ab7d8.1920x1080.jpg?t=1792588782",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2315050/2f61eb292177bc68ffa4de0dc2de841c887e0f3f/ss_2f61eb292177bc68ffa4de0dc2de841c887e0f3f.1920x1080.jpg?t=1792588782",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2315050/a27fb94767bd0c5ac0e10f61915584500103ce1a/ss_a27fb94767bd0c5ac0e10f61915584500103ce1a.1920x1080.jpg?t=1792588782",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2315050/8d41f45d624b46b2f5eabcd0841ab2613b592cb4/ss_8d41f45d624b46b2f5eabcd0841ab2613b592cb4.1920x1080.jpg?t=1792588782"
+                ],
+                "movies": [
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257438397/be2a9397eb568e98ed9a2b1a7c0746759abb746f/movie_600x337.jpg?t=1792500919",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2315050/679079920/8161167bab24465dcf46ec4021ddb533fb0ca5b9/1790629007/dash_h264.mpd?t=1792500919",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2315050/679079920/8161167bab24465dcf46ec4021ddb533fb0ca5b9/1790629007/hls_264_master.m3u8?t=1792500919"
+                    },
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257428204/65188200abc144f206bbfe0a37384a4302395386/movie_600x337.jpg?t=1789920938",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2315050/29072485/33f4599c138c49575f4689423b41dbe8720e40b9/1789717284/dash_h264.mpd?t=1789920938",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2315050/29072485/33f4599c138c49575f4689423b41dbe8720e40b9/1789717284/hls_264_master.m3u8?t=1789920938"
+                    },
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257404104/2e564312f190163f44c0775f41adea0b910aaac4/movie_600x337.jpg?t=1787767303",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2315050/694104395/5912105e4db8db43fe0164ac2ab3ce6a7bf7b15e/1787236328/dash_h264.mpd?t=1787767303",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2315050/694104395/5912105e4db8db43fe0164ac2ab3ce6a7bf7b15e/1787236328/hls_264_master.m3u8?t=1787767303"
+                    },
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257294413/5ba574b0af5040469d25fb957bd3676201e51c26/movie_600x337.jpg?t=1774004172",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2315050/1429745109/050dfb4f762cf81f65f30a47ff5baf334d20d3a5/1772030332/dash_h264.mpd?t=1774004172",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2315050/1429745109/050dfb4f762cf81f65f30a47ff5baf334d20d3a5/1772030332/hls_264_master.m3u8?t=1774004172"
+                    }
+                ],
+                "achievements_total": 37,
+                "achievements_highlighted": [
+                    {
+                        "icon": "2d9996452a9b0d8f8eda01c5e2362c60ccc75857.jpg",
+                        "localized_name": "The World of Tomorrow",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "The World of Tomorrow",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2315050/2d9996452a9b0d8f8eda01c5e2362c60ccc75857.jpg"
+                    },
+                    {
+                        "icon": "02c4abc2794b23d308b287b84eb745af73fe71b8.jpg",
+                        "localized_name": "Corporate Exercise",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Corporate Exercise",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2315050/02c4abc2794b23d308b287b84eb745af73fe71b8.jpg"
+                    },
+                    {
+                        "icon": "b251529e3574dc3b5f872296494ac6e33e90f1b2.jpg",
+                        "localized_name": "Micromanagement",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Micromanagement",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2315050/b251529e3574dc3b5f872296494ac6e33e90f1b2.jpg"
+                    },
+                    {
+                        "icon": "600111edfe731c46b05779d912302ee2a3580191.jpg",
+                        "localized_name": "'Morrow's Miracles",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "'Morrow's Miracles",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2315050/600111edfe731c46b05779d912302ee2a3580191.jpg"
+                    },
+                    {
+                        "icon": "30e0a9d0012845aa85b98c2c3d0d0c433afdba47.jpg",
+                        "localized_name": "All Matters Exotic",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "All Matters Exotic",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2315050/30e0a9d0012845aa85b98c2c3d0d0c433afdba47.jpg"
+                    },
+                    {
+                        "icon": "8e6817b31d56bc765615ad01ccf74de548340ce5.jpg",
+                        "localized_name": "Many Ways",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Many Ways",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2315050/8e6817b31d56bc765615ad01ccf74de548340ce5.jpg"
+                    },
+                    {
+                        "icon": "cb224fa634b9db60dca972930f62fb304eca8822.jpg",
+                        "localized_name": "Onwards and Upwards",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Onwards and Upwards",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2315050/cb224fa634b9db60dca972930f62fb304eca8822.jpg"
+                    },
+                    {
+                        "icon": "ee6480243c59f8a7472933ee6986e1971b34cbd9.jpg",
+                        "localized_name": "This is fine",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "This is fine",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2315050/ee6480243c59f8a7472933ee6986e1971b34cbd9.jpg"
+                    },
+                    {
+                        "icon": "9e8d256d090e78907a7e92c2d4abac4c902c1939.jpg",
+                        "localized_name": "MAGNETS!",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "MAGNETS!",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2315050/9e8d256d090e78907a7e92c2d4abac4c902c1939.jpg"
+                    },
+                    {
+                        "icon": "c0501c05fdef57c68614de977b004bdd56d0ee2f.jpg",
+                        "localized_name": "Any Colour You Like",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Any Colour You Like",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2315050/c0501c05fdef57c68614de977b004bdd56d0ee2f.jpg"
+                    }
+                ],
+                "ratings": {
+                    "pegi": null,
+                    "esrb": null
+                },
+                "release_date_steam": "20 out. 2026",
+                "short_description": "Tu e o teu parceiro acordam dentro de uma misteriosa instalação Norček, sem quase nenhuma memória de como foram lá parar. Comuniquem, cooperem e desvendem os segredos nesta aventura cooperativa assimétrica. Só juntos poderão decidir o destino de Amanhã…",
+                "short_description_native": "Tu e o teu parceiro acordam dentro de uma misteriosa instalação Norček, sem quase nenhuma memória de como foram lá parar. Comuniquem, cooperem e desvendem os segredos nesta aventura cooperativa assimétrica. Só juntos poderão decidir o destino de Amanhã…",
+                "price_brl": "R$ 61,19",
+                "is_free": false,
+                "pc_requirements": {
+                    "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 11\n\nProcessador: AMD Ryzen 5 3600 or equivalent\n\nMemória: 8 GB de RAM\n\nPlaca gráfica: Nvidia GTX 1660Ti 6 GB or equivalent\n\nDirectX: Versão 12\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 25 GB de espaço livre\n\nNotas adicionais: A working PC-compatible microphone",
+                    "recommended": "Recomendados:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 11\n\nProcessador: AMD Ryzen 5 5600X or equivalent\n\nMemória: 16 GB de RAM\n\nPlaca gráfica: Nvidia GeForce RTX 3060 or equivalent\n\nDirectX: Versão 12\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 25 GB de espaço livre\n\nNotas adicionais: A working PC-compatible microphone"
+                },
+                "controller_support": null,
+                "categories": [
+                    {
+                        "id": 1,
+                        "description": "Multijogador"
+                    },
+                    {
+                        "id": 9,
+                        "description": "Co-op"
+                    },
+                    {
+                        "id": 38,
+                        "description": "Co-op online"
+                    },
+                    {
+                        "id": 27,
+                        "description": "Multijogador interplataformas"
+                    },
+                    {
+                        "id": 22,
+                        "description": "Proezas Steam"
+                    },
+                    {
+                        "id": 55,
+                        "description": "Compatibilidade com DUALSHOCK"
+                    },
+                    {
+                        "id": 56,
+                        "description": "Compatibilidade com DUALSHOCK"
+                    },
+                    {
+                        "id": 57,
+                        "description": "Compatibilidade com DualSense"
+                    },
+                    {
+                        "id": 58,
+                        "description": "Compatibilidade com DualSense"
+                    },
+                    {
+                        "id": 18,
+                        "description": "Compatibilidade parcial com comando"
+                    },
+                    {
+                        "id": 62,
+                        "description": "Partilha de Biblioteca"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "1",
+                        "description": "Ação"
+                    },
+                    {
+                        "id": "25",
+                        "description": "Aventura"
+                    },
+                    {
+                        "id": "4",
+                        "description": "Casual"
+                    },
+                    {
+                        "id": "23",
+                        "description": "Indie"
+                    }
+                ]
+            },
+            "hoster_links": {
+                "FileDitch": [
+                    {
+                        "file_name": "WeWereHereTomorrow_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha39/2815479e3d2c5e576771/WeWereHereTomorrow_Fix_Repair_Steam_Generic.rar"
+                    },
+                    {
+                        "file_name": "We.Were.Here.Tomorrow.v1.1.1.696-OFME.part1.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha39/3b4f84dc4e03db3338c4/We.Were.Here.Tomorrow.v1.1.1.696-OFME.part1.rar"
+                    },
+                    {
+                        "file_name": "We.Were.Here.Tomorrow.v1.1.1.696-OFME.part2.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha39/06e5c9774d53a09d03bb/We.Were.Here.Tomorrow.v1.1.1.696-OFME.part2.rar"
+                    },
+                    {
+                        "file_name": "We.Were.Here.Tomorrow.v1.1.1.696-OFME.part3.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha39/e42dd51d3c1c11c64ae2/We.Were.Here.Tomorrow.v1.1.1.696-OFME.part3.rar"
+                    }
+                ],
+                "FileKeeper": [
+                    {
+                        "file_name": "WeWereHereTomorrow_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://filekeeper.net/xy55xwdsyl9a"
+                    },
+                    {
+                        "file_name": "We.Were.Here.Tomorrow.v1.1.1.696-OFME.part1.rar",
+                        "direct_link": "https://filekeeper.net/2hujtt3onzee"
+                    },
+                    {
+                        "file_name": "We.Were.Here.Tomorrow.v1.1.1.696-OFME.part2.rar",
+                        "direct_link": "https://filekeeper.net/ebckweng1gl8"
+                    },
+                    {
+                        "file_name": "We.Were.Here.Tomorrow.v1.1.1.696-OFME.part3.rar",
+                        "direct_link": "https://filekeeper.net/d34u6k7qfwf9"
+                    }
+                ],
+                "Pixeldrain": [
+                    {
+                        "file_name": "WeWereHereTomorrow_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://pixeldrain.com/u/3ydMqGhq"
+                    },
+                    {
+                        "file_name": "We.Were.Here.Tomorrow.v1.1.1.696-OFME.part1.rar",
+                        "direct_link": "https://pixeldrain.com/u/XokCEpgv"
+                    },
+                    {
+                        "file_name": "We.Were.Here.Tomorrow.v1.1.1.696-OFME.part2.rar",
+                        "direct_link": "https://pixeldrain.com/u/4TSm8tP4"
+                    },
+                    {
+                        "file_name": "We.Were.Here.Tomorrow.v1.1.1.696-OFME.part3.rar",
+                        "direct_link": "https://pixeldrain.com/u/qnTa7P1d"
+                    }
+                ],
+                "Gofile": [
+                    {
+                        "file_name": "WeWereHereTomorrow_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://gofile.io/d/smzlvtXZ"
+                    },
+                    {
+                        "file_name": "We.Were.Here.Tomorrow.v1.1.1.696-OFME.part1.rar",
+                        "direct_link": "https://gofile.io/d/Ipo1H9Ba"
+                    },
+                    {
+                        "file_name": "We.Were.Here.Tomorrow.v1.1.1.696-OFME.part2.rar",
+                        "direct_link": "https://gofile.io/d/G7I4Y630"
+                    },
+                    {
+                        "file_name": "We.Were.Here.Tomorrow.v1.1.1.696-OFME.part3.rar",
+                        "direct_link": "https://gofile.io/d/CqlFTEqJ"
+                    }
+                ],
+                "VikingFile": [
+                    {
+                        "file_name": "WeWereHereTomorrow_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://vikingfile.com/f/xbc6xED8aX"
+                    },
+                    {
+                        "file_name": "We.Were.Here.Tomorrow.v1.1.1.696-OFME.part1.rar",
+                        "direct_link": "https://vikingfile.com/f/Usrla0afqp"
+                    },
+                    {
+                        "file_name": "We.Were.Here.Tomorrow.v1.1.1.696-OFME.part2.rar",
+                        "direct_link": "https://vikingfile.com/f/MWAFkLIRha"
+                    },
+                    {
+                        "file_name": "We.Were.Here.Tomorrow.v1.1.1.696-OFME.part3.rar",
+                        "direct_link": "https://vikingfile.com/f/GYYgBlFSr2"
+                    }
+                ]
+            },
+            "unique_hash": "8f0b4d2603e8e47d65770d0de257fbe4de989d5c",
+            "fileSize": "10.24 GB",
+            "magnet": "magnet:?xt=urn:btih:8f0b4d2603e8e47d65770d0de257fbe4de989d5c&dn=We%20Were%20Here%20Tomorrow&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_1/We.Were.Here.Tomorrow.v1.1.1.696-OFME.torrent",
+            "created_at": "2026-10-21 07:25:00",
+            "webdav_updated_at": "Unknown",
+            "files": [
+                {
+                    "name": "Fix Repair/WeWereHereTomorrow_Fix_Repair_Steam_Generic.rar",
+                    "size": "20.67 MB"
+                },
+                {
+                    "name": "We.Were.Here.Tomorrow.v1.1.1.696-OFME.part1.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "We.Were.Here.Tomorrow.v1.1.1.696-OFME.part2.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "We.Were.Here.Tomorrow.v1.1.1.696-OFME.part3.rar",
+                    "size": "222.48 MB"
                 }
             ],
             "comment": ""

@@ -69260,7 +69260,7 @@
             "update_info": "",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-10-21 18:09:54",
+            "scraped_at": "2026-10-22 18:08:56",
             "steam": {
                 "steam_appid": 293780,
                 "match_score": 100,
@@ -99869,10 +99869,10 @@
             "url": "https://online-fix.me/games/adventures/18234-dragons-dogma-2-po-seti.html",
             "last_update": "2026-09-08T17:35:20+03:00",
             "release_date": "22.03.2024",
-            "update_info": "Обновлено Вчера, 13:37. Игра обновлена до версии Build 16102026. Мод обновлён до версии Alpha 0.33.4.",
-            "update_date": null,
-            "formatted_update_date": null,
-            "scraped_at": "2026-10-21 18:07:57",
+            "update_info": "Обновлено 21 октября 2026, 13:37. Игра обновлена до версии Build 16102026. Мод обновлён до версии Alpha 0.33.4.",
+            "update_date": "2026-10-21T13:37:00+03:00",
+            "formatted_update_date": "2026-10-21 13:37:00",
+            "scraped_at": "2026-10-22 18:07:07",
             "steam": {
                 "steam_appid": 2054970,
                 "match_score": 100,

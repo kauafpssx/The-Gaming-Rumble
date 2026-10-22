@@ -12,29 +12,20 @@
   "pages_scraped_target": 99,
   "pages_present_in_json": 95,
   "last_page_in_json": 97,
-  "new_games_found_this_run": 160,
-  "new_games_added_to_json_this_run": 7,
-  "latest_run_new_game_names": [
-    "We Were Here Tomorrow",
-    "MOGGED Looksmaxx or Die",
-    "Lucid Cats",
-    "Hood Warfare 2",
-    "Chained Beasts",
-    "Japanese Ramen Simulator",
-    "Forsworn"
-  ],
-  "updated_games_this_run": 2,
+  "new_games_found_this_run": 152,
+  "new_games_added_to_json_this_run": 0,
+  "latest_run_new_game_names": [],
+  "updated_games_this_run": 1,
   "latest_run_updated_game_names": [
-    "Dragons Dogma 2",
-    "Enshrouded"
+    "Dragons Dogma 2"
   ],
-  "processed_games_this_run": 10,
+  "processed_games_this_run": 2,
   "torrent_files_total": 2011,
   "json_entries_with_torrent": 1897,
   "games_with_providers": 924,
-  "last_scrape_at": "2026-10-21 18:09:54",
-  "last_scrape_at_display": "21/10/2026",
+  "last_scrape_at": "2026-10-22 18:08:56",
+  "last_scrape_at_display": "22/10/2026",
   "last_game_update": "2026-10-21T13:39:33+03:00",
-  "generated_at": "2026-10-21 18:09:54",
-  "generated_at_display": "21/10/2026"
+  "generated_at": "2026-10-22 18:08:56",
+  "generated_at_display": "22/10/2026"
 }

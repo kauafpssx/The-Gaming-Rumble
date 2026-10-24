@@ -1,5 +1,5 @@
 {
-    "total": 1897,
+    "total": 1898,
     "downloads": [
         {
             "title": "10 Miles to Safety",
@@ -69260,7 +69260,7 @@
             "update_info": "",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-10-23 17:55:27",
+            "scraped_at": "2026-10-24 17:07:58",
             "steam": {
                 "steam_appid": 293780,
                 "match_score": 100,
@@ -163921,46 +163921,51 @@
         },
         {
             "title": "Grounded 2",
-            "page": 18,
+            "page": 22,
             "url": "https://online-fix.me/games/officialservers/17827-grounded-2-po-seti.html",
             "last_update": "2025-07-29T22:14:34+03:00",
             "release_date": "29.07.2025",
-            "update_info": "Обновлено 12 августа 2026, 16:57. Игра обновлена до версии 0.5.0.2.3054196. Добавлен Steam-Fix V3.",
-            "update_date": "2026-08-12T16:57:00+03:00",
-            "formatted_update_date": "2026-08-12 16:57:00",
-            "scraped_at": "2026-08-14 15:45:41",
+            "update_info": "Обновлено Сегодня, 01:55. Игра обновлена до версии 0.6.0.3. Добавлен Steam-Fix V4.",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-10-24 17:05:19",
             "steam": {
                 "steam_appid": 2661300,
                 "match_score": 100,
                 "match_via": "canon",
-                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/b52405d3dd3d4bfd356cd9af7b399bcbc5a23f7e/header.jpg?t=1786582449",
-                "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/e2181629195456c56ba1e076e9e06eeab7fcb518/capsule_184x69.jpg?t=1786582449",
-                "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/040f057db336ec2a67993e66bd89a7de2aa2ff30/page_bg_raw.jpg?t=1786582449",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/91c758b9591805d15b26d9fa185a8b9ebab0a334/header.jpg?t=1792539149",
+                "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/75319f2fdb61134e51d37337a1beb610f05225a3/capsule_184x69.jpg?t=1792539149",
+                "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/43ff3a939ea32838c96f1dfb88dc5e3e457230fb/page_bg_raw.jpg?t=1792539149",
                 "screenshots": [
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/6f4c236dd7971bdd969fa22d6fe3352fe9d84285/ss_6f4c236dd7971bdd969fa22d6fe3352fe9d84285.1920x1080.jpg?t=1786582449",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/7a8fbba43e7ca616584f5676d864d02ed15930db/ss_7a8fbba43e7ca616584f5676d864d02ed15930db.1920x1080.jpg?t=1786582449",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/b4be8b8011524a4ee3219c8ff56e89b6750b86d8/ss_b4be8b8011524a4ee3219c8ff56e89b6750b86d8.1920x1080.jpg?t=1786582449",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/7aa1c763b0ffeddcefc29ab5b712a238e8bb7e99/ss_7aa1c763b0ffeddcefc29ab5b712a238e8bb7e99.1920x1080.jpg?t=1786582449",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/9d02b8ad55777d9e2a94a78e41a7dc8de1b1c545/ss_9d02b8ad55777d9e2a94a78e41a7dc8de1b1c545.1920x1080.jpg?t=1786582449",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/7722cad8aa8a0c86c2f7f9eae18345a76ae7ab2c/ss_7722cad8aa8a0c86c2f7f9eae18345a76ae7ab2c.1920x1080.jpg?t=1786582449",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/28a962ecdb398fb4c57937297693a6fc11db1c99/ss_28a962ecdb398fb4c57937297693a6fc11db1c99.1920x1080.jpg?t=1786582449",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/07fe70a7d489fc221cb0093585e0f24c1fb57a0a/ss_07fe70a7d489fc221cb0093585e0f24c1fb57a0a.1920x1080.jpg?t=1786582449",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/bd079e7ed3efb705d3dd44aa1b8a3a5a2cc19ef1/ss_bd079e7ed3efb705d3dd44aa1b8a3a5a2cc19ef1.1920x1080.jpg?t=1786582449",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/2ded29a36709833c15c0639b2d16bf6e893978fc/ss_2ded29a36709833c15c0639b2d16bf6e893978fc.1920x1080.jpg?t=1786582449",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/fe1ab0909aadafa46a6092103934545823bb0a7e/ss_fe1ab0909aadafa46a6092103934545823bb0a7e.1920x1080.jpg?t=1786582449",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/6301fe8fd9399942d8674232a43b3c80ec3cda52/ss_6301fe8fd9399942d8674232a43b3c80ec3cda52.1920x1080.jpg?t=1786582449",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/084669ce844c3fca2b1299f89d5d225530a8dd54/ss_084669ce844c3fca2b1299f89d5d225530a8dd54.1920x1080.jpg?t=1786582449"
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/754d15aea493d510133632a94cd2887c8a0d6fae/ss_754d15aea493d510133632a94cd2887c8a0d6fae.1920x1080.jpg?t=1792539149",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/e329a4982c8b09c739624c7258aa274215e41e44/ss_e329a4982c8b09c739624c7258aa274215e41e44.1920x1080.jpg?t=1792539149",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/10ad0421b3333ca4c2fb030d5960042ef135f3e5/ss_10ad0421b3333ca4c2fb030d5960042ef135f3e5.1920x1080.jpg?t=1792539149",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/383d7337caa500f18610e76d492fa3427c294184/ss_383d7337caa500f18610e76d492fa3427c294184.1920x1080.jpg?t=1792539149",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/8e7639c3c32a6ed7f5052633c6045117ac3283cc/ss_8e7639c3c32a6ed7f5052633c6045117ac3283cc.1920x1080.jpg?t=1792539149",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/6f4c236dd7971bdd969fa22d6fe3352fe9d84285/ss_6f4c236dd7971bdd969fa22d6fe3352fe9d84285.1920x1080.jpg?t=1792539149",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/7a8fbba43e7ca616584f5676d864d02ed15930db/ss_7a8fbba43e7ca616584f5676d864d02ed15930db.1920x1080.jpg?t=1792539149",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/b4be8b8011524a4ee3219c8ff56e89b6750b86d8/ss_b4be8b8011524a4ee3219c8ff56e89b6750b86d8.1920x1080.jpg?t=1792539149",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/7aa1c763b0ffeddcefc29ab5b712a238e8bb7e99/ss_7aa1c763b0ffeddcefc29ab5b712a238e8bb7e99.1920x1080.jpg?t=1792539149",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/9d02b8ad55777d9e2a94a78e41a7dc8de1b1c545/ss_9d02b8ad55777d9e2a94a78e41a7dc8de1b1c545.1920x1080.jpg?t=1792539149",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/7722cad8aa8a0c86c2f7f9eae18345a76ae7ab2c/ss_7722cad8aa8a0c86c2f7f9eae18345a76ae7ab2c.1920x1080.jpg?t=1792539149",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/28a962ecdb398fb4c57937297693a6fc11db1c99/ss_28a962ecdb398fb4c57937297693a6fc11db1c99.1920x1080.jpg?t=1792539149",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/07fe70a7d489fc221cb0093585e0f24c1fb57a0a/ss_07fe70a7d489fc221cb0093585e0f24c1fb57a0a.1920x1080.jpg?t=1792539149",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/bd079e7ed3efb705d3dd44aa1b8a3a5a2cc19ef1/ss_bd079e7ed3efb705d3dd44aa1b8a3a5a2cc19ef1.1920x1080.jpg?t=1792539149",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/2ded29a36709833c15c0639b2d16bf6e893978fc/ss_2ded29a36709833c15c0639b2d16bf6e893978fc.1920x1080.jpg?t=1792539149",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/fe1ab0909aadafa46a6092103934545823bb0a7e/ss_fe1ab0909aadafa46a6092103934545823bb0a7e.1920x1080.jpg?t=1792539149",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/6301fe8fd9399942d8674232a43b3c80ec3cda52/ss_6301fe8fd9399942d8674232a43b3c80ec3cda52.1920x1080.jpg?t=1792539149",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/084669ce844c3fca2b1299f89d5d225530a8dd54/ss_084669ce844c3fca2b1299f89d5d225530a8dd54.1920x1080.jpg?t=1792539149"
                 ],
                 "movies": [
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257392608/104043de919d7c4d32163b23a0ee7a372ee0767a/movie_600x337.jpg?t=1792522976",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2661300/984153079/aec814efe7cee956488089e830dbc660bd2ded17/1792099587/dash_h264.mpd?t=1792522976",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2661300/984153079/aec814efe7cee956488089e830dbc660bd2ded17/1792099587/hls_264_master.m3u8?t=1792522976"
+                    },
                     {
                         "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257392614/4033a40afe33c6acb11c545f837e32978f42c2f2/movie_600x337.jpg?t=1786467792",
                         "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2661300/261678483/d86baab047e6757ae26394cb8fc212716024770b/1785972704/dash_h264.mpd?t=1786467792",
                         "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2661300/261678483/d86baab047e6757ae26394cb8fc212716024770b/1785972704/hls_264_master.m3u8?t=1786467792"
-                    },
-                    {
-                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257392608/f3aa5d9c232e697b752d7e3653498e1aa2163c55/movie_600x337.jpg?t=1786467793",
-                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2661300/1955299308/d86baab047e6757ae26394cb8fc212716024770b/1785970604/dash_h264.mpd?t=1786467793",
-                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2661300/1955299308/d86baab047e6757ae26394cb8fc212716024770b/1785970604/hls_264_master.m3u8?t=1786467793"
                     },
                     {
                         "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257316335/94d67153dfb44d6df9b0d6ef5056d6175f8f3b8c/movie_600x337.jpg?t=1776193474",
@@ -164047,165 +164052,141 @@
             "hoster_links": {
                 "FileDitch": [
                     {
-                        "file_name": "Grounded2_Fix_Repair_Steam_V3_Generic.rar",
-                        "direct_link": "https://fileditchfiles.st/balpha3/92cd2d58af2eb52d04fc/Grounded2_Fix_Repair_Steam_V3_Generic.rar"
+                        "file_name": "Grounded2_Fix_Repair_Steam_V4_Generic.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha36/608b3bcb68698665da24/Grounded2_Fix_Repair_Steam_V4_Generic.rar"
                     },
                     {
-                        "file_name": "Grounded.2.v0.5.0.2.3054196-OFME.part1.rar",
-                        "direct_link": "https://fileditchfiles.st/balpha3/7c6fa9ca19e6a98da83f/Grounded.2.v0.5.0.2.3054196-OFME.part1.rar"
+                        "file_name": "Grounded.2.v0.6.0.3-OFME.part1.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha36/536c6331f010741b9270/Grounded.2.v0.6.0.3-OFME.part1.rar"
                     },
                     {
-                        "file_name": "Grounded.2.v0.5.0.2.3054196-OFME.part2.rar",
-                        "direct_link": "https://fileditchfiles.st/balpha3/633820859dc1ef808734/Grounded.2.v0.5.0.2.3054196-OFME.part2.rar"
+                        "file_name": "Grounded.2.v0.6.0.3-OFME.part2.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha36/cb24ab09f3f40e849e20/Grounded.2.v0.6.0.3-OFME.part2.rar"
                     },
                     {
-                        "file_name": "Grounded.2.v0.5.0.2.3054196-OFME.part3.rar",
-                        "direct_link": "https://fileditchfiles.st/balpha3/1a1891aa01cb92908029/Grounded.2.v0.5.0.2.3054196-OFME.part3.rar"
+                        "file_name": "Grounded.2.v0.6.0.3-OFME.part3.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha36/d2000d034390cae45057/Grounded.2.v0.6.0.3-OFME.part3.rar"
                     },
                     {
-                        "file_name": "Grounded.2.v0.5.0.2.3054196-OFME.part4.rar",
-                        "direct_link": "https://fileditchfiles.st/balpha3/faba09789f7aedef58af/Grounded.2.v0.5.0.2.3054196-OFME.part4.rar"
-                    },
-                    {
-                        "file_name": "Grounded.2.v0.5.0.2.3054196-OFME.part5.rar",
-                        "direct_link": "https://fileditchfiles.st/balpha3/ae9053de888a346c7671/Grounded.2.v0.5.0.2.3054196-OFME.part5.rar"
+                        "file_name": "Grounded.2.v0.6.0.3-OFME.part4.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha36/4ab687c6c90a66c6884e/Grounded.2.v0.6.0.3-OFME.part4.rar"
                     }
                 ],
                 "FileKeeper": [
                     {
-                        "file_name": "Grounded2_Fix_Repair_Steam_V3_Generic.rar",
-                        "direct_link": "https://filekeeper.net/23a7h9yj9g3g"
+                        "file_name": "Grounded2_Fix_Repair_Steam_V4_Generic.rar",
+                        "direct_link": "https://filekeeper.net/f82whjl25s3l"
                     },
                     {
-                        "file_name": "Grounded.2.v0.5.0.2.3054196-OFME.part1.rar",
-                        "direct_link": "https://filekeeper.net/lua8jlo9d0l9"
+                        "file_name": "Grounded.2.v0.6.0.3-OFME.part1.rar",
+                        "direct_link": "https://filekeeper.net/ih79jnwpjpel"
                     },
                     {
-                        "file_name": "Grounded.2.v0.5.0.2.3054196-OFME.part2.rar",
-                        "direct_link": "https://filekeeper.net/1kiid7mm019w"
+                        "file_name": "Grounded.2.v0.6.0.3-OFME.part2.rar",
+                        "direct_link": "https://filekeeper.net/c445cdk083ym"
                     },
                     {
-                        "file_name": "Grounded.2.v0.5.0.2.3054196-OFME.part3.rar",
-                        "direct_link": "https://filekeeper.net/wd1dbtr00y0j"
+                        "file_name": "Grounded.2.v0.6.0.3-OFME.part3.rar",
+                        "direct_link": "https://filekeeper.net/xv513urguxi1"
                     },
                     {
-                        "file_name": "Grounded.2.v0.5.0.2.3054196-OFME.part4.rar",
-                        "direct_link": "https://filekeeper.net/n6pol7ylixl0"
-                    },
-                    {
-                        "file_name": "Grounded.2.v0.5.0.2.3054196-OFME.part5.rar",
-                        "direct_link": "https://filekeeper.net/tt8kdt57kf2u"
+                        "file_name": "Grounded.2.v0.6.0.3-OFME.part4.rar",
+                        "direct_link": "https://filekeeper.net/5xq77k9hma91"
                     }
                 ],
                 "Pixeldrain": [
                     {
-                        "file_name": "Grounded2_Fix_Repair_Steam_V3_Generic.rar",
-                        "direct_link": "https://pixeldrain.com/u/kas4nuVa"
+                        "file_name": "Grounded2_Fix_Repair_Steam_V4_Generic.rar",
+                        "direct_link": "https://pixeldrain.com/u/7xJBfYQD"
                     },
                     {
-                        "file_name": "Grounded.2.v0.5.0.2.3054196-OFME.part1.rar",
-                        "direct_link": "https://pixeldrain.com/u/H8CDQ2k5"
+                        "file_name": "Grounded.2.v0.6.0.3-OFME.part1.rar",
+                        "direct_link": "https://pixeldrain.com/u/h68qNFmX"
                     },
                     {
-                        "file_name": "Grounded.2.v0.5.0.2.3054196-OFME.part2.rar",
-                        "direct_link": "https://pixeldrain.com/u/H88Hi6ec"
+                        "file_name": "Grounded.2.v0.6.0.3-OFME.part2.rar",
+                        "direct_link": "https://pixeldrain.com/u/jj7YV79F"
                     },
                     {
-                        "file_name": "Grounded.2.v0.5.0.2.3054196-OFME.part3.rar",
-                        "direct_link": "https://pixeldrain.com/u/GxbNzdtS"
+                        "file_name": "Grounded.2.v0.6.0.3-OFME.part3.rar",
+                        "direct_link": "https://pixeldrain.com/u/ukY5dRrC"
                     },
                     {
-                        "file_name": "Grounded.2.v0.5.0.2.3054196-OFME.part4.rar",
-                        "direct_link": "https://pixeldrain.com/u/iHGbLB84"
-                    },
-                    {
-                        "file_name": "Grounded.2.v0.5.0.2.3054196-OFME.part5.rar",
-                        "direct_link": "https://pixeldrain.com/u/fMUFduWd"
+                        "file_name": "Grounded.2.v0.6.0.3-OFME.part4.rar",
+                        "direct_link": "https://pixeldrain.com/u/vXuUvQkN"
                     }
                 ],
                 "Gofile": [
                     {
-                        "file_name": "Grounded2_Fix_Repair_Steam_V3_Generic.rar",
-                        "direct_link": "https://gofile.io/d/GnxEdI"
+                        "file_name": "Grounded2_Fix_Repair_Steam_V4_Generic.rar",
+                        "direct_link": "https://gofile.io/d/WL7ZTnqu"
                     },
                     {
-                        "file_name": "Grounded.2.v0.5.0.2.3054196-OFME.part1.rar",
-                        "direct_link": "https://gofile.io/d/0aOf50"
+                        "file_name": "Grounded.2.v0.6.0.3-OFME.part1.rar",
+                        "direct_link": "https://gofile.io/d/xo2hkTAO"
                     },
                     {
-                        "file_name": "Grounded.2.v0.5.0.2.3054196-OFME.part2.rar",
-                        "direct_link": "https://gofile.io/d/xdJkfV"
+                        "file_name": "Grounded.2.v0.6.0.3-OFME.part2.rar",
+                        "direct_link": "https://gofile.io/d/uM0NKVyC"
                     },
                     {
-                        "file_name": "Grounded.2.v0.5.0.2.3054196-OFME.part3.rar",
-                        "direct_link": "https://gofile.io/d/CDQQhD"
+                        "file_name": "Grounded.2.v0.6.0.3-OFME.part3.rar",
+                        "direct_link": "https://gofile.io/d/0i2xlH0I"
                     },
                     {
-                        "file_name": "Grounded.2.v0.5.0.2.3054196-OFME.part4.rar",
-                        "direct_link": "https://gofile.io/d/Frg5o6"
-                    },
-                    {
-                        "file_name": "Grounded.2.v0.5.0.2.3054196-OFME.part5.rar",
-                        "direct_link": "https://gofile.io/d/Q7PXti"
+                        "file_name": "Grounded.2.v0.6.0.3-OFME.part4.rar",
+                        "direct_link": "https://gofile.io/d/ynxaijuW"
                     }
                 ],
                 "VikingFile": [
                     {
-                        "file_name": "Grounded2_Fix_Repair_Steam_V3_Generic.rar",
-                        "direct_link": "https://vikingfile.com/f/khCX679EBg"
+                        "file_name": "Grounded2_Fix_Repair_Steam_V4_Generic.rar",
+                        "direct_link": "https://vikingfile.com/f/QQb7Ej0Sgi"
                     },
                     {
-                        "file_name": "Grounded.2.v0.5.0.2.3054196-OFME.part1.rar",
-                        "direct_link": "https://vikingfile.com/f/A0E1C1Gjrv"
+                        "file_name": "Grounded.2.v0.6.0.3-OFME.part1.rar",
+                        "direct_link": "https://vikingfile.com/f/yHIwIaZt41"
                     },
                     {
-                        "file_name": "Grounded.2.v0.5.0.2.3054196-OFME.part2.rar",
-                        "direct_link": "https://vikingfile.com/f/Mn1PajpFZ4"
+                        "file_name": "Grounded.2.v0.6.0.3-OFME.part2.rar",
+                        "direct_link": "https://vikingfile.com/f/PtTGONIYAj"
                     },
                     {
-                        "file_name": "Grounded.2.v0.5.0.2.3054196-OFME.part3.rar",
-                        "direct_link": "https://vikingfile.com/f/jOaywKvT3j"
+                        "file_name": "Grounded.2.v0.6.0.3-OFME.part3.rar",
+                        "direct_link": "https://vikingfile.com/f/dO3U0Ztgd0"
                     },
                     {
-                        "file_name": "Grounded.2.v0.5.0.2.3054196-OFME.part4.rar",
-                        "direct_link": "https://vikingfile.com/f/jfONFpcXAw"
-                    },
-                    {
-                        "file_name": "Grounded.2.v0.5.0.2.3054196-OFME.part5.rar",
-                        "direct_link": "https://vikingfile.com/f/LCiHvoWDIe"
+                        "file_name": "Grounded.2.v0.6.0.3-OFME.part4.rar",
+                        "direct_link": "https://vikingfile.com/f/rPhZh5qfGE"
                     }
                 ]
             },
-            "unique_hash": "6d5c11ca520d1c8112054390289d12c09eec28c4",
-            "fileSize": "20.52 GB",
-            "magnet": "magnet:?xt=urn:btih:6d5c11ca520d1c8112054390289d12c09eec28c4&dn=Grounded%202&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
-            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_18/Grounded.2.v0.5.0.2.3054196-OFME.torrent",
-            "created_at": "2026-08-12 11:02:17",
+            "unique_hash": "95f028943bb578aaf8e4a0d6a73792d9d6fc7436",
+            "fileSize": "19.15 GB",
+            "magnet": "magnet:?xt=urn:btih:95f028943bb578aaf8e4a0d6a73792d9d6fc7436&dn=Grounded%202&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_22/Grounded.2.v0.6.0.3-OFME.torrent",
+            "created_at": "2026-10-23 19:46:30",
             "webdav_updated_at": "Unknown",
             "files": [
                 {
-                    "name": "Fix Repair/Grounded2_Fix_Repair_Steam_V3_Generic.rar",
-                    "size": "21.63 MB"
+                    "name": "Fix Repair/Grounded2_Fix_Repair_Steam_V4_Generic.rar",
+                    "size": "21.64 MB"
                 },
                 {
-                    "name": "Grounded.2.v0.5.0.2.3054196-OFME.part1.rar",
+                    "name": "Grounded.2.v0.6.0.3-OFME.part1.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "Grounded.2.v0.5.0.2.3054196-OFME.part4.rar",
+                    "name": "Grounded.2.v0.6.0.3-OFME.part2.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "Grounded.2.v0.5.0.2.3054196-OFME.part5.rar",
-                    "size": "506.37 MB"
-                },
-                {
-                    "name": "Grounded.2.v0.5.0.2.3054196-OFME.part2.rar",
+                    "name": "Grounded.2.v0.6.0.3-OFME.part3.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "Grounded.2.v0.5.0.2.3054196-OFME.part3.rar",
-                    "size": "5.00 GB"
+                    "name": "Grounded.2.v0.6.0.3-OFME.part4.rar",
+                    "size": "4.13 GB"
                 }
             ],
             "comment": ""
@@ -185316,43 +185297,54 @@
         },
         {
             "title": "I Know a Guy Shady Life Simulator",
-            "page": 6,
+            "page": 11,
             "url": "https://online-fix.me/games/simulator/18055-i-know-a-guy-shady-life-simulator-po-seti.html",
             "last_update": "2026-04-06T15:46:20+03:00",
             "release_date": "01.04.2026",
-            "update_info": "",
+            "update_info": "Обновлено Сегодня, 01:56. Игра обновлена до версии Build 11102026.",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-07-27 11:37:19",
+            "scraped_at": "2026-10-24 17:05:13",
             "steam": {
                 "steam_appid": 4173620,
                 "match_score": 100,
                 "match_via": "canon",
-                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4173620/ebebf52f4ae57acd8593d92b48d0adec0f3c3992/header.jpg?t=1781897921",
-                "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4173620/2d86413a1135b5fd0e027d027ff569c8fc628101/capsule_184x69.jpg?t=1781897921",
-                "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4173620/a0df68225827309090a17702e9773cb069c86d81/page_bg_raw.jpg?t=1781897921",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4173620/40f0d33c6acce88b1eaa63939a53d1068ed7d848/header_alt_assets_2.jpg?t=1791495708",
+                "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4173620/d06b1210009c0c5f770f0eb31c118d8bcfca643b/capsule_184x69_alt_assets_2.jpg?t=1791495708",
+                "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4173620/a0df68225827309090a17702e9773cb069c86d81/page_bg_raw.jpg?t=1791495708",
                 "screenshots": [
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4173620/ed49db4436fd79a99ee8d2a58ca92a73c43875b4/ss_ed49db4436fd79a99ee8d2a58ca92a73c43875b4.1920x1080.jpg?t=1781897921",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4173620/219cc876062fae970db8d24d10ebbdee7f4e76ea/ss_219cc876062fae970db8d24d10ebbdee7f4e76ea.1920x1080.jpg?t=1781897921",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4173620/522ed607e7525002e2b2cf942dcf31c222aa78e9/ss_522ed607e7525002e2b2cf942dcf31c222aa78e9.1920x1080.jpg?t=1781897921",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4173620/57d04dcda371206d7e036e2269d655e1c8ee0e70/ss_57d04dcda371206d7e036e2269d655e1c8ee0e70.1920x1080.jpg?t=1781897921",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4173620/c83ffb8dc3c30b21153114ae62485f05e345cb5e/ss_c83ffb8dc3c30b21153114ae62485f05e345cb5e.1920x1080.jpg?t=1781897921",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4173620/dbb51b8ef3bf5477ec31f026f23bac09f26566f4/ss_dbb51b8ef3bf5477ec31f026f23bac09f26566f4.1920x1080.jpg?t=1781897921",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4173620/f7c7aa198aa3e9d59a7151f954ec243ec597ad5f/ss_f7c7aa198aa3e9d59a7151f954ec243ec597ad5f.1920x1080.jpg?t=1781897921"
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4173620/68ca1ab1f53850a432c2d9c7bcd2d8916171fae2/ss_68ca1ab1f53850a432c2d9c7bcd2d8916171fae2.1920x1080.jpg?t=1791495708",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4173620/219cc876062fae970db8d24d10ebbdee7f4e76ea/ss_219cc876062fae970db8d24d10ebbdee7f4e76ea.1920x1080.jpg?t=1791495708",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4173620/522ed607e7525002e2b2cf942dcf31c222aa78e9/ss_522ed607e7525002e2b2cf942dcf31c222aa78e9.1920x1080.jpg?t=1791495708",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4173620/ed7fa18ac342d96b522d542fc04083e5b02f9756/ss_ed7fa18ac342d96b522d542fc04083e5b02f9756.1920x1080.jpg?t=1791495708",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4173620/57d04dcda371206d7e036e2269d655e1c8ee0e70/ss_57d04dcda371206d7e036e2269d655e1c8ee0e70.1920x1080.jpg?t=1791495708",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4173620/90d0a26ca3aa44210ecaa2fed1e0bb23bb3cd8e4/ss_90d0a26ca3aa44210ecaa2fed1e0bb23bb3cd8e4.1920x1080.jpg?t=1791495708",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4173620/d5f725df53cd27d8515bde6c7e7074ad101c72bd/ss_d5f725df53cd27d8515bde6c7e7074ad101c72bd.1920x1080.jpg?t=1791495708",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4173620/88ebaf0e976ae7ba6a49d16a64777524f8364b93/ss_88ebaf0e976ae7ba6a49d16a64777524f8364b93.1920x1080.jpg?t=1791495708",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4173620/fd894f4b035181ce3ad17f149a3d29ca626997c1/ss_fd894f4b035181ce3ad17f149a3d29ca626997c1.1920x1080.jpg?t=1791495708",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4173620/dbb51b8ef3bf5477ec31f026f23bac09f26566f4/ss_dbb51b8ef3bf5477ec31f026f23bac09f26566f4.1920x1080.jpg?t=1791495708",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4173620/f7c7aa198aa3e9d59a7151f954ec243ec597ad5f/ss_f7c7aa198aa3e9d59a7151f954ec243ec597ad5f.1920x1080.jpg?t=1791495708",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4173620/1f66a8839177d4ef2f252e8e9271f603fee7b812/ss_1f66a8839177d4ef2f252e8e9271f603fee7b812.1920x1080.jpg?t=1791495708",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4173620/b6ce5206e110d0cb72f1e9134fdf1cdc4373d912/ss_b6ce5206e110d0cb72f1e9134fdf1cdc4373d912.1920x1080.jpg?t=1791495708"
                 ],
                 "movies": [
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257420938/e54442a484b104e8072d7063b9d850f2a6854ee3/movie_600x337.jpg?t=1788968141",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/4173620/2018346810/0f01a93055e3b72e0fc0bbabaffe8e95771b1fa5/1788966701/dash_h264.mpd?t=1788968141",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/4173620/2018346810/0f01a93055e3b72e0fc0bbabaffe8e95771b1fa5/1788966701/hls_264_master.m3u8?t=1788968141"
+                    },
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257422751/84ed4841b2170be30f7d3d86b82c7e9bf8a21136/movie_600x337.jpg?t=1789562651",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/4173620/479187379/3d4847b62deb5ac5df3411a5107441fa5db24b43/1789132784/dash_h264.mpd?t=1789562651",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/4173620/479187379/3d4847b62deb5ac5df3411a5107441fa5db24b43/1789132784/hls_264_master.m3u8?t=1789562651"
+                    },
                     {
                         "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257309112/9c88bf85644896eb5384e80457c13009088f8811/movie_600x337.jpg?t=1774483346",
                         "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/4173620/315108782/c9ff5e215e24811090aca4be616e1e3c1af59e75/1774482741/dash_h264.mpd?t=1774483346",
                         "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/4173620/315108782/c9ff5e215e24811090aca4be616e1e3c1af59e75/1774482741/hls_264_master.m3u8?t=1774483346"
-                    },
-                    {
-                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257294546/9df1f8e1d8f08d7b1269ee58f5718c6356f438f5/movie_600x337.jpg?t=1772110259",
-                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/4173620/1925502477/579840d26f8c1f8f07bcb18402ee54a369dabaac/1772048494/dash_h264.mpd?t=1772110259",
-                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/4173620/1925502477/579840d26f8c1f8f07bcb18402ee54a369dabaac/1772048494/hls_264_master.m3u8?t=1772110259"
                     }
                 ],
-                "achievements_total": 22,
+                "achievements_total": 32,
                 "achievements_highlighted": [
                     {
                         "icon": "b8c7f097cf880889fa01e5b98f2516db08719962.jpg",
@@ -185439,7 +185431,7 @@
                     "pegi": null,
                     "esrb": null
                 },
-                "release_date_steam": "1 abr. 2026",
+                "release_date_steam": "25 set. 2026",
                 "short_description": "Gerencie sua pizzaria e negócios escusos nos fundos. Ajude NPCs em missões caóticas. Solo ou cooperativo para 4 jogadores em Hobarey Town. Torne-se &quot;o cara&quot; que todos conhecem neste simulador de gestão com humor ácido.",
                 "short_description_native": "Gerencie sua pizzaria e negócios escusos nos fundos. Ajude NPCs em missões caóticas. Solo ou cooperativo para 4 jogadores em Hobarey Town. Torne-se &quot;o cara&quot; que todos conhecem neste simulador de gestão com humor ácido.",
                 "price_brl": "R$ 47,99",
@@ -185499,22 +185491,30 @@
                     {
                         "id": "28",
                         "description": "Simulação"
-                    },
-                    {
-                        "id": "70",
-                        "description": "Acesso Antecipado"
                     }
                 ]
             },
             "hoster_links": {
+                "FileDitch": [
+                    {
+                        "file_name": "I.Know.a.Guy.Shady.Life.Simulator.Build.11102026-OFME.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha36/94e2ca01c9391071196c/I.Know.a.Guy.Shady.Life.Simulator.Build.11102026-OFME.rar"
+                    }
+                ],
+                "FileKeeper": [
+                    {
+                        "file_name": "I.Know.a.Guy.Shady.Life.Simulator.Build.11102026-OFME.rar",
+                        "direct_link": "https://filekeeper.net/dng7xovw2993"
+                    }
+                ],
                 "Pixeldrain": [
                     {
                         "file_name": "IKnowAGuyShadyLifeSimulator_Fix_Repair_Steam_Generic.rar",
                         "direct_link": "https://pixeldrain.com/u/8PEEnBNW"
                     },
                     {
-                        "file_name": "I.Know.a.Guy.Shady.Life.Simulator.Build.05042026-OFME.rar",
-                        "direct_link": "https://pixeldrain.com/u/w1JUncNy"
+                        "file_name": "I.Know.a.Guy.Shady.Life.Simulator.Build.11102026-OFME.rar",
+                        "direct_link": "https://pixeldrain.com/u/a5Db12Kr"
                     }
                 ],
                 "Gofile": [
@@ -185523,8 +185523,14 @@
                         "direct_link": "https://gofile.io/d/wSpemL"
                     },
                     {
-                        "file_name": "I.Know.a.Guy.Shady.Life.Simulator.Build.05042026-OFME.rar",
-                        "direct_link": "https://gofile.io/d/RZAMBq"
+                        "file_name": "I.Know.a.Guy.Shady.Life.Simulator.Build.11102026-OFME.rar",
+                        "direct_link": "https://gofile.io/d/3kIw3kOY"
+                    }
+                ],
+                "Rootz": [
+                    {
+                        "file_name": "IKnowAGuyShadyLifeSimulator_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://rootz.so/d/GYdpQ"
                     }
                 ],
                 "VikingFile": [
@@ -185533,26 +185539,16 @@
                         "direct_link": "https://vikingfile.com/f/0t6d4u9QMO"
                     },
                     {
-                        "file_name": "I.Know.a.Guy.Shady.Life.Simulator.Build.05042026-OFME.rar",
-                        "direct_link": "https://vikingfile.com/f/GnZf6PCkBw"
-                    }
-                ],
-                "Rootz": [
-                    {
-                        "file_name": "IKnowAGuyShadyLifeSimulator_Fix_Repair_Steam_Generic.rar",
-                        "direct_link": "https://rootz.so/d/GYdpQ"
-                    },
-                    {
-                        "file_name": "I.Know.a.Guy.Shady.Life.Simulator.Build.05042026-OFME.rar",
-                        "direct_link": "https://rootz.so/d/1PD1jE"
+                        "file_name": "I.Know.a.Guy.Shady.Life.Simulator.Build.11102026-OFME.rar",
+                        "direct_link": "https://vikingfile.com/f/sM5Qwoxh9b"
                     }
                 ]
             },
-            "unique_hash": "a57bb58d1c32a617a9e8ffc6873ce4f7ef3fa3f9",
-            "fileSize": "1.73 GB",
-            "magnet": "magnet:?xt=urn:btih:a57bb58d1c32a617a9e8ffc6873ce4f7ef3fa3f9&dn=I%20Know%20a%20Guy%20Shady%20Life%20Simulator&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
-            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_6/I.Know.a.Guy.Shady.Life.Simulator.Build.05042026-OFME.torrent",
-            "created_at": "2026-04-06 09:42:50",
+            "unique_hash": "f2c98e6de05a391fea5dbb8e2f53ab670bc103d0",
+            "fileSize": "1.11 GB",
+            "magnet": "magnet:?xt=urn:btih:f2c98e6de05a391fea5dbb8e2f53ab670bc103d0&dn=I%20Know%20a%20Guy%20Shady%20Life%20Simulator&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_11/I.Know.a.Guy.Shady.Life.Simulator.Build.11102026-OFME.torrent",
+            "created_at": "2026-10-23 19:51:15",
             "webdav_updated_at": "Unknown",
             "files": [
                 {
@@ -185560,8 +185556,8 @@
                     "size": "11.09 MB"
                 },
                 {
-                    "name": "I.Know.a.Guy.Shady.Life.Simulator.Build.05042026-OFME.rar",
-                    "size": "1.71 GB"
+                    "name": "I.Know.a.Guy.Shady.Life.Simulator.Build.11102026-OFME.rar",
+                    "size": "1.10 GB"
                 }
             ],
             "comment": ""
@@ -345775,6 +345771,371 @@
                 {
                     "name": "Solasta.Crown.of.the.Magister.v1.5.52-OFME.part3.rar",
                     "size": "4.24 GB"
+                }
+            ],
+            "comment": ""
+        },
+        {
+            "title": "Solasta II",
+            "page": 1,
+            "url": "https://online-fix.me/games/officialservers/18288-solasta-ii-po-seti.html",
+            "last_update": "2026-10-24T01:59:40+03:00",
+            "release_date": "12.03.2026",
+            "update_info": "",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-10-24 17:05:09",
+            "steam": {
+                "steam_appid": 2975950,
+                "match_score": 100,
+                "match_via": "canon",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2975950/154758dcb5b2de9464a46fa54b8973bca5c1522f/header.jpg?t=1789129642",
+                "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2975950/f405adce0c5b315efc1176bf958a5d0582d5f267/capsule_184x69.jpg?t=1789129642",
+                "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2975950/c1634a4489045ad377d1df38e5040b1e62bf258c/page_bg_raw.jpg?t=1789129642",
+                "screenshots": [
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2975950/4c3d1ab1aaefdb902d63f613f38265bd4d60fcab/ss_4c3d1ab1aaefdb902d63f613f38265bd4d60fcab.1920x1080.jpg?t=1789129642",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2975950/67b78f360ad19198df507febf8c7107e1fae314a/ss_67b78f360ad19198df507febf8c7107e1fae314a.1920x1080.jpg?t=1789129642",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2975950/54f8c6bf5e168d13253c555bcee80a7afb6dcae4/ss_54f8c6bf5e168d13253c555bcee80a7afb6dcae4.1920x1080.jpg?t=1789129642",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2975950/0f799f2d8c7f246b986b9eecda23b07da92d3f26/ss_0f799f2d8c7f246b986b9eecda23b07da92d3f26.1920x1080.jpg?t=1789129642",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2975950/17211684353da7d7aa70cd83390504978192bb17/ss_17211684353da7d7aa70cd83390504978192bb17.1920x1080.jpg?t=1789129642",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2975950/dd7d6fabd2a95d2e7eb14fa10fb120143a6ed6db/ss_dd7d6fabd2a95d2e7eb14fa10fb120143a6ed6db.1920x1080.jpg?t=1789129642",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2975950/8d220d8287c8494f329320c90811b5e7c6108de3/ss_8d220d8287c8494f329320c90811b5e7c6108de3.1920x1080.jpg?t=1789129642",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2975950/8fc8a244ea55a5d6542901c70b04e633e7ea8beb/ss_8fc8a244ea55a5d6542901c70b04e633e7ea8beb.1920x1080.jpg?t=1789129642",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2975950/68e9b9051f4ed1f2762df33ea9be60581413be17/ss_68e9b9051f4ed1f2762df33ea9be60581413be17.1920x1080.jpg?t=1789129642",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2975950/7226f2e591b07ba871b081bc77cc5a30813f94b7/ss_7226f2e591b07ba871b081bc77cc5a30813f94b7.1920x1080.jpg?t=1789129642"
+                ],
+                "movies": [
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257420880/26b248ebfc64f2652a62189f4b31f51282b819f4/movie_600x337.jpg?t=1789045945",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2975950/2041001332/5f9d2d4721bcccdd650ca3f692600e4a2ad29642/1788961811/dash_h264.mpd?t=1789045945",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2975950/2041001332/5f9d2d4721bcccdd650ca3f692600e4a2ad29642/1788961811/hls_264_master.m3u8?t=1789045945"
+                    },
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257301082/207ea4db4c23b73e9abb22492ee8424577f8d0d0/movie_600x337.jpg?t=1773332596",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2975950/1786261718/b2f129a623eb3a5afbec000c5f630e0b548d5564/1773151386/dash_h264.mpd?t=1773332596",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2975950/1786261718/b2f129a623eb3a5afbec000c5f630e0b548d5564/1773151386/hls_264_master.m3u8?t=1773332596"
+                    },
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257355017/854ed1b884c600df82c6010fdbe54acbba7a12a8/movie_600x337.jpg?t=1789045946",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2975950/411830454/42ea22512654790ecb79c14cdcb303ab924a11e1/1781083951/dash_h264.mpd?t=1789045946",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2975950/411830454/42ea22512654790ecb79c14cdcb303ab924a11e1/1781083951/hls_264_master.m3u8?t=1789045946"
+                    }
+                ],
+                "achievements_total": null,
+                "achievements_highlighted": [],
+                "ratings": {
+                    "pegi": null,
+                    "esrb": null
+                },
+                "release_date_steam": "12 mar. 2026",
+                "short_description": "Numa terra repleta de Mana, uma força obscura liderada pelo enigmático Shadwyn ameaça Neokos. Reúna seu grupo de aventureiros em reinos perigosos neste RPG tático baseado em turnos baseado no conjunto de regras SRD 5.2. Você faz as escolhas, os dados decidem o seu destino.",
+                "short_description_native": "In a Mana-infused land, a dark force led by the enigmatic Shadwyn threatens Neokos. Bring your party of adventurers together across perilous realms in this Turn-Based Tactical RPG based on the SRD 5.2 ruleset. You make the choices, dice decide your destiny.",
+                "price_brl": "R$ 109,99",
+                "is_free": false,
+                "pc_requirements": {
+                    "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10 64-bit\n\nProcessador: Intel Core i7-8700K / AMD Ryzen 5 2600X\n\nMemória: 16 GB de RAM\n\nPlaca gráfica: NVIDIA GeForce GTX 1070 8 GB / AMD Radeon 5700 8 GB\n\nDirectX: Versão 12\n\nEspaço no disco: Requer 40 GB de espaço livre\n\nNotas adicionais: SSD required",
+                    "recommended": "Recomendados:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 11\n\nProcessador: Intel Core i7-13700K / AMD Ryzen 9 7900X\n\nMemória: 16 GB de RAM\n\nPlaca gráfica: Nvidia GeForce 2070 10 GB / AMD Radeon 5700 16 GB\n\nDirectX: Versão 12\n\nEspaço no disco: Requer 40 GB de espaço livre\n\nNotas adicionais: SSD required"
+                },
+                "controller_support": "full",
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Um jogador"
+                    },
+                    {
+                        "id": 1,
+                        "description": "Multijogador"
+                    },
+                    {
+                        "id": 9,
+                        "description": "Co-op"
+                    },
+                    {
+                        "id": 38,
+                        "description": "Co-op online"
+                    },
+                    {
+                        "id": 28,
+                        "description": "Compatibilidade total com comando"
+                    },
+                    {
+                        "id": 67,
+                        "description": "Conforto de câmara"
+                    },
+                    {
+                        "id": 66,
+                        "description": "Alternativas de cores"
+                    },
+                    {
+                        "id": 68,
+                        "description": "Controlos de volume independentes"
+                    },
+                    {
+                        "id": 78,
+                        "description": "Dificuldade ajustável"
+                    },
+                    {
+                        "id": 80,
+                        "description": "#category_playable_at_your_own_pace"
+                    },
+                    {
+                        "id": 74,
+                        "description": "Jogável sem necessitar de ações rápidas ou precisas"
+                    },
+                    {
+                        "id": 79,
+                        "description": "Guardar progresso a qualquer momento"
+                    },
+                    {
+                        "id": 69,
+                        "description": "Som estéreo"
+                    },
+                    {
+                        "id": 65,
+                        "description": "Opções de legendas"
+                    },
+                    {
+                        "id": 23,
+                        "description": "Steam Cloud"
+                    },
+                    {
+                        "id": 62,
+                        "description": "Partilha de Biblioteca"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "25",
+                        "description": "Aventura"
+                    },
+                    {
+                        "id": "23",
+                        "description": "Indie"
+                    },
+                    {
+                        "id": "3",
+                        "description": "RPG"
+                    },
+                    {
+                        "id": "2",
+                        "description": "Estratégia"
+                    },
+                    {
+                        "id": "70",
+                        "description": "Acesso Antecipado"
+                    }
+                ]
+            },
+            "hoster_links": {
+                "FileDitch": [
+                    {
+                        "file_name": "SolastaII_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha36/21252ed090557585ee9b/SolastaII_Fix_Repair_Steam_Generic.rar"
+                    },
+                    {
+                        "file_name": "Solasta.II.v0.4.5.116663-OFME.part1.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha36/a25ce887609cd8f6cf15/Solasta.II.v0.4.5.116663-OFME.part1.rar"
+                    },
+                    {
+                        "file_name": "Solasta.II.v0.4.5.116663-OFME.part2.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha36/a3f2eabd563f4bbfc327/Solasta.II.v0.4.5.116663-OFME.part2.rar"
+                    },
+                    {
+                        "file_name": "Solasta.II.v0.4.5.116663-OFME.part3.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha36/4dfd18b564d66751adb6/Solasta.II.v0.4.5.116663-OFME.part3.rar"
+                    },
+                    {
+                        "file_name": "Solasta.II.v0.4.5.116663-OFME.part4.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha36/a2259dba4fb00d99b63a/Solasta.II.v0.4.5.116663-OFME.part4.rar"
+                    },
+                    {
+                        "file_name": "Solasta.II.v0.4.5.116663-OFME.part5.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha36/32c75fab810cfc2e4281/Solasta.II.v0.4.5.116663-OFME.part5.rar"
+                    },
+                    {
+                        "file_name": "Solasta.II.v0.4.5.116663-OFME.part6.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha36/35f2c644905964671107/Solasta.II.v0.4.5.116663-OFME.part6.rar"
+                    },
+                    {
+                        "file_name": "Solasta.II.v0.4.5.116663-OFME.part7.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha36/8749bf7ab3528616aaa7/Solasta.II.v0.4.5.116663-OFME.part7.rar"
+                    }
+                ],
+                "FileKeeper": [
+                    {
+                        "file_name": "SolastaII_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://filekeeper.net/fvtyzsmru95f"
+                    },
+                    {
+                        "file_name": "Solasta.II.v0.4.5.116663-OFME.part1.rar",
+                        "direct_link": "https://filekeeper.net/dy1816jvwull"
+                    },
+                    {
+                        "file_name": "Solasta.II.v0.4.5.116663-OFME.part2.rar",
+                        "direct_link": "https://filekeeper.net/mk6i7aqwjkdv"
+                    },
+                    {
+                        "file_name": "Solasta.II.v0.4.5.116663-OFME.part3.rar",
+                        "direct_link": "https://filekeeper.net/awjv2slcegm6"
+                    },
+                    {
+                        "file_name": "Solasta.II.v0.4.5.116663-OFME.part4.rar",
+                        "direct_link": "https://filekeeper.net/y4m98sifvn4o"
+                    },
+                    {
+                        "file_name": "Solasta.II.v0.4.5.116663-OFME.part5.rar",
+                        "direct_link": "https://filekeeper.net/jt2d7y1oaslb"
+                    },
+                    {
+                        "file_name": "Solasta.II.v0.4.5.116663-OFME.part6.rar",
+                        "direct_link": "https://filekeeper.net/0zhjkoge05cl"
+                    },
+                    {
+                        "file_name": "Solasta.II.v0.4.5.116663-OFME.part7.rar",
+                        "direct_link": "https://filekeeper.net/pb6003pbdfaq"
+                    }
+                ],
+                "Pixeldrain": [
+                    {
+                        "file_name": "SolastaII_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://pixeldrain.com/u/uoUPVrzp"
+                    },
+                    {
+                        "file_name": "Solasta.II.v0.4.5.116663-OFME.part1.rar",
+                        "direct_link": "https://pixeldrain.com/u/m1PQzZ58"
+                    },
+                    {
+                        "file_name": "Solasta.II.v0.4.5.116663-OFME.part2.rar",
+                        "direct_link": "https://pixeldrain.com/u/UcfSzmyB"
+                    },
+                    {
+                        "file_name": "Solasta.II.v0.4.5.116663-OFME.part3.rar",
+                        "direct_link": "https://pixeldrain.com/u/wxJVCCwd"
+                    },
+                    {
+                        "file_name": "Solasta.II.v0.4.5.116663-OFME.part4.rar",
+                        "direct_link": "https://pixeldrain.com/u/U85sEJ5x"
+                    },
+                    {
+                        "file_name": "Solasta.II.v0.4.5.116663-OFME.part5.rar",
+                        "direct_link": "https://pixeldrain.com/u/Uradt5FH"
+                    },
+                    {
+                        "file_name": "Solasta.II.v0.4.5.116663-OFME.part6.rar",
+                        "direct_link": "https://pixeldrain.com/u/fVg1FYKj"
+                    },
+                    {
+                        "file_name": "Solasta.II.v0.4.5.116663-OFME.part7.rar",
+                        "direct_link": "https://pixeldrain.com/u/mDUtFNni"
+                    }
+                ],
+                "Gofile": [
+                    {
+                        "file_name": "SolastaII_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://gofile.io/d/lxLQbntR"
+                    },
+                    {
+                        "file_name": "Solasta.II.v0.4.5.116663-OFME.part1.rar",
+                        "direct_link": "https://gofile.io/d/Wi26e0DM"
+                    },
+                    {
+                        "file_name": "Solasta.II.v0.4.5.116663-OFME.part2.rar",
+                        "direct_link": "https://gofile.io/d/sB2HQRk9"
+                    },
+                    {
+                        "file_name": "Solasta.II.v0.4.5.116663-OFME.part3.rar",
+                        "direct_link": "https://gofile.io/d/H0IkfhJH"
+                    },
+                    {
+                        "file_name": "Solasta.II.v0.4.5.116663-OFME.part4.rar",
+                        "direct_link": "https://gofile.io/d/pOTU7qdK"
+                    },
+                    {
+                        "file_name": "Solasta.II.v0.4.5.116663-OFME.part5.rar",
+                        "direct_link": "https://gofile.io/d/kuWL4Iwz"
+                    },
+                    {
+                        "file_name": "Solasta.II.v0.4.5.116663-OFME.part6.rar",
+                        "direct_link": "https://gofile.io/d/OHsBIJsG"
+                    },
+                    {
+                        "file_name": "Solasta.II.v0.4.5.116663-OFME.part7.rar",
+                        "direct_link": "https://gofile.io/d/A0Adn33P"
+                    }
+                ],
+                "VikingFile": [
+                    {
+                        "file_name": "SolastaII_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://vikingfile.com/f/V3oslT8Ed7"
+                    },
+                    {
+                        "file_name": "Solasta.II.v0.4.5.116663-OFME.part1.rar",
+                        "direct_link": "https://vikingfile.com/f/uCCH0eLGcd"
+                    },
+                    {
+                        "file_name": "Solasta.II.v0.4.5.116663-OFME.part2.rar",
+                        "direct_link": "https://vikingfile.com/f/PR1CL3bMYz"
+                    },
+                    {
+                        "file_name": "Solasta.II.v0.4.5.116663-OFME.part3.rar",
+                        "direct_link": "https://vikingfile.com/f/IkyEvWi440"
+                    },
+                    {
+                        "file_name": "Solasta.II.v0.4.5.116663-OFME.part4.rar",
+                        "direct_link": "https://vikingfile.com/f/IErVyIBG7V"
+                    },
+                    {
+                        "file_name": "Solasta.II.v0.4.5.116663-OFME.part5.rar",
+                        "direct_link": "https://vikingfile.com/f/aCtKk1hACh"
+                    },
+                    {
+                        "file_name": "Solasta.II.v0.4.5.116663-OFME.part6.rar",
+                        "direct_link": "https://vikingfile.com/f/2UlKHXInjB"
+                    },
+                    {
+                        "file_name": "Solasta.II.v0.4.5.116663-OFME.part7.rar",
+                        "direct_link": "https://vikingfile.com/f/aarMUP6qVw"
+                    }
+                ]
+            },
+            "unique_hash": "48941f673a9fe38ccbde8fb99e30cdb7f2539f88",
+            "fileSize": "30.59 GB",
+            "magnet": "magnet:?xt=urn:btih:48941f673a9fe38ccbde8fb99e30cdb7f2539f88&dn=Solasta%20II&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_1/Solasta.II.v0.4.5.116663-OFME.torrent",
+            "created_at": "2026-10-23 19:51:30",
+            "webdav_updated_at": "Unknown",
+            "files": [
+                {
+                    "name": "Solasta.II.v0.4.5.116663-OFME.part2.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Solasta.II.v0.4.5.116663-OFME.part3.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Solasta.II.v0.4.5.116663-OFME.part4.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Solasta.II.v0.4.5.116663-OFME.part5.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Solasta.II.v0.4.5.116663-OFME.part6.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Solasta.II.v0.4.5.116663-OFME.part7.rar",
+                    "size": "584.16 MB"
+                },
+                {
+                    "name": "Fix Repair/SolastaII_Fix_Repair_Steam_Generic.rar",
+                    "size": "22.69 MB"
+                },
+                {
+                    "name": "Solasta.II.v0.4.5.116663-OFME.part1.rar",
+                    "size": "5.00 GB"
                 }
             ],
             "comment": ""

@@ -69426,7 +69426,7 @@
             "update_info": "",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-10-27 18:44:49",
+            "scraped_at": "2026-10-28 19:09:16",
             "steam": {
                 "steam_appid": 293780,
                 "match_score": 100,
@@ -435622,10 +435622,10 @@
             "url": "https://online-fix.me/games/adventures/18287-we-were-here-tomorrow-po-seti.html",
             "last_update": "2026-10-21T13:39:33+03:00",
             "release_date": "20.10.2026",
-            "update_info": "Обновлено Вчера, 20:34. Игра обновлена до версии 1.1.2.",
-            "update_date": null,
-            "formatted_update_date": null,
-            "scraped_at": "2026-10-27 18:42:55",
+            "update_info": "Обновлено 27 октября 2026, 20:34. Игра обновлена до версии 1.1.2.",
+            "update_date": "2026-10-27T20:34:00+03:00",
+            "formatted_update_date": "2026-10-27 20:34:00",
+            "scraped_at": "2026-10-28 19:07:24",
             "steam": {
                 "steam_appid": 2315050,
                 "match_score": 100,

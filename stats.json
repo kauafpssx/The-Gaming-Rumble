@@ -12,23 +12,20 @@
   "pages_scraped_target": 99,
   "pages_present_in_json": 95,
   "last_page_in_json": 97,
-  "new_games_found_this_run": 154,
-  "new_games_added_to_json_this_run": 2,
-  "latest_run_new_game_names": [
-    "Moon Sweepers",
-    "Anymaker"
-  ],
+  "new_games_found_this_run": 152,
+  "new_games_added_to_json_this_run": 0,
+  "latest_run_new_game_names": [],
   "updated_games_this_run": 1,
   "latest_run_updated_game_names": [
     "We Were Here Tomorrow"
   ],
-  "processed_games_this_run": 4,
+  "processed_games_this_run": 2,
   "torrent_files_total": 2018,
   "json_entries_with_torrent": 1900,
   "games_with_providers": 927,
-  "last_scrape_at": "2026-10-27 18:44:49",
-  "last_scrape_at_display": "27/10/2026",
+  "last_scrape_at": "2026-10-28 19:09:16",
+  "last_scrape_at_display": "28/10/2026",
   "last_game_update": "2026-10-27T20:35:23+03:00",
-  "generated_at": "2026-10-27 18:44:49",
-  "generated_at_display": "27/10/2026"
+  "generated_at": "2026-10-28 19:09:16",
+  "generated_at_display": "28/10/2026"
 }

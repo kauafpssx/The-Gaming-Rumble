@@ -2,9 +2,9 @@
   "repo": "kauafpssx/The-Gaming-Rumble",
   "branch": "games",
   "raw_base_url": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/",
-  "total_games": 1900,
-  "online_fix_total": 1900,
-  "steam_with_metadata": 1785,
+  "total_games": 1901,
+  "online_fix_total": 1901,
+  "steam_with_metadata": 1786,
   "steam_without_metadata": 115,
   "match_rate": 93.95,
   "success_rate": 93.95,
@@ -12,20 +12,23 @@
   "pages_scraped_target": 99,
   "pages_present_in_json": 95,
   "last_page_in_json": 97,
-  "new_games_found_this_run": 152,
-  "new_games_added_to_json_this_run": 0,
-  "latest_run_new_game_names": [],
-  "updated_games_this_run": 1,
-  "latest_run_updated_game_names": [
-    "We Were Here Tomorrow"
+  "new_games_found_this_run": 154,
+  "new_games_added_to_json_this_run": 1,
+  "latest_run_new_game_names": [
+    "Borderlands 4"
   ],
-  "processed_games_this_run": 2,
-  "torrent_files_total": 2018,
-  "json_entries_with_torrent": 1900,
-  "games_with_providers": 927,
-  "last_scrape_at": "2026-10-28 19:09:16",
-  "last_scrape_at_display": "28/10/2026",
-  "last_game_update": "2026-10-27T20:35:23+03:00",
-  "generated_at": "2026-10-28 19:09:16",
-  "generated_at_display": "28/10/2026"
+  "updated_games_this_run": 2,
+  "latest_run_updated_game_names": [
+    "Core Keeper",
+    "Project Zomboid"
+  ],
+  "processed_games_this_run": 4,
+  "torrent_files_total": 2021,
+  "json_entries_with_torrent": 1901,
+  "games_with_providers": 928,
+  "last_scrape_at": "2026-10-29 19:22:31",
+  "last_scrape_at_display": "29/10/2026",
+  "last_game_update": "2026-10-29T23:48:13+03:00",
+  "generated_at": "2026-10-29 19:22:32",
+  "generated_at_display": "29/10/2026"
 }

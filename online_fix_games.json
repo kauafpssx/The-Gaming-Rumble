@@ -1,5 +1,5 @@
 {
-    "total": 1900,
+    "total": 1901,
     "downloads": [
         {
             "title": "10 Miles to Safety",
@@ -44710,6 +44710,1239 @@
             "comment": ""
         },
         {
+            "title": "Borderlands 4",
+            "page": 1,
+            "url": "https://online-fix.me/games/officialservers/18291-borderlands-4-po-seti.html",
+            "last_update": "2026-10-29T23:48:13+03:00",
+            "release_date": "11.09.2025",
+            "update_info": "",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-10-29 19:19:37",
+            "steam": {
+                "steam_appid": 1285190,
+                "match_score": 100,
+                "match_via": "canon",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1285190/986a88d1b0e1420b00183def2a7034508353afa3/header.jpg?t=1789422727",
+                "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1285190/7f4b1a9cbe01d19fdcbf10ef5dce492098ef0ba8/capsule_184x69.jpg?t=1789422727",
+                "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1285190/320c111cf2d556f5716da12c251f6ca8ffd3d1ef/page_bg_raw.jpg?t=1789422727",
+                "screenshots": [
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1285190/9e2b137a204b18b38ad65966b334e164338f1188/ss_9e2b137a204b18b38ad65966b334e164338f1188.1920x1080.jpg?t=1789422727",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1285190/fddecc4fa3cba9f54584eab765e13c8f660e06f5/ss_fddecc4fa3cba9f54584eab765e13c8f660e06f5.1920x1080.jpg?t=1789422727",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1285190/a0edeca7c1fbfd7cfa4419aa49d9787eabff09a6/ss_a0edeca7c1fbfd7cfa4419aa49d9787eabff09a6.1920x1080.jpg?t=1789422727",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1285190/fd5e457944165fe16d80bed69726ab66fe9b5e29/ss_fd5e457944165fe16d80bed69726ab66fe9b5e29.1920x1080.jpg?t=1789422727",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1285190/8fceeab16cf2ee08708eda429b21c6923da440e7/ss_8fceeab16cf2ee08708eda429b21c6923da440e7.1920x1080.jpg?t=1789422727",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1285190/6ba305da89282ad488e2574d9826da8d9f19cc65/ss_6ba305da89282ad488e2574d9826da8d9f19cc65.1920x1080.jpg?t=1789422727",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1285190/839e42450db5a80971c093ff81b3798f7a7b0dc3/ss_839e42450db5a80971c093ff81b3798f7a7b0dc3.1920x1080.jpg?t=1789422727",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1285190/c060cefe57946268eec12d02ccbac8ae6eea50ab/ss_c060cefe57946268eec12d02ccbac8ae6eea50ab.1920x1080.jpg?t=1789422727",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1285190/2f093f6859b112d4303218bc4470874eadf8950e/ss_2f093f6859b112d4303218bc4470874eadf8950e.1920x1080.jpg?t=1789422727",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1285190/dcc7ff4b62f3884bcad3e7a1f40b1f9a78cd8b38/ss_dcc7ff4b62f3884bcad3e7a1f40b1f9a78cd8b38.1920x1080.jpg?t=1789422727",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1285190/07ab96e67d3468f73a83b3c54a5f0878601bb0b6/ss_07ab96e67d3468f73a83b3c54a5f0878601bb0b6.1920x1080.jpg?t=1789422727",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1285190/2c9839e5d1b699c41caea5f13c069ce8ac11906f/ss_2c9839e5d1b699c41caea5f13c069ce8ac11906f.1920x1080.jpg?t=1789422727",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1285190/c4b9bb16281e8f24e4acfa05cdd6db737b445711/ss_c4b9bb16281e8f24e4acfa05cdd6db737b445711.1920x1080.jpg?t=1789422727",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1285190/9adabedaac92a8e4d2c7f66069a54600b9eb5e9a/ss_9adabedaac92a8e4d2c7f66069a54600b9eb5e9a.1920x1080.jpg?t=1789422727",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1285190/c5f7a9f3c6259930d4eb828cfe4ef4bbcb394985/ss_c5f7a9f3c6259930d4eb828cfe4ef4bbcb394985.1920x1080.jpg?t=1789422727",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1285190/71cbcab1079e4cc2b3da0efa26464e8a71d9b9b9/ss_71cbcab1079e4cc2b3da0efa26464e8a71d9b9b9.1920x1080.jpg?t=1789422727",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1285190/a97dd819c8778ba0bf306dc794067325fe930f8d/ss_a97dd819c8778ba0bf306dc794067325fe930f8d.1920x1080.jpg?t=1789422727"
+                ],
+                "movies": [
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257195851/50379a685c71fe1be77f37022bf318612daa6533/movie_600x337.jpg?t=1757606406",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1285190/2002012534/7efa917fa8054768619348586d3edee3a21df9df/1757537866/dash_h264.mpd?t=1757606406",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1285190/2002012534/7efa917fa8054768619348586d3edee3a21df9df/1757537866/hls_264_master.m3u8?t=1757606406"
+                    },
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257197030/fa5f7d00972f698e21dc821b4f8d85bfe373bd2b/movie_600x337.jpg?t=1757715519",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1285190/1904088437/d7c0667decc299a7d9c4b630fc0ec2c355dfe43e/1757712539/dash_h264.mpd?t=1757715519",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1285190/1904088437/d7c0667decc299a7d9c4b630fc0ec2c355dfe43e/1757712539/hls_264_master.m3u8?t=1757715519"
+                    },
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257388270/3fc657032ae7f9b4cbb996fd623eb29c246c29e5/movie_600x337.jpg?t=1785427234",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1285190/419140395/92c1189c699238e17b10b67bcc6b97c8369f609b/1785404399/dash_h264.mpd?t=1785427234",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1285190/419140395/92c1189c699238e17b10b67bcc6b97c8369f609b/1785404399/hls_264_master.m3u8?t=1785427234"
+                    },
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257302147/22b2af8f48b822f540e3a68e4e67683346c601e8/movie_600x337.jpg?t=1773336652",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1285190/515205149/1a7e260792ff554e906d5a319618bb890f29a519/1773334948/dash_h264.mpd?t=1773336652",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1285190/515205149/1a7e260792ff554e906d5a319618bb890f29a519/1773334948/hls_264_master.m3u8?t=1773336652"
+                    },
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257305903/1ba891305ad477c9da7f162c45b97b4436c4d2b4/movie_600x337.jpg?t=1773909286",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1285190/1168139225/9ec9ce954e88879c7bfd06846fef013b739a802a/1773908321/dash_h264.mpd?t=1773909286",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1285190/1168139225/9ec9ce954e88879c7bfd06846fef013b739a802a/1773908321/hls_264_master.m3u8?t=1773909286"
+                    },
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257294927/864540b3de6f820af768c0f9445fead80d95807e/movie_600x337.jpg?t=1772125284",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1285190/770833914/bddfa9feb102e790b2cd1d8a2a0fb8de9a49dc43/1772116498/dash_h264.mpd?t=1772125284",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1285190/770833914/bddfa9feb102e790b2cd1d8a2a0fb8de9a49dc43/1772116498/hls_264_master.m3u8?t=1772125284"
+                    },
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257279933/b95d0f2312a1484fd8a879cfa9b3246b0a468434/movie_600x337.jpg?t=1770310857",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1285190/1124871459/196e0753f705c95235a5da268953bebc991c1e12/1770285703/dash_h264.mpd?t=1770310857",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1285190/1124871459/196e0753f705c95235a5da268953bebc991c1e12/1770285703/hls_264_master.m3u8?t=1770310857"
+                    }
+                ],
+                "achievements_total": 63,
+                "achievements_highlighted": [
+                    {
+                        "icon": "b346a0edf3b0a730ec59bd4c65c55d08e54665f0.jpg",
+                        "localized_name": "Crimson Rising",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Crimson Rising",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1285190/b346a0edf3b0a730ec59bd4c65c55d08e54665f0.jpg"
+                    },
+                    {
+                        "icon": "b8d9c19551ee392571fc2976efdf2d78028f9d53.jpg",
+                        "localized_name": "Good Hunter",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Good Hunter",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1285190/b8d9c19551ee392571fc2976efdf2d78028f9d53.jpg"
+                    },
+                    {
+                        "icon": "abaa1fc00afbd1cccbb8c37732a9decc14b8c0c3.jpg",
+                        "localized_name": "Master of Death and Dance",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Master of Death and Dance",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1285190/abaa1fc00afbd1cccbb8c37732a9decc14b8c0c3.jpg"
+                    },
+                    {
+                        "icon": "2447fa63901af3604edbe332dc46db7f29d6a3e0.jpg",
+                        "localized_name": "Gear Five!",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Gear Five!",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1285190/2447fa63901af3604edbe332dc46db7f29d6a3e0.jpg"
+                    },
+                    {
+                        "icon": "9c602b7bcc30f3dcfa2e8e2156dec8412b3e5a05.jpg",
+                        "localized_name": "The Lookbook is the Cookbook",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "The Lookbook is the Cookbook",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1285190/9c602b7bcc30f3dcfa2e8e2156dec8412b3e5a05.jpg"
+                    },
+                    {
+                        "icon": "0ff51492fa9593f2b27acbf923c20d43d7a59733.jpg",
+                        "localized_name": "Catch-A-Ride",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Catch-A-Ride",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1285190/0ff51492fa9593f2b27acbf923c20d43d7a59733.jpg"
+                    },
+                    {
+                        "icon": "658b7ecffd0f9054d0674be0fdecf4142ecb1dcf.jpg",
+                        "localized_name": "I Earned This",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "I Earned This",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1285190/658b7ecffd0f9054d0674be0fdecf4142ecb1dcf.jpg"
+                    },
+                    {
+                        "icon": "9c64c71ebb311d01dd021d4710f202525928ae30.jpg",
+                        "localized_name": "Area of Expertise",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Area of Expertise",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1285190/9c64c71ebb311d01dd021d4710f202525928ae30.jpg"
+                    },
+                    {
+                        "icon": "dd1efa71244796020364d923102967f7600fe1d4.jpg",
+                        "localized_name": "Brand Equity",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Brand Equity",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1285190/dd1efa71244796020364d923102967f7600fe1d4.jpg"
+                    },
+                    {
+                        "icon": "f9332b9fb7a6861f3a174b079a1bdd692cf560b9.jpg",
+                        "localized_name": "Ruler of Everything",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Ruler of Everything",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1285190/f9332b9fb7a6861f3a174b079a1bdd692cf560b9.jpg"
+                    }
+                ],
+                "ratings": {
+                    "pegi": "18",
+                    "esrb": "m"
+                },
+                "release_date_steam": "11 set. 2025",
+                "short_description": "Borderlands 4 é um looter shooter caótico, recheado com milhões e milhões de armas, inimigos mortíferos e ação intensa em co-op. Encarna um de quatro novos Vault Hunters e escapa de um perigoso planeta oculto.",
+                "short_description_native": "Borderlands 4 é um looter shooter caótico, recheado com milhões e milhões de armas, inimigos mortíferos e ação intensa em co-op. Encarna um de quatro novos Vault Hunters e escapa de um perigoso planeta oculto.",
+                "price_brl": "R$ 379,90",
+                "is_free": false,
+                "pc_requirements": {
+                    "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10 / Windows 11\n\nProcessador: Intel Core i7-9700 / AMD Ryzen 7 2700X\n\nMemória: 16 GB de RAM\n\nPlaca gráfica: NVIDIA GeForce RTX 2070 / AMD Radeon RX 5700 XT / Intel Arc A580\n\nEspaço no disco: Requer 100 GB de espaço livre\n\nNotas adicionais: Requires a 64-bit processor and operating system.   Requires 8 CPU Cores for processor.    Requires 8 GB VRAM for graphics.   SSD storage required",
+                    "recommended": "Recomendados:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10 / Windows 11\n\nProcessador: Intel Core i7-12700 / AMD Ryzen 7 5800X\n\nMemória: 32 GB de RAM\n\nPlaca gráfica: NVIDIA GeForce RTX 3080 / AMD Radeon RX 6800 XT / Intel Arc B580\n\nEspaço no disco: Requer 100 GB de espaço livre\n\nNotas adicionais: Requires a 64-bit processor and operating system. SSD storage required"
+                },
+                "controller_support": null,
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Um jogador"
+                    },
+                    {
+                        "id": 1,
+                        "description": "Multijogador"
+                    },
+                    {
+                        "id": 9,
+                        "description": "Co-op"
+                    },
+                    {
+                        "id": 38,
+                        "description": "Co-op online"
+                    },
+                    {
+                        "id": 27,
+                        "description": "Multijogador interplataformas"
+                    },
+                    {
+                        "id": 22,
+                        "description": "Proezas Steam"
+                    },
+                    {
+                        "id": 29,
+                        "description": "Cartas Colecionáveis Steam"
+                    },
+                    {
+                        "id": 64,
+                        "description": "Tamanho do texto ajustável"
+                    },
+                    {
+                        "id": 67,
+                        "description": "Conforto de câmara"
+                    },
+                    {
+                        "id": 66,
+                        "description": "Alternativas de cores"
+                    },
+                    {
+                        "id": 68,
+                        "description": "Controlos de volume independentes"
+                    },
+                    {
+                        "id": 78,
+                        "description": "Dificuldade ajustável"
+                    },
+                    {
+                        "id": 55,
+                        "description": "Compatibilidade com DUALSHOCK"
+                    },
+                    {
+                        "id": 56,
+                        "description": "Compatibilidade com DUALSHOCK"
+                    },
+                    {
+                        "id": 57,
+                        "description": "Compatibilidade com DualSense"
+                    },
+                    {
+                        "id": 58,
+                        "description": "Compatibilidade com DualSense"
+                    },
+                    {
+                        "id": 79,
+                        "description": "Guardar progresso a qualquer momento"
+                    },
+                    {
+                        "id": 69,
+                        "description": "Som estéreo"
+                    },
+                    {
+                        "id": 65,
+                        "description": "Opções de legendas"
+                    },
+                    {
+                        "id": 70,
+                        "description": "Som surround"
+                    },
+                    {
+                        "id": 18,
+                        "description": "Compatibilidade parcial com comando"
+                    },
+                    {
+                        "id": 62,
+                        "description": "Partilha de Biblioteca"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "1",
+                        "description": "Ação"
+                    },
+                    {
+                        "id": "25",
+                        "description": "Aventura"
+                    },
+                    {
+                        "id": "3",
+                        "description": "RPG"
+                    }
+                ]
+            },
+            "hoster_links": {
+                "FileDitch": [
+                    {
+                        "file_name": "Borderlands4_Fix_Repair_Epic_Generic.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha39/3dc8adb09659777d25a7/Borderlands4_Fix_Repair_Epic_Generic.rar"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part01.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha39/eb3492e0fab1ba453c29/Borderlands.4.Build.22102026-OFME.part01.rar"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part02.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha39/a27c5f50d1f3d84c50d0/Borderlands.4.Build.22102026-OFME.part02.rar"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part03.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha39/1f0de9dac38ec5487b64/Borderlands.4.Build.22102026-OFME.part03.rar"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part04.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha39/d664bd03eb8fa0df15d9/Borderlands.4.Build.22102026-OFME.part04.rar"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part05.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha39/4eb53a2c5bdd1b1fd019/Borderlands.4.Build.22102026-OFME.part05.rar"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part06.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha39/3293e67f7d4391f3b446/Borderlands.4.Build.22102026-OFME.part06.rar"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part07.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha39/4c124543078bdbf97bf9/Borderlands.4.Build.22102026-OFME.part07.rar"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part08.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha39/79c2036fc12168e778cb/Borderlands.4.Build.22102026-OFME.part08.rar"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part09.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha39/8e0248121d8614f7cd1d/Borderlands.4.Build.22102026-OFME.part09.rar"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part10.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha39/2c861411fef04c6c5c7c/Borderlands.4.Build.22102026-OFME.part10.rar"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part11.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha39/0ff32fcc96ab51488bd9/Borderlands.4.Build.22102026-OFME.part11.rar"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part12.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha39/669a0c2c008bdac096cb/Borderlands.4.Build.22102026-OFME.part12.rar"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part13.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha39/8b103504a237a05e0c5a/Borderlands.4.Build.22102026-OFME.part13.rar"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part14.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha39/5539366177b48f5e52fa/Borderlands.4.Build.22102026-OFME.part14.rar"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part15.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha39/7f0d6c3e3ea516145958/Borderlands.4.Build.22102026-OFME.part15.rar"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part16.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha39/17b62713665141d66bee/Borderlands.4.Build.22102026-OFME.part16.rar"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part17.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha39/63152fd945071179d63d/Borderlands.4.Build.22102026-OFME.part17.rar"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part18.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha39/879e91bbdf2c00600cf1/Borderlands.4.Build.22102026-OFME.part18.rar"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part19.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha39/9b0f3a214d4cb147a6ed/Borderlands.4.Build.22102026-OFME.part19.rar"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part20.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha39/d1cb004444628fd8aace/Borderlands.4.Build.22102026-OFME.part20.rar"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part21.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha39/9047cc2be4225af79072/Borderlands.4.Build.22102026-OFME.part21.rar"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part22.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha39/e2758536bbd20aacec51/Borderlands.4.Build.22102026-OFME.part22.rar"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part23.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha39/3bd778fe6dcd0b643498/Borderlands.4.Build.22102026-OFME.part23.rar"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part24.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha39/0dd87f08783072cf4101/Borderlands.4.Build.22102026-OFME.part24.rar"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part25.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha39/9439c743efd7b42bbec6/Borderlands.4.Build.22102026-OFME.part25.rar"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part26.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha39/5ab73c95f7d0e94a29fd/Borderlands.4.Build.22102026-OFME.part26.rar"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part27.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha39/e5725866bbb6c0072599/Borderlands.4.Build.22102026-OFME.part27.rar"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part28.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha39/d440d74ad4ea5e631907/Borderlands.4.Build.22102026-OFME.part28.rar"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part29.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha39/07b3c4567b3a5e168b5e/Borderlands.4.Build.22102026-OFME.part29.rar"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part30.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha39/53dfa89085a3c895e54d/Borderlands.4.Build.22102026-OFME.part30.rar"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part31.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha39/2484811f184c8b49a7f9/Borderlands.4.Build.22102026-OFME.part31.rar"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part32.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha39/42e46bef146d8976eb82/Borderlands.4.Build.22102026-OFME.part32.rar"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part33.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha39/6535bbe7cf473d988744/Borderlands.4.Build.22102026-OFME.part33.rar"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part34.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha39/4eae9df97d9aaca603df/Borderlands.4.Build.22102026-OFME.part34.rar"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part35.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha39/5834e9a786392e054180/Borderlands.4.Build.22102026-OFME.part35.rar"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part36.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha39/fd4fe804d187acd55135/Borderlands.4.Build.22102026-OFME.part36.rar"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part37.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha39/de23f8214547aa9c47d6/Borderlands.4.Build.22102026-OFME.part37.rar"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part38.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha39/1e5f002621d487e39997/Borderlands.4.Build.22102026-OFME.part38.rar"
+                    }
+                ],
+                "FileKeeper": [
+                    {
+                        "file_name": "Borderlands4_Fix_Repair_Epic_Generic.rar",
+                        "direct_link": "https://filekeeper.net/cx79m0yby3p5"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part01.rar",
+                        "direct_link": "https://filekeeper.net/30t69qrk9rwj"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part02.rar",
+                        "direct_link": "https://filekeeper.net/5geaymwtyntu"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part03.rar",
+                        "direct_link": "https://filekeeper.net/doep06emn625"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part04.rar",
+                        "direct_link": "https://filekeeper.net/ifcxdal37lut"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part05.rar",
+                        "direct_link": "https://filekeeper.net/ztjvd0pyi7fc"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part06.rar",
+                        "direct_link": "https://filekeeper.net/rb6pmhkq54up"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part07.rar",
+                        "direct_link": "https://filekeeper.net/6ngaqird6863"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part08.rar",
+                        "direct_link": "https://filekeeper.net/m7i3hme9sbcf"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part09.rar",
+                        "direct_link": "https://filekeeper.net/chqyuoioialy"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part10.rar",
+                        "direct_link": "https://filekeeper.net/blgtgnn3floe"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part11.rar",
+                        "direct_link": "https://filekeeper.net/0iuipk5l9t3n"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part12.rar",
+                        "direct_link": "https://filekeeper.net/w7g35slqgrav"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part13.rar",
+                        "direct_link": "https://filekeeper.net/4a1x86p2z22a"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part14.rar",
+                        "direct_link": "https://filekeeper.net/5geb2b1r510q"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part15.rar",
+                        "direct_link": "https://filekeeper.net/43x9q3ow5nix"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part16.rar",
+                        "direct_link": "https://filekeeper.net/cpwnootnkte9"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part17.rar",
+                        "direct_link": "https://filekeeper.net/jh0qjy6mtk28"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part18.rar",
+                        "direct_link": "https://filekeeper.net/pfrnky7hs1j3"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part19.rar",
+                        "direct_link": "https://filekeeper.net/wld9m0rba7ha"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part20.rar",
+                        "direct_link": "https://filekeeper.net/acm8juj9ne75"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part21.rar",
+                        "direct_link": "https://filekeeper.net/m4nbrag5c6qn"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part22.rar",
+                        "direct_link": "https://filekeeper.net/ra4lz9v2rxam"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part23.rar",
+                        "direct_link": "https://filekeeper.net/yfvwvtae1c7r"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part24.rar",
+                        "direct_link": "https://filekeeper.net/05mshf9xz57n"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part25.rar",
+                        "direct_link": "https://filekeeper.net/boum5xkanbsd"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part26.rar",
+                        "direct_link": "https://filekeeper.net/hcmtda4zsi2u"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part27.rar",
+                        "direct_link": "https://filekeeper.net/5qk117wx7qmt"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part28.rar",
+                        "direct_link": "https://filekeeper.net/e6xhxc9ef2o2"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part29.rar",
+                        "direct_link": "https://filekeeper.net/e99api9flz4z"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part30.rar",
+                        "direct_link": "https://filekeeper.net/5hutrtuq915u"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part31.rar",
+                        "direct_link": "https://filekeeper.net/1u5rm854nge4"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part32.rar",
+                        "direct_link": "https://filekeeper.net/7puy0qclu679"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part33.rar",
+                        "direct_link": "https://filekeeper.net/vu63su8rka6f"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part34.rar",
+                        "direct_link": "https://filekeeper.net/yva0it3m7w2g"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part35.rar",
+                        "direct_link": "https://filekeeper.net/55qt59sp62ns"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part36.rar",
+                        "direct_link": "https://filekeeper.net/a6rv0hem4hge"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part37.rar",
+                        "direct_link": "https://filekeeper.net/e14jp1jarud5"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part38.rar",
+                        "direct_link": "https://filekeeper.net/3f80gesz9dr0"
+                    }
+                ],
+                "Pixeldrain": [
+                    {
+                        "file_name": "Borderlands4_Fix_Repair_Epic_Generic.rar",
+                        "direct_link": "https://pixeldrain.com/u/5eiHxfYZ"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part01.rar",
+                        "direct_link": "https://pixeldrain.com/u/SkQutKBQ"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part02.rar",
+                        "direct_link": "https://pixeldrain.com/u/4Mux5WXy"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part03.rar",
+                        "direct_link": "https://pixeldrain.com/u/hhkLMfXL"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part04.rar",
+                        "direct_link": "https://pixeldrain.com/u/5BUtAVga"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part05.rar",
+                        "direct_link": "https://pixeldrain.com/u/9KGaDwFq"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part06.rar",
+                        "direct_link": "https://pixeldrain.com/u/J7EUqqok"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part07.rar",
+                        "direct_link": "https://pixeldrain.com/u/Hb3hu167"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part08.rar",
+                        "direct_link": "https://pixeldrain.com/u/VJkQnBg5"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part09.rar",
+                        "direct_link": "https://pixeldrain.com/u/cFnmbvcf"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part10.rar",
+                        "direct_link": "https://pixeldrain.com/u/LjtvVs9t"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part11.rar",
+                        "direct_link": "https://pixeldrain.com/u/SjzTZ752"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part12.rar",
+                        "direct_link": "https://pixeldrain.com/u/gzJj521S"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part13.rar",
+                        "direct_link": "https://pixeldrain.com/u/9iVr2Agj"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part14.rar",
+                        "direct_link": "https://pixeldrain.com/u/zGc678T6"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part15.rar",
+                        "direct_link": "https://pixeldrain.com/u/SwMATuaG"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part16.rar",
+                        "direct_link": "https://pixeldrain.com/u/4y2y2zfx"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part17.rar",
+                        "direct_link": "https://pixeldrain.com/u/ri8vz8vJ"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part18.rar",
+                        "direct_link": "https://pixeldrain.com/u/zongjDED"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part19.rar",
+                        "direct_link": "https://pixeldrain.com/u/mHdQSfD5"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part20.rar",
+                        "direct_link": "https://pixeldrain.com/u/jPwR2DVN"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part21.rar",
+                        "direct_link": "https://pixeldrain.com/u/jdWWbJYy"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part22.rar",
+                        "direct_link": "https://pixeldrain.com/u/DRbqcST4"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part23.rar",
+                        "direct_link": "https://pixeldrain.com/u/LB8QoNGd"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part24.rar",
+                        "direct_link": "https://pixeldrain.com/u/efXQwVrL"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part25.rar",
+                        "direct_link": "https://pixeldrain.com/u/PiaxmgKD"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part26.rar",
+                        "direct_link": "https://pixeldrain.com/u/dVnQMkMV"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part27.rar",
+                        "direct_link": "https://pixeldrain.com/u/qvwK4Qkb"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part28.rar",
+                        "direct_link": "https://pixeldrain.com/u/6fmfNbn2"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part29.rar",
+                        "direct_link": "https://pixeldrain.com/u/dLx8Stbp"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part30.rar",
+                        "direct_link": "https://pixeldrain.com/u/XFjgXaEP"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part31.rar",
+                        "direct_link": "https://pixeldrain.com/u/EcNABH9V"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part32.rar",
+                        "direct_link": "https://pixeldrain.com/u/9PpQDsRg"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part33.rar",
+                        "direct_link": "https://pixeldrain.com/u/PVEmt8kP"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part34.rar",
+                        "direct_link": "https://pixeldrain.com/u/63QHPW2x"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part35.rar",
+                        "direct_link": "https://pixeldrain.com/u/3wPAcTky"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part36.rar",
+                        "direct_link": "https://pixeldrain.com/u/C8EhHDN7"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part37.rar",
+                        "direct_link": "https://pixeldrain.com/u/A78nMsgi"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part38.rar",
+                        "direct_link": "https://pixeldrain.com/u/QDgqD9tF"
+                    }
+                ],
+                "Gofile": [
+                    {
+                        "file_name": "Borderlands4_Fix_Repair_Epic_Generic.rar",
+                        "direct_link": "https://gofile.io/d/KGuWdjoF"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part01.rar",
+                        "direct_link": "https://gofile.io/d/EfsNajkS"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part02.rar",
+                        "direct_link": "https://gofile.io/d/YVpmPFAU"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part03.rar",
+                        "direct_link": "https://gofile.io/d/KLxjVgVI"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part04.rar",
+                        "direct_link": "https://gofile.io/d/60hkE3PL"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part05.rar",
+                        "direct_link": "https://gofile.io/d/wuwxS4qw"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part06.rar",
+                        "direct_link": "https://gofile.io/d/Wga42elv"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part07.rar",
+                        "direct_link": "https://gofile.io/d/1ihc5wnD"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part08.rar",
+                        "direct_link": "https://gofile.io/d/pO9azscQ"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part09.rar",
+                        "direct_link": "https://gofile.io/d/VGbniqmB"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part10.rar",
+                        "direct_link": "https://gofile.io/d/9gNfmrDr"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part11.rar",
+                        "direct_link": "https://gofile.io/d/3Ry9yNiE"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part12.rar",
+                        "direct_link": "https://gofile.io/d/e1D3R4Eg"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part13.rar",
+                        "direct_link": "https://gofile.io/d/Plwm0tMC"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part14.rar",
+                        "direct_link": "https://gofile.io/d/vFZVhGte"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part15.rar",
+                        "direct_link": "https://gofile.io/d/K3BvMIrx"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part16.rar",
+                        "direct_link": "https://gofile.io/d/kkKSOg5L"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part17.rar",
+                        "direct_link": "https://gofile.io/d/KfJLbh05"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part18.rar",
+                        "direct_link": "https://gofile.io/d/OP8PrjyL"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part19.rar",
+                        "direct_link": "https://gofile.io/d/TEGO6mAk"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part20.rar",
+                        "direct_link": "https://gofile.io/d/vCHZbHJv"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part21.rar",
+                        "direct_link": "https://gofile.io/d/yfHPZjr5"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part22.rar",
+                        "direct_link": "https://gofile.io/d/j61Ztm7h"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part23.rar",
+                        "direct_link": "https://gofile.io/d/Mv7eBxbB"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part24.rar",
+                        "direct_link": "https://gofile.io/d/A4QBwc5F"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part25.rar",
+                        "direct_link": "https://gofile.io/d/0LU3lIMT"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part26.rar",
+                        "direct_link": "https://gofile.io/d/BjWkRUDm"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part27.rar",
+                        "direct_link": "https://gofile.io/d/ckEORby3"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part28.rar",
+                        "direct_link": "https://gofile.io/d/6vKFEQcd"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part29.rar",
+                        "direct_link": "https://gofile.io/d/q24mcfif"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part30.rar",
+                        "direct_link": "https://gofile.io/d/OvQKdQwU"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part31.rar",
+                        "direct_link": "https://gofile.io/d/6yCGJQXC"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part32.rar",
+                        "direct_link": "https://gofile.io/d/JUOQ5A6m"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part33.rar",
+                        "direct_link": "https://gofile.io/d/NKFJEA7U"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part34.rar",
+                        "direct_link": "https://gofile.io/d/7QpRLpoK"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part35.rar",
+                        "direct_link": "https://gofile.io/d/iIFaKxfX"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part36.rar",
+                        "direct_link": "https://gofile.io/d/UkjRFJwM"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part37.rar",
+                        "direct_link": "https://gofile.io/d/VQYdTtQ2"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part38.rar",
+                        "direct_link": "https://gofile.io/d/c54YSewr"
+                    }
+                ],
+                "VikingFile": [
+                    {
+                        "file_name": "Borderlands4_Fix_Repair_Epic_Generic.rar",
+                        "direct_link": "https://vikingfile.com/f/BBSZ8jaltx"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part01.rar",
+                        "direct_link": "https://vikingfile.com/f/KT9Av9FpJ5"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part02.rar",
+                        "direct_link": "https://vikingfile.com/f/lgTNK4OwI2"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part03.rar",
+                        "direct_link": "https://vikingfile.com/f/LBgb11jFQo"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part04.rar",
+                        "direct_link": "https://vikingfile.com/f/sBLEFSqt0x"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part05.rar",
+                        "direct_link": "https://vikingfile.com/f/q0s9p4peLY"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part06.rar",
+                        "direct_link": "https://vikingfile.com/f/pRVwh8NvMt"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part07.rar",
+                        "direct_link": "https://vikingfile.com/f/PU7WNbfbPs"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part08.rar",
+                        "direct_link": "https://vikingfile.com/f/oEAhc8AZCc"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part09.rar",
+                        "direct_link": "https://vikingfile.com/f/usOgYhQdTf"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part10.rar",
+                        "direct_link": "https://vikingfile.com/f/uNTN9TnuXp"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part11.rar",
+                        "direct_link": "https://vikingfile.com/f/rHQ8h5AlBX"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part12.rar",
+                        "direct_link": "https://vikingfile.com/f/vyJjoGKAdT"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part13.rar",
+                        "direct_link": "https://vikingfile.com/f/aN14TQzkN9"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part14.rar",
+                        "direct_link": "https://vikingfile.com/f/6wmuy7kcnF"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part15.rar",
+                        "direct_link": "https://vikingfile.com/f/8fHrQTDcJD"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part16.rar",
+                        "direct_link": "https://vikingfile.com/f/lPZOnkYZDs"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part17.rar",
+                        "direct_link": "https://vikingfile.com/f/e2rlOPGH01"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part18.rar",
+                        "direct_link": "https://vikingfile.com/f/lYvUeqQYPf"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part19.rar",
+                        "direct_link": "https://vikingfile.com/f/T0ZwSCekmx"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part20.rar",
+                        "direct_link": "https://vikingfile.com/f/dFHyXGz0be"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part21.rar",
+                        "direct_link": "https://vikingfile.com/f/M9VkpKVrLU"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part22.rar",
+                        "direct_link": "https://vikingfile.com/f/y0hSSbGnHL"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part23.rar",
+                        "direct_link": "https://vikingfile.com/f/gogvEleU6R"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part24.rar",
+                        "direct_link": "https://vikingfile.com/f/ZMNj7xfGdU"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part25.rar",
+                        "direct_link": "https://vikingfile.com/f/0ggWRdU02v"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part26.rar",
+                        "direct_link": "https://vikingfile.com/f/QuJ9bJ4g9y"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part27.rar",
+                        "direct_link": "https://vikingfile.com/f/2VxiTheuuP"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part28.rar",
+                        "direct_link": "https://vikingfile.com/f/b1xCYUf461"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part29.rar",
+                        "direct_link": "https://vikingfile.com/f/LUlenGFr9a"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part30.rar",
+                        "direct_link": "https://vikingfile.com/f/DQz9WMg70T"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part31.rar",
+                        "direct_link": "https://vikingfile.com/f/ZRpttXPMdM"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part32.rar",
+                        "direct_link": "https://vikingfile.com/f/APJrTOUu0i"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part33.rar",
+                        "direct_link": "https://vikingfile.com/f/4KnMiH0gA2"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part34.rar",
+                        "direct_link": "https://vikingfile.com/f/aVRz3HeRIh"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part35.rar",
+                        "direct_link": "https://vikingfile.com/f/NsMdEOfNO9"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part36.rar",
+                        "direct_link": "https://vikingfile.com/f/R7uKpbt4Kt"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part37.rar",
+                        "direct_link": "https://vikingfile.com/f/cCzLo2k27k"
+                    },
+                    {
+                        "file_name": "Borderlands.4.Build.22102026-OFME.part38.rar",
+                        "direct_link": "https://vikingfile.com/f/ZyK1CAzC0s"
+                    }
+                ]
+            },
+            "unique_hash": "a1902c6e584f46bddbcd674ba094f1f12dec7ec6",
+            "fileSize": "185.02 GB",
+            "magnet": "magnet:?xt=urn:btih:a1902c6e584f46bddbcd674ba094f1f12dec7ec6&dn=Borderlands%204&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_1/Borderlands.4.Build.22102026-OFME.torrent",
+            "created_at": "2026-10-29 16:22:32",
+            "webdav_updated_at": "Unknown",
+            "files": [
+                {
+                    "name": "Borderlands.4.Build.22102026-OFME.part03.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Borderlands.4.Build.22102026-OFME.part04.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Borderlands.4.Build.22102026-OFME.part05.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Borderlands.4.Build.22102026-OFME.part06.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Borderlands.4.Build.22102026-OFME.part07.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Borderlands.4.Build.22102026-OFME.part13.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Borderlands.4.Build.22102026-OFME.part14.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Borderlands.4.Build.22102026-OFME.part15.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Borderlands.4.Build.22102026-OFME.part16.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Borderlands.4.Build.22102026-OFME.part17.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Borderlands.4.Build.22102026-OFME.part23.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Borderlands.4.Build.22102026-OFME.part24.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Borderlands.4.Build.22102026-OFME.part25.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Borderlands.4.Build.22102026-OFME.part26.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Borderlands.4.Build.22102026-OFME.part33.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Borderlands.4.Build.22102026-OFME.part34.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Borderlands.4.Build.22102026-OFME.part35.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Borderlands.4.Build.22102026-OFME.part36.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Borderlands.4.Build.22102026-OFME.part37.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Borderlands.4.Build.22102026-OFME.part38.rar",
+                    "size": "5.53 MB"
+                },
+                {
+                    "name": "Borderlands.4.Build.22102026-OFME.part01.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Borderlands.4.Build.22102026-OFME.part02.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Borderlands.4.Build.22102026-OFME.part08.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Borderlands.4.Build.22102026-OFME.part09.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Borderlands.4.Build.22102026-OFME.part10.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Borderlands.4.Build.22102026-OFME.part11.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Borderlands.4.Build.22102026-OFME.part12.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Borderlands.4.Build.22102026-OFME.part18.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Borderlands.4.Build.22102026-OFME.part19.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Borderlands.4.Build.22102026-OFME.part20.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Borderlands.4.Build.22102026-OFME.part21.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Borderlands.4.Build.22102026-OFME.part22.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Borderlands.4.Build.22102026-OFME.part27.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Borderlands.4.Build.22102026-OFME.part28.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Borderlands.4.Build.22102026-OFME.part29.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Borderlands.4.Build.22102026-OFME.part30.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Borderlands.4.Build.22102026-OFME.part31.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Borderlands.4.Build.22102026-OFME.part32.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Fix Repair/Borderlands4_Fix_Repair_Epic_Generic.rar",
+                    "size": "14.20 MB"
+                }
+            ],
+            "comment": ""
+        },
+        {
             "title": "Bossgard",
             "page": 84,
             "url": "https://online-fix.me/games/arcade/16364-bossgard-po-seti.html",
@@ -66967,40 +68200,45 @@
         },
         {
             "title": "Core Keeper",
-            "page": 29,
+            "page": 34,
             "url": "https://online-fix.me/games/sandbox/16950-core-keeper-po-seti.html",
             "last_update": "2024-08-28T15:12:21+03:00",
             "release_date": "27.08.2024",
-            "update_info": "Обновлено 25 мая 2026, 16:17. Игра обновлена до версии 1.2.1.3.",
-            "update_date": "2026-05-25T16:17:00+03:00",
-            "formatted_update_date": "2026-05-25 16:17:00",
-            "scraped_at": "2026-07-27 11:50:36",
+            "update_info": "Обновлено Вчера, 23:47. Игра обновлена до версии 1.3.0.6.",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-10-29 19:19:51",
             "steam": {
                 "steam_appid": 1621690,
                 "match_score": 100,
                 "match_via": "canon",
-                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/header.jpg?t=1782408107",
-                "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/5b19828e142f23d88e5213280d8e226408dabbbf/capsule_184x69.jpg?t=1782408107",
-                "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/page_bg_raw.jpg?t=1782408107",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/header.jpg?t=1791454740",
+                "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/5b19828e142f23d88e5213280d8e226408dabbbf/capsule_184x69.jpg?t=1791454740",
+                "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/d1f34f6dca05c70670a7463ba92c47b12f3827a4/page_bg_raw.jpg?t=1791454740",
                 "screenshots": [
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/632a42b91e005b2d2daf99fee946732c95a9737c/ss_632a42b91e005b2d2daf99fee946732c95a9737c.1920x1080.jpg?t=1782408107",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/bca1feb5ec1bf64543f80c74effdcaed4216033c/ss_bca1feb5ec1bf64543f80c74effdcaed4216033c.1920x1080.jpg?t=1782408107",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/804585b7772d3ae5c7d56fc80401469d5bf6fd27/ss_804585b7772d3ae5c7d56fc80401469d5bf6fd27.1920x1080.jpg?t=1782408107",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/ss_1e162c49418038f8042c92810fe3c753449e204b.1920x1080.jpg?t=1782408107",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/ss_2a6cdb26200932593b4edd5ab3d1cc2da5bc15ee.1920x1080.jpg?t=1782408107",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/ss_8f3fd22bc5c385450d36309755323ca18efda4be.1920x1080.jpg?t=1782408107",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/ss_0c317ed9fbf20c3e7fc489d570ff84192e4914c2.1920x1080.jpg?t=1782408107",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/ss_506ef81db824857eaea549d3e78430b92ad3ee7d.1920x1080.jpg?t=1782408107",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/ss_6431b8e98aba922d31d88725657eccb581f7a3a7.1920x1080.jpg?t=1782408107",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/ss_f648f1cf6154cefaac69e68e1289191a53df0845.1920x1080.jpg?t=1782408107",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/ss_3b1ea7493e5abfd20aaa1a61f406fcd5d1a5b9c8.1920x1080.jpg?t=1782408107",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/ss_af9ddc543803fc9fc97db02c9c640eb72f17c876.1920x1080.jpg?t=1782408107",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/ss_fae5df968cf317edccad3ea9c51821fbed889739.1920x1080.jpg?t=1782408107",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/ss_0d1b6ca710fb0981b74fe1fabccb7b1968c1f7ba.1920x1080.jpg?t=1782408107",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/ss_d8b36a32897c34da7db9f8e162efeef3a6fe091a.1920x1080.jpg?t=1782408107",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/ss_59f641c964670bb27dcd2f8bdc8708b8f03315ba.1920x1080.jpg?t=1782408107"
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/632a42b91e005b2d2daf99fee946732c95a9737c/ss_632a42b91e005b2d2daf99fee946732c95a9737c.1920x1080.jpg?t=1791454740",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/bca1feb5ec1bf64543f80c74effdcaed4216033c/ss_bca1feb5ec1bf64543f80c74effdcaed4216033c.1920x1080.jpg?t=1791454740",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/804585b7772d3ae5c7d56fc80401469d5bf6fd27/ss_804585b7772d3ae5c7d56fc80401469d5bf6fd27.1920x1080.jpg?t=1791454740",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/ss_1e162c49418038f8042c92810fe3c753449e204b.1920x1080.jpg?t=1791454740",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/ss_2a6cdb26200932593b4edd5ab3d1cc2da5bc15ee.1920x1080.jpg?t=1791454740",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/ss_8f3fd22bc5c385450d36309755323ca18efda4be.1920x1080.jpg?t=1791454740",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/ss_0c317ed9fbf20c3e7fc489d570ff84192e4914c2.1920x1080.jpg?t=1791454740",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/ss_506ef81db824857eaea549d3e78430b92ad3ee7d.1920x1080.jpg?t=1791454740",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/ss_6431b8e98aba922d31d88725657eccb581f7a3a7.1920x1080.jpg?t=1791454740",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/ss_f648f1cf6154cefaac69e68e1289191a53df0845.1920x1080.jpg?t=1791454740",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/ss_3b1ea7493e5abfd20aaa1a61f406fcd5d1a5b9c8.1920x1080.jpg?t=1791454740",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/ss_af9ddc543803fc9fc97db02c9c640eb72f17c876.1920x1080.jpg?t=1791454740",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/ss_fae5df968cf317edccad3ea9c51821fbed889739.1920x1080.jpg?t=1791454740",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/ss_0d1b6ca710fb0981b74fe1fabccb7b1968c1f7ba.1920x1080.jpg?t=1791454740",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/ss_d8b36a32897c34da7db9f8e162efeef3a6fe091a.1920x1080.jpg?t=1791454740",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/ss_59f641c964670bb27dcd2f8bdc8708b8f03315ba.1920x1080.jpg?t=1791454740"
                 ],
                 "movies": [
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257428623/428fb6a6f6219dad63810c8109bcb75529814220/movie_600x337.jpg?t=1789981169",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1621690/419992208/922464bc06b3e0d01eb490d2d6a592cda18a7a31/1789749445/dash_h264.mpd?t=1789981169",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1621690/419992208/922464bc06b3e0d01eb490d2d6a592cda18a7a31/1789749445/hls_264_master.m3u8?t=1789981169"
+                    },
                     {
                         "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257294260/d9e2a3dc8a4a3636806cef1702f4944e7cc890c9/movie_600x337.jpg?t=1772014474",
                         "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1621690/2040870540/530dbddb1393f13743b7cb62575edb0e1ccab748/1772013931/dash_h264.mpd?t=1772014474",
@@ -67012,7 +68250,7 @@
                         "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1621690/1076238022/cd92107690fbe4d9c76ca7ab601e88b77f3f3b41/1756799789/hls_264_master.m3u8?t=1756801461"
                     }
                 ],
-                "achievements_total": 55,
+                "achievements_total": 59,
                 "achievements_highlighted": [
                     {
                         "icon": "c83e6ebe2352a87d3ae5fd4a1b080b4068d662cb.jpg",
@@ -67163,14 +68401,26 @@
                 ]
             },
             "hoster_links": {
+                "FileDitch": [
+                    {
+                        "file_name": "Core.Keeper.v1.3.0.6-OFME.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha39/c64bb124b02088de39ce/Core.Keeper.v1.3.0.6-OFME.rar"
+                    }
+                ],
+                "FileKeeper": [
+                    {
+                        "file_name": "Core.Keeper.v1.3.0.6-OFME.rar",
+                        "direct_link": "https://filekeeper.net/rrtxr7kuv0br"
+                    }
+                ],
                 "Pixeldrain": [
                     {
                         "file_name": "CoreKeeper_Fix_Repair_Steam_Generic.rar",
                         "direct_link": "https://pixeldrain.com/u/xcWvek4v"
                     },
                     {
-                        "file_name": "Core.Keeper.v1.2.1.3-OFME.rar",
-                        "direct_link": "https://pixeldrain.com/u/CK9w3mzN"
+                        "file_name": "Core.Keeper.v1.3.0.6-OFME.rar",
+                        "direct_link": "https://pixeldrain.com/u/xSgn8fji"
                     }
                 ],
                 "Gofile": [
@@ -67179,8 +68429,14 @@
                         "direct_link": "https://gofile.io/d/OSvXgl"
                     },
                     {
-                        "file_name": "Core.Keeper.v1.2.1.3-OFME.rar",
-                        "direct_link": "https://gofile.io/d/hgTMSf"
+                        "file_name": "Core.Keeper.v1.3.0.6-OFME.rar",
+                        "direct_link": "https://gofile.io/d/tIfgYTT7"
+                    }
+                ],
+                "Rootz": [
+                    {
+                        "file_name": "CoreKeeper_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://rootz.so/d/25xQp6"
                     }
                 ],
                 "VikingFile": [
@@ -67189,35 +68445,25 @@
                         "direct_link": "https://vikingfile.com/f/Y5bDTJiuKB"
                     },
                     {
-                        "file_name": "Core.Keeper.v1.2.1.3-OFME.rar",
-                        "direct_link": "https://vikingfile.com/f/ggUicO4wMQ"
-                    }
-                ],
-                "Rootz": [
-                    {
-                        "file_name": "CoreKeeper_Fix_Repair_Steam_Generic.rar",
-                        "direct_link": "https://rootz.so/d/25xQp6"
-                    },
-                    {
-                        "file_name": "Core.Keeper.v1.2.1.3-OFME.rar",
-                        "direct_link": "https://rootz.so/d/Tsf0y"
+                        "file_name": "Core.Keeper.v1.3.0.6-OFME.rar",
+                        "direct_link": "https://vikingfile.com/f/EVTC1XZCf5"
                     }
                 ]
             },
-            "unique_hash": "0f34edee7811bb58ea00fc2ec3b52ad9629a5ce0",
-            "fileSize": "528.72 MB",
-            "magnet": "magnet:?xt=urn:btih:0f34edee7811bb58ea00fc2ec3b52ad9629a5ce0&dn=Core%20Keeper&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
-            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_29/Core.Keeper.v1.2.1.3-OFME.torrent",
-            "created_at": "2026-05-25 10:03:23",
+            "unique_hash": "daa9b84400a35fe6cf3d8171bc02c136c5ed9e6c",
+            "fileSize": "624.97 MB",
+            "magnet": "magnet:?xt=urn:btih:daa9b84400a35fe6cf3d8171bc02c136c5ed9e6c&dn=Core%20Keeper&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_34/Core.Keeper.v1.3.0.6-OFME.torrent",
+            "created_at": "2026-10-29 17:24:44",
             "webdav_updated_at": "Unknown",
             "files": [
                 {
-                    "name": "Core.Keeper.v1.2.1.3-OFME.rar",
-                    "size": "518.67 MB"
-                },
-                {
                     "name": "Fix Repair/CoreKeeper_Fix_Repair_Steam_Generic.rar",
                     "size": "10.06 MB"
+                },
+                {
+                    "name": "Core.Keeper.v1.3.0.6-OFME.rar",
+                    "size": "614.91 MB"
                 }
             ],
             "comment": ""
@@ -69426,7 +70672,7 @@
             "update_info": "",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-10-28 19:09:16",
+            "scraped_at": "2026-10-29 19:22:31",
             "steam": {
                 "steam_appid": 293780,
                 "match_score": 100,
@@ -292136,30 +293382,30 @@
         },
         {
             "title": "Project Zomboid",
-            "page": 89,
+            "page": 92,
             "url": "https://online-fix.me/games/survival/16293-project-zomboid-po-seti.html",
             "last_update": "2020-03-28T01:03:00+03:00",
             "release_date": "08.11.2013",
-            "update_info": "Обновлено 2 сентября 2026, 14:17. Игра обновлена до версии 42.20.4.",
-            "update_date": "2026-09-02T14:17:00+03:00",
-            "formatted_update_date": "2026-09-02 14:17:00",
-            "scraped_at": "2026-09-04 17:12:18",
+            "update_info": "Обновлено Вчера, 23:47. Игра обновлена до версии 42.21.0.",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-10-29 19:22:01",
             "steam": {
                 "steam_appid": 108600,
                 "match_score": 100,
                 "match_via": "canon",
-                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/header.jpg?t=1787740093",
-                "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/capsule_184x69.jpg?t=1787740093",
-                "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/108600?t=1787740093",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/header.jpg?t=1793224893",
+                "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/capsule_184x69.jpg?t=1793224893",
+                "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/108600?t=1793224893",
                 "screenshots": [
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/e0dd37d69051f7da85896d11027ab018d23893fa/ss_e0dd37d69051f7da85896d11027ab018d23893fa.1920x1080.jpg?t=1787740093",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/d9df2102dd12526700b15660bc5ec8f039dc8742/ss_d9df2102dd12526700b15660bc5ec8f039dc8742.1920x1080.jpg?t=1787740093",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/4c8860818ac52c685bbe0988aa137d52bad4aac5/ss_4c8860818ac52c685bbe0988aa137d52bad4aac5.1920x1080.jpg?t=1787740093",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/ss_eb1862af5109e4658e2538d897cbd16b87ad1818.1920x1080.jpg?t=1787740093",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/ss_507e952789822b69868d768e1e4476946f37b1fb.1920x1080.jpg?t=1787740093",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/ss_eca8be032b3f5508bf5bea74cfbc823a4df047ce.1920x1080.jpg?t=1787740093",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/ss_0dc0cb896202ecfa344a0af981b695f2349317e1.1920x1080.jpg?t=1787740093",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/ss_d80677c526a1c9494a7147189e52fbf438f0a9ca.1920x1080.jpg?t=1787740093"
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/e0dd37d69051f7da85896d11027ab018d23893fa/ss_e0dd37d69051f7da85896d11027ab018d23893fa.1920x1080.jpg?t=1793224893",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/d9df2102dd12526700b15660bc5ec8f039dc8742/ss_d9df2102dd12526700b15660bc5ec8f039dc8742.1920x1080.jpg?t=1793224893",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/4c8860818ac52c685bbe0988aa137d52bad4aac5/ss_4c8860818ac52c685bbe0988aa137d52bad4aac5.1920x1080.jpg?t=1793224893",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/ss_eb1862af5109e4658e2538d897cbd16b87ad1818.1920x1080.jpg?t=1793224893",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/ss_507e952789822b69868d768e1e4476946f37b1fb.1920x1080.jpg?t=1793224893",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/ss_eca8be032b3f5508bf5bea74cfbc823a4df047ce.1920x1080.jpg?t=1793224893",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/ss_0dc0cb896202ecfa344a0af981b695f2349317e1.1920x1080.jpg?t=1793224893",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/ss_d80677c526a1c9494a7147189e52fbf438f0a9ca.1920x1080.jpg?t=1793224893"
                 ],
                 "movies": [
                     {
@@ -292180,9 +293426,9 @@
                     "esrb": null
                 },
                 "release_date_steam": "8 nov. 2013",
-                "short_description": "Project Zomboid is the ultimate in zombie survival. Alone or in MP: you loot, build, craft, fight, farm and fish in a struggle to survive. A hardcore RPG skillset, a vast map, massively customisable sandbox and a cute tutorial raccoon await the unwary. So how will you die? All it takes is a bite..",
+                "short_description": "O Projeto Zomboid é o máximo em sobrevivência de zumbis. Sozinho ou em MP: você saqueia, constrói, fabrica, luta, cultiva e pesca em uma luta pela sobrevivência. Um conjunto de habilidades de RPG hardcore, um mapa vasto, uma caixa de areia altamente personalizável e um lindo guaxinim tutorial aguardam os incautos. Então, como você vai morrer? Basta uma mordida..",
                 "short_description_native": "Project Zomboid is the ultimate in zombie survival. Alone or in MP: you loot, build, craft, fight, farm and fish in a struggle to survive. A hardcore RPG skillset, a vast map, massively customisable sandbox and a cute tutorial raccoon await the unwary. So how will you die? All it takes is a bite..",
-                "price_brl": "R$ 56,27",
+                "price_brl": "R$ 83,99",
                 "is_free": false,
                 "pc_requirements": {
                     "minimum": "OS: Windows 10 / 11 - 64 Bit\n\t\n64bit OS required\n\t\nProcessor: Intel 2.77GHz Quad-core\n\t\nMemory: 8Gb Ram\n\t\nHard Disk Space: 10Gb\n\t\nVideo Card: Dedicated graphics card with 4 GB of VRAM minimum, OpenGL 2.1 and GLSL 1.2 support (generally 2012 or newer)\n        \nSound: FMOD compatible sound card",
@@ -292269,22 +293515,22 @@
             "hoster_links": {
                 "FileDitch": [
                     {
-                        "file_name": "Project.Zomboid.v42.20.4-OFME.part1.rar",
-                        "direct_link": "https://fileditchfiles.st/alpha27/4006946811aaef1b88d5/Project.Zomboid.v42.20.4-OFME.part1.rar"
+                        "file_name": "Project.Zomboid.v42.21.0-OFME.part1.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha39/e501ec6c3d219f551c52/Project.Zomboid.v42.21.0-OFME.part1.rar"
                     },
                     {
-                        "file_name": "Project.Zomboid.v42.20.4-OFME.part2.rar",
-                        "direct_link": "https://fileditchfiles.st/alpha27/dacbd67c6adbf50a74f4/Project.Zomboid.v42.20.4-OFME.part2.rar"
+                        "file_name": "Project.Zomboid.v42.21.0-OFME.part2.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha39/ed3f8462c0eb438e56e3/Project.Zomboid.v42.21.0-OFME.part2.rar"
                     }
                 ],
                 "FileKeeper": [
                     {
-                        "file_name": "Project.Zomboid.v42.20.4-OFME.part1.rar",
-                        "direct_link": "https://filekeeper.net/rw31o9y4iyey"
+                        "file_name": "Project.Zomboid.v42.21.0-OFME.part1.rar",
+                        "direct_link": "https://filekeeper.net/j23ho8n46lp8"
                     },
                     {
-                        "file_name": "Project.Zomboid.v42.20.4-OFME.part2.rar",
-                        "direct_link": "https://filekeeper.net/kox88icv7rqx"
+                        "file_name": "Project.Zomboid.v42.21.0-OFME.part2.rar",
+                        "direct_link": "https://filekeeper.net/te6qj72ugkzw"
                     }
                 ],
                 "Pixeldrain": [
@@ -292293,12 +293539,12 @@
                         "direct_link": "https://pixeldrain.com/u/633QCHm2"
                     },
                     {
-                        "file_name": "Project.Zomboid.v42.20.4-OFME.part1.rar",
-                        "direct_link": "https://pixeldrain.com/u/c8sbxdMH"
+                        "file_name": "Project.Zomboid.v42.21.0-OFME.part1.rar",
+                        "direct_link": "https://pixeldrain.com/u/9843mtaa"
                     },
                     {
-                        "file_name": "Project.Zomboid.v42.20.4-OFME.part2.rar",
-                        "direct_link": "https://pixeldrain.com/u/bDvX6Ner"
+                        "file_name": "Project.Zomboid.v42.21.0-OFME.part2.rar",
+                        "direct_link": "https://pixeldrain.com/u/dqrTV1JE"
                     }
                 ],
                 "Gofile": [
@@ -292307,12 +293553,18 @@
                         "direct_link": "https://gofile.io/d/ZPjPAB"
                     },
                     {
-                        "file_name": "Project.Zomboid.v42.20.4-OFME.part1.rar",
-                        "direct_link": "https://gofile.io/d/jF1NRcVd"
+                        "file_name": "Project.Zomboid.v42.21.0-OFME.part1.rar",
+                        "direct_link": "https://gofile.io/d/fvAnfHNI"
                     },
                     {
-                        "file_name": "Project.Zomboid.v42.20.4-OFME.part2.rar",
-                        "direct_link": "https://gofile.io/d/6X3du8Oe"
+                        "file_name": "Project.Zomboid.v42.21.0-OFME.part2.rar",
+                        "direct_link": "https://gofile.io/d/QZcOPgJ0"
+                    }
+                ],
+                "Rootz": [
+                    {
+                        "file_name": "ProjectZomboid_Fix_Repair_Steam_V4_Generic.rar",
+                        "direct_link": "https://www.rootz.so/d/S3ADA"
                     }
                 ],
                 "VikingFile": [
@@ -292321,26 +293573,20 @@
                         "direct_link": "https://vikingfile.com/f/YEjWgiw105"
                     },
                     {
-                        "file_name": "Project.Zomboid.v42.20.4-OFME.part1.rar",
-                        "direct_link": "https://vikingfile.com/f/SmmiKDhmQE"
+                        "file_name": "Project.Zomboid.v42.21.0-OFME.part1.rar",
+                        "direct_link": "https://vikingfile.com/f/FRAst9A3il"
                     },
                     {
-                        "file_name": "Project.Zomboid.v42.20.4-OFME.part2.rar",
-                        "direct_link": "https://vikingfile.com/f/j2U890pGmN"
-                    }
-                ],
-                "Rootz": [
-                    {
-                        "file_name": "ProjectZomboid_Fix_Repair_Steam_V4_Generic.rar",
-                        "direct_link": "https://www.rootz.so/d/S3ADA"
+                        "file_name": "Project.Zomboid.v42.21.0-OFME.part2.rar",
+                        "direct_link": "https://vikingfile.com/f/JcwVeRALOr"
                     }
                 ]
             },
-            "unique_hash": "e9717a95bad680f0e10a33396c631eb541d5b334",
-            "fileSize": "5.21 GB",
-            "magnet": "magnet:?xt=urn:btih:e9717a95bad680f0e10a33396c631eb541d5b334&dn=Project%20Zomboid&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
-            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_89/Project.Zomboid.v42.20.4-OFME.torrent",
-            "created_at": "2026-09-02 08:24:52",
+            "unique_hash": "7ac7aa62a66f4a5c76969f436fabe438d0542b74",
+            "fileSize": "5.19 GB",
+            "magnet": "magnet:?xt=urn:btih:7ac7aa62a66f4a5c76969f436fabe438d0542b74&dn=Project%20Zomboid&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_92/Project.Zomboid.v42.21.0-OFME.torrent",
+            "created_at": "2026-10-29 17:25:20",
             "webdav_updated_at": "Unknown",
             "files": [
                 {
@@ -292348,12 +293594,12 @@
                     "size": "9.86 MB"
                 },
                 {
-                    "name": "Project.Zomboid.v42.20.4-OFME.part1.rar",
+                    "name": "Project.Zomboid.v42.21.0-OFME.part1.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "Project.Zomboid.v42.20.4-OFME.part2.rar",
-                    "size": "203.58 MB"
+                    "name": "Project.Zomboid.v42.21.0-OFME.part2.rar",
+                    "size": "188.58 MB"
                 }
             ],
             "comment": ""

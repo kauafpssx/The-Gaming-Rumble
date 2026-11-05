@@ -70946,7 +70946,7 @@
             "update_info": "",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-11-04 20:06:03",
+            "scraped_at": "2026-11-05 20:11:55",
             "steam": {
                 "steam_appid": 293780,
                 "match_score": 100,
@@ -129683,10 +129683,10 @@
             "url": "https://online-fix.me/games/officialservers/17628-farming-simulator-25-po-seti.html",
             "last_update": "2024-11-12T16:20:14+03:00",
             "release_date": "12.11.2024",
-            "update_info": "Обновлено Вчера, 18:04. Игра обновлена до версии 1.25.1.0. Добавлен Steam-Fix V2.",
-            "update_date": null,
-            "formatted_update_date": null,
-            "scraped_at": "2026-11-04 20:05:32",
+            "update_info": "Обновлено 4 ноября 2026, 18:04. Игра обновлена до версии 1.25.1.0. Добавлен Steam-Fix V2.",
+            "update_date": "2026-11-04T18:04:00+03:00",
+            "formatted_update_date": "2026-11-04 18:04:00",
+            "scraped_at": "2026-11-05 20:10:06",
             "steam": {
                 "steam_appid": 2300320,
                 "match_score": 100,
@@ -239255,10 +239255,10 @@
             "url": "https://online-fix.me/games/simulator/18290-moon-sweepers-po-seti.html",
             "last_update": "2026-10-27T20:35:23+03:00",
             "release_date": "23.10.2026",
-            "update_info": "Обновлено Вчера, 18:04. Игра обновлена до версии 1.0.5.",
-            "update_date": null,
-            "formatted_update_date": null,
-            "scraped_at": "2026-11-04 20:05:15",
+            "update_info": "Обновлено 4 ноября 2026, 18:04. Игра обновлена до версии 1.0.5.",
+            "update_date": "2026-11-04T18:04:00+03:00",
+            "formatted_update_date": "2026-11-04 18:04:00",
+            "scraped_at": "2026-11-05 20:09:42",
             "steam": {
                 "steam_appid": 5335510,
                 "match_score": 100,
@@ -273682,10 +273682,10 @@
             "url": "https://online-fix.me/games/officialservers/17801-peak-po-seti.html",
             "last_update": "2025-06-17T13:05:29+03:00",
             "release_date": "16.06.2025",
-            "update_info": "Обновлено Вчера, 18:07. Игра обновлена до версии 3.0.0. Изменён способ запуска. Добавлен универсальный GDK-Fix. Добавлена возможность игры на официальных серверах.",
-            "update_date": null,
-            "formatted_update_date": null,
-            "scraped_at": "2026-11-04 20:05:29",
+            "update_info": "Обновлено 4 ноября 2026, 18:07. Игра обновлена до версии 3.0.0. Изменён способ запуска. Добавлен универсальный GDK-Fix. Добавлена возможность игры на официальных серверах.",
+            "update_date": "2026-11-04T18:07:00+03:00",
+            "formatted_update_date": "2026-11-04 18:07:00",
+            "scraped_at": "2026-11-05 20:10:02",
             "steam": {
                 "steam_appid": 3527290,
                 "match_score": 100,
@@ -297060,10 +297060,10 @@
             "url": "https://online-fix.me/games/horror/17712-repo-po-seti.html",
             "last_update": "2025-02-26T17:28:58+03:00",
             "release_date": "26.02.2025",
-            "update_info": "Обновлено Вчера, 18:05. Игра обновлена до версии 0.5.0.",
-            "update_date": null,
-            "formatted_update_date": null,
-            "scraped_at": "2026-11-04 20:05:31",
+            "update_info": "Обновлено 4 ноября 2026, 18:05. Игра обновлена до версии 0.5.0.",
+            "update_date": "2026-11-04T18:05:00+03:00",
+            "formatted_update_date": "2026-11-04 18:05:00",
+            "scraped_at": "2026-11-05 20:10:06",
             "steam": {
                 "steam_appid": 3241660,
                 "match_score": 92,
@@ -426261,30 +426261,265 @@
         },
         {
             "title": "Valheim",
-            "page": 78,
+            "page": 79,
             "url": "https://online-fix.me/games/officialservers/16572-valheim-po-seti.html",
             "last_update": "2021-02-03T22:25:42+03:00",
             "release_date": "09.09.2026",
-            "update_info": "Обновлено 22 сентября 2026, 13:48. Игра обновлена до версии 1.0.15.",
-            "update_date": "2026-09-22T13:48:00+03:00",
-            "formatted_update_date": "2026-09-22 13:48:00",
-            "scraped_at": "2026-09-24 18:04:29",
+            "update_info": "Обновлено 4 ноября 2026, 18:05. Игра обновлена до версии 1.0.21.",
+            "update_date": "2026-11-04T18:05:00+03:00",
+            "formatted_update_date": "2026-11-04 18:05:00",
+            "scraped_at": "2026-11-05 20:11:38",
             "steam": {
-                "not_found": true,
-                "reason": "details_failed",
-                "search_url": "https://store.steampowered.com/api/storesearch/?term=valheim&l=portuguese&cc=BR"
+                "steam_appid": 892970,
+                "match_score": 100,
+                "match_via": "canon",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/1888731b59362fca6c026cdbafa3dfffd45c3146/header_alt_assets_6.jpg?t=1791544831",
+                "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/4e8fffa2161ff5bf23058cc72c43ef1032059b5b/capsule_184x69_alt_assets_6.jpg?t=1791544831",
+                "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/page_bg_raw.jpg?t=1791544831",
+                "screenshots": [
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/5a31353178f635b67f0c8720ebb8a1a95b637276/ss_5a31353178f635b67f0c8720ebb8a1a95b637276.1920x1080.jpg?t=1791544831",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/bc7c361dab1780543a3ceca50c8fba831e5bc8db/ss_bc7c361dab1780543a3ceca50c8fba831e5bc8db.1920x1080.jpg?t=1791544831",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_a600a7d4ca954543e22f571a9629521a13f82143.1920x1080.jpg?t=1791544831",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/f7a47b4bd150ce1a2c6ec88f7d79fd57e7c538c8/ss_f7a47b4bd150ce1a2c6ec88f7d79fd57e7c538c8.1920x1080.jpg?t=1791544831",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_cd0262c5abf8a90ee5e1059acafc5a92b6be0e73.1920x1080.jpg?t=1791544831",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_3db385fc1223914dadb199ac8682683a8c59454e.1920x1080.jpg?t=1791544831",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/f84c97e07548b1c2a0c38944d80c6967c0928625/ss_f84c97e07548b1c2a0c38944d80c6967c0928625.1920x1080.jpg?t=1791544831",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_f6cbfeea728d557fa9f483685fea3205f08f5d9e.1920x1080.jpg?t=1791544831",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_551f06a43b72609d7ca3cd63e93c58e949d58384.1920x1080.jpg?t=1791544831",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_6032c9336c6cf9c1ebc914cedf022b38e97fd271.1920x1080.jpg?t=1791544831",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_f4ea4f0f93cc8b38042f6d5916413da185ec221c.1920x1080.jpg?t=1791544831",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_553301e2432883e9f026fe1dd0e91d7a8886d6f1.1920x1080.jpg?t=1791544831",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_9b4abc60696de192c40064364a1395ad5074e5c3.1920x1080.jpg?t=1791544831",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_15a86a1c4175f9392127265735c177a91535de65.1920x1080.jpg?t=1791544831",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_ad81cc7ced8585ad344ba50e9d0b4bf9c597e62e.1920x1080.jpg?t=1791544831",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_4ba939a383dc363c14e6cb7995322f39a5a26b07.1920x1080.jpg?t=1791544831",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_988d92f03856895ef73a636ad20c2951086b865c.1920x1080.jpg?t=1791544831",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_64ae63dcfde6612266cf72884132fa144908b777.1920x1080.jpg?t=1791544831",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_0c218f8040f1d7850baff4ff4e3109942388ac98.1920x1080.jpg?t=1791544831",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_e79d3106549c1269a14888f2095e4c667643c3ad.1920x1080.jpg?t=1791544831"
+                ],
+                "movies": [
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257420513/3f5dcfbddfe4cca65abe94a03a46b3b5546c46ab/movie_600x337.jpg?t=1788958575",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/892970/1773403435/2417a8f159c3b08912ee0c08e6a78d70452a083f/1788934690/dash_h264.mpd?t=1788958575",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/892970/1773403435/2417a8f159c3b08912ee0c08e6a78d70452a083f/1788934690/hls_264_master.m3u8?t=1788958575"
+                    },
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257419620/cf3dd9631b1181dd1dcf3416f0961ecf0c1bf7a5/movie_600x337.jpg?t=1788957576",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/892970/1466264581/4dbfd08fcffaaccab3f9477f8f55df0a98ab29ef/1788851619/dash_h264.mpd?t=1788957576",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/892970/1466264581/4dbfd08fcffaaccab3f9477f8f55df0a98ab29ef/1788851619/hls_264_master.m3u8?t=1788957576"
+                    },
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257363622/e979dd1440c9a792e9439d71c4982874abf19a0e/movie_600x337.jpg?t=1782130908",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/892970/1497098081/82852b46712774fa05d84fbaf0fb0ab9679a07f0/1782129560/dash_h264.mpd?t=1782130908",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/892970/1497098081/82852b46712774fa05d84fbaf0fb0ab9679a07f0/1782129560/hls_264_master.m3u8?t=1782130908"
+                    }
+                ],
+                "achievements_total": 53,
+                "achievements_highlighted": [
+                    {
+                        "icon": "c67946326d7a3cfa190e23c092abcb6203d4b48d.jpg",
+                        "localized_name": "Mighty Halls",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Mighty Halls",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/892970/c67946326d7a3cfa190e23c092abcb6203d4b48d.jpg"
+                    },
+                    {
+                        "icon": "80dcbeb36d0a38c48b59366c65a510607b2f3976.jpg",
+                        "localized_name": "Top of the World",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Top of the World",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/892970/80dcbeb36d0a38c48b59366c65a510607b2f3976.jpg"
+                    },
+                    {
+                        "icon": "df80631637ec0de3c4d7017f3d25a7a0f9c2a4e4.jpg",
+                        "localized_name": "Are You Alright?",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Are You Alright?",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/892970/df80631637ec0de3c4d7017f3d25a7a0f9c2a4e4.jpg"
+                    },
+                    {
+                        "icon": "190dea63a8f7f82a7688f764416e7843b36062c2.jpg",
+                        "localized_name": "The Viking",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "The Viking",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/892970/190dea63a8f7f82a7688f764416e7843b36062c2.jpg"
+                    },
+                    {
+                        "icon": "7f3f3cd06e079bc2a00507f97429a81c4bda6ddf.jpg",
+                        "localized_name": "Odin is Pleased",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Odin is Pleased",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/892970/7f3f3cd06e079bc2a00507f97429a81c4bda6ddf.jpg"
+                    },
+                    {
+                        "icon": "63534b06771e32d358b7f7aa40cadbfcce7e6a6d.jpg",
+                        "localized_name": "I Have Arrived!",
+                        "archived": 0,
+                        "hidden": 1,
+                        "name": "I Have Arrived!",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/892970/63534b06771e32d358b7f7aa40cadbfcce7e6a6d.jpg"
+                    },
+                    {
+                        "icon": "35b3d161c17d9b09ed002c5d0c5ab243ecc9b8d1.jpg",
+                        "localized_name": "The First of Many",
+                        "archived": 0,
+                        "hidden": 1,
+                        "name": "The First of Many",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/892970/35b3d161c17d9b09ed002c5d0c5ab243ecc9b8d1.jpg"
+                    },
+                    {
+                        "icon": "7e1cf56c4043d2b2aad0274942709f29acba6f62.jpg",
+                        "localized_name": "Eikthyr",
+                        "archived": 0,
+                        "hidden": 1,
+                        "name": "Eikthyr",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/892970/7e1cf56c4043d2b2aad0274942709f29acba6f62.jpg"
+                    },
+                    {
+                        "icon": "4310afd3ed9fffa67496b56bbe994ac8743ca51c.jpg",
+                        "localized_name": "The Elder",
+                        "archived": 0,
+                        "hidden": 1,
+                        "name": "The Elder",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/892970/4310afd3ed9fffa67496b56bbe994ac8743ca51c.jpg"
+                    },
+                    {
+                        "icon": "31b3b3e61e213de6416b931544da4f14f3293323.jpg",
+                        "localized_name": "Bonemass",
+                        "archived": 0,
+                        "hidden": 1,
+                        "name": "Bonemass",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/892970/31b3b3e61e213de6416b931544da4f14f3293323.jpg"
+                    }
+                ],
+                "ratings": {
+                    "pegi": null,
+                    "esrb": null
+                },
+                "release_date_steam": "9 set. 2026",
+                "short_description": "Um brutal jogo de exploração e sobrevivência para 1 a 10 jogadores, ambientado em um purgatório gerado de forma procedural, inspirado na cultura viking. Batalhe, construa e conquiste glória em uma saga digna da benção de Odin!",
+                "short_description_native": "Um brutal jogo de exploração e sobrevivência para 1 a 10 jogadores, ambientado em um purgatório gerado de forma procedural, inspirado na cultura viking. Batalhe, construa e conquiste glória em uma saga digna da benção de Odin!",
+                "price_brl": "R$ 89,99",
+                "is_free": false,
+                "pc_requirements": {
+                    "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10 or later\n\nProcessador: 2.6 GHz Quad Core or similar\n\nMemória: 8 GB de RAM\n\nPlaca gráfica: GeForce GTX 950 or Radeon HD 7970\n\nDirectX: Versão 11\n\nEspaço no disco: Requer 1 GB de espaço livre\n\nNotas adicionais: The following languages have been partially translated by the community: Svenska, Italiano, Romanian, български, македонски, Suomi, Dansk, íslenska, Lietuvių kalba, čeština, Magyar nyelv, Português europeu, 한국어 (불완전한), Norsk, ภาษาไทย, ქართული ენა, Abenaki, Slovenčina",
+                    "recommended": "Recomendados:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10 or later\n\nProcessador: i5 3GHz or Ryzen 5 3GHz\n\nMemória: 16 GB de RAM\n\nPlaca gráfica: GeForce GTX 1060 or Radeon RX 580\n\nDirectX: Versão 11\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 1 GB de espaço livre"
+                },
+                "controller_support": "full",
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Um jogador"
+                    },
+                    {
+                        "id": 1,
+                        "description": "Multijogador"
+                    },
+                    {
+                        "id": 9,
+                        "description": "Co-op"
+                    },
+                    {
+                        "id": 38,
+                        "description": "Co-op online"
+                    },
+                    {
+                        "id": 22,
+                        "description": "Proezas Steam"
+                    },
+                    {
+                        "id": 28,
+                        "description": "Compatibilidade total com comando"
+                    },
+                    {
+                        "id": 67,
+                        "description": "Conforto de câmara"
+                    },
+                    {
+                        "id": 68,
+                        "description": "Controlos de volume independentes"
+                    },
+                    {
+                        "id": 78,
+                        "description": "Dificuldade ajustável"
+                    },
+                    {
+                        "id": 55,
+                        "description": "Compatibilidade com DUALSHOCK"
+                    },
+                    {
+                        "id": 56,
+                        "description": "Compatibilidade com DUALSHOCK"
+                    },
+                    {
+                        "id": 57,
+                        "description": "Compatibilidade com DualSense"
+                    },
+                    {
+                        "id": 58,
+                        "description": "Compatibilidade com DualSense"
+                    },
+                    {
+                        "id": 79,
+                        "description": "Guardar progresso a qualquer momento"
+                    },
+                    {
+                        "id": 69,
+                        "description": "Som estéreo"
+                    },
+                    {
+                        "id": 23,
+                        "description": "Steam Cloud"
+                    },
+                    {
+                        "id": 15,
+                        "description": "Estatísticas"
+                    },
+                    {
+                        "id": 42,
+                        "description": "Remote Play no tablet"
+                    },
+                    {
+                        "id": 62,
+                        "description": "Partilha de Biblioteca"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "1",
+                        "description": "Ação"
+                    },
+                    {
+                        "id": "25",
+                        "description": "Aventura"
+                    },
+                    {
+                        "id": "23",
+                        "description": "Indie"
+                    },
+                    {
+                        "id": "3",
+                        "description": "RPG"
+                    }
+                ]
             },
             "hoster_links": {
                 "FileDitch": [
                     {
-                        "file_name": "Valheim.v1.0.15-OFME.rar",
-                        "direct_link": "https://fileditchfiles.st/balpha21/8235376e8eb417442c7c/Valheim.v1.0.15-OFME.rar"
+                        "file_name": "Valheim.v1.0.21-OFME.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha42/16fabd6ce0855bdb822e/Valheim.v1.0.21-OFME.rar"
                     }
                 ],
                 "FileKeeper": [
                     {
-                        "file_name": "Valheim.v1.0.15-OFME.rar",
-                        "direct_link": "https://filekeeper.net/d61dnnm9cmk7"
+                        "file_name": "Valheim.v1.0.21-OFME.rar",
+                        "direct_link": "https://filekeeper.net/wecnbkyb44xv"
                     }
                 ],
                 "Pixeldrain": [
@@ -426293,8 +426528,8 @@
                         "direct_link": "https://pixeldrain.com/u/BA1Wae3s"
                     },
                     {
-                        "file_name": "Valheim.v1.0.15-OFME.rar",
-                        "direct_link": "https://pixeldrain.com/u/wxxvVFqQ"
+                        "file_name": "Valheim.v1.0.21-OFME.rar",
+                        "direct_link": "https://pixeldrain.com/u/bLybHyEJ"
                     }
                 ],
                 "Gofile": [
@@ -426303,8 +426538,8 @@
                         "direct_link": "https://gofile.io/d/JdxpCJ"
                     },
                     {
-                        "file_name": "Valheim.v1.0.15-OFME.rar",
-                        "direct_link": "https://gofile.io/d/G0HZHAB6"
+                        "file_name": "Valheim.v1.0.21-OFME.rar",
+                        "direct_link": "https://gofile.io/d/oLQq3wmQ"
                     }
                 ],
                 "VikingFile": [
@@ -426313,16 +426548,16 @@
                         "direct_link": "https://vikingfile.com/f/WFbDapKHkC"
                     },
                     {
-                        "file_name": "Valheim.v1.0.15-OFME.rar",
-                        "direct_link": "https://vikingfile.com/f/tECf8uq6Wu"
+                        "file_name": "Valheim.v1.0.21-OFME.rar",
+                        "direct_link": "https://vikingfile.com/f/Kc2fi0y4Rh"
                     }
                 ]
             },
-            "unique_hash": "a6657221d0702cfae01ab6232ddddda12e60a7ae",
+            "unique_hash": "b1c341db6477ae5bc5affe9f79e2432a6fb07ab7",
             "fileSize": "4.21 GB",
-            "magnet": "magnet:?xt=urn:btih:a6657221d0702cfae01ab6232ddddda12e60a7ae&dn=Valheim&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
-            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_78/Valheim.v1.0.15-OFME.torrent",
-            "created_at": "2026-09-22 07:41:41",
+            "magnet": "magnet:?xt=urn:btih:b1c341db6477ae5bc5affe9f79e2432a6fb07ab7&dn=Valheim&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_79/Valheim.v1.0.21-OFME.torrent",
+            "created_at": "2026-11-04 12:13:05",
             "webdav_updated_at": "Unknown",
             "files": [
                 {
@@ -426330,7 +426565,7 @@
                     "size": "10.70 MB"
                 },
                 {
-                    "name": "Valheim.v1.0.15-OFME.rar",
+                    "name": "Valheim.v1.0.21-OFME.rar",
                     "size": "4.19 GB"
                 }
             ],

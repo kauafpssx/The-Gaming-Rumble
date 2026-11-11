@@ -1,5 +1,5 @@
 {
-    "total": 1908,
+    "total": 1909,
     "downloads": [
         {
             "title": "10 Miles to Safety",
@@ -70946,7 +70946,7 @@
             "update_info": "",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-11-10 19:46:18",
+            "scraped_at": "2026-11-11 20:59:23",
             "steam": {
                 "steam_appid": 293780,
                 "match_score": 100,
@@ -100284,6 +100284,198 @@
                 {
                     "name": "Fix Repair/DK2_Fix_Repair_Steam_Generic.rar",
                     "size": "17.59 MB"
+                }
+            ],
+            "comment": ""
+        },
+        {
+            "title": "Double Dealers",
+            "page": 1,
+            "url": "https://online-fix.me/games/arcade/18300-double-dealers-po-seti.html",
+            "last_update": "2026-11-11T04:04:09+03:00",
+            "release_date": "13.10.2026",
+            "update_info": "",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-11-11 20:57:30",
+            "steam": {
+                "steam_appid": 4218620,
+                "match_score": 100,
+                "match_via": "canon",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4218620/0d770690dad82dbc74f06a656db3b5b16c8dab42/header.jpg?t=1791892782",
+                "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4218620/99a380599dbb6d58b3e5b537a28d5cef89f6f661/capsule_184x69.jpg?t=1791892782",
+                "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4218620/5b438f58a698d9d3ab1500d660e010db925dda75/page_bg_raw.jpg?t=1791892782",
+                "screenshots": [
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4218620/8c5d35d53b3f980bfc07add2571583d394ff533e/ss_8c5d35d53b3f980bfc07add2571583d394ff533e.1920x1080.jpg?t=1791892782",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4218620/6046150be265e04d62b43539fbdbc4966c4e7678/ss_6046150be265e04d62b43539fbdbc4966c4e7678.1920x1080.jpg?t=1791892782",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4218620/9ad36215c5369f4983107a95440c46a9d6045efc/ss_9ad36215c5369f4983107a95440c46a9d6045efc.1920x1080.jpg?t=1791892782",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4218620/3f9615ccab0e230a65028f60e533c843d681924a/ss_3f9615ccab0e230a65028f60e533c843d681924a.1920x1080.jpg?t=1791892782",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4218620/5b96e1505704ec61d789a52fa5d9f4c81076f7fa/ss_5b96e1505704ec61d789a52fa5d9f4c81076f7fa.1920x1080.jpg?t=1791892782",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4218620/ded66838df2799e1bda6921dce87c874a35591f0/ss_ded66838df2799e1bda6921dce87c874a35591f0.1920x1080.jpg?t=1791892782",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4218620/3143804ca6e71fad8c649d5f8cfe94c6b38d61cf/ss_3143804ca6e71fad8c649d5f8cfe94c6b38d61cf.1920x1080.jpg?t=1791892782",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4218620/a7a61d735d978391671c6dc9cd107323684fec13/ss_a7a61d735d978391671c6dc9cd107323684fec13.1920x1080.jpg?t=1791892782",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4218620/dcddaf74edcdf5abc126ba68e579627eb9da78a4/ss_dcddaf74edcdf5abc126ba68e579627eb9da78a4.1920x1080.jpg?t=1791892782",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4218620/b36e32889f77b750a45c5ecc1088cecbfa5ef38f/ss_b36e32889f77b750a45c5ecc1088cecbfa5ef38f.1920x1080.jpg?t=1791892782"
+                ],
+                "movies": [
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257416822/3c18e18f4ec6789b93386193e247cf4d71c95c1b/movie_600x337.jpg?t=1788473633",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/4218620/1769380364/a9b42ae23af8536d3b1beac67d8eb1701c61ad19/1788473133/dash_h264.mpd?t=1788473633",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/4218620/1769380364/a9b42ae23af8536d3b1beac67d8eb1701c61ad19/1788473133/hls_264_master.m3u8?t=1788473633"
+                    },
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257308870/9d671465631ef9dec5271e2a00efc30058c5b397/movie_600x337.jpg?t=1774441643",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/4218620/1606829703/d168e1084cfbe4c49653c700a4fdb5651ed622e8/1774441011/dash_h264.mpd?t=1774441643",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/4218620/1606829703/d168e1084cfbe4c49653c700a4fdb5651ed622e8/1774441011/hls_264_master.m3u8?t=1774441643"
+                    }
+                ],
+                "achievements_total": null,
+                "achievements_highlighted": [],
+                "ratings": {
+                    "pegi": null,
+                    "esrb": null
+                },
+                "release_date_steam": "13 out. 2026",
+                "short_description": "Um jogo de leilão para 3 a 6 jogadores construído em torno de blefe, engano e manipulação, onde você deve ser mais esperto que seus oponentes em tensas guerras de lances, esconder a verdade e transformar negociações arriscadas em lucro. Cada rodada é uma batalha de jogos mentais onde a confiança é frágil e a estratégia decide o vencedor.",
+                "short_description_native": "A 3–6 player auction game built around bluffing, deception, and manipulation, where you must outsmart your opponents in tense bidding wars, hide the truth, and turn risky trades into profit. Every round is a battle of mind games where trust is fragile and strategy decides the winner.",
+                "price_brl": "R$ 27,49",
+                "is_free": false,
+                "pc_requirements": {
+                    "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10 / Windows 11 64-bit\n\nProcessador: AMD Ryzen 3 2200G /  i3-9100F\n\nMemória: 8 GB de RAM\n\nPlaca gráfica: GTX 960 / GTX 1050 Ti\n\nEspaço no disco: Requer 5 GB de espaço livre",
+                    "recommended": "Recomendados:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10 / Windows 11 64-bit\n\nProcessador: AMD Ryzen 5 3500X / Intel Core i5-9400F\n\nMemória: 16 GB de RAM\n\nPlaca gráfica: NVIDIA GTX 1060 / GTX 1660 Super / AMD RX 580\n\nEspaço no disco: Requer 5 GB de espaço livre"
+                },
+                "controller_support": null,
+                "categories": [
+                    {
+                        "id": 1,
+                        "description": "Multijogador"
+                    },
+                    {
+                        "id": 49,
+                        "description": "PvP"
+                    },
+                    {
+                        "id": 36,
+                        "description": "PvP online"
+                    },
+                    {
+                        "id": 9,
+                        "description": "Co-op"
+                    },
+                    {
+                        "id": 38,
+                        "description": "Co-op online"
+                    },
+                    {
+                        "id": 67,
+                        "description": "Conforto de câmara"
+                    },
+                    {
+                        "id": 68,
+                        "description": "Controlos de volume independentes"
+                    },
+                    {
+                        "id": 74,
+                        "description": "Jogável sem necessitar de ações rápidas ou precisas"
+                    },
+                    {
+                        "id": 69,
+                        "description": "Som estéreo"
+                    },
+                    {
+                        "id": 70,
+                        "description": "Som surround"
+                    },
+                    {
+                        "id": 62,
+                        "description": "Partilha de Biblioteca"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "4",
+                        "description": "Casual"
+                    },
+                    {
+                        "id": "23",
+                        "description": "Indie"
+                    },
+                    {
+                        "id": "2",
+                        "description": "Estratégia"
+                    },
+                    {
+                        "id": "70",
+                        "description": "Acesso Antecipado"
+                    }
+                ]
+            },
+            "hoster_links": {
+                "FileDitch": [
+                    {
+                        "file_name": "DoubleDealers_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha42/c584bd41c072d9d5bcbf/DoubleDealers_Fix_Repair_Steam_Generic.rar"
+                    },
+                    {
+                        "file_name": "Double.Dealers.v0.1.1-OFME.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha42/132626635e82276cf84d/Double.Dealers.v0.1.1-OFME.rar"
+                    }
+                ],
+                "FileKeeper": [
+                    {
+                        "file_name": "DoubleDealers_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://filekeeper.net/ebap781ynxyh"
+                    },
+                    {
+                        "file_name": "Double.Dealers.v0.1.1-OFME.rar",
+                        "direct_link": "https://filekeeper.net/qt1q4ppgq2mj"
+                    }
+                ],
+                "Pixeldrain": [
+                    {
+                        "file_name": "DoubleDealers_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://pixeldrain.com/u/UwaT1qza"
+                    },
+                    {
+                        "file_name": "Double.Dealers.v0.1.1-OFME.rar",
+                        "direct_link": "https://pixeldrain.com/u/oVbntQwQ"
+                    }
+                ],
+                "Gofile": [
+                    {
+                        "file_name": "DoubleDealers_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://gofile.io/d/cyzcIRM1"
+                    },
+                    {
+                        "file_name": "Double.Dealers.v0.1.1-OFME.rar",
+                        "direct_link": "https://gofile.io/d/7BQFLiAk"
+                    }
+                ],
+                "VikingFile": [
+                    {
+                        "file_name": "DoubleDealers_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://vikingfile.com/f/jw1dp9pCgX"
+                    },
+                    {
+                        "file_name": "Double.Dealers.v0.1.1-OFME.rar",
+                        "direct_link": "https://vikingfile.com/f/ikQv8vNdYX"
+                    }
+                ]
+            },
+            "unique_hash": "15d0a79e42fd16710559d18ba353c8a8fe0e8d2e",
+            "fileSize": "875.93 MB",
+            "magnet": "magnet:?xt=urn:btih:15d0a79e42fd16710559d18ba353c8a8fe0e8d2e&dn=Double%20Dealers&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_1/Double.Dealers.v0.1.1-OFME.torrent",
+            "created_at": "2026-11-10 20:54:56",
+            "webdav_updated_at": "Unknown",
+            "files": [
+                {
+                    "name": "Double.Dealers.v0.1.1-OFME.rar",
+                    "size": "865.00 MB"
+                },
+                {
+                    "name": "Fix Repair/DoubleDealers_Fix_Repair_Steam_Generic.rar",
+                    "size": "10.93 MB"
                 }
             ],
             "comment": ""
@@ -140793,30 +140985,30 @@
         },
         {
             "title": "Forza Horizon 6",
-            "page": 8,
+            "page": 10,
             "url": "https://online-fix.me/games/officialservers/18099-forza-horizon-6-po-seti.html",
             "last_update": "2026-05-15T07:00:32+03:00",
             "release_date": "13.05.2026",
-            "update_info": "Обновлено 13 октября 2026, 00:47. Добавлено обновление 461.691.",
-            "update_date": "2026-10-13T00:47:00+03:00",
-            "formatted_update_date": "2026-10-13 00:47:00",
-            "scraped_at": "2026-10-14 18:13:04",
+            "update_info": "Обновлено Вчера, 04:03. Добавлено обновление 483.970.",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-11-11 20:57:37",
             "steam": {
                 "steam_appid": 2483190,
                 "match_score": 100,
                 "match_via": "canon",
-                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/bd1e762f4720cb68af365f2e41d002f14dd74fbf/header_alt_assets_5.jpg?t=1791312088",
-                "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/bbb9f95cefd82bfdc417f25d6d3d1b740d9d42dc/capsule_184x69_alt_assets_5.jpg?t=1791312088",
-                "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/5ce35cb7c29431e9c58ec2228f6eaa8842953bc2/page_bg_raw.jpg?t=1791312088",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/c53fe3362cc3267a5d34aca3e796b90963e0e23f/header_alt_assets_6.jpg?t=1793894652",
+                "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/d0e851e9a3d316fb587984f22d81e6288b2f1485/capsule_184x69_alt_assets_6.jpg?t=1793894652",
+                "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/5ce35cb7c29431e9c58ec2228f6eaa8842953bc2/page_bg_raw.jpg?t=1793894652",
                 "screenshots": [
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/706eb79418b2a74192de059693ddcbfaa803108a/ss_706eb79418b2a74192de059693ddcbfaa803108a.1920x1080.jpg?t=1791312088",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/383ace7815eaa8f8f5128a58fd8ca7df911d3e14/ss_383ace7815eaa8f8f5128a58fd8ca7df911d3e14.1920x1080.jpg?t=1791312088",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/d4b81f0cafcfba410371e53bd696fb5cc9b434c0/ss_d4b81f0cafcfba410371e53bd696fb5cc9b434c0.1920x1080.jpg?t=1791312088",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/041b9a2854dc647bf54d7d8b36d2f4186ed72c13/ss_041b9a2854dc647bf54d7d8b36d2f4186ed72c13.1920x1080.jpg?t=1791312088",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/945a08124625ffa26ec0077761fcbe19df07dad5/ss_945a08124625ffa26ec0077761fcbe19df07dad5.1920x1080.jpg?t=1791312088",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/0824558c70b2e5ed67fe239d577434929f157a26/ss_0824558c70b2e5ed67fe239d577434929f157a26.1920x1080.jpg?t=1791312088",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/701382eb1431c978e0c7e2518f47aa02b3fe6583/ss_701382eb1431c978e0c7e2518f47aa02b3fe6583.1920x1080.jpg?t=1791312088",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/ffea3efe4e67b24ceb6f9bd0919b1ebac344b61b/ss_ffea3efe4e67b24ceb6f9bd0919b1ebac344b61b.1920x1080.jpg?t=1791312088"
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/706eb79418b2a74192de059693ddcbfaa803108a/ss_706eb79418b2a74192de059693ddcbfaa803108a.1920x1080.jpg?t=1793894652",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/383ace7815eaa8f8f5128a58fd8ca7df911d3e14/ss_383ace7815eaa8f8f5128a58fd8ca7df911d3e14.1920x1080.jpg?t=1793894652",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/d4b81f0cafcfba410371e53bd696fb5cc9b434c0/ss_d4b81f0cafcfba410371e53bd696fb5cc9b434c0.1920x1080.jpg?t=1793894652",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/041b9a2854dc647bf54d7d8b36d2f4186ed72c13/ss_041b9a2854dc647bf54d7d8b36d2f4186ed72c13.1920x1080.jpg?t=1793894652",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/945a08124625ffa26ec0077761fcbe19df07dad5/ss_945a08124625ffa26ec0077761fcbe19df07dad5.1920x1080.jpg?t=1793894652",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/0824558c70b2e5ed67fe239d577434929f157a26/ss_0824558c70b2e5ed67fe239d577434929f157a26.1920x1080.jpg?t=1793894652",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/701382eb1431c978e0c7e2518f47aa02b3fe6583/ss_701382eb1431c978e0c7e2518f47aa02b3fe6583.1920x1080.jpg?t=1793894652",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/ffea3efe4e67b24ceb6f9bd0919b1ebac344b61b/ss_ffea3efe4e67b24ceb6f9bd0919b1ebac344b61b.1920x1080.jpg?t=1793894652"
                 ],
                 "movies": [
                     {
@@ -141039,14 +141231,14 @@
                         "direct_link": "https://fileditchfiles.me/alpha11/0b369c5a2d6a0b917ec5/ForzaHorizon6_Fix_Repair_Steam_V2_Generic.rar"
                     },
                     {
-                        "file_name": "01-Forza.Horizon.6.Update.v354.221.to.v461.691.AiO-OFME.rar",
-                        "direct_link": "https://fileditchfiles.st/balpha30/7292a3d05553e15e48a3/01-Forza.Horizon.6.Update.v354.221.to.v461.691.AiO-OFME.rar"
+                        "file_name": "01-Forza.Horizon.6.Update.v354.221.to.v483.970.AiO-OFME.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha42/8ee3cc1b11789ba96700/01-Forza.Horizon.6.Update.v354.221.to.v483.970.AiO-OFME.rar"
                     }
                 ],
                 "FileKeeper": [
                     {
-                        "file_name": "01-Forza.Horizon.6.Update.v354.221.to.v461.691.AiO-OFME.rar",
-                        "direct_link": "https://filekeeper.net/cei5rnfgle4x"
+                        "file_name": "01-Forza.Horizon.6.Update.v354.221.to.v483.970.AiO-OFME.rar",
+                        "direct_link": "https://filekeeper.net/ps36vgrd7tt5"
                     }
                 ],
                 "Pixeldrain": [
@@ -141055,8 +141247,8 @@
                         "direct_link": "https://pixeldrain.com/u/SZrPdXr7"
                     },
                     {
-                        "file_name": "01-Forza.Horizon.6.Update.v354.221.to.v461.691.AiO-OFME.rar",
-                        "direct_link": "https://pixeldrain.com/u/3PH4TCk7"
+                        "file_name": "01-Forza.Horizon.6.Update.v354.221.to.v483.970.AiO-OFME.rar",
+                        "direct_link": "https://pixeldrain.com/u/jMyq82px"
                     },
                     {
                         "file_name": "Forza.Horizon.6.v354.221-OFME.part01.rar",
@@ -141185,8 +141377,8 @@
                         "direct_link": "https://gofile.io/d/yhjDor"
                     },
                     {
-                        "file_name": "01-Forza.Horizon.6.Update.v354.221.to.v461.691.AiO-OFME.rar",
-                        "direct_link": "https://gofile.io/d/Wz6lIzsq"
+                        "file_name": "01-Forza.Horizon.6.Update.v354.221.to.v483.970.AiO-OFME.rar",
+                        "direct_link": "https://gofile.io/d/ebqFKQBn"
                     },
                     {
                         "file_name": "Forza.Horizon.6.v354.221-OFME.part01.rar",
@@ -141441,8 +141633,8 @@
                         "direct_link": "https://vikingfile.com/f/ZkdwhSFOz6"
                     },
                     {
-                        "file_name": "01-Forza.Horizon.6.Update.v354.221.to.v461.691.AiO-OFME.rar",
-                        "direct_link": "https://vikingfile.com/f/437bdVsh4j"
+                        "file_name": "01-Forza.Horizon.6.Update.v354.221.to.v483.970.AiO-OFME.rar",
+                        "direct_link": "https://vikingfile.com/f/wRTp6iwbps"
                     },
                     {
                         "file_name": "Forza.Horizon.6.v354.221-OFME.part01.rar",
@@ -141566,11 +141758,11 @@
                     }
                 ]
             },
-            "unique_hash": "cf6cef0aab8107c6780736af21a863f6c658c68a",
-            "fileSize": "174.77 GB",
-            "magnet": "magnet:?xt=urn:btih:cf6cef0aab8107c6780736af21a863f6c658c68a&dn=Forza%20Horizon%206&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
-            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_8/Forza.Horizon.6.v354.221-OFME.torrent",
-            "created_at": "2026-10-12 18:46:05",
+            "unique_hash": "38472367ef3fe9afe8931912faad3812b635c7fb",
+            "fileSize": "176.13 GB",
+            "magnet": "magnet:?xt=urn:btih:38472367ef3fe9afe8931912faad3812b635c7fb&dn=Forza%20Horizon%206&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_10/Forza.Horizon.6.v354.221-OFME.torrent",
+            "created_at": "2026-11-10 20:55:39",
             "webdav_updated_at": "Unknown",
             "files": [
                 {
@@ -141642,8 +141834,8 @@
                     "size": "1.58 GB"
                 },
                 {
-                    "name": "Updates/01-Forza.Horizon.6.Update.v354.221.to.v461.691.AiO-OFME.rar",
-                    "size": "28.18 GB"
+                    "name": "Updates/01-Forza.Horizon.6.Update.v354.221.to.v483.970.AiO-OFME.rar",
+                    "size": "29.54 GB"
                 },
                 {
                     "name": "Forza.Horizon.6.v354.221-OFME.part03.rar",
@@ -283140,10 +283332,10 @@
             "url": "https://online-fix.me/games/vr/16481-phasmophobia-po-seti.html",
             "last_update": "2020-09-23T04:49:45+03:00",
             "release_date": "18.09.2020",
-            "update_info": "Обновлено Вчера, 16:51. Игра обновлена до версии 0.19.1.0.",
-            "update_date": null,
-            "formatted_update_date": null,
-            "scraped_at": "2026-11-10 19:46:05",
+            "update_info": "Обновлено 10 ноября 2026, 16:51. Игра обновлена до версии 0.19.1.0.",
+            "update_date": "2026-11-10T16:51:00+03:00",
+            "formatted_update_date": "2026-11-10 16:51:00",
+            "scraped_at": "2026-11-11 20:59:10",
             "steam": {
                 "steam_appid": 739630,
                 "match_score": 100,
@@ -283326,7 +283518,7 @@
                     "esrb": null
                 },
                 "release_date_steam": "18 set. 2020",
-                "short_description": "Phasmophobia is a 4 player online co-op psychological horror. Paranormal activity is on the rise and it’s up to you and your team to use all the ghost-hunting equipment at your disposal in order to gather as much evidence as you can.",
+                "short_description": "Phasmophobia é um terror psicológico cooperativo online para 4 jogadores. A atividade paranormal está aumentando e cabe a você e sua equipe usar todo o equipamento de caça aos fantasmas à sua disposição para reunir o máximo de evidências possível.",
                 "short_description_native": "Phasmophobia is a 4 player online co-op psychological horror. Paranormal activity is on the rise and it’s up to you and your team to use all the ghost-hunting equipment at your disposal in order to gather as much evidence as you can.",
                 "price_brl": "R$ 59,99",
                 "is_free": false,
@@ -331281,10 +331473,10 @@
             "url": "https://online-fix.me/games/adventures/17729-schedule-i-po-seti.html",
             "last_update": "2025-03-25T01:49:06+03:00",
             "release_date": "25.03.2025",
-            "update_info": "Обновлено Вчера, 16:52. Игра обновлена до версии 0.4.7f12.",
-            "update_date": null,
-            "formatted_update_date": null,
-            "scraped_at": "2026-11-10 19:44:41",
+            "update_info": "Обновлено 10 ноября 2026, 16:52. Игра обновлена до версии 0.4.7f12.",
+            "update_date": "2026-11-10T16:52:00+03:00",
+            "formatted_update_date": "2026-11-10 16:52:00",
+            "scraped_at": "2026-11-11 20:57:45",
             "steam": {
                 "steam_appid": 3164500,
                 "match_score": 100,
@@ -331416,7 +331608,7 @@
                     "esrb": null
                 },
                 "release_date_steam": "24 mar. 2025",
-                "short_description": "From small-time dope pusher to kingpin - manufacture and distribute a range of drugs throughout the grungy city of Hyland Point. Expand your empire with properties, businesses, employees and more.",
+                "short_description": "De pequeno traficante de drogas a chefão do crime - fabrique e distribua uma variedade de drogas pela suja cidade de Hyland Point. Expanda seu império com propriedades, negócios, funcionários e muito mais.",
                 "short_description_native": "From small-time dope pusher to kingpin - manufacture and distribute a range of drugs throughout the grungy city of Hyland Point. Expand your empire with properties, businesses, employees and more.",
                 "price_brl": "R$ 59,99",
                 "is_free": false,
@@ -348007,41 +348199,46 @@
         },
         {
             "title": "SnowRunner",
-            "page": 5,
+            "page": 11,
             "url": "https://online-fix.me/games/simulator/18085-snowrunner-po-seti.html",
             "last_update": "2026-05-06T19:15:28+03:00",
             "release_date": "17.05.2021",
-            "update_info": "",
+            "update_info": "Обновлено Вчера, 15:45. Игра обновлена до версии 1.0.155.0. Обновлён фикс.",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-07-27 11:36:37",
+            "scraped_at": "2026-11-11 20:57:38",
             "steam": {
                 "steam_appid": 1465360,
                 "match_score": 100,
                 "match_via": "canon",
-                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465360/header.jpg?t=1784713482",
-                "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465360/capsule_184x69.jpg?t=1784713482",
-                "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465360/page_bg_raw.jpg?t=1784713482",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465360/header.jpg?t=1792504894",
+                "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465360/capsule_184x69.jpg?t=1792504894",
+                "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465360/page_bg_raw.jpg?t=1792504894",
                 "screenshots": [
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465360/ss_940259cd3dc33743bc06f2e686f2b6878b961b14.1920x1080.jpg?t=1784713482",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465360/ss_e81a1d783f9f32bdb5c9ff8b3fc761fcb09ab805.1920x1080.jpg?t=1784713482",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465360/ss_0851d89715e625f0f316012d1d84e85a882b6099.1920x1080.jpg?t=1784713482",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465360/ss_b1bb888101b715fa25f730741ab044afb4858ce6.1920x1080.jpg?t=1784713482",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465360/ss_8f0215990d1ac3afe02b0b745825245e2ada2c07.1920x1080.jpg?t=1784713482",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465360/ss_7d4c05e9201a8e891428b735d557b19c74f62219.1920x1080.jpg?t=1784713482",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465360/ss_ae2416a02c4581fd9f3a6d00ea419d7cf599fecd.1920x1080.jpg?t=1784713482",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465360/ss_8b7d5be8de0e50fd27317c4faf5dbb16faf61a40.1920x1080.jpg?t=1784713482"
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465360/ss_940259cd3dc33743bc06f2e686f2b6878b961b14.1920x1080.jpg?t=1792504894",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465360/ss_e81a1d783f9f32bdb5c9ff8b3fc761fcb09ab805.1920x1080.jpg?t=1792504894",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465360/ss_0851d89715e625f0f316012d1d84e85a882b6099.1920x1080.jpg?t=1792504894",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465360/ss_b1bb888101b715fa25f730741ab044afb4858ce6.1920x1080.jpg?t=1792504894",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465360/ss_8f0215990d1ac3afe02b0b745825245e2ada2c07.1920x1080.jpg?t=1792504894",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465360/ss_7d4c05e9201a8e891428b735d557b19c74f62219.1920x1080.jpg?t=1792504894",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465360/ss_ae2416a02c4581fd9f3a6d00ea419d7cf599fecd.1920x1080.jpg?t=1792504894",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465360/ss_8b7d5be8de0e50fd27317c4faf5dbb16faf61a40.1920x1080.jpg?t=1792504894"
                 ],
                 "movies": [
                     {
-                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257365581/9e90f34521560ee66d22ec39d7d00883333557aa/movie_600x337.jpg?t=1782403732",
-                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1465360/2140598964/1ced738be5066c12e8c09eb75be9c35d71e4e3f6/1782402586/dash_h264.mpd?t=1782403732",
-                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1465360/2140598964/1ced738be5066c12e8c09eb75be9c35d71e4e3f6/1782402586/hls_264_master.m3u8?t=1782403732"
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257470827/c98f70b079e7945bce8982856e07694b81b74206/movie_600x337.jpg?t=1792504884",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1465360/1436253773/af28cc40933b51ace74e5ed2a3df7698486ef6a1/1792500965/dash_h264.mpd?t=1792504884",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1465360/1436253773/af28cc40933b51ace74e5ed2a3df7698486ef6a1/1792500965/hls_264_master.m3u8?t=1792504884"
                     },
                     {
-                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257273018/de6cbaccef4356097de6905f4c85da46b8eb0ade/movie_600x337.jpg?t=1769526774",
-                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1465360/1904554773/39e8cc0257ebe4f4290d37c4b5348020c5000cc6/1769442337/dash_h264.mpd?t=1769526774",
-                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1465360/1904554773/39e8cc0257ebe4f4290d37c4b5348020c5000cc6/1769442337/hls_264_master.m3u8?t=1769526774"
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257365581/9e90f34521560ee66d22ec39d7d00883333557aa/movie_600x337.jpg?t=1792504887",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1465360/2140598964/1ced738be5066c12e8c09eb75be9c35d71e4e3f6/1782402586/dash_h264.mpd?t=1792504887",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1465360/2140598964/1ced738be5066c12e8c09eb75be9c35d71e4e3f6/1782402586/hls_264_master.m3u8?t=1792504887"
+                    },
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257273018/de6cbaccef4356097de6905f4c85da46b8eb0ade/movie_600x337.jpg?t=1792504888",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1465360/1904554773/39e8cc0257ebe4f4290d37c4b5348020c5000cc6/1769442337/dash_h264.mpd?t=1792504888",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1465360/1904554773/39e8cc0257ebe4f4290d37c4b5348020c5000cc6/1769442337/hls_264_master.m3u8?t=1792504888"
                     },
                     {
                         "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256835104/movie.293x165.jpg?t=1692045598",
@@ -348149,7 +348346,7 @@
                 "release_date_steam": "17 mai. 2021",
                 "short_description": "Prepare-se para a experiência off-road da próxima geração! Dirija veículos poderosos e supere ambientes abertos extremos para completar dezenas de missões desafiadoras sozinho ou com até 3 amigos!",
                 "short_description_native": "Get ready for the next-generation off-road experience! Drive powerful vehicles and overcome extreme open environments to complete dozens of challenging missions solo or with up to 3 friends!",
-                "price_brl": "R$ 39,96",
+                "price_brl": "R$ 99,90",
                 "is_free": false,
                 "pc_requirements": {
                     "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo *: Windows 7/8/10 (64-bit)\n\nProcessador: Intel i3-4130 3.4 GHz / AMD Ryzen 3 2200U 3.4 GHz\n\nMemória: 8 GB de RAM\n\nPlaca gráfica: 2 GB, GeForce GTX 660 / Radeon R9 270\n\nEspaço no disco: Requer 50 GB de espaço livre",
@@ -348242,261 +348439,335 @@
                 ]
             },
             "hoster_links": {
+                "FileDitch": [
+                    {
+                        "file_name": "SnowRunner_Fix_Repair_GDK (1).rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha42/77d2695b8282285d93e6/SnowRunner_Fix_Repair_GDK%20%281%29.rar"
+                    },
+                    {
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part01.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha42/9e49bb37d9f328c03c39/SnowRunner.v1.0.155.0-OFME.part01.rar"
+                    },
+                    {
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part02.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha42/070dfe06d3b4c49d9abb/SnowRunner.v1.0.155.0-OFME.part02.rar"
+                    },
+                    {
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part03.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha42/2c8add90d7b1cd0dc21b/SnowRunner.v1.0.155.0-OFME.part03.rar"
+                    },
+                    {
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part04.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha42/a7056f2a0467225d211b/SnowRunner.v1.0.155.0-OFME.part04.rar"
+                    },
+                    {
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part05.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha42/4c6ae1fbfd10312820d0/SnowRunner.v1.0.155.0-OFME.part05.rar"
+                    },
+                    {
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part06.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha42/409847d55e2f4462a61f/SnowRunner.v1.0.155.0-OFME.part06.rar"
+                    },
+                    {
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part07.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha42/e285a82117a847ae5217/SnowRunner.v1.0.155.0-OFME.part07.rar"
+                    },
+                    {
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part08.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha42/118460e51fd60ea333db/SnowRunner.v1.0.155.0-OFME.part08.rar"
+                    },
+                    {
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part09.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha42/d39d50d071f4ab3bb2f9/SnowRunner.v1.0.155.0-OFME.part09.rar"
+                    },
+                    {
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part10.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha42/6f6c04d7f22a242e6b29/SnowRunner.v1.0.155.0-OFME.part10.rar"
+                    },
+                    {
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part11.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha42/3a83e8633bfa830aa1fe/SnowRunner.v1.0.155.0-OFME.part11.rar"
+                    },
+                    {
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part12.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha42/e336e7f25a41a6f8a36c/SnowRunner.v1.0.155.0-OFME.part12.rar"
+                    }
+                ],
+                "FileKeeper": [
+                    {
+                        "file_name": "SnowRunner_Fix_Repair_GDK (1).rar",
+                        "direct_link": "https://filekeeper.net/uoqxepnlrdkf"
+                    },
+                    {
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part01.rar",
+                        "direct_link": "https://filekeeper.net/wlt8kasmujat"
+                    },
+                    {
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part02.rar",
+                        "direct_link": "https://filekeeper.net/4kiupue77cjf"
+                    },
+                    {
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part03.rar",
+                        "direct_link": "https://filekeeper.net/ns8zx3v9uqol"
+                    },
+                    {
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part04.rar",
+                        "direct_link": "https://filekeeper.net/p2bt65pd2v6x"
+                    },
+                    {
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part05.rar",
+                        "direct_link": "https://filekeeper.net/616y61s5h1hk"
+                    },
+                    {
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part06.rar",
+                        "direct_link": "https://filekeeper.net/xc3hi29tvwov"
+                    },
+                    {
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part07.rar",
+                        "direct_link": "https://filekeeper.net/cemgfb8d9a2p"
+                    },
+                    {
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part08.rar",
+                        "direct_link": "https://filekeeper.net/oqz28uo2k5cu"
+                    },
+                    {
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part09.rar",
+                        "direct_link": "https://filekeeper.net/ccms67u5sfy2"
+                    },
+                    {
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part10.rar",
+                        "direct_link": "https://filekeeper.net/epquvizu3qut"
+                    },
+                    {
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part11.rar",
+                        "direct_link": "https://filekeeper.net/id558bzhw0wi"
+                    },
+                    {
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part12.rar",
+                        "direct_link": "https://filekeeper.net/wsj0jr89wrt9"
+                    }
+                ],
                 "Pixeldrain": [
                     {
-                        "file_name": "SnowRunner_Fix_Repair_GDK.rar",
-                        "direct_link": "https://pixeldrain.com/u/FmkYM4Sz"
+                        "file_name": "SnowRunner_Fix_Repair_GDK (1).rar",
+                        "direct_link": "https://pixeldrain.com/u/TmrJYTe5"
                     },
                     {
-                        "file_name": "SnowRunner.v1.0.151.0-OFME.part01.rar",
-                        "direct_link": "https://pixeldrain.com/u/Y5SWu1Uh"
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part01.rar",
+                        "direct_link": "https://pixeldrain.com/u/vqM2yCpS"
                     },
                     {
-                        "file_name": "SnowRunner.v1.0.151.0-OFME.part02.rar",
-                        "direct_link": "https://pixeldrain.com/u/zd6quMCj"
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part02.rar",
+                        "direct_link": "https://pixeldrain.com/u/vERbpnPm"
                     },
                     {
-                        "file_name": "SnowRunner.v1.0.151.0-OFME.part03.rar",
-                        "direct_link": "https://pixeldrain.com/u/m5QXHwYd"
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part03.rar",
+                        "direct_link": "https://pixeldrain.com/u/NcLneWxJ"
                     },
                     {
-                        "file_name": "SnowRunner.v1.0.151.0-OFME.part04.rar",
-                        "direct_link": "https://pixeldrain.com/u/1cUrRLGY"
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part04.rar",
+                        "direct_link": "https://pixeldrain.com/u/z9T8R5Nr"
                     },
                     {
-                        "file_name": "SnowRunner.v1.0.151.0-OFME.part05.rar",
-                        "direct_link": "https://pixeldrain.com/u/eJN4aiyp"
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part05.rar",
+                        "direct_link": "https://pixeldrain.com/u/S3BZrRc4"
                     },
                     {
-                        "file_name": "SnowRunner.v1.0.151.0-OFME.part06.rar",
-                        "direct_link": "https://pixeldrain.com/u/CjeuF46a"
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part06.rar",
+                        "direct_link": "https://pixeldrain.com/u/ovaKu84s"
                     },
                     {
-                        "file_name": "SnowRunner.v1.0.151.0-OFME.part07.rar",
-                        "direct_link": "https://pixeldrain.com/u/hSrgvpy3"
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part07.rar",
+                        "direct_link": "https://pixeldrain.com/u/FQb5shPf"
                     },
                     {
-                        "file_name": "SnowRunner.v1.0.151.0-OFME.part08.rar",
-                        "direct_link": "https://pixeldrain.com/u/pDca2jPD"
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part08.rar",
+                        "direct_link": "https://pixeldrain.com/u/ZXXM9Up8"
                     },
                     {
-                        "file_name": "SnowRunner.v1.0.151.0-OFME.part09.rar",
-                        "direct_link": "https://pixeldrain.com/u/RnUHbwvC"
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part09.rar",
+                        "direct_link": "https://pixeldrain.com/u/2qHtXTqM"
                     },
                     {
-                        "file_name": "SnowRunner.v1.0.151.0-OFME.part10.rar",
-                        "direct_link": "https://pixeldrain.com/u/6k8G5b1r"
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part10.rar",
+                        "direct_link": "https://pixeldrain.com/u/q6Nar4hR"
                     },
                     {
-                        "file_name": "SnowRunner.v1.0.151.0-OFME.part11.rar",
-                        "direct_link": "https://pixeldrain.com/u/jA5X4aiQ"
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part11.rar",
+                        "direct_link": "https://pixeldrain.com/u/PcJRvfrA"
+                    },
+                    {
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part12.rar",
+                        "direct_link": "https://pixeldrain.com/u/oRXor28f"
                     }
                 ],
                 "Gofile": [
                     {
-                        "file_name": "SnowRunner_Fix_Repair_GDK.rar",
-                        "direct_link": "https://gofile.io/d/6rzUTO"
+                        "file_name": "SnowRunner_Fix_Repair_GDK (1).rar",
+                        "direct_link": "https://gofile.io/d/Lx3bnRLE"
                     },
                     {
-                        "file_name": "SnowRunner.v1.0.151.0-OFME.part01.rar",
-                        "direct_link": "https://gofile.io/d/GXfwrA"
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part01.rar",
+                        "direct_link": "https://gofile.io/d/lgqb91mV"
                     },
                     {
-                        "file_name": "SnowRunner.v1.0.151.0-OFME.part02.rar",
-                        "direct_link": "https://gofile.io/d/9bXi6G"
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part02.rar",
+                        "direct_link": "https://gofile.io/d/PFl2Y5vs"
                     },
                     {
-                        "file_name": "SnowRunner.v1.0.151.0-OFME.part03.rar",
-                        "direct_link": "https://gofile.io/d/Be0plo"
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part03.rar",
+                        "direct_link": "https://gofile.io/d/DhLKeKLD"
                     },
                     {
-                        "file_name": "SnowRunner.v1.0.151.0-OFME.part04.rar",
-                        "direct_link": "https://gofile.io/d/RMw5E8"
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part04.rar",
+                        "direct_link": "https://gofile.io/d/100eSkHB"
                     },
                     {
-                        "file_name": "SnowRunner.v1.0.151.0-OFME.part05.rar",
-                        "direct_link": "https://gofile.io/d/gBsFTN"
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part05.rar",
+                        "direct_link": "https://gofile.io/d/upLTC1ms"
                     },
                     {
-                        "file_name": "SnowRunner.v1.0.151.0-OFME.part06.rar",
-                        "direct_link": "https://gofile.io/d/ztLOhG"
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part06.rar",
+                        "direct_link": "https://gofile.io/d/cmaG1ezG"
                     },
                     {
-                        "file_name": "SnowRunner.v1.0.151.0-OFME.part07.rar",
-                        "direct_link": "https://gofile.io/d/nlCm99"
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part07.rar",
+                        "direct_link": "https://gofile.io/d/4UTuHB3W"
                     },
                     {
-                        "file_name": "SnowRunner.v1.0.151.0-OFME.part08.rar",
-                        "direct_link": "https://gofile.io/d/yl4cF1"
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part08.rar",
+                        "direct_link": "https://gofile.io/d/v2Cgjt0k"
                     },
                     {
-                        "file_name": "SnowRunner.v1.0.151.0-OFME.part09.rar",
-                        "direct_link": "https://gofile.io/d/ZId0lj"
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part09.rar",
+                        "direct_link": "https://gofile.io/d/JPLxoPKk"
                     },
                     {
-                        "file_name": "SnowRunner.v1.0.151.0-OFME.part10.rar",
-                        "direct_link": "https://gofile.io/d/vL84lf"
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part10.rar",
+                        "direct_link": "https://gofile.io/d/HRmqtR0V"
                     },
                     {
-                        "file_name": "SnowRunner.v1.0.151.0-OFME.part11.rar",
-                        "direct_link": "https://gofile.io/d/1xfvdT"
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part11.rar",
+                        "direct_link": "https://gofile.io/d/yFFC2dc9"
+                    },
+                    {
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part12.rar",
+                        "direct_link": "https://gofile.io/d/xUOBhd1I"
                     }
                 ],
                 "VikingFile": [
                     {
-                        "file_name": "SnowRunner_Fix_Repair_GDK.rar",
-                        "direct_link": "https://vikingfile.com/f/eOwQ7yi9yU"
+                        "file_name": "SnowRunner_Fix_Repair_GDK (1).rar",
+                        "direct_link": "https://vikingfile.com/f/qdvbIC9sgk"
                     },
                     {
-                        "file_name": "SnowRunner.v1.0.151.0-OFME.part01.rar",
-                        "direct_link": "https://vikingfile.com/f/sVKDwhpNqu"
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part01.rar",
+                        "direct_link": "https://vikingfile.com/f/EiLIwmPgsS"
                     },
                     {
-                        "file_name": "SnowRunner.v1.0.151.0-OFME.part02.rar",
-                        "direct_link": "https://vikingfile.com/f/mVZReAHSzl"
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part02.rar",
+                        "direct_link": "https://vikingfile.com/f/lWBjaHRrPT"
                     },
                     {
-                        "file_name": "SnowRunner.v1.0.151.0-OFME.part03.rar",
-                        "direct_link": "https://vikingfile.com/f/ELFtDzyqxA"
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part03.rar",
+                        "direct_link": "https://vikingfile.com/f/Mia20xQlco"
                     },
                     {
-                        "file_name": "SnowRunner.v1.0.151.0-OFME.part04.rar",
-                        "direct_link": "https://vikingfile.com/f/Z2q6ypu9Nz"
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part04.rar",
+                        "direct_link": "https://vikingfile.com/f/Jx4yZTMxax"
                     },
                     {
-                        "file_name": "SnowRunner.v1.0.151.0-OFME.part05.rar",
-                        "direct_link": "https://vikingfile.com/f/Q12Sh601np"
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part05.rar",
+                        "direct_link": "https://vikingfile.com/f/5FDyncTpbg"
                     },
                     {
-                        "file_name": "SnowRunner.v1.0.151.0-OFME.part06.rar",
-                        "direct_link": "https://vikingfile.com/f/8Ko5f7dQXB"
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part06.rar",
+                        "direct_link": "https://vikingfile.com/f/FGFYVEIXNy"
                     },
                     {
-                        "file_name": "SnowRunner.v1.0.151.0-OFME.part07.rar",
-                        "direct_link": "https://vikingfile.com/f/lCSdG9DVSb"
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part07.rar",
+                        "direct_link": "https://vikingfile.com/f/ySKptyjqdz"
                     },
                     {
-                        "file_name": "SnowRunner.v1.0.151.0-OFME.part08.rar",
-                        "direct_link": "https://vikingfile.com/f/Hz87SoE0c1"
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part08.rar",
+                        "direct_link": "https://vikingfile.com/f/nuVZsRT6tk"
                     },
                     {
-                        "file_name": "SnowRunner.v1.0.151.0-OFME.part09.rar",
-                        "direct_link": "https://vikingfile.com/f/CpL2VmbGmb"
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part09.rar",
+                        "direct_link": "https://vikingfile.com/f/5KYfZG3NKm"
                     },
                     {
-                        "file_name": "SnowRunner.v1.0.151.0-OFME.part10.rar",
-                        "direct_link": "https://vikingfile.com/f/94gDY4rlTl"
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part10.rar",
+                        "direct_link": "https://vikingfile.com/f/q5n37BdqRX"
                     },
                     {
-                        "file_name": "SnowRunner.v1.0.151.0-OFME.part11.rar",
-                        "direct_link": "https://vikingfile.com/f/IcH6SqZ6d1"
-                    }
-                ],
-                "Rootz": [
-                    {
-                        "file_name": "SnowRunner_Fix_Repair_GDK.rar",
-                        "direct_link": "https://rootz.so/d/1kic08"
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part11.rar",
+                        "direct_link": "https://vikingfile.com/f/iIGVdU0r0W"
                     },
                     {
-                        "file_name": "SnowRunner.v1.0.151.0-OFME.part01.rar",
-                        "direct_link": "https://rootz.so/d/1iZiaG"
-                    },
-                    {
-                        "file_name": "SnowRunner.v1.0.151.0-OFME.part02.rar",
-                        "direct_link": "https://rootz.so/d/1qdQJM"
-                    },
-                    {
-                        "file_name": "SnowRunner.v1.0.151.0-OFME.part03.rar",
-                        "direct_link": "https://rootz.so/d/1GMkbY"
-                    },
-                    {
-                        "file_name": "SnowRunner.v1.0.151.0-OFME.part04.rar",
-                        "direct_link": "https://rootz.so/d/1yh82S"
-                    },
-                    {
-                        "file_name": "SnowRunner.v1.0.151.0-OFME.part05.rar",
-                        "direct_link": "https://rootz.so/d/1OQSKe"
-                    },
-                    {
-                        "file_name": "SnowRunner.v1.0.151.0-OFME.part06.rar",
-                        "direct_link": "https://rootz.so/d/c4E6K"
-                    },
-                    {
-                        "file_name": "SnowRunner.v1.0.151.0-OFME.part07.rar",
-                        "direct_link": "https://rootz.so/d/o9mcq"
-                    },
-                    {
-                        "file_name": "SnowRunner.v1.0.151.0-OFME.part08.rar",
-                        "direct_link": "https://rootz.so/d/g64xs"
-                    },
-                    {
-                        "file_name": "SnowRunner.v1.0.151.0-OFME.part09.rar",
-                        "direct_link": "https://rootz.so/d/sBdUO"
-                    },
-                    {
-                        "file_name": "SnowRunner.v1.0.151.0-OFME.part10.rar",
-                        "direct_link": "https://rootz.so/d/2J6K80"
-                    },
-                    {
-                        "file_name": "SnowRunner.v1.0.151.0-OFME.part11.rar",
-                        "direct_link": "https://rootz.so/d/1ggl8a"
+                        "file_name": "SnowRunner.v1.0.155.0-OFME.part12.rar",
+                        "direct_link": "https://vikingfile.com/f/yLmDWBwg9D"
                     }
                 ]
             },
-            "unique_hash": "c7826f4fb7865454602722bbb4c1d70219c0780a",
-            "fileSize": "51.34 GB",
-            "magnet": "magnet:?xt=urn:btih:c7826f4fb7865454602722bbb4c1d70219c0780a&dn=SnowRunner&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
-            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_5/SnowRunner.v1.0.151.0-OFME.torrent",
-            "created_at": "2026-05-06 12:44:53",
+            "unique_hash": "f713cc14a58a6d41462fdee6960a09509bf9540d",
+            "fileSize": "56.39 GB",
+            "magnet": "magnet:?xt=urn:btih:f713cc14a58a6d41462fdee6960a09509bf9540d&dn=SnowRunner&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_11/SnowRunner.v1.0.155.0-OFME.torrent",
+            "created_at": "2026-11-10 21:45:10",
             "webdav_updated_at": "Unknown",
             "files": [
                 {
                     "name": "Fix Repair/SnowRunner_Fix_Repair_GDK.rar",
-                    "size": "26.07 MB"
+                    "size": "25.43 MB"
                 },
                 {
-                    "name": "SnowRunner.v1.0.151.0-OFME.part04.rar",
+                    "name": "SnowRunner.v1.0.155.0-OFME.part09.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "SnowRunner.v1.0.151.0-OFME.part05.rar",
+                    "name": "SnowRunner.v1.0.155.0-OFME.part10.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "SnowRunner.v1.0.151.0-OFME.part06.rar",
+                    "name": "SnowRunner.v1.0.155.0-OFME.part11.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "SnowRunner.v1.0.151.0-OFME.part07.rar",
+                    "name": "SnowRunner.v1.0.155.0-OFME.part12.rar",
+                    "size": "1.36 GB"
+                },
+                {
+                    "name": "SnowRunner.v1.0.155.0-OFME.part01.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "SnowRunner.v1.0.151.0-OFME.part01.rar",
+                    "name": "SnowRunner.v1.0.155.0-OFME.part02.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "SnowRunner.v1.0.151.0-OFME.part02.rar",
+                    "name": "SnowRunner.v1.0.155.0-OFME.part03.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "SnowRunner.v1.0.151.0-OFME.part03.rar",
+                    "name": "SnowRunner.v1.0.155.0-OFME.part04.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "SnowRunner.v1.0.151.0-OFME.part08.rar",
+                    "name": "SnowRunner.v1.0.155.0-OFME.part05.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "SnowRunner.v1.0.151.0-OFME.part09.rar",
+                    "name": "SnowRunner.v1.0.155.0-OFME.part06.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "SnowRunner.v1.0.151.0-OFME.part10.rar",
+                    "name": "SnowRunner.v1.0.155.0-OFME.part07.rar",
                     "size": "5.00 GB"
                 },
                 {
-                    "name": "SnowRunner.v1.0.151.0-OFME.part11.rar",
-                    "size": "1.32 GB"
+                    "name": "SnowRunner.v1.0.155.0-OFME.part08.rar",
+                    "size": "5.00 GB"
                 }
             ],
             "comment": ""
@@ -439182,10 +439453,10 @@
             "url": "https://online-fix.me/games/adventures/18287-we-were-here-tomorrow-po-seti.html",
             "last_update": "2026-10-21T13:39:33+03:00",
             "release_date": "20.10.2026",
-            "update_info": "Обновлено Вчера, 16:52. Игра обновлена до версии 1.2.0.",
-            "update_date": null,
-            "formatted_update_date": null,
-            "scraped_at": "2026-11-10 19:44:28",
+            "update_info": "Обновлено 10 ноября 2026, 16:52. Игра обновлена до версии 1.2.0.",
+            "update_date": "2026-11-10T16:52:00+03:00",
+            "formatted_update_date": "2026-11-10 16:52:00",
+            "scraped_at": "2026-11-11 20:57:30",
             "steam": {
                 "steam_appid": 2315050,
                 "match_score": 100,

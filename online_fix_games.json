@@ -1,5 +1,5 @@
 {
-    "total": 1909,
+    "total": 1910,
     "downloads": [
         {
             "title": "10 Miles to Safety",
@@ -70946,7 +70946,7 @@
             "update_info": "",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-11-11 20:59:23",
+            "scraped_at": "2026-11-12 20:07:59",
             "steam": {
                 "steam_appid": 293780,
                 "match_score": 100,
@@ -140989,10 +140989,10 @@
             "url": "https://online-fix.me/games/officialservers/18099-forza-horizon-6-po-seti.html",
             "last_update": "2026-05-15T07:00:32+03:00",
             "release_date": "13.05.2026",
-            "update_info": "Обновлено Вчера, 04:03. Добавлено обновление 483.970.",
-            "update_date": null,
-            "formatted_update_date": null,
-            "scraped_at": "2026-11-11 20:57:37",
+            "update_info": "Обновлено 11 ноября 2026, 04:03. Добавлено обновление 483.970.",
+            "update_date": "2026-11-11T04:03:00+03:00",
+            "formatted_update_date": "2026-11-11 04:03:00",
+            "scraped_at": "2026-11-12 20:05:16",
             "steam": {
                 "steam_appid": 2483190,
                 "match_score": 100,
@@ -168811,6 +168811,411 @@
             "comment": ""
         },
         {
+            "title": "HOT WHEELS Infinite Rush",
+            "page": 1,
+            "url": "https://online-fix.me/games/officialservers/18301-hot-wheels-infinite-rush-online.html",
+            "last_update": "2026-11-12T19:16:21+03:00",
+            "release_date": null,
+            "update_info": "",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-11-12 20:05:08",
+            "steam": {
+                "steam_appid": 2821390,
+                "match_score": 100,
+                "match_via": "canon",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2821390/fcc8da12187b981034dd54170d47b45db8e22b8e/header.jpg?t=1794470664",
+                "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2821390/0ee8151e968302c236c072eb4eeaa11eda2ea48b/capsule_184x69.jpg?t=1794470664",
+                "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2821390/f5746081044a5456b265788e3f7bab5bac86c769/page_bg_raw.jpg?t=1794470664",
+                "screenshots": [
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2821390/0090f192aa77b5064d63a86ef602eee45facea07/ss_0090f192aa77b5064d63a86ef602eee45facea07.1920x1080.jpg?t=1794470664",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2821390/1dcf926c4bb9146955f87eea8dced875a400fac6/ss_1dcf926c4bb9146955f87eea8dced875a400fac6.1920x1080.jpg?t=1794470664",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2821390/6999c4ae54a264574c2131ca54e7cdce69276d34/ss_6999c4ae54a264574c2131ca54e7cdce69276d34.1920x1080.jpg?t=1794470664",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2821390/40c564dbdb00d217b7c1f8ca1ed3da06488285e3/ss_40c564dbdb00d217b7c1f8ca1ed3da06488285e3.1920x1080.jpg?t=1794470664",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2821390/61d0a3e54aafc578130a20cd6b4588e00877fae7/ss_61d0a3e54aafc578130a20cd6b4588e00877fae7.1920x1080.jpg?t=1794470664",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2821390/94b84605682f0905794a143ab63279c6c897c4cb/ss_94b84605682f0905794a143ab63279c6c897c4cb.1920x1080.jpg?t=1794470664",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2821390/dcb41e556380c07ba402ca48e11b605cd8156908/ss_dcb41e556380c07ba402ca48e11b605cd8156908.1920x1080.jpg?t=1794470664",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2821390/6e449586af71ac32d5671f9ecca84707d960135d/ss_6e449586af71ac32d5671f9ecca84707d960135d.1920x1080.jpg?t=1794470664",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2821390/b6033a7b3f9fac65a5a122757ef6b1edc039fb28/ss_b6033a7b3f9fac65a5a122757ef6b1edc039fb28.1920x1080.jpg?t=1794470664",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2821390/1ef2c4d3fd1fac1aba602cc6851afa509cbf6a23/ss_1ef2c4d3fd1fac1aba602cc6851afa509cbf6a23.1920x1080.jpg?t=1794470664"
+                ],
+                "movies": [
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257451926/120aae9df6262dd8ae0233755da471d223e943c0/movie_600x337.jpg?t=1791472077",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2821390/458685121/e2168617fb792c96f4cebe294e69f13740dbe4bb/1791445263/dash_h264.mpd?t=1791472077",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2821390/458685121/e2168617fb792c96f4cebe294e69f13740dbe4bb/1791445263/hls_264_master.m3u8?t=1791472077"
+                    },
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257417123/2424b0479819f90e28f3d2e6f0057a20bce824dd/movie_600x337.jpg?t=1789052573",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2821390/1960838788/77a4935dbb4d4d45f1f741befa758e11fc40ecdc/1788515404/dash_h264.mpd?t=1789052573",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2821390/1960838788/77a4935dbb4d4d45f1f741befa758e11fc40ecdc/1788515404/hls_264_master.m3u8?t=1789052573"
+                    },
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257377495/17b59b74300b3b583a825be384fbb36d80aeabe3/movie_600x337.jpg?t=1789023618",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2821390/767753388/984880e98ebfa38934975cd361f20c24e7b29dfc/1788513305/dash_h264.mpd?t=1789023618",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2821390/767753388/984880e98ebfa38934975cd361f20c24e7b29dfc/1788513305/hls_264_master.m3u8?t=1789023618"
+                    },
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257377525/65c96cfa559d3a672dfec2d3b799df01ff8e8a08/movie_600x337.jpg?t=1789023615",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2821390/1171151261/bb89cc007b94bd9b783ad1d5b524ae4c1954322e/1788513334/dash_h264.mpd?t=1789023615",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2821390/1171151261/bb89cc007b94bd9b783ad1d5b524ae4c1954322e/1788513334/hls_264_master.m3u8?t=1789023615"
+                    },
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257417112/3ac10aedade5d61c159f47d3609f99be547fa0cb/movie_600x337.jpg?t=1789023616",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2821390/313515123/2c4f18d2be8e366be648a15962cb3f1fa43548c4/1788513304/dash_h264.mpd?t=1789023616",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2821390/313515123/2c4f18d2be8e366be648a15962cb3f1fa43548c4/1788513304/hls_264_master.m3u8?t=1789023616"
+                    },
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257417119/c7da3fd5737c74ef9186b6fe5a8a26bcbccd7bf9/movie_600x337.jpg?t=1789023617",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2821390/1822952738/3dcf4c186af4b5a621a57d1adad17f35ada96bac/1788514565/dash_h264.mpd?t=1789023617",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2821390/1822952738/3dcf4c186af4b5a621a57d1adad17f35ada96bac/1788514565/hls_264_master.m3u8?t=1789023617"
+                    }
+                ],
+                "achievements_total": 50,
+                "achievements_highlighted": [
+                    {
+                        "icon": "a798a7bf4037bd6ffbb8370a3835fe73fa368ff5.jpg",
+                        "localized_name": "A New Beginning",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "A New Beginning",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2821390/a798a7bf4037bd6ffbb8370a3835fe73fa368ff5.jpg"
+                    },
+                    {
+                        "icon": "eb2063edff170698a6317f2237f7628d41960322.jpg",
+                        "localized_name": "Out Of Control",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Out Of Control",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2821390/eb2063edff170698a6317f2237f7628d41960322.jpg"
+                    },
+                    {
+                        "icon": "d57ec7981b523bdcec3e5ae9f87a03cf2ddd07fa.jpg",
+                        "localized_name": "King Of Drift",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "King Of Drift",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2821390/d57ec7981b523bdcec3e5ae9f87a03cf2ddd07fa.jpg"
+                    },
+                    {
+                        "icon": "649abaf690b4ce137538895caebd6332cb7ab0ed.jpg",
+                        "localized_name": "Boost Enthusiast",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Boost Enthusiast",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2821390/649abaf690b4ce137538895caebd6332cb7ab0ed.jpg"
+                    },
+                    {
+                        "icon": "3519601c01f9bdc0fe776dad14db845d1db329b6.jpg",
+                        "localized_name": "Obvious Superiority",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Obvious Superiority",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2821390/3519601c01f9bdc0fe776dad14db845d1db329b6.jpg"
+                    },
+                    {
+                        "icon": "1f04ce74bc74b4ac6f60ae8d4dad41b6af4164b2.jpg",
+                        "localized_name": "Exploring The Archipelago",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Exploring The Archipelago",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2821390/1f04ce74bc74b4ac6f60ae8d4dad41b6af4164b2.jpg"
+                    },
+                    {
+                        "icon": "66c0ebd183cd7cb8671ab0f2f5216eb58aedb88e.jpg",
+                        "localized_name": "Versatile Ride",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Versatile Ride",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2821390/66c0ebd183cd7cb8671ab0f2f5216eb58aedb88e.jpg"
+                    },
+                    {
+                        "icon": "d015e7c10e20f22d3939025b58ad39166d49fbc9.jpg",
+                        "localized_name": "Absolute Supremacy!",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Absolute Supremacy!",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2821390/d015e7c10e20f22d3939025b58ad39166d49fbc9.jpg"
+                    },
+                    {
+                        "icon": "4062e9dd37f9b36772ad011289a1b69b227176be.jpg",
+                        "localized_name": "What A View!",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "What A View!",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2821390/4062e9dd37f9b36772ad011289a1b69b227176be.jpg"
+                    },
+                    {
+                        "icon": "4aba96300ad177bef86ff21b697510b74c0b0d82.jpg",
+                        "localized_name": "Devastation",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Devastation",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2821390/4aba96300ad177bef86ff21b697510b74c0b0d82.jpg"
+                    }
+                ],
+                "ratings": {
+                    "pegi": "3",
+                    "esrb": "e"
+                },
+                "release_date_steam": "10 set. 2026",
+                "short_description": "Entra num mundo à escala Hot Wheels™ com quatro ilhas repletas de eventos, desafios e caos de alta velocidade. Coleciona veículos icónicos, cria a tua Rush Squad, constrói pistas épicas e conquista o título de Rush Master.",
+                "short_description_native": "Entra num mundo à escala Hot Wheels™ com quatro ilhas repletas de eventos, desafios e caos de alta velocidade. Coleciona veículos icónicos, cria a tua Rush Squad, constrói pistas épicas e conquista o título de Rush Master.",
+                "price_brl": "R$ 209,00",
+                "is_free": false,
+                "pc_requirements": {
+                    "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10 x64 or later\n\nProcessador: Ryzen 3 1200 / Core i3-12100\n\nMemória: 8 GB de RAM\n\nPlaca gráfica: GeForce GTX 1050Ti / Radeon RX 460\n\nDirectX: Versão 12\n\nEspaço no disco: Requer 30 GB de espaço livre\n\nNotas adicionais: DLSS 4: Super Resolution, DLAA | FSR 4: FSR Upscaling",
+                    "recommended": "Recomendados:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10 x64 or later\n\nProcessador: Ryzen 5 5600X / Core i5-12400\n\nMemória: 16 GB de RAM\n\nPlaca gráfica: GeForce RTX 3060 / Radeon RX 6600X\n\nDirectX: Versão 12\n\nEspaço no disco: Requer 30 GB de espaço livre\n\nNotas adicionais: DLSS 4: Super Resolution, DLAA | FSR 4: FSR Upscaling"
+                },
+                "controller_support": "full",
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Um jogador"
+                    },
+                    {
+                        "id": 1,
+                        "description": "Multijogador"
+                    },
+                    {
+                        "id": 49,
+                        "description": "PvP"
+                    },
+                    {
+                        "id": 36,
+                        "description": "PvP online"
+                    },
+                    {
+                        "id": 37,
+                        "description": "PvP, ecrã partilhado/dividido"
+                    },
+                    {
+                        "id": 24,
+                        "description": "Ecrã partilhado/dividido"
+                    },
+                    {
+                        "id": 27,
+                        "description": "Multijogador interplataformas"
+                    },
+                    {
+                        "id": 22,
+                        "description": "Proezas Steam"
+                    },
+                    {
+                        "id": 28,
+                        "description": "Compatibilidade total com comando"
+                    },
+                    {
+                        "id": 29,
+                        "description": "Cartas Colecionáveis Steam"
+                    },
+                    {
+                        "id": 64,
+                        "description": "Tamanho do texto ajustável"
+                    },
+                    {
+                        "id": 68,
+                        "description": "Controlos de volume independentes"
+                    },
+                    {
+                        "id": 78,
+                        "description": "Dificuldade ajustável"
+                    },
+                    {
+                        "id": 60,
+                        "description": "Comando recomendado"
+                    },
+                    {
+                        "id": 80,
+                        "description": "#category_playable_at_your_own_pace"
+                    },
+                    {
+                        "id": 74,
+                        "description": "Jogável sem necessitar de ações rápidas ou precisas"
+                    },
+                    {
+                        "id": 55,
+                        "description": "Compatibilidade com DUALSHOCK"
+                    },
+                    {
+                        "id": 56,
+                        "description": "Compatibilidade com DUALSHOCK"
+                    },
+                    {
+                        "id": 57,
+                        "description": "Compatibilidade com DualSense"
+                    },
+                    {
+                        "id": 58,
+                        "description": "Compatibilidade com DualSense"
+                    },
+                    {
+                        "id": 69,
+                        "description": "Som estéreo"
+                    },
+                    {
+                        "id": 70,
+                        "description": "Som surround"
+                    },
+                    {
+                        "id": 23,
+                        "description": "Steam Cloud"
+                    },
+                    {
+                        "id": 62,
+                        "description": "Partilha de Biblioteca"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "9",
+                        "description": "Corridas"
+                    }
+                ]
+            },
+            "hoster_links": {
+                "FileDitch": [
+                    {
+                        "file_name": "HOTWHEELSInfiniteRush_Fix_Repair_Epic_Generic.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha43/eab1b5b87076ec19780c/HOTWHEELSInfiniteRush_Fix_Repair_Epic_Generic.rar"
+                    },
+                    {
+                        "file_name": "HOT.WHEELS.Infinite.Rush.Build.03112026-OFME.part1.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha43/a16395193f5f7d2ba9ef/HOT.WHEELS.Infinite.Rush.Build.03112026-OFME.part1.rar"
+                    },
+                    {
+                        "file_name": "HOT.WHEELS.Infinite.Rush.Build.03112026-OFME.part2.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha43/c27b2ecbdcd87c0562e2/HOT.WHEELS.Infinite.Rush.Build.03112026-OFME.part2.rar"
+                    },
+                    {
+                        "file_name": "HOT.WHEELS.Infinite.Rush.Build.03112026-OFME.part3.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha43/b3220f3be031221ec353/HOT.WHEELS.Infinite.Rush.Build.03112026-OFME.part3.rar"
+                    },
+                    {
+                        "file_name": "HOT.WHEELS.Infinite.Rush.Build.03112026-OFME.part4.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha43/2054d2bfe1d3be86c774/HOT.WHEELS.Infinite.Rush.Build.03112026-OFME.part4.rar"
+                    }
+                ],
+                "FileKeeper": [
+                    {
+                        "file_name": "HOTWHEELSInfiniteRush_Fix_Repair_Epic_Generic.rar",
+                        "direct_link": "https://filekeeper.net/0e3g095r76z9"
+                    },
+                    {
+                        "file_name": "HOT.WHEELS.Infinite.Rush.Build.03112026-OFME.part1.rar",
+                        "direct_link": "https://filekeeper.net/xysfd0s4cm8r"
+                    },
+                    {
+                        "file_name": "HOT.WHEELS.Infinite.Rush.Build.03112026-OFME.part2.rar",
+                        "direct_link": "https://filekeeper.net/6flov8l52rbz"
+                    },
+                    {
+                        "file_name": "HOT.WHEELS.Infinite.Rush.Build.03112026-OFME.part3.rar",
+                        "direct_link": "https://filekeeper.net/qracouz5xpkf"
+                    },
+                    {
+                        "file_name": "HOT.WHEELS.Infinite.Rush.Build.03112026-OFME.part4.rar",
+                        "direct_link": "https://filekeeper.net/5g874bxu0ody"
+                    }
+                ],
+                "Pixeldrain": [
+                    {
+                        "file_name": "HOTWHEELSInfiniteRush_Fix_Repair_Epic_Generic.rar",
+                        "direct_link": "https://pixeldrain.com/u/nvHWxQXT"
+                    },
+                    {
+                        "file_name": "HOT.WHEELS.Infinite.Rush.Build.03112026-OFME.part1.rar",
+                        "direct_link": "https://pixeldrain.com/u/CsDV6dum"
+                    },
+                    {
+                        "file_name": "HOT.WHEELS.Infinite.Rush.Build.03112026-OFME.part2.rar",
+                        "direct_link": "https://pixeldrain.com/u/zUJMA4z7"
+                    },
+                    {
+                        "file_name": "HOT.WHEELS.Infinite.Rush.Build.03112026-OFME.part3.rar",
+                        "direct_link": "https://pixeldrain.com/u/4bkWHdhd"
+                    },
+                    {
+                        "file_name": "HOT.WHEELS.Infinite.Rush.Build.03112026-OFME.part4.rar",
+                        "direct_link": "https://pixeldrain.com/u/DZ1ksvKs"
+                    }
+                ],
+                "Gofile": [
+                    {
+                        "file_name": "HOTWHEELSInfiniteRush_Fix_Repair_Epic_Generic.rar",
+                        "direct_link": "https://gofile.io/d/FclI7s8O"
+                    },
+                    {
+                        "file_name": "HOT.WHEELS.Infinite.Rush.Build.03112026-OFME.part1.rar",
+                        "direct_link": "https://gofile.io/d/Tm41y1xM"
+                    },
+                    {
+                        "file_name": "HOT.WHEELS.Infinite.Rush.Build.03112026-OFME.part2.rar",
+                        "direct_link": "https://gofile.io/d/bjttH70R"
+                    },
+                    {
+                        "file_name": "HOT.WHEELS.Infinite.Rush.Build.03112026-OFME.part3.rar",
+                        "direct_link": "https://gofile.io/d/rP97GflQ"
+                    },
+                    {
+                        "file_name": "HOT.WHEELS.Infinite.Rush.Build.03112026-OFME.part4.rar",
+                        "direct_link": "https://gofile.io/d/uceHCPBr"
+                    }
+                ],
+                "VikingFile": [
+                    {
+                        "file_name": "HOTWHEELSInfiniteRush_Fix_Repair_Epic_Generic.rar",
+                        "direct_link": "https://vikingfile.com/f/a19cAItZvb"
+                    },
+                    {
+                        "file_name": "HOT.WHEELS.Infinite.Rush.Build.03112026-OFME.part1.rar",
+                        "direct_link": "https://vikingfile.com/f/rWpfSEBl4J"
+                    },
+                    {
+                        "file_name": "HOT.WHEELS.Infinite.Rush.Build.03112026-OFME.part2.rar",
+                        "direct_link": "https://vikingfile.com/f/lw8jQMx2Dv"
+                    },
+                    {
+                        "file_name": "HOT.WHEELS.Infinite.Rush.Build.03112026-OFME.part3.rar",
+                        "direct_link": "https://vikingfile.com/f/NfB2XVm0gy"
+                    },
+                    {
+                        "file_name": "HOT.WHEELS.Infinite.Rush.Build.03112026-OFME.part4.rar",
+                        "direct_link": "https://vikingfile.com/f/WoqF07qD3V"
+                    }
+                ]
+            },
+            "unique_hash": "4f178681f8c3642d87e862ab50b11e1aa207476e",
+            "fileSize": "18.40 GB",
+            "magnet": "magnet:?xt=urn:btih:4f178681f8c3642d87e862ab50b11e1aa207476e&dn=HOT%20WHEELS%20Infinite%20Rush&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_1/HOT.WHEELS.Infinite.Rush.Build.03112026-OFME.torrent",
+            "created_at": "2026-11-12 13:14:02",
+            "webdav_updated_at": "Unknown",
+            "files": [
+                {
+                    "name": "Fix Repair/HOTWHEELSInfiniteRush_Fix_Repair_Epic_Generic.rar",
+                    "size": "29.02 MB"
+                },
+                {
+                    "name": "HOT.WHEELS.Infinite.Rush.Build.03112026-OFME.part1.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "HOT.WHEELS.Infinite.Rush.Build.03112026-OFME.part2.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "HOT.WHEELS.Infinite.Rush.Build.03112026-OFME.part3.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "HOT.WHEELS.Infinite.Rush.Build.03112026-OFME.part4.rar",
+                    "size": "3.38 GB"
+                }
+            ],
+            "comment": ""
+        },
+        {
             "title": "HOT WHEELS UNLEASHED",
             "page": 66,
             "url": "https://online-fix.me/games/racing/16742-hot-wheels-unleashed-po-seti.html",
@@ -185216,29 +185621,29 @@
         },
         {
             "title": "How to Fish",
-            "page": 1,
+            "page": 5,
             "url": "https://online-fix.me/games/adventures/18205-how-to-fish-po-seti.html",
             "last_update": "2026-08-21T14:34:50+03:00",
             "release_date": "20.08.2026",
-            "update_info": "Обновлено 31 августа 2026, 21:30. Игра обновлена до версии 1.0.10. Добавлен Steam-Fix V2.",
-            "update_date": "2026-08-31T21:30:00+03:00",
-            "formatted_update_date": "2026-08-31 21:30:00",
-            "scraped_at": "2026-09-02 17:24:44",
+            "update_info": "Обновлено Вчера, 19:15. Игра обновлена до версии 1.1.3.",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-11-12 20:05:11",
             "steam": {
                 "steam_appid": 4001890,
                 "match_score": 100,
                 "match_via": "canon",
-                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/45c4ddff4901e32c4b8b643e1b97d0d01898d299/header.jpg?t=1788160834",
-                "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/8f65bb2b78d37a9147aa79c970a51610e6955bf1/capsule_184x69.jpg?t=1788160834",
-                "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/8a80b025cd91f2c005f4f814b86cab2c3277f100/page_bg_raw.jpg?t=1788160834",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/45c4ddff4901e32c4b8b643e1b97d0d01898d299/header.jpg?t=1792508550",
+                "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/8f65bb2b78d37a9147aa79c970a51610e6955bf1/capsule_184x69.jpg?t=1792508550",
+                "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/8a80b025cd91f2c005f4f814b86cab2c3277f100/page_bg_raw.jpg?t=1792508550",
                 "screenshots": [
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/48f6817fe466a7c9666605527558bf1fac48d0d2/ss_48f6817fe466a7c9666605527558bf1fac48d0d2.1920x1080.jpg?t=1788160834",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/5f867d8c9b03c63867cc95b7bfaa4a3d2193ea48/ss_5f867d8c9b03c63867cc95b7bfaa4a3d2193ea48.1920x1080.jpg?t=1788160834",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/2a912cdbf746286400cece1ca607ac077c11a1dc/ss_2a912cdbf746286400cece1ca607ac077c11a1dc.1920x1080.jpg?t=1788160834",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/e15ab15c09cd3f6ec06d4ffacdf07f6c2b679db2/ss_e15ab15c09cd3f6ec06d4ffacdf07f6c2b679db2.1920x1080.jpg?t=1788160834",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/65be87272efaa4bac87e16dc764a9535165effd2/ss_65be87272efaa4bac87e16dc764a9535165effd2.1920x1080.jpg?t=1788160834",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/3c10ad99000bdcf9cd99509de59d2a1351496690/ss_3c10ad99000bdcf9cd99509de59d2a1351496690.1920x1080.jpg?t=1788160834",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/57f53b814c84511019f86aa89cedaed37148dcfa/ss_57f53b814c84511019f86aa89cedaed37148dcfa.1920x1080.jpg?t=1788160834"
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/48f6817fe466a7c9666605527558bf1fac48d0d2/ss_48f6817fe466a7c9666605527558bf1fac48d0d2.1920x1080.jpg?t=1792508550",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/5f867d8c9b03c63867cc95b7bfaa4a3d2193ea48/ss_5f867d8c9b03c63867cc95b7bfaa4a3d2193ea48.1920x1080.jpg?t=1792508550",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/2a912cdbf746286400cece1ca607ac077c11a1dc/ss_2a912cdbf746286400cece1ca607ac077c11a1dc.1920x1080.jpg?t=1792508550",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/e15ab15c09cd3f6ec06d4ffacdf07f6c2b679db2/ss_e15ab15c09cd3f6ec06d4ffacdf07f6c2b679db2.1920x1080.jpg?t=1792508550",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/65be87272efaa4bac87e16dc764a9535165effd2/ss_65be87272efaa4bac87e16dc764a9535165effd2.1920x1080.jpg?t=1792508550",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/3c10ad99000bdcf9cd99509de59d2a1351496690/ss_3c10ad99000bdcf9cd99509de59d2a1351496690.1920x1080.jpg?t=1792508550",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/57f53b814c84511019f86aa89cedaed37148dcfa/ss_57f53b814c84511019f86aa89cedaed37148dcfa.1920x1080.jpg?t=1792508550"
                 ],
                 "movies": [
                     {
@@ -185252,7 +185657,7 @@
                         "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/4001890/1292677147/fd5f1f32aa90769f379a4e2099d7147ccf63cd51/1777544367/hls_264_master.m3u8?t=1777545430"
                     }
                 ],
-                "achievements_total": 28,
+                "achievements_total": 31,
                 "achievements_highlighted": [
                     {
                         "icon": "6dd241ec65b3f2b01f98b522d4654dee4d049b73.jpg",
@@ -185340,7 +185745,7 @@
                     "esrb": null
                 },
                 "release_date_steam": "20 ago. 2026",
-                "short_description": "A 1-4 player physics based fishing simulator. While drinking and boating you suddenly crash into a small island. To work your way back home you have to learn How to Fish.",
+                "short_description": "Um simulador de pesca baseado em física para 1-4 jogadores. Enquanto bebia e passeava de barco, você de repente bate em uma pequena ilha. Para voltar para casa, você precisa aprender a pescar.",
                 "short_description_native": "A 1-4 player physics based fishing simulator. While drinking and boating you suddenly crash into a small island. To work your way back home you have to learn How to Fish.",
                 "price_brl": "R$ 23,99",
                 "is_free": false,
@@ -185433,8 +185838,8 @@
                         "direct_link": "https://fileditchfiles.st/balpha12/016968d13a2329be7e11/HowToFish_Fix_Repair_Steam_V2_Generic.rar"
                     },
                     {
-                        "file_name": "How.to.Fish.v1.0.10-OFME.rar",
-                        "direct_link": "https://fileditchfiles.st/balpha12/2e3092b80125a97832ab/How.to.Fish.v1.0.10-OFME.rar"
+                        "file_name": "How.to.Fish.v1.1.3-OFME.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha43/ec1973cbf32c795f75b5/How.to.Fish.v1.1.3-OFME.rar"
                     }
                 ],
                 "FileKeeper": [
@@ -185443,8 +185848,8 @@
                         "direct_link": "https://filekeeper.net/umtjkg8ukfb3"
                     },
                     {
-                        "file_name": "How.to.Fish.v1.0.10-OFME.rar",
-                        "direct_link": "https://filekeeper.net/6wdjw0l6yje9"
+                        "file_name": "How.to.Fish.v1.1.3-OFME.rar",
+                        "direct_link": "https://filekeeper.net/vn4f3eyfcoxt"
                     }
                 ],
                 "Pixeldrain": [
@@ -185453,8 +185858,8 @@
                         "direct_link": "https://pixeldrain.com/u/WkEbG6uv"
                     },
                     {
-                        "file_name": "How.to.Fish.v1.0.10-OFME.rar",
-                        "direct_link": "https://pixeldrain.com/u/FyK47Rtw"
+                        "file_name": "How.to.Fish.v1.1.3-OFME.rar",
+                        "direct_link": "https://pixeldrain.com/u/rYrePc9C"
                     }
                 ],
                 "Gofile": [
@@ -185463,8 +185868,8 @@
                         "direct_link": "https://gofile.io/d/rE5ZOdcx"
                     },
                     {
-                        "file_name": "How.to.Fish.v1.0.10-OFME.rar",
-                        "direct_link": "https://gofile.io/d/1w4kZQ2p"
+                        "file_name": "How.to.Fish.v1.1.3-OFME.rar",
+                        "direct_link": "https://gofile.io/d/k5bJZyQY"
                     }
                 ],
                 "VikingFile": [
@@ -185473,16 +185878,16 @@
                         "direct_link": "https://vikingfile.com/f/MIyMitNCcw"
                     },
                     {
-                        "file_name": "How.to.Fish.v1.0.10-OFME.rar",
-                        "direct_link": "https://vikingfile.com/f/0gruiK7XDy"
+                        "file_name": "How.to.Fish.v1.1.3-OFME.rar",
+                        "direct_link": "https://vikingfile.com/f/RkUUmsAudg"
                     }
                 ]
             },
-            "unique_hash": "5f07aab598aeb599d38470d2a85225f60be121b5",
-            "fileSize": "400.20 MB",
-            "magnet": "magnet:?xt=urn:btih:5f07aab598aeb599d38470d2a85225f60be121b5&dn=How%20to%20Fish&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
-            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_1/How.to.Fish.v1.0.10-OFME.torrent",
-            "created_at": "2026-08-31 14:10:04",
+            "unique_hash": "e50d24528afb36410aae01370cee4bcd21ea4667",
+            "fileSize": "415.04 MB",
+            "magnet": "magnet:?xt=urn:btih:e50d24528afb36410aae01370cee4bcd21ea4667&dn=How%20to%20Fish&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_5/How.to.Fish.v1.1.3-OFME.torrent",
+            "created_at": "2026-11-12 13:13:05",
             "webdav_updated_at": "Unknown",
             "files": [
                 {
@@ -185490,8 +185895,8 @@
                     "size": "10.78 MB"
                 },
                 {
-                    "name": "How.to.Fish.v1.0.10-OFME.rar",
-                    "size": "389.42 MB"
+                    "name": "How.to.Fish.v1.1.3-OFME.rar",
+                    "size": "404.26 MB"
                 }
             ],
             "comment": ""
@@ -234807,28 +235212,29 @@
         },
         {
             "title": "Mimic Party",
-            "page": 1,
+            "page": 5,
             "url": "https://online-fix.me/games/arcade/18215-mimic-party-po-seti.html",
             "last_update": "2026-09-01T20:42:50+03:00",
             "release_date": "27.08.2026",
-            "update_info": "Обновлено 7 сентября 2026, 18:50. Игра обновлена до версии 0.1.60. Добавлен Steam-Fix V2.",
-            "update_date": "2026-09-07T18:50:00+03:00",
-            "formatted_update_date": "2026-09-07 18:50:00",
-            "scraped_at": "2026-09-09 17:18:22",
+            "update_info": "Обновлено Вчера, 19:15. Игра обновлена до версии 0.2.1.0.",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-11-12 20:05:12",
             "steam": {
                 "steam_appid": 5053820,
                 "match_score": 100,
                 "match_via": "canon",
-                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5053820/cb42d784567e89c1c409e49856ece32c9cf8ab36/header.jpg?t=1787839317",
-                "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5053820/4adb5e68ffcb7785768a355dada919756e74c31c/capsule_184x69.jpg?t=1787839317",
-                "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5053820/05f346d353c2c713fe9ce335d5bbdb2dfd499836/page_bg_raw.jpg?t=1787839317",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5053820/cb42d784567e89c1c409e49856ece32c9cf8ab36/header.jpg?t=1789831835",
+                "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5053820/4adb5e68ffcb7785768a355dada919756e74c31c/capsule_184x69.jpg?t=1789831835",
+                "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5053820/05f346d353c2c713fe9ce335d5bbdb2dfd499836/page_bg_raw.jpg?t=1789831835",
                 "screenshots": [
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5053820/27a59bdf30f276ed2a955860911ad30e12e26d9e/ss_27a59bdf30f276ed2a955860911ad30e12e26d9e.1920x1080.jpg?t=1787839317",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5053820/8345ab5a26c0364f91ed6f0106d854f973c9204f/ss_8345ab5a26c0364f91ed6f0106d854f973c9204f.1920x1080.jpg?t=1787839317",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5053820/d6f6041e87259de94d70376400dbdbb7b92869c8/ss_d6f6041e87259de94d70376400dbdbb7b92869c8.1920x1080.jpg?t=1787839317",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5053820/6b79f6c73c8e3e6f230f036e164a82b4f49835ba/ss_6b79f6c73c8e3e6f230f036e164a82b4f49835ba.1920x1080.jpg?t=1787839317",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5053820/a41d1ea1894b588b056010a30ce0161b6459e9e5/ss_a41d1ea1894b588b056010a30ce0161b6459e9e5.1920x1080.jpg?t=1787839317",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5053820/d9aa8b444fd049c191130d25193832953dab6e9b/ss_d9aa8b444fd049c191130d25193832953dab6e9b.1920x1080.jpg?t=1787839317"
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5053820/a249b423e925d6e42daf910bdf6b03d5a06e40d5/ss_a249b423e925d6e42daf910bdf6b03d5a06e40d5.1920x1080.jpg?t=1789831835",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5053820/949cf458f816dd36f42d52208c643f23d8dd5987/ss_949cf458f816dd36f42d52208c643f23d8dd5987.1920x1080.jpg?t=1789831835",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5053820/2cea4e5c464019a40c39eca3c2ef0f51dfe70c0e/ss_2cea4e5c464019a40c39eca3c2ef0f51dfe70c0e.1920x1080.jpg?t=1789831835",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5053820/8eb38f57d52f92e91d33fd065d829db21f654280/ss_8eb38f57d52f92e91d33fd065d829db21f654280.1920x1080.jpg?t=1789831835",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5053820/16ba4ad1706f8221f31ef56bb7d25ac39909313c/ss_16ba4ad1706f8221f31ef56bb7d25ac39909313c.1920x1080.jpg?t=1789831835",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5053820/68061bd7301e9a7e4394d5b5cd2e30203e9a0193/ss_68061bd7301e9a7e4394d5b5cd2e30203e9a0193.1920x1080.jpg?t=1789831835",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5053820/c26e8133dc0bf982966bcd1bba6a312d84904600/ss_c26e8133dc0bf982966bcd1bba6a312d84904600.1920x1080.jpg?t=1789831835"
                 ],
                 "movies": [
                     {
@@ -234844,9 +235250,9 @@
                     "esrb": null
                 },
                 "release_date_steam": "27 ago. 2026",
-                "short_description": "A 1-5 player online voice party game. You hear a sound, the whole table gets one shot to imitate it all at once, no turns. Your take is scored on pitch and rhythm, then the wheel decides who gets a bonus and whose take becomes a fart.",
+                "short_description": "Um jogo de festa de voz online para 1 a 5 jogadores. Você ouve um som, toda a mesa tem uma chance de imitá-lo de uma vez, sem voltas. Sua tomada é pontuada em tom e ritmo, então a roda decide quem ganha um bônus e quem se torna um peido.",
                 "short_description_native": "A 1-5 player online voice party game. You hear a sound, the whole table gets one shot to imitate it all at once, no turns. Your take is scored on pitch and rhythm, then the wheel decides who gets a bonus and whose take becomes a fart.",
-                "price_brl": "R$ 22,73",
+                "price_brl": "R$ 18,72",
                 "is_free": false,
                 "pc_requirements": {
                     "minimum": "Mínimos:\n\nSistema Operativo:  Minimum System Requirements English Recommended Requirements (optional) English  Windows: OS Version: Processor: Memory:  4000   MB Graphics: Network:  Broadband internet connection DirectX Version:  N/A Disk Space:    MB Sound Card: VR Devices and Support: (?) See documentation Additional Notes: (?) OS Version: Processor: Memory:    MB Graphics: Network:  Broadband internet connection DirectX Version:  N/A Disk Space:    MB Sound Card: VR Devices and Support: (?) See documentation Additional Notes: (?) Release Dates\n\nProcessador:  Minimum System Requirements English Recommended Requirements (optional) English  Windows: OS Version: Processor: Memory:  4000   MB Graphics: Network:  Broadband internet connection DirectX Version:  N/A Disk Space:    MB Sound Card: VR Devices and Support: (?) See documentation Additional Notes: (?) OS Version: Processor: Memory:    MB Graphics: Network:  Broadband internet connection DirectX Version:  N/A Disk Space:    MB Sound Card: VR Devices and Support: (?) See documentation Additional Notes: (?) Release Dates\n\nMemória: 4000 MB de RAM\n\nPlaca gráfica:  Minimum System Requirements English Recommended Requirements (optional) English  Windows: OS Version: Processor: Memory:  4000   MB Graphics: Network:  Broadband internet connection DirectX Version:  N/A Disk Space:    MB Sound Card: VR Devices and Support: (?) See documentation Additional Notes: (?) OS Version: Processor: Memory:    MB Graphics: Network:  Broadband internet connection DirectX Version:  N/A Disk Space:    MB Sound Card: VR Devices and Support: (?) See documentation Additional Notes: (?) Release Dates\n\nDirectX: Versão 11\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 2000  MB de espaço livre\n\nPlaca de som: DirectX compatible sound card — a microphone is REQUIRED to play\n\nNotas adicionais: A microphone is required: the whole game is played with your voice. Online multiplayer only (2-5 players), permanent broadband connection required. Headphones are strongly recommended to keep the game audio out of your microphone.",
@@ -234869,6 +235275,10 @@
                     {
                         "id": 30,
                         "description": "Steam Workshop"
+                    },
+                    {
+                        "id": 35,
+                        "description": "Microtransações"
                     },
                     {
                         "id": 68,
@@ -234901,8 +235311,8 @@
                         "direct_link": "https://fileditchfiles.st/balpha16/d957dd05a2e472d34d7d/MimicParty_Fix_Repair_Steam_V2_Generic.rar"
                     },
                     {
-                        "file_name": "Mimic.Party.v0.1.60-OFME.rar",
-                        "direct_link": "https://fileditchfiles.st/balpha16/7785084aa1a3baa6addc/Mimic.Party.v0.1.60-OFME.rar"
+                        "file_name": "Mimic.Party.v0.2.1.0-OFME.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha43/45c1dda9aa18bd6d86f3/Mimic.Party.v0.2.1.0-OFME.rar"
                     }
                 ],
                 "FileKeeper": [
@@ -234911,8 +235321,8 @@
                         "direct_link": "https://filekeeper.net/px14gn7glaml"
                     },
                     {
-                        "file_name": "Mimic.Party.v0.1.60-OFME.rar",
-                        "direct_link": "https://filekeeper.net/4akx5gc4ag4a"
+                        "file_name": "Mimic.Party.v0.2.1.0-OFME.rar",
+                        "direct_link": "https://filekeeper.net/a3spuwvrkpew"
                     }
                 ],
                 "Pixeldrain": [
@@ -234921,8 +235331,8 @@
                         "direct_link": "https://pixeldrain.com/u/LWMA1jBQ"
                     },
                     {
-                        "file_name": "Mimic.Party.v0.1.60-OFME.rar",
-                        "direct_link": "https://pixeldrain.com/u/a2g2uJnC"
+                        "file_name": "Mimic.Party.v0.2.1.0-OFME.rar",
+                        "direct_link": "https://pixeldrain.com/u/56gzp64u"
                     }
                 ],
                 "Gofile": [
@@ -234931,8 +235341,8 @@
                         "direct_link": "https://gofile.io/d/DOpWVTMF"
                     },
                     {
-                        "file_name": "Mimic.Party.v0.1.60-OFME.rar",
-                        "direct_link": "https://gofile.io/d/dy3wDR4o"
+                        "file_name": "Mimic.Party.v0.2.1.0-OFME.rar",
+                        "direct_link": "https://gofile.io/d/7jGVkVMS"
                     }
                 ],
                 "VikingFile": [
@@ -234941,16 +235351,16 @@
                         "direct_link": "https://vikingfile.com/f/NZGVArHiBV"
                     },
                     {
-                        "file_name": "Mimic.Party.v0.1.60-OFME.rar",
-                        "direct_link": "https://vikingfile.com/f/4GSWCagOMg"
+                        "file_name": "Mimic.Party.v0.2.1.0-OFME.rar",
+                        "direct_link": "https://vikingfile.com/f/hcX7SY4lVU"
                     }
                 ]
             },
-            "unique_hash": "f1bbd667472e46b5d6482c8af5dbec539d30a32b",
-            "fileSize": "194.12 MB",
-            "magnet": "magnet:?xt=urn:btih:f1bbd667472e46b5d6482c8af5dbec539d30a32b&dn=Mimic%20Party&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
-            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_1/Mimic.Party.v0.1.60-OFME.torrent",
-            "created_at": "2026-09-07 12:43:49",
+            "unique_hash": "924844e7c21c16f7f20f66213125671656e50acc",
+            "fileSize": "360.31 MB",
+            "magnet": "magnet:?xt=urn:btih:924844e7c21c16f7f20f66213125671656e50acc&dn=Mimic%20Party&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_5/Mimic.Party.v0.2.1.0-OFME.torrent",
+            "created_at": "2026-11-12 13:13:41",
             "webdav_updated_at": "Unknown",
             "files": [
                 {
@@ -234958,8 +235368,8 @@
                     "size": "20.23 MB"
                 },
                 {
-                    "name": "Mimic.Party.v0.1.60-OFME.rar",
-                    "size": "173.89 MB"
+                    "name": "Mimic.Party.v0.2.1.0-OFME.rar",
+                    "size": "340.08 MB"
                 }
             ],
             "comment": ""
@@ -348203,10 +348613,10 @@
             "url": "https://online-fix.me/games/simulator/18085-snowrunner-po-seti.html",
             "last_update": "2026-05-06T19:15:28+03:00",
             "release_date": "17.05.2021",
-            "update_info": "Обновлено Вчера, 15:45. Игра обновлена до версии 1.0.155.0. Обновлён фикс.",
-            "update_date": null,
-            "formatted_update_date": null,
-            "scraped_at": "2026-11-11 20:57:38",
+            "update_info": "Обновлено 11 ноября 2026, 15:45. Игра обновлена до версии 1.0.155.0. Обновлён фикс.",
+            "update_date": "2026-11-11T15:45:00+03:00",
+            "formatted_update_date": "2026-11-11 15:45:00",
+            "scraped_at": "2026-11-12 20:05:17",
             "steam": {
                 "steam_appid": 1465360,
                 "match_score": 100,

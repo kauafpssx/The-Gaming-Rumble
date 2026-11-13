@@ -70946,7 +70946,7 @@
             "update_info": "",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-11-12 20:07:59",
+            "scraped_at": "2026-11-13 20:12:02",
             "steam": {
                 "steam_appid": 293780,
                 "match_score": 100,
@@ -185625,10 +185625,10 @@
             "url": "https://online-fix.me/games/adventures/18205-how-to-fish-po-seti.html",
             "last_update": "2026-08-21T14:34:50+03:00",
             "release_date": "20.08.2026",
-            "update_info": "Обновлено Вчера, 19:15. Игра обновлена до версии 1.1.3.",
-            "update_date": null,
-            "formatted_update_date": null,
-            "scraped_at": "2026-11-12 20:05:11",
+            "update_info": "Обновлено 12 ноября 2026, 19:15. Игра обновлена до версии 1.1.3.",
+            "update_date": "2026-11-12T19:15:00+03:00",
+            "formatted_update_date": "2026-11-12 19:15:00",
+            "scraped_at": "2026-11-13 20:09:11",
             "steam": {
                 "steam_appid": 4001890,
                 "match_score": 100,
@@ -185745,7 +185745,7 @@
                     "esrb": null
                 },
                 "release_date_steam": "20 ago. 2026",
-                "short_description": "Um simulador de pesca baseado em física para 1-4 jogadores. Enquanto bebia e passeava de barco, você de repente bate em uma pequena ilha. Para voltar para casa, você precisa aprender a pescar.",
+                "short_description": "A 1-4 player physics based fishing simulator. While drinking and boating you suddenly crash into a small island. To work your way back home you have to learn How to Fish.",
                 "short_description_native": "A 1-4 player physics based fishing simulator. While drinking and boating you suddenly crash into a small island. To work your way back home you have to learn How to Fish.",
                 "price_brl": "R$ 23,99",
                 "is_free": false,
@@ -235216,10 +235216,10 @@
             "url": "https://online-fix.me/games/arcade/18215-mimic-party-po-seti.html",
             "last_update": "2026-09-01T20:42:50+03:00",
             "release_date": "27.08.2026",
-            "update_info": "Обновлено Вчера, 19:15. Игра обновлена до версии 0.2.1.0.",
+            "update_info": "Обновлено Вчера, 03:12. Добавлен Steam-Fix V3. Исправлена ошибка Game not found on this account.",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-11-12 20:05:12",
+            "scraped_at": "2026-11-13 20:09:12",
             "steam": {
                 "steam_appid": 5053820,
                 "match_score": 100,
@@ -235250,7 +235250,7 @@
                     "esrb": null
                 },
                 "release_date_steam": "27 ago. 2026",
-                "short_description": "Um jogo de festa de voz online para 1 a 5 jogadores. Você ouve um som, toda a mesa tem uma chance de imitá-lo de uma vez, sem voltas. Sua tomada é pontuada em tom e ritmo, então a roda decide quem ganha um bônus e quem se torna um peido.",
+                "short_description": "A 1-5 player online voice party game. You hear a sound, the whole table gets one shot to imitate it all at once, no turns. Your take is scored on pitch and rhythm, then the wheel decides who gets a bonus and whose take becomes a fart.",
                 "short_description_native": "A 1-5 player online voice party game. You hear a sound, the whole table gets one shot to imitate it all at once, no turns. Your take is scored on pitch and rhythm, then the wheel decides who gets a bonus and whose take becomes a fart.",
                 "price_brl": "R$ 18,72",
                 "is_free": false,
@@ -235307,69 +235307,69 @@
             "hoster_links": {
                 "FileDitch": [
                     {
-                        "file_name": "MimicParty_Fix_Repair_Steam_V2_Generic.rar",
-                        "direct_link": "https://fileditchfiles.st/balpha16/d957dd05a2e472d34d7d/MimicParty_Fix_Repair_Steam_V2_Generic.rar"
+                        "file_name": "MimicParty_Fix_Repair_Steam_V3_Generic.rar",
+                        "direct_link": "https://itsfileditchfiles.st/alpha43/2b0a296130118dd35d6f/MimicParty_Fix_Repair_Steam_V3_Generic.rar"
                     },
                     {
                         "file_name": "Mimic.Party.v0.2.1.0-OFME.rar",
-                        "direct_link": "https://itsfileditchfiles.st/alpha43/45c1dda9aa18bd6d86f3/Mimic.Party.v0.2.1.0-OFME.rar"
+                        "direct_link": "https://itsfileditchfiles.st/alpha43/bafad00ee62ae98b59a6/Mimic.Party.v0.2.1.0-OFME.rar"
                     }
                 ],
                 "FileKeeper": [
                     {
-                        "file_name": "MimicParty_Fix_Repair_Steam_V2_Generic.rar",
-                        "direct_link": "https://filekeeper.net/px14gn7glaml"
+                        "file_name": "MimicParty_Fix_Repair_Steam_V3_Generic.rar",
+                        "direct_link": "https://filekeeper.net/vzq6coekj232"
                     },
                     {
                         "file_name": "Mimic.Party.v0.2.1.0-OFME.rar",
-                        "direct_link": "https://filekeeper.net/a3spuwvrkpew"
+                        "direct_link": "https://filekeeper.net/14ditcpmbkdi"
                     }
                 ],
                 "Pixeldrain": [
                     {
-                        "file_name": "MimicParty_Fix_Repair_Steam_V2_Generic.rar",
-                        "direct_link": "https://pixeldrain.com/u/LWMA1jBQ"
+                        "file_name": "MimicParty_Fix_Repair_Steam_V3_Generic.rar",
+                        "direct_link": "https://pixeldrain.com/u/sJEQuAbc"
                     },
                     {
                         "file_name": "Mimic.Party.v0.2.1.0-OFME.rar",
-                        "direct_link": "https://pixeldrain.com/u/56gzp64u"
+                        "direct_link": "https://pixeldrain.com/u/QKKZui7A"
                     }
                 ],
                 "Gofile": [
                     {
-                        "file_name": "MimicParty_Fix_Repair_Steam_V2_Generic.rar",
-                        "direct_link": "https://gofile.io/d/DOpWVTMF"
+                        "file_name": "MimicParty_Fix_Repair_Steam_V3_Generic.rar",
+                        "direct_link": "https://gofile.io/d/JUFYhKlJ"
                     },
                     {
                         "file_name": "Mimic.Party.v0.2.1.0-OFME.rar",
-                        "direct_link": "https://gofile.io/d/7jGVkVMS"
+                        "direct_link": "https://gofile.io/d/UUUm3716"
                     }
                 ],
                 "VikingFile": [
                     {
-                        "file_name": "MimicParty_Fix_Repair_Steam_V2_Generic.rar",
-                        "direct_link": "https://vikingfile.com/f/NZGVArHiBV"
+                        "file_name": "MimicParty_Fix_Repair_Steam_V3_Generic.rar",
+                        "direct_link": "https://vikingfile.com/f/jLzTegK6j1"
                     },
                     {
                         "file_name": "Mimic.Party.v0.2.1.0-OFME.rar",
-                        "direct_link": "https://vikingfile.com/f/hcX7SY4lVU"
+                        "direct_link": "https://vikingfile.com/f/zW4VTbZNz2"
                     }
                 ]
             },
-            "unique_hash": "924844e7c21c16f7f20f66213125671656e50acc",
-            "fileSize": "360.31 MB",
-            "magnet": "magnet:?xt=urn:btih:924844e7c21c16f7f20f66213125671656e50acc&dn=Mimic%20Party&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "unique_hash": "ffca2520fe5dc27d8946b3944bcb6933a2d7b16c",
+            "fileSize": "360.68 MB",
+            "magnet": "magnet:?xt=urn:btih:ffca2520fe5dc27d8946b3944bcb6933a2d7b16c&dn=Mimic%20Party&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
             "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_5/Mimic.Party.v0.2.1.0-OFME.torrent",
-            "created_at": "2026-11-12 13:13:41",
+            "created_at": "2026-11-12 21:10:08",
             "webdav_updated_at": "Unknown",
             "files": [
                 {
-                    "name": "Fix Repair/MimicParty_Fix_Repair_Steam_V2_Generic.rar",
-                    "size": "20.23 MB"
+                    "name": "Fix Repair/MimicParty_Fix_Repair_Steam_V3_Generic.rar",
+                    "size": "20.39 MB"
                 },
                 {
                     "name": "Mimic.Party.v0.2.1.0-OFME.rar",
-                    "size": "340.08 MB"
+                    "size": "340.29 MB"
                 }
             ],
             "comment": ""
@@ -235828,12 +235828,12 @@
             "title": "Minecraft Dungeons II",
             "page": 1,
             "url": "https://online-fix.me/games/adventures/18260-minecraft-dungeons-ii-po-seti.html",
-            "last_update": "2026-09-29T17:39:59+03:00",
-            "release_date": "29.09.2026",
+            "last_update": "2026-11-13T18:16:18+03:00",
+            "release_date": "26.09.2026",
             "update_info": "",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-09-29 18:46:23",
+            "scraped_at": "2026-11-13 20:12:02",
             "steam": {
                 "steam_appid": 1912410,
                 "match_score": 100,
@@ -236065,72 +236065,72 @@
             "hoster_links": {
                 "FileDitch": [
                     {
-                        "file_name": "MinecraftDungeonsII_Fix_Repair_GDK.rar",
-                        "direct_link": "https://fileditchfiles.st/balpha23/28d2ecef1e093849be79/MinecraftDungeonsII_Fix_Repair_GDK.rar"
+                        "file_name": "MinecraftDungeonsII_Fix_Repair_GDK_Generic.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha47/aab528fe621f301251c7/MinecraftDungeonsII_Fix_Repair_GDK_Generic.rar"
                     },
                     {
-                        "file_name": "Minecraft.Dungeons.II.v1.1.1.0-OFME.part1.rar",
-                        "direct_link": "https://fileditchfiles.st/balpha23/bbd26be24caaaf5028b3/Minecraft.Dungeons.II.v1.1.1.0-OFME.part1.rar"
+                        "file_name": "Minecraft.Dungeons.II.v1.1.3.0-OFME.part1.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha47/393619026c78dab529ca/Minecraft.Dungeons.II.v1.1.3.0-OFME.part1.rar"
                     },
                     {
-                        "file_name": "Minecraft.Dungeons.II.v1.1.1.0-OFME.part2.rar",
-                        "direct_link": "https://fileditchfiles.st/balpha23/58bdfb2406a74dc0fe94/Minecraft.Dungeons.II.v1.1.1.0-OFME.part2.rar"
+                        "file_name": "Minecraft.Dungeons.II.v1.1.3.0-OFME.part2.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha47/acf2fb07c74218269634/Minecraft.Dungeons.II.v1.1.3.0-OFME.part2.rar"
                     }
                 ],
                 "FileKeeper": [
                     {
-                        "file_name": "MinecraftDungeonsII_Fix_Repair_GDK.rar",
-                        "direct_link": "https://filekeeper.net/qctxdjna7nee"
+                        "file_name": "MinecraftDungeonsII_Fix_Repair_GDK_Generic.rar",
+                        "direct_link": "https://filekeeper.net/fkr2k1xoylgc"
                     },
                     {
-                        "file_name": "Minecraft.Dungeons.II.v1.1.1.0-OFME.part1.rar",
-                        "direct_link": "https://filekeeper.net/125u0kt0wyhs"
+                        "file_name": "Minecraft.Dungeons.II.v1.1.3.0-OFME.part1.rar",
+                        "direct_link": "https://filekeeper.net/ew1xkqw732kz"
                     },
                     {
-                        "file_name": "Minecraft.Dungeons.II.v1.1.1.0-OFME.part2.rar",
-                        "direct_link": "https://filekeeper.net/q2cqnuhqslhj"
+                        "file_name": "Minecraft.Dungeons.II.v1.1.3.0-OFME.part2.rar",
+                        "direct_link": "https://filekeeper.net/ugot4ku66dkg"
                     }
                 ],
                 "Pixeldrain": [
                     {
-                        "file_name": "MinecraftDungeonsII_Fix_Repair_GDK.rar",
-                        "direct_link": "https://pixeldrain.com/u/1pjhZo1t"
+                        "file_name": "MinecraftDungeonsII_Fix_Repair_GDK_Generic.rar",
+                        "direct_link": "https://pixeldrain.com/u/HYDxEdLQ"
                     },
                     {
-                        "file_name": "Minecraft.Dungeons.II.v1.1.1.0-OFME.part1.rar",
-                        "direct_link": "https://pixeldrain.com/u/qbVhm8cZ"
+                        "file_name": "Minecraft.Dungeons.II.v1.1.3.0-OFME.part1.rar",
+                        "direct_link": "https://pixeldrain.com/u/snbAkomS"
                     },
                     {
-                        "file_name": "Minecraft.Dungeons.II.v1.1.1.0-OFME.part2.rar",
-                        "direct_link": "https://pixeldrain.com/u/dzjj7LZF"
+                        "file_name": "Minecraft.Dungeons.II.v1.1.3.0-OFME.part2.rar",
+                        "direct_link": "https://pixeldrain.com/u/2VWzS2mJ"
                     }
                 ],
                 "Gofile": [
                     {
-                        "file_name": "MinecraftDungeonsII_Fix_Repair_GDK.rar",
-                        "direct_link": "https://gofile.io/d/7fNCeEET"
+                        "file_name": "MinecraftDungeonsII_Fix_Repair_GDK_Generic.rar",
+                        "direct_link": "https://gofile.io/d/5dGwiRlZ"
                     },
                     {
-                        "file_name": "Minecraft.Dungeons.II.v1.1.1.0-OFME.part1.rar",
-                        "direct_link": "https://gofile.io/d/a1BCqAN0"
+                        "file_name": "Minecraft.Dungeons.II.v1.1.3.0-OFME.part1.rar",
+                        "direct_link": "https://gofile.io/d/3UvwrV7L"
                     },
                     {
-                        "file_name": "Minecraft.Dungeons.II.v1.1.1.0-OFME.part2.rar",
-                        "direct_link": "https://gofile.io/d/5KExuW7p"
+                        "file_name": "Minecraft.Dungeons.II.v1.1.3.0-OFME.part2.rar",
+                        "direct_link": "https://gofile.io/d/Ds0BuHgt"
                     }
                 ],
                 "VikingFile": [
                     {
-                        "file_name": "MinecraftDungeonsII_Fix_Repair_GDK.rar",
-                        "direct_link": "https://vikingfile.com/f/ll7Q8fWoW5"
+                        "file_name": "MinecraftDungeonsII_Fix_Repair_GDK_Generic.rar",
+                        "direct_link": "https://vikingfile.com/f/w5NsHQvUU1"
                     },
                     {
-                        "file_name": "Minecraft.Dungeons.II.v1.1.1.0-OFME.part1.rar",
-                        "direct_link": "https://vikingfile.com/f/chX0eME3mt"
+                        "file_name": "Minecraft.Dungeons.II.v1.1.3.0-OFME.part1.rar",
+                        "direct_link": "https://vikingfile.com/f/osUXKiLiRI"
                     },
                     {
-                        "file_name": "Minecraft.Dungeons.II.v1.1.1.0-OFME.part2.rar",
-                        "direct_link": "https://vikingfile.com/f/OCqNRiKkXW"
+                        "file_name": "Minecraft.Dungeons.II.v1.1.3.0-OFME.part2.rar",
+                        "direct_link": "https://vikingfile.com/f/bRz1p51bcN"
                     }
                 ]
             },

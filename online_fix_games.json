@@ -70946,7 +70946,7 @@
             "update_info": "",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-11-13 20:12:02",
+            "scraped_at": "2026-11-14 18:55:27",
             "steam": {
                 "steam_appid": 293780,
                 "match_score": 100,
@@ -235216,10 +235216,10 @@
             "url": "https://online-fix.me/games/arcade/18215-mimic-party-po-seti.html",
             "last_update": "2026-09-01T20:42:50+03:00",
             "release_date": "27.08.2026",
-            "update_info": "Обновлено Вчера, 03:12. Добавлен Steam-Fix V3. Исправлена ошибка Game not found on this account.",
-            "update_date": null,
-            "formatted_update_date": null,
-            "scraped_at": "2026-11-13 20:09:12",
+            "update_info": "Обновлено 13 ноября 2026, 03:12. Добавлен Steam-Fix V3. Исправлена ошибка Game not found on this account.",
+            "update_date": "2026-11-13T03:12:00+03:00",
+            "formatted_update_date": "2026-11-13 03:12:00",
+            "scraped_at": "2026-11-14 18:54:42",
             "steam": {
                 "steam_appid": 5053820,
                 "match_score": 100,
@@ -235833,7 +235833,7 @@
             "update_info": "",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-11-13 20:12:02",
+            "scraped_at": "2026-11-14 18:55:27",
             "steam": {
                 "steam_appid": 1912410,
                 "match_score": 100,

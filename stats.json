@@ -2,9 +2,9 @@
   "repo": "kauafpssx/The-Gaming-Rumble",
   "branch": "games",
   "raw_base_url": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/",
-  "total_games": 1912,
-  "online_fix_total": 1912,
-  "steam_with_metadata": 1798,
+  "total_games": 1914,
+  "online_fix_total": 1914,
+  "steam_with_metadata": 1800,
   "steam_without_metadata": 114,
   "match_rate": 94.04,
   "success_rate": 94.04,
@@ -12,11 +12,11 @@
   "pages_scraped_target": 99,
   "pages_present_in_json": 95,
   "last_page_in_json": 97,
-  "new_games_found_this_run": 156,
+  "new_games_found_this_run": 155,
   "new_games_added_to_json_this_run": 2,
   "latest_run_new_game_names": [
-    "ATMOSFAR",
-    "Escape Academy 2 Back 2 School"
+    "RoadCraft",
+    "Safari-TV"
   ],
   "updated_games_this_run": 2,
   "latest_run_updated_game_names": [
@@ -24,12 +24,12 @@
     "Bodycam"
   ],
   "processed_games_this_run": 6,
-  "torrent_files_total": 2047,
-  "json_entries_with_torrent": 1912,
-  "games_with_providers": 939,
-  "last_scrape_at": "2026-11-16 22:28:36",
-  "last_scrape_at_display": "16/11/2026",
-  "last_game_update": "2026-11-17T04:06:49+03:00",
-  "generated_at": "2026-11-16 22:28:37",
-  "generated_at_display": "16/11/2026"
+  "torrent_files_total": 2049,
+  "json_entries_with_torrent": 1914,
+  "games_with_providers": 941,
+  "last_scrape_at": "2026-11-17 21:24:49",
+  "last_scrape_at_display": "17/11/2026",
+  "last_game_update": "2026-11-17T19:52:04+03:00",
+  "generated_at": "2026-11-17 21:24:50",
+  "generated_at_display": "17/11/2026"
 }

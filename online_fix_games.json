@@ -1,5 +1,5 @@
 {
-    "total": 1912,
+    "total": 1914,
     "downloads": [
         {
             "title": "10 Miles to Safety",
@@ -42622,68 +42622,68 @@
         {
             "title": "Bodycam",
             "page": 37,
-            "url": "https://online-fix.me/games/officialservers/17452-bodycam-po-seti.html",
+            "url": "https://online-fix.me/games/shooter/17452-bodycam-po-seti.html",
             "last_update": "2024-06-06T19:32:00+03:00",
             "release_date": "07.06.2024",
-            "update_info": "Обновлено Сегодня, 03:56. Игра обновлена до версии Build 16112026. Добавлен Steam-Fix V9.",
+            "update_info": "Обновлено Вчера, 19:51. Правки в руководстве.",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-11-16 22:26:57",
+            "scraped_at": "2026-11-17 21:23:16",
             "steam": {
                 "steam_appid": 2406770,
                 "match_score": 100,
                 "match_via": "canon",
-                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/b533bca55927692f0cf812ebb91c6e6e8f5cb4a6/header_alt_assets_4.jpg?t=1794683329",
-                "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/2bc46dcf375a61a0a5626bc96aaf09e32436e8cd/capsule_184x69.jpg?t=1794683329",
-                "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/dba61fbc3da9af203cc1c2bb2709c14bbb66a537/page_bg_raw.jpg?t=1794683329",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/677415ebaf02fc7ae5fe8960e6055e65e9fa21a4/header_alt_assets_4.jpg?t=1794951323",
+                "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/2bc46dcf375a61a0a5626bc96aaf09e32436e8cd/capsule_184x69.jpg?t=1794951323",
+                "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/dba61fbc3da9af203cc1c2bb2709c14bbb66a537/page_bg_raw.jpg?t=1794951323",
                 "screenshots": [
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/5689aeb849dc9ed3d9b70ad1b830d0c94c143138/ss_5689aeb849dc9ed3d9b70ad1b830d0c94c143138.1920x1080.jpg?t=1794683329",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/ad5579da682b0f91c23a895b37089a24dda24258/ss_ad5579da682b0f91c23a895b37089a24dda24258.1920x1080.jpg?t=1794683329",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/dcf7dfe29365b0bf8e3e30798f7c8be5ac9a3ea2/ss_dcf7dfe29365b0bf8e3e30798f7c8be5ac9a3ea2.1920x1080.jpg?t=1794683329",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/9ea48df963ebc872b59a03f31336705ee8fdc145/ss_9ea48df963ebc872b59a03f31336705ee8fdc145.1920x1080.jpg?t=1794683329",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/926c3c136c80c1aaafc97b68a6bad427b61e127e/ss_926c3c136c80c1aaafc97b68a6bad427b61e127e.1920x1080.jpg?t=1794683329",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/ed5ec44dde87f40b2d47e21f0600a8f786db985e/ss_ed5ec44dde87f40b2d47e21f0600a8f786db985e.1920x1080.jpg?t=1794683329",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/f5b1ed098468e6340b43b10ab26ceb9dfc009d5c/ss_f5b1ed098468e6340b43b10ab26ceb9dfc009d5c.1920x1080.jpg?t=1794683329",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/ed5411095cc75aa0a833a5737106321afd8b4fed/ss_ed5411095cc75aa0a833a5737106321afd8b4fed.1920x1080.jpg?t=1794683329",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/04d48d13f324c6f8c8be80b3cc5d1a39a5731087/ss_04d48d13f324c6f8c8be80b3cc5d1a39a5731087.1920x1080.jpg?t=1794683329",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/40888957656f82ba60759642e75724bf0a0b6a02/ss_40888957656f82ba60759642e75724bf0a0b6a02.1920x1080.jpg?t=1794683329",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/fcff487e3673f1b72800fcd5e908f533e9c8b2dc/ss_fcff487e3673f1b72800fcd5e908f533e9c8b2dc.1920x1080.jpg?t=1794683329",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/d27f150ddeb58f5e0ab4cbd1985eb9f8aa8895fe/ss_d27f150ddeb58f5e0ab4cbd1985eb9f8aa8895fe.1920x1080.jpg?t=1794683329",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/7c58dc654013e5e1dd296bd5580bbf9427a7762b/ss_7c58dc654013e5e1dd296bd5580bbf9427a7762b.1920x1080.jpg?t=1794683329",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/f7be47fedf22ab9f445a4211001e6b61a4486543/ss_f7be47fedf22ab9f445a4211001e6b61a4486543.1920x1080.jpg?t=1794683329",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/f0bc1c2f3804afe3287986d546850371ba9cd796/ss_f0bc1c2f3804afe3287986d546850371ba9cd796.1920x1080.jpg?t=1794683329",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/a96b75c32eeed8d6388c6b7749fbf0e69bb686ab/ss_a96b75c32eeed8d6388c6b7749fbf0e69bb686ab.1920x1080.jpg?t=1794683329",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/ss_4756f3e34eeb667aebd3baad7a5a8d0b15c0db25.1920x1080.jpg?t=1794683329",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/23a3b1a66d3e1b2bd9fb0b129b8a7535d4f87f0d/ss_23a3b1a66d3e1b2bd9fb0b129b8a7535d4f87f0d.1920x1080.jpg?t=1794683329",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/3c0feb016b3d5267354ab668674d4f1afee805d7/ss_3c0feb016b3d5267354ab668674d4f1afee805d7.1920x1080.jpg?t=1794683329",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/ec56090a4d26eaddce6ba32fc6267d1558920260/ss_ec56090a4d26eaddce6ba32fc6267d1558920260.1920x1080.jpg?t=1794683329",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/ss_93f5d09f5a4c63ba272cd19f51e212bf6d465db9.1920x1080.jpg?t=1794683329",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/b5aa2eb9bbb2aadcd1b410b643778e7078002ddd/ss_b5aa2eb9bbb2aadcd1b410b643778e7078002ddd.1920x1080.jpg?t=1794683329",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/1c4a7b87535414bcc2c75a194710d48463a5fe09/ss_1c4a7b87535414bcc2c75a194710d48463a5fe09.1920x1080.jpg?t=1794683329",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/2a85a0461605f89e60f72a54279eb2c3e2dab809/ss_2a85a0461605f89e60f72a54279eb2c3e2dab809.1920x1080.jpg?t=1794683329",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/32e35a289d9c10c8d17005b02601ff48f3daf57d/ss_32e35a289d9c10c8d17005b02601ff48f3daf57d.1920x1080.jpg?t=1794683329",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/cc71ea0231537f5328c777933acfbc3572b67971/ss_cc71ea0231537f5328c777933acfbc3572b67971.1920x1080.jpg?t=1794683329",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/2777fac6f0d1eee67420f5fecb060a68688b7e6e/ss_2777fac6f0d1eee67420f5fecb060a68688b7e6e.1920x1080.jpg?t=1794683329",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/969ea052111483f44227fb59256a210e48e7578a/ss_969ea052111483f44227fb59256a210e48e7578a.1920x1080.jpg?t=1794683329",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/ec56090a4d26eaddce6ba32fc6267d1558920260/ss_ec56090a4d26eaddce6ba32fc6267d1558920260.1920x1080.jpg?t=1794683329",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/a086a2170b0ce5a969d49759ad9935882dd074eb/ss_a086a2170b0ce5a969d49759ad9935882dd074eb.1920x1080.jpg?t=1794683329",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/cd0c5976da9fcf87877b885e78c94b5ff724aa47/ss_cd0c5976da9fcf87877b885e78c94b5ff724aa47.1920x1080.jpg?t=1794683329",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/ccfab4ddf54c8dfd04f29ca10b64cbff93243673/ss_ccfab4ddf54c8dfd04f29ca10b64cbff93243673.1920x1080.jpg?t=1794683329",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/6f60170f066c58ae593e8c6702c05a6d8a434711/ss_6f60170f066c58ae593e8c6702c05a6d8a434711.1920x1080.jpg?t=1794683329",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/55516d5df046a3c7aa484ffa44d3bd248cd1dac6/ss_55516d5df046a3c7aa484ffa44d3bd248cd1dac6.1920x1080.jpg?t=1794683329",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/588bcbb1db728deee4c99280ad772f6a3c1bb4e1/ss_588bcbb1db728deee4c99280ad772f6a3c1bb4e1.1920x1080.jpg?t=1794683329",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/05787e6d1d2c81919aef8c98b08bb2b165eff1a1/ss_05787e6d1d2c81919aef8c98b08bb2b165eff1a1.1920x1080.jpg?t=1794683329",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/88cb0bbf652ab91892badbc189aede809b7e8b0b/ss_88cb0bbf652ab91892badbc189aede809b7e8b0b.1920x1080.jpg?t=1794683329",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/94009b9b58ba2046a92678e7bf7d70df4b92b4f8/ss_94009b9b58ba2046a92678e7bf7d70df4b92b4f8.1920x1080.jpg?t=1794683329",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/6bb7073adda77b3733f3814930e97fcc4f8ec5e6/ss_6bb7073adda77b3733f3814930e97fcc4f8ec5e6.1920x1080.jpg?t=1794683329",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/588bcbb1db728deee4c99280ad772f6a3c1bb4e1/ss_588bcbb1db728deee4c99280ad772f6a3c1bb4e1.1920x1080.jpg?t=1794683329",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/01e9453fadb722d17e8abdef507cff09730a8341/ss_01e9453fadb722d17e8abdef507cff09730a8341.1920x1080.jpg?t=1794683329",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/ab74482b202639ea853e758b2196b9a23515d110/ss_ab74482b202639ea853e758b2196b9a23515d110.1920x1080.jpg?t=1794683329",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/de088d7ca7c1564f14daf4ab6d59df4044aa3e8c/ss_de088d7ca7c1564f14daf4ab6d59df4044aa3e8c.1920x1080.jpg?t=1794683329",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/889a5cedd92e626442c1b0a4130a3e9d30743492/ss_889a5cedd92e626442c1b0a4130a3e9d30743492.1920x1080.jpg?t=1794683329",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/f3b7c93136867d7b346f4c7505dd9a8dfb81b525/ss_f3b7c93136867d7b346f4c7505dd9a8dfb81b525.1920x1080.jpg?t=1794683329",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/d18adad1c6d43d3802b42388cfd384fbf117614b/ss_d18adad1c6d43d3802b42388cfd384fbf117614b.1920x1080.jpg?t=1794683329",
-                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/e5ce9fd480161a793d5a2f27b997af1e6784ed2b/ss_e5ce9fd480161a793d5a2f27b997af1e6784ed2b.1920x1080.jpg?t=1794683329"
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/5689aeb849dc9ed3d9b70ad1b830d0c94c143138/ss_5689aeb849dc9ed3d9b70ad1b830d0c94c143138.1920x1080.jpg?t=1794951323",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/ad5579da682b0f91c23a895b37089a24dda24258/ss_ad5579da682b0f91c23a895b37089a24dda24258.1920x1080.jpg?t=1794951323",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/dcf7dfe29365b0bf8e3e30798f7c8be5ac9a3ea2/ss_dcf7dfe29365b0bf8e3e30798f7c8be5ac9a3ea2.1920x1080.jpg?t=1794951323",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/9ea48df963ebc872b59a03f31336705ee8fdc145/ss_9ea48df963ebc872b59a03f31336705ee8fdc145.1920x1080.jpg?t=1794951323",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/926c3c136c80c1aaafc97b68a6bad427b61e127e/ss_926c3c136c80c1aaafc97b68a6bad427b61e127e.1920x1080.jpg?t=1794951323",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/ed5ec44dde87f40b2d47e21f0600a8f786db985e/ss_ed5ec44dde87f40b2d47e21f0600a8f786db985e.1920x1080.jpg?t=1794951323",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/f5b1ed098468e6340b43b10ab26ceb9dfc009d5c/ss_f5b1ed098468e6340b43b10ab26ceb9dfc009d5c.1920x1080.jpg?t=1794951323",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/ed5411095cc75aa0a833a5737106321afd8b4fed/ss_ed5411095cc75aa0a833a5737106321afd8b4fed.1920x1080.jpg?t=1794951323",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/04d48d13f324c6f8c8be80b3cc5d1a39a5731087/ss_04d48d13f324c6f8c8be80b3cc5d1a39a5731087.1920x1080.jpg?t=1794951323",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/40888957656f82ba60759642e75724bf0a0b6a02/ss_40888957656f82ba60759642e75724bf0a0b6a02.1920x1080.jpg?t=1794951323",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/fcff487e3673f1b72800fcd5e908f533e9c8b2dc/ss_fcff487e3673f1b72800fcd5e908f533e9c8b2dc.1920x1080.jpg?t=1794951323",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/d27f150ddeb58f5e0ab4cbd1985eb9f8aa8895fe/ss_d27f150ddeb58f5e0ab4cbd1985eb9f8aa8895fe.1920x1080.jpg?t=1794951323",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/7c58dc654013e5e1dd296bd5580bbf9427a7762b/ss_7c58dc654013e5e1dd296bd5580bbf9427a7762b.1920x1080.jpg?t=1794951323",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/f7be47fedf22ab9f445a4211001e6b61a4486543/ss_f7be47fedf22ab9f445a4211001e6b61a4486543.1920x1080.jpg?t=1794951323",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/f0bc1c2f3804afe3287986d546850371ba9cd796/ss_f0bc1c2f3804afe3287986d546850371ba9cd796.1920x1080.jpg?t=1794951323",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/a96b75c32eeed8d6388c6b7749fbf0e69bb686ab/ss_a96b75c32eeed8d6388c6b7749fbf0e69bb686ab.1920x1080.jpg?t=1794951323",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/ss_4756f3e34eeb667aebd3baad7a5a8d0b15c0db25.1920x1080.jpg?t=1794951323",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/23a3b1a66d3e1b2bd9fb0b129b8a7535d4f87f0d/ss_23a3b1a66d3e1b2bd9fb0b129b8a7535d4f87f0d.1920x1080.jpg?t=1794951323",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/3c0feb016b3d5267354ab668674d4f1afee805d7/ss_3c0feb016b3d5267354ab668674d4f1afee805d7.1920x1080.jpg?t=1794951323",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/ec56090a4d26eaddce6ba32fc6267d1558920260/ss_ec56090a4d26eaddce6ba32fc6267d1558920260.1920x1080.jpg?t=1794951323",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/ss_93f5d09f5a4c63ba272cd19f51e212bf6d465db9.1920x1080.jpg?t=1794951323",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/b5aa2eb9bbb2aadcd1b410b643778e7078002ddd/ss_b5aa2eb9bbb2aadcd1b410b643778e7078002ddd.1920x1080.jpg?t=1794951323",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/1c4a7b87535414bcc2c75a194710d48463a5fe09/ss_1c4a7b87535414bcc2c75a194710d48463a5fe09.1920x1080.jpg?t=1794951323",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/2a85a0461605f89e60f72a54279eb2c3e2dab809/ss_2a85a0461605f89e60f72a54279eb2c3e2dab809.1920x1080.jpg?t=1794951323",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/32e35a289d9c10c8d17005b02601ff48f3daf57d/ss_32e35a289d9c10c8d17005b02601ff48f3daf57d.1920x1080.jpg?t=1794951323",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/cc71ea0231537f5328c777933acfbc3572b67971/ss_cc71ea0231537f5328c777933acfbc3572b67971.1920x1080.jpg?t=1794951323",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/2777fac6f0d1eee67420f5fecb060a68688b7e6e/ss_2777fac6f0d1eee67420f5fecb060a68688b7e6e.1920x1080.jpg?t=1794951323",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/969ea052111483f44227fb59256a210e48e7578a/ss_969ea052111483f44227fb59256a210e48e7578a.1920x1080.jpg?t=1794951323",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/ec56090a4d26eaddce6ba32fc6267d1558920260/ss_ec56090a4d26eaddce6ba32fc6267d1558920260.1920x1080.jpg?t=1794951323",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/a086a2170b0ce5a969d49759ad9935882dd074eb/ss_a086a2170b0ce5a969d49759ad9935882dd074eb.1920x1080.jpg?t=1794951323",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/cd0c5976da9fcf87877b885e78c94b5ff724aa47/ss_cd0c5976da9fcf87877b885e78c94b5ff724aa47.1920x1080.jpg?t=1794951323",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/ccfab4ddf54c8dfd04f29ca10b64cbff93243673/ss_ccfab4ddf54c8dfd04f29ca10b64cbff93243673.1920x1080.jpg?t=1794951323",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/6f60170f066c58ae593e8c6702c05a6d8a434711/ss_6f60170f066c58ae593e8c6702c05a6d8a434711.1920x1080.jpg?t=1794951323",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/55516d5df046a3c7aa484ffa44d3bd248cd1dac6/ss_55516d5df046a3c7aa484ffa44d3bd248cd1dac6.1920x1080.jpg?t=1794951323",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/588bcbb1db728deee4c99280ad772f6a3c1bb4e1/ss_588bcbb1db728deee4c99280ad772f6a3c1bb4e1.1920x1080.jpg?t=1794951323",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/05787e6d1d2c81919aef8c98b08bb2b165eff1a1/ss_05787e6d1d2c81919aef8c98b08bb2b165eff1a1.1920x1080.jpg?t=1794951323",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/88cb0bbf652ab91892badbc189aede809b7e8b0b/ss_88cb0bbf652ab91892badbc189aede809b7e8b0b.1920x1080.jpg?t=1794951323",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/94009b9b58ba2046a92678e7bf7d70df4b92b4f8/ss_94009b9b58ba2046a92678e7bf7d70df4b92b4f8.1920x1080.jpg?t=1794951323",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/6bb7073adda77b3733f3814930e97fcc4f8ec5e6/ss_6bb7073adda77b3733f3814930e97fcc4f8ec5e6.1920x1080.jpg?t=1794951323",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/588bcbb1db728deee4c99280ad772f6a3c1bb4e1/ss_588bcbb1db728deee4c99280ad772f6a3c1bb4e1.1920x1080.jpg?t=1794951323",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/01e9453fadb722d17e8abdef507cff09730a8341/ss_01e9453fadb722d17e8abdef507cff09730a8341.1920x1080.jpg?t=1794951323",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/ab74482b202639ea853e758b2196b9a23515d110/ss_ab74482b202639ea853e758b2196b9a23515d110.1920x1080.jpg?t=1794951323",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/de088d7ca7c1564f14daf4ab6d59df4044aa3e8c/ss_de088d7ca7c1564f14daf4ab6d59df4044aa3e8c.1920x1080.jpg?t=1794951323",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/889a5cedd92e626442c1b0a4130a3e9d30743492/ss_889a5cedd92e626442c1b0a4130a3e9d30743492.1920x1080.jpg?t=1794951323",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/f3b7c93136867d7b346f4c7505dd9a8dfb81b525/ss_f3b7c93136867d7b346f4c7505dd9a8dfb81b525.1920x1080.jpg?t=1794951323",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/d18adad1c6d43d3802b42388cfd384fbf117614b/ss_d18adad1c6d43d3802b42388cfd384fbf117614b.1920x1080.jpg?t=1794951323",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/e5ce9fd480161a793d5a2f27b997af1e6784ed2b/ss_e5ce9fd480161a793d5a2f27b997af1e6784ed2b.1920x1080.jpg?t=1794951323"
                 ],
                 "movies": [
                     {
@@ -42840,6 +42840,30 @@
                     {
                         "file_name": "Bodycam.Build.16112026-OFME.part07.rar",
                         "direct_link": "https://itsfileditchfiles.st/balpha49/e4538a390f796a6add7f/Bodycam.Build.16112026-OFME.part07.rar"
+                    },
+                    {
+                        "file_name": "Bodycam.Build.16112026-OFME.part08.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha49/95d821c639ab30f8a5df/Bodycam.Build.16112026-OFME.part08.rar"
+                    },
+                    {
+                        "file_name": "Bodycam.Build.16112026-OFME.part09.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha49/23db901569237b47e8d4/Bodycam.Build.16112026-OFME.part09.rar"
+                    },
+                    {
+                        "file_name": "Bodycam.Build.16112026-OFME.part10.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha49/119face9f7e53104af4d/Bodycam.Build.16112026-OFME.part10.rar"
+                    },
+                    {
+                        "file_name": "Bodycam.Build.16112026-OFME.part11.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha49/f7cc94dab6348764685d/Bodycam.Build.16112026-OFME.part11.rar"
+                    },
+                    {
+                        "file_name": "Bodycam.Build.16112026-OFME.part12.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha49/824f9ec2e8912758ea12/Bodycam.Build.16112026-OFME.part12.rar"
+                    },
+                    {
+                        "file_name": "Bodycam.Build.16112026-OFME.part13.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha49/4e8dcc763d3b005ec5ad/Bodycam.Build.16112026-OFME.part13.rar"
                     }
                 ],
                 "FileKeeper": [
@@ -42864,12 +42888,40 @@
                         "direct_link": "https://filekeeper.net/h5tj8z91xrwu"
                     },
                     {
+                        "file_name": "Bodycam.Build.16112026-OFME.part05.rar",
+                        "direct_link": "https://filekeeper.net/hboitg0mcmbd"
+                    },
+                    {
                         "file_name": "Bodycam.Build.16112026-OFME.part06.rar",
                         "direct_link": "https://filekeeper.net/o3yj0mnhyks7"
                     },
                     {
                         "file_name": "Bodycam.Build.16112026-OFME.part07.rar",
                         "direct_link": "https://filekeeper.net/058oct92gd3h"
+                    },
+                    {
+                        "file_name": "Bodycam.Build.16112026-OFME.part08.rar",
+                        "direct_link": "https://filekeeper.net/jyvhfj7q44lk"
+                    },
+                    {
+                        "file_name": "Bodycam.Build.16112026-OFME.part09.rar",
+                        "direct_link": "https://filekeeper.net/6b016x2eq20h"
+                    },
+                    {
+                        "file_name": "Bodycam.Build.16112026-OFME.part10.rar",
+                        "direct_link": "https://filekeeper.net/nwk0stbaqhdw"
+                    },
+                    {
+                        "file_name": "Bodycam.Build.16112026-OFME.part11.rar",
+                        "direct_link": "https://filekeeper.net/y835dzc2to33"
+                    },
+                    {
+                        "file_name": "Bodycam.Build.16112026-OFME.part12.rar",
+                        "direct_link": "https://filekeeper.net/djgdxrznvoj8"
+                    },
+                    {
+                        "file_name": "Bodycam.Build.16112026-OFME.part13.rar",
+                        "direct_link": "https://filekeeper.net/4pmvtjth11dw"
                     }
                 ],
                 "Pixeldrain": [
@@ -42908,6 +42960,26 @@
                     {
                         "file_name": "Bodycam.Build.16112026-OFME.part08.rar",
                         "direct_link": "https://pixeldrain.com/u/BdVd3Mho"
+                    },
+                    {
+                        "file_name": "Bodycam.Build.16112026-OFME.part09.rar",
+                        "direct_link": "https://pixeldrain.com/u/sA542jDg"
+                    },
+                    {
+                        "file_name": "Bodycam.Build.16112026-OFME.part10.rar",
+                        "direct_link": "https://pixeldrain.com/u/C6eXg8hQ"
+                    },
+                    {
+                        "file_name": "Bodycam.Build.16112026-OFME.part11.rar",
+                        "direct_link": "https://pixeldrain.com/u/9tuhGsbM"
+                    },
+                    {
+                        "file_name": "Bodycam.Build.16112026-OFME.part12.rar",
+                        "direct_link": "https://pixeldrain.com/u/S7XtLuS2"
+                    },
+                    {
+                        "file_name": "Bodycam.Build.16112026-OFME.part13.rar",
+                        "direct_link": "https://pixeldrain.com/u/V7UkTbTt"
                     }
                 ],
                 "Gofile": [
@@ -42920,8 +42992,16 @@
                         "direct_link": "https://gofile.io/d/Ii9GTmQq"
                     },
                     {
+                        "file_name": "Bodycam.Build.16112026-OFME.part02.rar",
+                        "direct_link": "https://gofile.io/d/Ypo0DNFe"
+                    },
+                    {
                         "file_name": "Bodycam.Build.16112026-OFME.part03.rar",
                         "direct_link": "https://gofile.io/d/7akhuBIP"
+                    },
+                    {
+                        "file_name": "Bodycam.Build.16112026-OFME.part04.rar",
+                        "direct_link": "https://gofile.io/d/KbPQbHRQ"
                     },
                     {
                         "file_name": "Bodycam.Build.16112026-OFME.part05.rar",
@@ -42938,6 +43018,26 @@
                     {
                         "file_name": "Bodycam.Build.16112026-OFME.part08.rar",
                         "direct_link": "https://gofile.io/d/rJzm7o15"
+                    },
+                    {
+                        "file_name": "Bodycam.Build.16112026-OFME.part09.rar",
+                        "direct_link": "https://gofile.io/d/sn9bVaP2"
+                    },
+                    {
+                        "file_name": "Bodycam.Build.16112026-OFME.part10.rar",
+                        "direct_link": "https://gofile.io/d/3X87LF8z"
+                    },
+                    {
+                        "file_name": "Bodycam.Build.16112026-OFME.part11.rar",
+                        "direct_link": "https://gofile.io/d/qwiVI5J8"
+                    },
+                    {
+                        "file_name": "Bodycam.Build.16112026-OFME.part12.rar",
+                        "direct_link": "https://gofile.io/d/PpBAzXTu"
+                    },
+                    {
+                        "file_name": "Bodycam.Build.16112026-OFME.part13.rar",
+                        "direct_link": "https://gofile.io/d/ZiRExddT"
                     }
                 ],
                 "VikingFile": [
@@ -42976,6 +43076,26 @@
                     {
                         "file_name": "Bodycam.Build.16112026-OFME.part08.rar",
                         "direct_link": "https://vikingfile.com/f/2Fsz1blaYI"
+                    },
+                    {
+                        "file_name": "Bodycam.Build.16112026-OFME.part09.rar",
+                        "direct_link": "https://vikingfile.com/f/5eyAgyAecy"
+                    },
+                    {
+                        "file_name": "Bodycam.Build.16112026-OFME.part10.rar",
+                        "direct_link": "https://vikingfile.com/f/Z7SttqoI0I"
+                    },
+                    {
+                        "file_name": "Bodycam.Build.16112026-OFME.part11.rar",
+                        "direct_link": "https://vikingfile.com/f/xx5Km5tB5O"
+                    },
+                    {
+                        "file_name": "Bodycam.Build.16112026-OFME.part12.rar",
+                        "direct_link": "https://vikingfile.com/f/tG1dM51iHJ"
+                    },
+                    {
+                        "file_name": "Bodycam.Build.16112026-OFME.part13.rar",
+                        "direct_link": "https://vikingfile.com/f/B56Iia39XU"
                     }
                 ]
             },
@@ -71068,7 +71188,7 @@
             "update_info": "",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-11-16 22:28:36",
+            "scraped_at": "2026-11-17 21:24:49",
             "steam": {
                 "steam_appid": 293780,
                 "match_score": 100,
@@ -110933,10 +111053,10 @@
             "url": "https://online-fix.me/games/rpg/17783-elden-ring-nightreign-po-seti.html",
             "last_update": "2025-05-30T22:02:35+03:00",
             "release_date": "30.05.2025",
-            "update_info": "Обновлено Сегодня, 02:04. Игра обновлена до версии 1.03.3. Модификация обновлена до версии 1.1.3.",
+            "update_info": "Обновлено Вчера, 02:04. Игра обновлена до версии 1.03.3. Модификация обновлена до версии 1.1.3.",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-11-16 22:26:53",
+            "scraped_at": "2026-11-17 21:23:10",
             "steam": {
                 "steam_appid": 2622380,
                 "match_score": 100,
@@ -236271,7 +236391,7 @@
             "update_info": "",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-11-16 22:28:36",
+            "scraped_at": "2026-11-17 21:24:49",
             "steam": {
                 "steam_appid": 1912410,
                 "match_score": 100,
@@ -316235,6 +316355,659 @@
             "comment": ""
         },
         {
+            "title": "RoadCraft",
+            "page": 1,
+            "url": "https://online-fix.me/games/officialservers/18084-roadcraft-po-seti.html",
+            "last_update": "2026-11-17T04:13:50+03:00",
+            "release_date": "20.05.2025",
+            "update_info": "",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-11-17 21:22:59",
+            "steam": {
+                "steam_appid": 2104890,
+                "match_score": 100,
+                "match_via": "canon",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/30e9523539a42e2d673d20694d144e8ab37d8d44/header_alt_assets_1.jpg?t=1793725507",
+                "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/1a5ec7b4ac6d0240c35ab39c4be9605bad73d402/capsule_184x69_alt_assets_1.jpg?t=1793725507",
+                "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/page_bg_raw.jpg?t=1793725507",
+                "screenshots": [
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/ss_e165ec22c60612162e66de2c71206134cb2334e2.1920x1080.jpg?t=1793725507",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/ss_963ec7cdc6c0f83d19506ac205eb3dfb76ec7b79.1920x1080.jpg?t=1793725507",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/ss_62f78e7fbb3d1bf41243f54eab586ccbd18f1e90.1920x1080.jpg?t=1793725507",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/ss_22ee663d1f8635cda4abb08ef9490c7e9bac63df.1920x1080.jpg?t=1793725507",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/ss_94c63d1a8326239692d9cdede69373bf73a90b43.1920x1080.jpg?t=1793725507",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/ss_fddc14ec8fb8c3b35f3ce103e085c871ee801c0b.1920x1080.jpg?t=1793725507",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/ss_5b48c4db8c3015d806a479f9225f58ac9b4d6097.1920x1080.jpg?t=1793725507",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/ss_ffbb319ee4b154d7529c77a2d944c92958e7744e.1920x1080.jpg?t=1793725507",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/ss_6641e04329acb4ce19c68504bdb911f8382d5d33.1920x1080.jpg?t=1793725507",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/ss_f78cf0214fccffe4aad353f2ff460374d3072bf4.1920x1080.jpg?t=1793725507",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/ss_8b319388d411c7cbe80884937bec004f6c716b35.1920x1080.jpg?t=1793725507",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/ss_3dedfb6defa4bc578405b383e8d66ab9d27e657c.1920x1080.jpg?t=1793725507",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/ss_62f5e6d04b94c9b8d660a0a3537ec6149e65d636.1920x1080.jpg?t=1793725507",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/ss_8d6ad357d79afa54e4836017d2804ac462553cae.1920x1080.jpg?t=1793725507",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/ss_3079fea3e7d337ced3a05d55b87bbb335e117e66.1920x1080.jpg?t=1793725507"
+                ],
+                "movies": [
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257489923/6b6d94f32983713e372a3f56840f61ee870443f9/movie_600x337.jpg?t=1793725389",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2104890/95613341/ab32b661a787831d5ee430052ee31c0cdc0e624b/1793701078/dash_h264.mpd?t=1793725389",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2104890/95613341/ab32b661a787831d5ee430052ee31c0cdc0e624b/1793701078/hls_264_master.m3u8?t=1793725389"
+                    },
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257308353/25238a411be434786f7e738962616de2b137ad1a/movie_600x337.jpg?t=1793712517",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2104890/269489756/4a991a878c679be4f2de3b04ab0f7f3361fba2ea/1774358539/dash_h264.mpd?t=1793712517",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2104890/269489756/4a991a878c679be4f2de3b04ab0f7f3361fba2ea/1774358539/hls_264_master.m3u8?t=1793712517"
+                    },
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257142089/866c9e675958aafb64f7ef922d549d227d0e4547/movie_600x337.jpg?t=1747752666",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2104890/1400289021/1e05fcc39f01d492a913948c93646edb0b64a8d3/1748811371/dash_h264.mpd?t=1747752666",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2104890/1400289021/1e05fcc39f01d492a913948c93646edb0b64a8d3/1748811371/hls_264_master.m3u8?t=1747752666"
+                    },
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257193107/aff03427bdfbe43185191ea2f204e7de38330d48/movie_600x337.jpg?t=1757004492",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2104890/72263780/cc1967867d51815366b59ed1dcab93544803f202/1756992661/dash_h264.mpd?t=1757004492",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2104890/72263780/cc1967867d51815366b59ed1dcab93544803f202/1756992661/hls_264_master.m3u8?t=1757004492"
+                    },
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257135199/268cf7a538a368163a9e678b9d2cfbbc6af4b337/movie_600x337.jpg?t=1746457047",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2104890/884572/f1655fecb5e699eede345feca3758132eb0d0f4c/1748811023/dash_h264.mpd?t=1746457047",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2104890/884572/f1655fecb5e699eede345feca3758132eb0d0f4c/1748811023/hls_264_master.m3u8?t=1746457047"
+                    },
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257132148/87fc2b399bc8468e976fb8b55d3ac0ca70ddf1cb/movie_600x337.jpg?t=1745852447",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2104890/879970/bf0fd523ec27f617362473db7ab1abc6782a7429/1748811023/dash_h264.mpd?t=1745852447",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2104890/879970/bf0fd523ec27f617362473db7ab1abc6782a7429/1748811023/hls_264_master.m3u8?t=1745852447"
+                    },
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257115486/cd0d46314aad252af3c4a501b572443178a8c7f7/movie_600x337.jpg?t=1742228118",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2104890/852739/ff04ea883ade178d3527c0fefb8ebf3da27502aa/1748811023/dash_h264.mpd?t=1742228118",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2104890/852739/ff04ea883ade178d3527c0fefb8ebf3da27502aa/1748811023/hls_264_master.m3u8?t=1742228118"
+                    },
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257126809/cb57a1eec9731f055a321c0a3f85758bfc25f4ed/movie_600x337.jpg?t=1744818652",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2104890/871522/5d801883d4d0cc93fd223612e9beb6d08f21fff6/1748811023/dash_h264.mpd?t=1744818652",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2104890/871522/5d801883d4d0cc93fd223612e9beb6d08f21fff6/1748811023/hls_264_master.m3u8?t=1744818652"
+                    },
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257092804/496b38697494a09679ce53137d828206a2ef377b/movie_600x337.jpg?t=1738083804",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2104890/819593/ae66f4753e46e3777c1d4c18989aa7e8bfeaf01e/1748811023/dash_h264.mpd?t=1738083804",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2104890/819593/ae66f4753e46e3777c1d4c18989aa7e8bfeaf01e/1748811023/hls_264_master.m3u8?t=1738083804"
+                    }
+                ],
+                "achievements_total": 44,
+                "achievements_highlighted": [
+                    {
+                        "icon": "abffd8fe8e4e0cc25400b997bc679e5bfeef7209.jpg",
+                        "localized_name": "Sem mareio",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Sem mareio",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2104890/abffd8fe8e4e0cc25400b997bc679e5bfeef7209.jpg"
+                    },
+                    {
+                        "icon": "ab895e34ae8b8a2a2cafa4b52123568e36ea6621.jpg",
+                        "localized_name": "Problemas industriais",
+                        "archived": 0,
+                        "hidden": 1,
+                        "name": "Problemas industriais",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2104890/ab895e34ae8b8a2a2cafa4b52123568e36ea6621.jpg"
+                    },
+                    {
+                        "icon": "cee9d45c5757beaef6d1151762b9a582021cc09c.jpg",
+                        "localized_name": "Fique na linha",
+                        "archived": 0,
+                        "hidden": 1,
+                        "name": "Fique na linha",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2104890/cee9d45c5757beaef6d1151762b9a582021cc09c.jpg"
+                    },
+                    {
+                        "icon": "9fa64a5d78c86474db14b6d183131931328499f1.jpg",
+                        "localized_name": "Obcecado pela mina",
+                        "archived": 0,
+                        "hidden": 1,
+                        "name": "Obcecado pela mina",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2104890/9fa64a5d78c86474db14b6d183131931328499f1.jpg"
+                    },
+                    {
+                        "icon": "c8814a672790c2db580f96e85a3e683ae5da6a87.jpg",
+                        "localized_name": "Retificação",
+                        "archived": 0,
+                        "hidden": 1,
+                        "name": "Retificação",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2104890/c8814a672790c2db580f96e85a3e683ae5da6a87.jpg"
+                    },
+                    {
+                        "icon": "97779cf23d52d203522e24d360614b71dde7e43b.jpg",
+                        "localized_name": "Tudo bem untado",
+                        "archived": 0,
+                        "hidden": 1,
+                        "name": "Tudo bem untado",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2104890/97779cf23d52d203522e24d360614b71dde7e43b.jpg"
+                    },
+                    {
+                        "icon": "0607207f6dac20c90da159288b9c03585a465904.jpg",
+                        "localized_name": "Glória ao sol",
+                        "archived": 0,
+                        "hidden": 1,
+                        "name": "Glória ao sol",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2104890/0607207f6dac20c90da159288b9c03585a465904.jpg"
+                    },
+                    {
+                        "icon": "443d151ea5536309f583add27df73ff1bd72e83b.jpg",
+                        "localized_name": "Marco zero",
+                        "archived": 0,
+                        "hidden": 1,
+                        "name": "Marco zero",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2104890/443d151ea5536309f583add27df73ff1bd72e83b.jpg"
+                    },
+                    {
+                        "icon": "44f76534619d9992c15892f96979ca5c0c5d4e76.jpg",
+                        "localized_name": "Mão na roda",
+                        "archived": 0,
+                        "hidden": 1,
+                        "name": "Mão na roda",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2104890/44f76534619d9992c15892f96979ca5c0c5d4e76.jpg"
+                    },
+                    {
+                        "icon": "9d2a6a47fb4d975e66ad072f925e8b9e75838b38.jpg",
+                        "localized_name": "De portas abertas",
+                        "archived": 0,
+                        "hidden": 1,
+                        "name": "De portas abertas",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2104890/9d2a6a47fb4d975e66ad072f925e8b9e75838b38.jpg"
+                    }
+                ],
+                "ratings": {
+                    "pegi": "3",
+                    "esrb": "e"
+                },
+                "release_date_steam": "20 mai. 2025",
+                "short_description": "Como líder de uma empresa especializada na restauração de locais devastados por desastres naturais, use seu maquinário de construção para reiniciar a indústria local. Limpe detritos e equipamentos defeituosos, reconstrua estradas e pontes danificadas pelo clima e muito mais!",
+                "short_description_native": "As the leader of a company specialized in restoring sites devastated by natural disasters, use your construction machinery to restart the local industry. Clear debris and faulty equipment, rebuild roads and bridges damaged by weather, and much more!",
+                "price_brl": "R$ 159,90",
+                "is_free": false,
+                "pc_requirements": {
+                    "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10 (18362 min)/11 64-bit\n\nProcessador: AMD Ryzen 5 1500X / Intel Core i5-8400\n\nMemória: 8 GB de RAM\n\nPlaca gráfica: 6 GB VRAM, AMD Radeon RX 590 / Nvidia GeForce GTX 1060 / Intel ARC A580\n\nEspaço no disco: Requer 40 GB de espaço livre\n\nNotas adicionais: SSD required / 30 FPS in 1920x1080 with &quot;Low&quot; preset.",
+                    "recommended": "Recomendados:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10 (18362 min)/11 64-bit\n\nProcessador: AMD Ryzen 7 5800X / Intel Core i5-12600K\n\nMemória: 16 GB de RAM\n\nPlaca gráfica: 8 GB VRAM, AMD Radeon RX 6600 XT / Nvidia GeForce RTX 3060 / Intel ARC B580\n\nEspaço no disco: Requer 40 GB de espaço livre\n\nNotas adicionais: SSD required. 60 FPS in 1920x1080 with the &quot;High&quot; preset."
+                },
+                "controller_support": "full",
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Um jogador"
+                    },
+                    {
+                        "id": 1,
+                        "description": "Multijogador"
+                    },
+                    {
+                        "id": 9,
+                        "description": "Co-op"
+                    },
+                    {
+                        "id": 38,
+                        "description": "Co-op online"
+                    },
+                    {
+                        "id": 27,
+                        "description": "Multijogador interplataformas"
+                    },
+                    {
+                        "id": 22,
+                        "description": "Proezas Steam"
+                    },
+                    {
+                        "id": 28,
+                        "description": "Compatibilidade total com comando"
+                    },
+                    {
+                        "id": 29,
+                        "description": "Cartas Colecionáveis Steam"
+                    },
+                    {
+                        "id": 67,
+                        "description": "Conforto de câmara"
+                    },
+                    {
+                        "id": 68,
+                        "description": "Controlos de volume independentes"
+                    },
+                    {
+                        "id": 74,
+                        "description": "Jogável sem necessitar de ações rápidas ou precisas"
+                    },
+                    {
+                        "id": 55,
+                        "description": "Compatibilidade com DUALSHOCK"
+                    },
+                    {
+                        "id": 56,
+                        "description": "Compatibilidade com DUALSHOCK"
+                    },
+                    {
+                        "id": 57,
+                        "description": "Compatibilidade com DualSense"
+                    },
+                    {
+                        "id": 58,
+                        "description": "Compatibilidade com DualSense"
+                    },
+                    {
+                        "id": 79,
+                        "description": "Guardar progresso a qualquer momento"
+                    },
+                    {
+                        "id": 69,
+                        "description": "Som estéreo"
+                    },
+                    {
+                        "id": 70,
+                        "description": "Som surround"
+                    },
+                    {
+                        "id": 23,
+                        "description": "Steam Cloud"
+                    },
+                    {
+                        "id": 62,
+                        "description": "Partilha de Biblioteca"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "25",
+                        "description": "Aventura"
+                    },
+                    {
+                        "id": "28",
+                        "description": "Simulação"
+                    }
+                ]
+            },
+            "hoster_links": {
+                "FileDitch": [
+                    {
+                        "file_name": "RoadCraft_Fix_Repair_GDK_Generic.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha49/0fcc0bcd15d7e3fde2aa/RoadCraft_Fix_Repair_GDK_Generic.rar"
+                    },
+                    {
+                        "file_name": "RoadCraft.4K.Textures-OFME.part1.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha49/7e60d2e9427a3680b7d7/RoadCraft.4K.Textures-OFME.part1.rar"
+                    },
+                    {
+                        "file_name": "RoadCraft.4K.Textures-OFME.part2.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha49/5aca403bb31befe5f297/RoadCraft.4K.Textures-OFME.part2.rar"
+                    },
+                    {
+                        "file_name": "RoadCraft.4K.Textures-OFME.part3.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha49/166f584d2289a67d080c/RoadCraft.4K.Textures-OFME.part3.rar"
+                    },
+                    {
+                        "file_name": "RoadCraft.4K.Textures-OFME.part4.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha49/fa777b830688bad6a8fd/RoadCraft.4K.Textures-OFME.part4.rar"
+                    },
+                    {
+                        "file_name": "RoadCraft.4K.Textures-OFME.part5.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha49/9bb3b70bc79991ac040b/RoadCraft.4K.Textures-OFME.part5.rar"
+                    },
+                    {
+                        "file_name": "RoadCraft.4K.Textures-OFME.part6.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha49/984c9c4b0773958ec67a/RoadCraft.4K.Textures-OFME.part6.rar"
+                    },
+                    {
+                        "file_name": "RoadCraft.4K.Textures-OFME.part7.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha49/b6403720dd9dac05f7d6/RoadCraft.4K.Textures-OFME.part7.rar"
+                    },
+                    {
+                        "file_name": "RoadCraft.v1.9.81.0-OFME.part01.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha49/d341a05d7177250d1b93/RoadCraft.v1.9.81.0-OFME.part01.rar"
+                    },
+                    {
+                        "file_name": "RoadCraft.v1.9.81.0-OFME.part02.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha49/94d75b70622987bcdba6/RoadCraft.v1.9.81.0-OFME.part02.rar"
+                    },
+                    {
+                        "file_name": "RoadCraft.v1.9.81.0-OFME.part03.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha49/8a216efce46018770423/RoadCraft.v1.9.81.0-OFME.part03.rar"
+                    },
+                    {
+                        "file_name": "RoadCraft.v1.9.81.0-OFME.part04.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha49/e777d66a064b27347ee0/RoadCraft.v1.9.81.0-OFME.part04.rar"
+                    },
+                    {
+                        "file_name": "RoadCraft.v1.9.81.0-OFME.part05.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha49/0bfbae67227a9a7a6b7b/RoadCraft.v1.9.81.0-OFME.part05.rar"
+                    },
+                    {
+                        "file_name": "RoadCraft.v1.9.81.0-OFME.part06.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha49/715ed3c53fb6e8c60809/RoadCraft.v1.9.81.0-OFME.part06.rar"
+                    },
+                    {
+                        "file_name": "RoadCraft.v1.9.81.0-OFME.part07.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha49/42e3e24c5a17e6dc7fe6/RoadCraft.v1.9.81.0-OFME.part07.rar"
+                    }
+                ],
+                "FileKeeper": [
+                    {
+                        "file_name": "RoadCraft_Fix_Repair_GDK_Generic.rar",
+                        "direct_link": "https://filekeeper.net/h20h4c4jo5yn"
+                    },
+                    {
+                        "file_name": "RoadCraft.4K.Textures-OFME.part1.rar",
+                        "direct_link": "https://filekeeper.net/9e31gjapr6xm"
+                    },
+                    {
+                        "file_name": "RoadCraft.4K.Textures-OFME.part2.rar",
+                        "direct_link": "https://filekeeper.net/spya3gyp33ps"
+                    },
+                    {
+                        "file_name": "RoadCraft.4K.Textures-OFME.part3.rar",
+                        "direct_link": "https://filekeeper.net/a74u7nw70ln6"
+                    },
+                    {
+                        "file_name": "RoadCraft.4K.Textures-OFME.part4.rar",
+                        "direct_link": "https://filekeeper.net/aw64p9eba4kj"
+                    },
+                    {
+                        "file_name": "RoadCraft.4K.Textures-OFME.part5.rar",
+                        "direct_link": "https://filekeeper.net/od0qsdddgjdc"
+                    },
+                    {
+                        "file_name": "RoadCraft.4K.Textures-OFME.part6.rar",
+                        "direct_link": "https://filekeeper.net/zf96jumttajf"
+                    },
+                    {
+                        "file_name": "RoadCraft.4K.Textures-OFME.part7.rar",
+                        "direct_link": "https://filekeeper.net/p4by982g431m"
+                    },
+                    {
+                        "file_name": "RoadCraft.v1.9.81.0-OFME.part01.rar",
+                        "direct_link": "https://filekeeper.net/cw87oxodvxhf"
+                    },
+                    {
+                        "file_name": "RoadCraft.v1.9.81.0-OFME.part02.rar",
+                        "direct_link": "https://filekeeper.net/bp4tb5gkdhqu"
+                    },
+                    {
+                        "file_name": "RoadCraft.v1.9.81.0-OFME.part03.rar",
+                        "direct_link": "https://filekeeper.net/6l4eftpxorfj"
+                    },
+                    {
+                        "file_name": "RoadCraft.v1.9.81.0-OFME.part04.rar",
+                        "direct_link": "https://filekeeper.net/hek3x46guwxr"
+                    },
+                    {
+                        "file_name": "RoadCraft.v1.9.81.0-OFME.part05.rar",
+                        "direct_link": "https://filekeeper.net/m5oxc21gmgzf"
+                    },
+                    {
+                        "file_name": "RoadCraft.v1.9.81.0-OFME.part06.rar",
+                        "direct_link": "https://filekeeper.net/61esmi0121ir"
+                    },
+                    {
+                        "file_name": "RoadCraft.v1.9.81.0-OFME.part07.rar",
+                        "direct_link": "https://filekeeper.net/id2nhc3ieuqf"
+                    }
+                ],
+                "Pixeldrain": [
+                    {
+                        "file_name": "RoadCraft_Fix_Repair_GDK_Generic.rar",
+                        "direct_link": "https://pixeldrain.com/u/jk6PBRp7"
+                    },
+                    {
+                        "file_name": "RoadCraft.4K.Textures-OFME.part1.rar",
+                        "direct_link": "https://pixeldrain.com/u/b2xSuDUb"
+                    },
+                    {
+                        "file_name": "RoadCraft.4K.Textures-OFME.part2.rar",
+                        "direct_link": "https://pixeldrain.com/u/26RUH4Uk"
+                    },
+                    {
+                        "file_name": "RoadCraft.4K.Textures-OFME.part3.rar",
+                        "direct_link": "https://pixeldrain.com/u/rxsHRwvo"
+                    },
+                    {
+                        "file_name": "RoadCraft.4K.Textures-OFME.part4.rar",
+                        "direct_link": "https://pixeldrain.com/u/eMBXtjN4"
+                    },
+                    {
+                        "file_name": "RoadCraft.4K.Textures-OFME.part5.rar",
+                        "direct_link": "https://pixeldrain.com/u/6ShF7j77"
+                    },
+                    {
+                        "file_name": "RoadCraft.4K.Textures-OFME.part6.rar",
+                        "direct_link": "https://pixeldrain.com/u/RFMdK9xC"
+                    },
+                    {
+                        "file_name": "RoadCraft.4K.Textures-OFME.part7.rar",
+                        "direct_link": "https://pixeldrain.com/u/5ehKmSzD"
+                    },
+                    {
+                        "file_name": "RoadCraft.v1.9.81.0-OFME.part01.rar",
+                        "direct_link": "https://pixeldrain.com/u/FwEH7qxf"
+                    },
+                    {
+                        "file_name": "RoadCraft.v1.9.81.0-OFME.part02.rar",
+                        "direct_link": "https://pixeldrain.com/u/x64PVX83"
+                    },
+                    {
+                        "file_name": "RoadCraft.v1.9.81.0-OFME.part03.rar",
+                        "direct_link": "https://pixeldrain.com/u/HkStQTLY"
+                    },
+                    {
+                        "file_name": "RoadCraft.v1.9.81.0-OFME.part04.rar",
+                        "direct_link": "https://pixeldrain.com/u/3pYovh6w"
+                    },
+                    {
+                        "file_name": "RoadCraft.v1.9.81.0-OFME.part05.rar",
+                        "direct_link": "https://pixeldrain.com/u/Xh3PXZqd"
+                    },
+                    {
+                        "file_name": "RoadCraft.v1.9.81.0-OFME.part06.rar",
+                        "direct_link": "https://pixeldrain.com/u/2d68ucun"
+                    },
+                    {
+                        "file_name": "RoadCraft.v1.9.81.0-OFME.part07.rar",
+                        "direct_link": "https://pixeldrain.com/u/bhVQZrwk"
+                    }
+                ],
+                "Gofile": [
+                    {
+                        "file_name": "RoadCraft_Fix_Repair_GDK_Generic.rar",
+                        "direct_link": "https://gofile.io/d/z4zmHvqm"
+                    },
+                    {
+                        "file_name": "RoadCraft.4K.Textures-OFME.part1.rar",
+                        "direct_link": "https://gofile.io/d/wX0dAENy"
+                    },
+                    {
+                        "file_name": "RoadCraft.4K.Textures-OFME.part2.rar",
+                        "direct_link": "https://gofile.io/d/kgviH0xl"
+                    },
+                    {
+                        "file_name": "RoadCraft.4K.Textures-OFME.part3.rar",
+                        "direct_link": "https://gofile.io/d/XKeiQyzI"
+                    },
+                    {
+                        "file_name": "RoadCraft.4K.Textures-OFME.part4.rar",
+                        "direct_link": "https://gofile.io/d/2FIc0wjD"
+                    },
+                    {
+                        "file_name": "RoadCraft.4K.Textures-OFME.part5.rar",
+                        "direct_link": "https://gofile.io/d/2JFl8ahy"
+                    },
+                    {
+                        "file_name": "RoadCraft.4K.Textures-OFME.part6.rar",
+                        "direct_link": "https://gofile.io/d/mKTHRmD5"
+                    },
+                    {
+                        "file_name": "RoadCraft.4K.Textures-OFME.part7.rar",
+                        "direct_link": "https://gofile.io/d/dbnx9BJ2"
+                    },
+                    {
+                        "file_name": "RoadCraft.v1.9.81.0-OFME.part01.rar",
+                        "direct_link": "https://gofile.io/d/1Xwh9PDl"
+                    },
+                    {
+                        "file_name": "RoadCraft.v1.9.81.0-OFME.part02.rar",
+                        "direct_link": "https://gofile.io/d/nrl1KbAz"
+                    },
+                    {
+                        "file_name": "RoadCraft.v1.9.81.0-OFME.part03.rar",
+                        "direct_link": "https://gofile.io/d/4kvGmXNt"
+                    },
+                    {
+                        "file_name": "RoadCraft.v1.9.81.0-OFME.part04.rar",
+                        "direct_link": "https://gofile.io/d/Xe5lqMDL"
+                    },
+                    {
+                        "file_name": "RoadCraft.v1.9.81.0-OFME.part05.rar",
+                        "direct_link": "https://gofile.io/d/6UFqRXHO"
+                    },
+                    {
+                        "file_name": "RoadCraft.v1.9.81.0-OFME.part06.rar",
+                        "direct_link": "https://gofile.io/d/nPewRHCm"
+                    },
+                    {
+                        "file_name": "RoadCraft.v1.9.81.0-OFME.part07.rar",
+                        "direct_link": "https://gofile.io/d/bN38oAt1"
+                    }
+                ],
+                "VikingFile": [
+                    {
+                        "file_name": "RoadCraft_Fix_Repair_GDK_Generic.rar",
+                        "direct_link": "https://vikingfile.com/f/r54KlLw8K7"
+                    },
+                    {
+                        "file_name": "RoadCraft.4K.Textures-OFME.part1.rar",
+                        "direct_link": "https://vikingfile.com/f/3caLQG0N7W"
+                    },
+                    {
+                        "file_name": "RoadCraft.4K.Textures-OFME.part2.rar",
+                        "direct_link": "https://vikingfile.com/f/7hSYNh0bFa"
+                    },
+                    {
+                        "file_name": "RoadCraft.4K.Textures-OFME.part3.rar",
+                        "direct_link": "https://vikingfile.com/f/N3cOXLKXt2"
+                    },
+                    {
+                        "file_name": "RoadCraft.4K.Textures-OFME.part4.rar",
+                        "direct_link": "https://vikingfile.com/f/elqRxU6xEH"
+                    },
+                    {
+                        "file_name": "RoadCraft.4K.Textures-OFME.part5.rar",
+                        "direct_link": "https://vikingfile.com/f/EFn3MNgcSR"
+                    },
+                    {
+                        "file_name": "RoadCraft.4K.Textures-OFME.part6.rar",
+                        "direct_link": "https://vikingfile.com/f/vLF2DaYZqh"
+                    },
+                    {
+                        "file_name": "RoadCraft.4K.Textures-OFME.part7.rar",
+                        "direct_link": "https://vikingfile.com/f/1yQmjaV0bh"
+                    },
+                    {
+                        "file_name": "RoadCraft.v1.9.81.0-OFME.part01.rar",
+                        "direct_link": "https://vikingfile.com/f/zCHSSBfuMy"
+                    },
+                    {
+                        "file_name": "RoadCraft.v1.9.81.0-OFME.part02.rar",
+                        "direct_link": "https://vikingfile.com/f/2pYKMVtx44"
+                    },
+                    {
+                        "file_name": "RoadCraft.v1.9.81.0-OFME.part03.rar",
+                        "direct_link": "https://vikingfile.com/f/mhAfRJRGnw"
+                    },
+                    {
+                        "file_name": "RoadCraft.v1.9.81.0-OFME.part04.rar",
+                        "direct_link": "https://vikingfile.com/f/pE1l1il7CP"
+                    },
+                    {
+                        "file_name": "RoadCraft.v1.9.81.0-OFME.part05.rar",
+                        "direct_link": "https://vikingfile.com/f/qSBIq93j3f"
+                    },
+                    {
+                        "file_name": "RoadCraft.v1.9.81.0-OFME.part06.rar",
+                        "direct_link": "https://vikingfile.com/f/tojht3WCEr"
+                    },
+                    {
+                        "file_name": "RoadCraft.v1.9.81.0-OFME.part07.rar",
+                        "direct_link": "https://vikingfile.com/f/eBriR3tM7r"
+                    }
+                ]
+            },
+            "unique_hash": "156dd1f594c7e0ed363dc1382e94befa16f23592",
+            "fileSize": "69.29 GB",
+            "magnet": "magnet:?xt=urn:btih:156dd1f594c7e0ed363dc1382e94befa16f23592&dn=RoadCraft&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_1/RoadCraft.v1.9.81.0-OFME.torrent",
+            "created_at": "2026-11-16 22:02:32",
+            "webdav_updated_at": "Unknown",
+            "files": [
+                {
+                    "name": "4K Textures/RoadCraft.4K.Textures-OFME.part1.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "4K Textures/RoadCraft.4K.Textures-OFME.part2.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "4K Textures/RoadCraft.4K.Textures-OFME.part3.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "4K Textures/RoadCraft.4K.Textures-OFME.part4.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "4K Textures/RoadCraft.4K.Textures-OFME.part5.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "4K Textures/RoadCraft.4K.Textures-OFME.part6.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "4K Textures/RoadCraft.4K.Textures-OFME.part7.rar",
+                    "size": "4.56 GB"
+                },
+                {
+                    "name": "RoadCraft.v1.9.81.0-OFME.part01.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "RoadCraft.v1.9.81.0-OFME.part02.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "RoadCraft.v1.9.81.0-OFME.part03.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "RoadCraft.v1.9.81.0-OFME.part04.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "RoadCraft.v1.9.81.0-OFME.part05.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "RoadCraft.v1.9.81.0-OFME.part06.rar",
+                    "size": "5.00 GB"
+                },
+                {
+                    "name": "Fix Repair/RoadCraft_Fix_Repair_GDK_Generic.rar",
+                    "size": "10.05 MB"
+                },
+                {
+                    "name": "RoadCraft.v1.9.81.0-OFME.part07.rar",
+                    "size": "4.72 GB"
+                }
+            ],
+            "comment": ""
+        },
+        {
             "title": "Roadside Research",
             "page": 8,
             "url": "https://online-fix.me/games/sandbox/18007-roadside-research-po-seti.html",
@@ -328687,6 +329460,257 @@
                 {
                     "name": "Sackboy.A.Big.Adventure.Build.27102022-OFME.part5.rar",
                     "size": "2.76 GB"
+                }
+            ],
+            "comment": ""
+        },
+        {
+            "title": "Safari-TV",
+            "page": 1,
+            "url": "https://online-fix.me/games/officialservers/18306-safari-tv-online.html",
+            "last_update": "2026-11-17T19:52:04+03:00",
+            "release_date": null,
+            "update_info": "",
+            "update_date": null,
+            "formatted_update_date": null,
+            "scraped_at": "2026-11-17 21:22:59",
+            "steam": {
+                "steam_appid": 5118500,
+                "match_score": 100,
+                "match_via": "canon",
+                "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5118500/68d7fe915c75e46139eef94133ac2ca5e2666f7f/header.jpg?t=1794872557",
+                "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5118500/7e302fc52d9e9b02a4077c638bc0989c8741453e/capsule_184x69.jpg?t=1794872557",
+                "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5118500/7f5d1e7770ef16d82824dc138644971998663683/page_bg_raw.jpg?t=1794872557",
+                "screenshots": [
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5118500/b27f47dd052a394c221ace4b85732f14ab8adf8b/ss_b27f47dd052a394c221ace4b85732f14ab8adf8b.1920x1080.jpg?t=1794872557",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5118500/30e4f4bbe9251369ad60de341a8149c13c27bbf1/ss_30e4f4bbe9251369ad60de341a8149c13c27bbf1.1920x1080.jpg?t=1794872557",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5118500/ed417d2b9e27d9b2d029c4f2ea6572811ed7ae1f/ss_ed417d2b9e27d9b2d029c4f2ea6572811ed7ae1f.1920x1080.jpg?t=1794872557",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5118500/102b6f6fde62dcb60fc4c745b50ae09ea8ce5efb/ss_102b6f6fde62dcb60fc4c745b50ae09ea8ce5efb.1920x1080.jpg?t=1794872557",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5118500/f6e7d846d5c7e12eb4f31590a5f420086af8bed9/ss_f6e7d846d5c7e12eb4f31590a5f420086af8bed9.1920x1080.jpg?t=1794872557",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5118500/eff7b2b8993f525f877b85c9b0eee63d93ac4004/ss_eff7b2b8993f525f877b85c9b0eee63d93ac4004.1920x1080.jpg?t=1794872557",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5118500/74aa94c3d19f5d43b35b81d97256f7101513b7d9/ss_74aa94c3d19f5d43b35b81d97256f7101513b7d9.1920x1080.jpg?t=1794872557",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5118500/135e6c0124082dd30cceb3493ad4782724d1a5da/ss_135e6c0124082dd30cceb3493ad4782724d1a5da.1920x1080.jpg?t=1794872557",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5118500/46465e19f8e7e4d06157116ed82c3c2e728f3972/ss_46465e19f8e7e4d06157116ed82c3c2e728f3972.1920x1080.jpg?t=1794872557",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5118500/caf83642ded084e1563e65ee246347a3d12d6844/ss_caf83642ded084e1563e65ee246347a3d12d6844.1920x1080.jpg?t=1794872557",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5118500/38635fe5df4face08c9b3847578ed478e116e477/ss_38635fe5df4face08c9b3847578ed478e116e477.1920x1080.jpg?t=1794872557",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5118500/23c53d31ddb8420205ee1679e70f25d40d4cb7bc/ss_23c53d31ddb8420205ee1679e70f25d40d4cb7bc.1920x1080.jpg?t=1794872557",
+                    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5118500/affdba7d0c8068fe3a2682283e9d0b6559b3225a/ss_affdba7d0c8068fe3a2682283e9d0b6559b3225a.1920x1080.jpg?t=1794872557"
+                ],
+                "movies": [
+                    {
+                        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257405585/998d549da940a5ff5e8b1bc7ac52353d7701a0f0/movie_600x337.jpg?t=1794193316",
+                        "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/5118500/785241131/1315ef47b0b976662141d964f897ef72f9ffc0ef/1793986094/dash_h264.mpd?t=1794193316",
+                        "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/5118500/785241131/1315ef47b0b976662141d964f897ef72f9ffc0ef/1793986094/hls_264_master.m3u8?t=1794193316"
+                    }
+                ],
+                "achievements_total": 24,
+                "achievements_highlighted": [
+                    {
+                        "icon": "7f42e6341dfd0f92b9fc4a2ee623b9599f160040.jpg",
+                        "localized_name": "Primeira tomada",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Primeira tomada",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/5118500/7f42e6341dfd0f92b9fc4a2ee623b9599f160040.jpg"
+                    },
+                    {
+                        "icon": "3be2f16d2d95128051d267a2cbdcbc483d3f2730.jpg",
+                        "localized_name": "Tarefa concluída",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Tarefa concluída",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/5118500/3be2f16d2d95128051d267a2cbdcbc483d3f2730.jpg"
+                    },
+                    {
+                        "icon": "b5cd8f40e8761b7c6a59743c299e2229367ea56b.jpg",
+                        "localized_name": "Primeiro dia concluído",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Primeiro dia concluído",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/5118500/b5cd8f40e8761b7c6a59743c299e2229367ea56b.jpg"
+                    },
+                    {
+                        "icon": "6728b3c7805008b2ae7e81881cdc4ca96f25bd9e.jpg",
+                        "localized_name": "Chega o público",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Chega o público",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/5118500/6728b3c7805008b2ae7e81881cdc4ca96f25bd9e.jpg"
+                    },
+                    {
+                        "icon": "a3cbaa7832d633c0e2d10cde6f0515a5a0df7cbd.jpg",
+                        "localized_name": "A tornar-se viral",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "A tornar-se viral",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/5118500/a3cbaa7832d633c0e2d10cde6f0515a5a0df7cbd.jpg"
+                    },
+                    {
+                        "icon": "eb235a44647aced37457e3168db21f00c8e31d4a.jpg",
+                        "localized_name": "Um milhão de seguidores",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Um milhão de seguidores",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/5118500/eb235a44647aced37457e3168db21f00c8e31d4a.jpg"
+                    },
+                    {
+                        "icon": "94000db095ccfdeab7b5df383970190bd5d4f733.jpg",
+                        "localized_name": "Reis do safari",
+                        "archived": 0,
+                        "hidden": 1,
+                        "name": "Reis do safari",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/5118500/94000db095ccfdeab7b5df383970190bd5d4f733.jpg"
+                    },
+                    {
+                        "icon": "d8984d7c11b2c12f97fd0f9543b391783727fb81.jpg",
+                        "localized_name": "Turista peso-pesado",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Turista peso-pesado",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/5118500/d8984d7c11b2c12f97fd0f9543b391783727fb81.jpg"
+                    },
+                    {
+                        "icon": "766763c31bb2a6422b02b2b50181303c2a8eff74.jpg",
+                        "localized_name": "Mecânico de campo",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Mecânico de campo",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/5118500/766763c31bb2a6422b02b2b50181303c2a8eff74.jpg"
+                    },
+                    {
+                        "icon": "b9d9df32de39c06f5b87df2a95f3560391933ab3.jpg",
+                        "localized_name": "De novo de pé",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "De novo de pé",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/5118500/b9d9df32de39c06f5b87df2a95f3560391933ab3.jpg"
+                    }
+                ],
+                "ratings": {
+                    "pegi": null,
+                    "esrb": null
+                },
+                "release_date_steam": "9 nov. 2026",
+                "short_description": "Gere uma agência de safaris com amigos num co-op caótico para 2–4 jogadores. Conduz um camião com física simulada e totalmente destrutível, cuida dos turistas e sobrevive a encontros com animais selvagens. Filma o caos, vê os vídeos com amigos e faz crescer o teu canal no jogo.",
+                "short_description_native": "Gere uma agência de safaris com amigos num co-op caótico para 2–4 jogadores. Conduz um camião com física simulada e totalmente destrutível, cuida dos turistas e sobrevive a encontros com animais selvagens. Filma o caos, vê os vídeos com amigos e faz crescer o teu canal no jogo.",
+                "price_brl": "R$ 23,36",
+                "is_free": false,
+                "pc_requirements": {
+                    "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Win 10\n\nProcessador:  Intel Core i5 @ 2.5 GHz ou equivalente\n\nMemória: 1 MB de RAM\n\nPlaca gráfica: GTX 1060 or RX 6600 XT\n\nDirectX: Versão 11\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 5 GB de espaço livre",
+                    "recommended": "Recomendados:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Win 11\n\nProcessador: Intel Core i5 @ 3.0 GHz or AMD Ryzen 5 or equivalent\n\nPlaca gráfica: RTX 2060 or RX 7600xt or equivalent\n\nDirectX: Versão 11\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 5 GB de espaço livre"
+                },
+                "controller_support": "full",
+                "categories": [
+                    {
+                        "id": 1,
+                        "description": "Multijogador"
+                    },
+                    {
+                        "id": 9,
+                        "description": "Co-op"
+                    },
+                    {
+                        "id": 38,
+                        "description": "Co-op online"
+                    },
+                    {
+                        "id": 22,
+                        "description": "Proezas Steam"
+                    },
+                    {
+                        "id": 28,
+                        "description": "Compatibilidade total com comando"
+                    },
+                    {
+                        "id": 62,
+                        "description": "Partilha de Biblioteca"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "1",
+                        "description": "Ação"
+                    },
+                    {
+                        "id": "25",
+                        "description": "Aventura"
+                    },
+                    {
+                        "id": "23",
+                        "description": "Indie"
+                    },
+                    {
+                        "id": "70",
+                        "description": "Acesso Antecipado"
+                    }
+                ]
+            },
+            "hoster_links": {
+                "FileDitch": [
+                    {
+                        "file_name": "SafariTV_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha49/63cddfee3d029ec07c20/SafariTV_Fix_Repair_Steam_Generic.rar"
+                    },
+                    {
+                        "file_name": "Safari-TV.v0.7.59-OFME.rar",
+                        "direct_link": "https://itsfileditchfiles.st/balpha49/895a05833cf65c7f9d8c/Safari-TV.v0.7.59-OFME.rar"
+                    }
+                ],
+                "FileKeeper": [
+                    {
+                        "file_name": "SafariTV_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://filekeeper.net/xeouyvvu4vfi"
+                    },
+                    {
+                        "file_name": "Safari-TV.v0.7.59-OFME.rar",
+                        "direct_link": "https://filekeeper.net/6y1lshn87cyw"
+                    }
+                ],
+                "Pixeldrain": [
+                    {
+                        "file_name": "SafariTV_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://pixeldrain.com/u/iUjBgqHh"
+                    },
+                    {
+                        "file_name": "Safari-TV.v0.7.59-OFME.rar",
+                        "direct_link": "https://pixeldrain.com/u/xu2MPwzn"
+                    }
+                ],
+                "Gofile": [
+                    {
+                        "file_name": "SafariTV_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://gofile.io/d/ba2ySPL6"
+                    },
+                    {
+                        "file_name": "Safari-TV.v0.7.59-OFME.rar",
+                        "direct_link": "https://gofile.io/d/XgjSbrWI"
+                    }
+                ],
+                "VikingFile": [
+                    {
+                        "file_name": "SafariTV_Fix_Repair_Steam_Generic.rar",
+                        "direct_link": "https://vikingfile.com/f/6ogHZN2SYD"
+                    },
+                    {
+                        "file_name": "Safari-TV.v0.7.59-OFME.rar",
+                        "direct_link": "https://vikingfile.com/f/cjW3ydLADM"
+                    }
+                ]
+            },
+            "unique_hash": "737be6cd4971e68cbe0ab976de4b0be6e3e2f73e",
+            "fileSize": "4.51 GB",
+            "magnet": "magnet:?xt=urn:btih:737be6cd4971e68cbe0ab976de4b0be6e3e2f73e&dn=Safari-TV&tr=udp%3A//tracker.opentrackr.org%3A1337/announce&tr=udp%3A//open.demonii.com%3A1337",
+            "torrent_file": "https://raw.githubusercontent.com/kauafpssx/The-Gaming-Rumble/games/torrents/batch_1/Safari-TV.v0.7.59-OFME.torrent",
+            "created_at": "2026-11-16 22:34:44",
+            "webdav_updated_at": "Unknown",
+            "files": [
+                {
+                    "name": "Fix Repair/SafariTV_Fix_Repair_Steam_Generic.rar",
+                    "size": "10.93 MB"
+                },
+                {
+                    "name": "Safari-TV.v0.7.59-OFME.rar",
+                    "size": "4.50 GB"
                 }
             ],
             "comment": ""

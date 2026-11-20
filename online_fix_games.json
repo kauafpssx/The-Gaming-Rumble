@@ -42625,10 +42625,10 @@
             "url": "https://online-fix.me/games/shooter/17452-bodycam-po-seti.html",
             "last_update": "2024-06-06T19:32:00+03:00",
             "release_date": "07.06.2024",
-            "update_info": "Обновлено Вчера, 01:59. Добавлен Steam-Fix V10. Исправлены отключения между игроками на не легитимной версии.",
-            "update_date": null,
-            "formatted_update_date": null,
-            "scraped_at": "2026-11-19 21:10:29",
+            "update_info": "Обновлено 19 ноября 2026, 01:59. Добавлен Steam-Fix V10. Исправлены отключения между игроками на не легитимной версии.",
+            "update_date": "2026-11-19T01:59:00+03:00",
+            "formatted_update_date": "2026-11-19 01:59:00",
+            "scraped_at": "2026-11-20 20:35:30",
             "steam": {
                 "steam_appid": 2406770,
                 "match_score": 100,
@@ -42723,7 +42723,7 @@
                 "release_date_steam": "7 jun. 2024",
                 "short_description": "Bodycam é o primeiro FPS multijogador tático com uma visão real da câmara corporal no Unreal Engine 5. Os combates corpo a corpo parecem crus e barulhentos. Cada ângulo, texto explicativo e marcador são importantes. Jogue Deathmatch, Team Deathmatch e Wingman em mapas fotorrealistas onde o jogo de.",
                 "short_description_native": "Bodycam é o primeiro FPS multijogador tático com uma visão real da câmara corporal no Unreal Engine 5. Os combates corpo a corpo parecem crus e barulhentos. Cada ângulo, texto explicativo e marcador são importantes. Jogue Deathmatch, Team Deathmatch e Wingman em mapas fotorrealistas onde o jogo de.",
-                "price_brl": "R$ 81,59",
+                "price_brl": "R$ 101,99",
                 "is_free": false,
                 "pc_requirements": {
                     "minimum": "Mínimos:\n\nRequer um sistema operativo e processador de 64 bits\n\nSistema Operativo: Windows 10/11\n\nProcessador: AMD Ryzen 7 3700X, Intel Core i7-9700K\n\nMemória: 8 GB de RAM\n\nPlaca gráfica: AMD Radeon RX 5700 (8 GB), NVIDIA GeForce RTX 2070 (8 GB)\n\nRede: Ligação à Internet de banda larga\n\nEspaço no disco: Requer 50 GB de espaço livre\n\nNotas adicionais: SSD recomendado",
@@ -71188,7 +71188,7 @@
             "update_info": "",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-11-19 21:12:01",
+            "scraped_at": "2026-11-20 20:37:09",
             "steam": {
                 "steam_appid": 293780,
                 "match_score": 100,
@@ -236391,7 +236391,7 @@
             "update_info": "",
             "update_date": null,
             "formatted_update_date": null,
-            "scraped_at": "2026-11-19 21:12:01",
+            "scraped_at": "2026-11-20 20:37:09",
             "steam": {
                 "steam_appid": 1912410,
                 "match_score": 100,
